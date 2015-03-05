@@ -10,7 +10,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.android.emailee"
+        applicationId "com.indeema.email"
         minSdkVersion 14
         targetSdkVersion 19
 

@@ -1073,7 +1073,7 @@
     <string name="email_package_name" translatable="false">com.android.email</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="eml_attachment_provider" translatable="false">com.android.email.provider.eml.attachment</string>
+    <string name="eml_attachment_provider" translatable="false">com.indeema.email.provider.eml.attachment</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="empty_spam">Empty Spam</string>

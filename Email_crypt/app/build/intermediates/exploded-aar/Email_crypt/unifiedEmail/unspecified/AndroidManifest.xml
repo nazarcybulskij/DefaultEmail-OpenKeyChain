@@ -140,21 +140,21 @@
 
         <provider
             android:name="com.indeema.mail.providers.UnifiedAccountCacheProvider"
-            android:authorities="com.android.mail.accountcache"
+            android:authorities="com.indeema.mail.accountcache"
             android:label="@string/account_cache_provider"
             android:multiprocess="false" >
             <grant-uri-permission android:pathPattern=".*" />
         </provider>
         <provider
             android:name="com.indeema.mail.providers.protos.mock.MockUiProvider"
-            android:authorities="com.android.mail.mockprovider"
+            android:authorities="com.indeema.mail.mockprovider"
             android:label="@string/mock_content_provider"
             android:multiprocess="false" >
             <grant-uri-permission android:pathPattern=".*" />
         </provider>
         <provider
             android:name="com.indeema.mail.browse.UnifiedConversationProvider"
-            android:authorities="com.android.mail.conversation.provider"
+            android:authorities="com.indeema.mail.conversation.provider"
             android:label="@string/conversation_content_provider"
             android:multiprocess="false" >
             <grant-uri-permission android:pathPattern=".*" />
@@ -175,7 +175,7 @@
         -->
         <provider
             android:name="com.indeema.mail.providers.SuggestionsProvider"
-            android:authorities="com.android.mail.suggestionsprovider" />
+            android:authorities="com.indeema.mail.suggestionsprovider" />
 
         <service android:name="com.indeema.mail.compose.EmptyService" />
 

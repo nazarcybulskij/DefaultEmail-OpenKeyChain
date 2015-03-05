@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.mail"
+    package="com.indeema.email"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -123,7 +123,7 @@
         </activity>
 
         <provider
-                android:authorities="com.android.mail.accountcache"
+                android:authorities="com.indeema.mail.accountcache"
                 android:label="@string/account_cache_provider"
                 android:multiprocess="false"
                 android:name="com.indeema.mail.providers.UnifiedAccountCacheProvider" >
@@ -131,7 +131,7 @@
         </provider>
 
         <provider
-            android:authorities="com.android.mail.mockprovider"
+            android:authorities="com.indeema.mail.mockprovider"
             android:label="@string/mock_content_provider"
             android:multiprocess="false"
             android:name="com.indeema.mail.providers.protos.mock.MockUiProvider" >
@@ -139,7 +139,7 @@
         </provider>
 
         <provider
-            android:authorities="com.android.mail.conversation.provider"
+            android:authorities="com.indeema.mail.conversation.provider"
             android:label="@string/conversation_content_provider"
             android:multiprocess="false"
             android:name="com.indeema.mail.browse.UnifiedConversationProvider" >
@@ -159,7 +159,7 @@
           called SuggestionsProvider. The authority name is specified in the MailAppProvider
           which is specific to the two apps separately. -->
         <provider android:name="com.indeema.mail.providers.SuggestionsProvider"
-            android:authorities="com.android.mail.suggestionsprovider" />
+            android:authorities="com.indeema.mail.suggestionsprovider" />
 
         <service android:name="com.indeema.mail.compose.EmptyService"/>
 

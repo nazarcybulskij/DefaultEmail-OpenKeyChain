@@ -25,7 +25,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.text.TextUtils;
 
-import com.android.mail.R;
+import com.indeema.email.R;
 import com.indeema.mail.browse.ConversationCursor;
 import com.indeema.mail.content.CursorCreator;
 import com.indeema.mail.providers.UIProvider.ConversationColumns;

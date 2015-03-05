@@ -19,7 +19,7 @@ package com.indeema.mail.utils;
 import android.content.res.Resources;
 import android.text.TextUtils;
 
-import com.android.mail.R;
+import com.indeema.email.R;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.AccountObserver;
 import com.indeema.mail.ui.AccountController;

@@ -573,7 +573,7 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="elided_padding_token" translatable="false">\u00A0</string>
-    <string name="eml_attachment_provider" translatable="false">com.android.mail.provider.eml.attachment</string>
+    <string name="eml_attachment_provider" translatable="false">com.indeema.mail.provider.eml.attachment</string>
     <string name="empty_spam">Empty Spam</string>
     <string name="empty_spam_dialog_title">Empty Spam?</string>
     <string name="empty_trash">Empty Trash</string>

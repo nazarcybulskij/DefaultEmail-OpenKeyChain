@@ -26,7 +26,7 @@ import android.os.ParcelFileDescriptor;
 import android.os.SystemClock;
 import android.text.TextUtils;
 
-import com.android.mail.R;
+import com.indeema.email.R;
 import com.indeema.mail.providers.Attachment;
 
 import java.io.FileInputStream;

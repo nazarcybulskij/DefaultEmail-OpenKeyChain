@@ -43,7 +43,7 @@ import android.util.SparseArray;
 
 import com.indeema.mail.EmailAddress;
 import com.indeema.mail.MailIntentService;
-import com.android.mail.R;
+import com.indeema.email.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.browse.MessageCursor;
 import com.indeema.mail.browse.SendersView;
