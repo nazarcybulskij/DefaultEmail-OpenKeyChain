@@ -22,7 +22,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.net.Uri;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.emailcommon.Logging;
 import com.indeema.emailcommon.internet.MimeBodyPart;
 import com.indeema.emailcommon.internet.MimeHeader;

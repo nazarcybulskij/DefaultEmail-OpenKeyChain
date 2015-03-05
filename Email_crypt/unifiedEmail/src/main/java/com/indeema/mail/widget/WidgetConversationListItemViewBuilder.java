@@ -16,7 +16,7 @@
 
 package com.indeema.mail.widget;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Conversation;
 import com.indeema.mail.providers.Folder;
 import com.indeema.mail.ui.FolderDisplayer;

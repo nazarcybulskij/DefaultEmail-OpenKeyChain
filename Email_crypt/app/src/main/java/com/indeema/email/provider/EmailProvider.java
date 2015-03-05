@@ -62,7 +62,7 @@ import android.util.SparseArray;
 
 import com.android.common.content.ProjectionMap;
 import com.indeema.email.Preferences;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.SecurityPolicy;
 import com.indeema.email.service.AttachmentDownloadService;
 import com.indeema.email.service.EmailServiceUtils;

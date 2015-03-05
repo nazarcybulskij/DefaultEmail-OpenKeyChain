@@ -15,7 +15,7 @@
  */
 package com.indeema.mail.ui;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 
 import android.widget.ImageView;
 import android.widget.TextView;

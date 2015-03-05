@@ -26,7 +26,7 @@ import android.graphics.drawable.Drawable;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.graphics.PageMarginDrawable;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Conversation;

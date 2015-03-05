@@ -21,7 +21,7 @@ import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.Paint;
 
-import com.android.email.R;
+import com.indeema.email.R;
 
 /**
  * Helper class to load resources.

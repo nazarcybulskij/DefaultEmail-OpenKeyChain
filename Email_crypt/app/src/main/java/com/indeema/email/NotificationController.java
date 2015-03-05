@@ -35,7 +35,7 @@ import android.support.v4.app.NotificationCompat;
 import android.text.TextUtils;
 import android.text.format.DateUtils;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.setup.AccountSecurity;
 import com.indeema.email.activity.setup.AccountSettings;
 import com.indeema.email.provider.EmailProvider;
@@ -65,7 +65,7 @@ import java.util.Set;
 public class NotificationController {
     private static final String LOG_TAG = LogTag.getLogTag();
 
-    /** Reserved for {@link com.android.exchange.CalendarSyncEnabler} */
+   /** Reserved for {@link com.android.exchange.CalendarSyncEnabler} */
     @SuppressWarnings("unused")
     private static final int NOTIFICATION_ID_EXCHANGE_CALENDAR_ADDED = 2;
     private static final int NOTIFICATION_ID_ATTACHMENT_WARNING = 3;

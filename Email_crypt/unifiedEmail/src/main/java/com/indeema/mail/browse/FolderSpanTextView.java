@@ -22,7 +22,7 @@ import android.content.res.Resources;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 
 /**
  * A TextView that knows the widest that any of its containing

@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Address;
 import com.indeema.mail.providers.Message;
 import com.indeema.mail.providers.UIProvider;

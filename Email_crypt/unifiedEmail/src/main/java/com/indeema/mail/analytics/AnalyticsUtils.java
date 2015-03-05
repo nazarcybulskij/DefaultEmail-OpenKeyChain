@@ -17,7 +17,7 @@
 
 package com.indeema.mail.analytics;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 
 public class AnalyticsUtils {
 

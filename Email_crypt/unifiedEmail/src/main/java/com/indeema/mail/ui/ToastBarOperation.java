@@ -20,7 +20,7 @@ import android.content.Context;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.indeema.email.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Folder;
 
 /**

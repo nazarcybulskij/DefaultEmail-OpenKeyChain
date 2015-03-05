@@ -15,7 +15,7 @@
  */
 package com.indeema.mail.ui;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.MailAppProvider;

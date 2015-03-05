@@ -30,7 +30,7 @@ import android.widget.MultiAutoCompleteTextView;
 
 import com.android.email.Email;
 import com.indeema.email.EmailAddressValidator;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.android.email.TestUtils;
 import com.indeema.emailcommon.mail.Address;
 import com.indeema.emailcommon.mail.MessagingException;

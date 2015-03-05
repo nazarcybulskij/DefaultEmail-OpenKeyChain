@@ -26,7 +26,7 @@ import android.os.AsyncTask;
 import android.view.View;
 import android.widget.AdapterView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Conversation;
 import com.indeema.mail.providers.Folder;

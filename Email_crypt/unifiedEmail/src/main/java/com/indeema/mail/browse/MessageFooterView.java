@@ -30,7 +30,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.AttachmentLoader.AttachmentCursor;
 import com.indeema.mail.browse.ConversationContainer.DetachListener;
 import com.indeema.mail.browse.ConversationViewAdapter.MessageHeaderItem;

@@ -34,7 +34,7 @@ import android.widget.RemoteViews;
 
 import com.indeema.mail.MailIntentService;
 import com.indeema.mail.NotificationActionIntentService;
-import com.indeema.email.R;
+import com.indeema.mail.R;
 import com.indeema.mail.compose.ComposeActivity;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Conversation;

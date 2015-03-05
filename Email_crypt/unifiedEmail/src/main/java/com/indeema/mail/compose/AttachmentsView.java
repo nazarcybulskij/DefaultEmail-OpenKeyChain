@@ -29,7 +29,7 @@ import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.LinearLayout;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Attachment;
 import com.indeema.mail.ui.AttachmentTile;

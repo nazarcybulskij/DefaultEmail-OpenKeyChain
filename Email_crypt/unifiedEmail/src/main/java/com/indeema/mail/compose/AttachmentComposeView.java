@@ -23,7 +23,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.indeema.mail.providers.Attachment;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.utils.AttachmentUtils;
 import com.indeema.mail.utils.LogTag;
 import com.indeema.mail.utils.LogUtils;

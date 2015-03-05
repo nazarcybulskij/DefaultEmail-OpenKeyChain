@@ -23,7 +23,7 @@ import android.view.LayoutInflater;
 
 import com.indeema.mail.providers.Account;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 
 import java.util.ArrayList;
 

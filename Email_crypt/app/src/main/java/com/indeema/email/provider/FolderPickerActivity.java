@@ -28,7 +28,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.provider.Mailbox;

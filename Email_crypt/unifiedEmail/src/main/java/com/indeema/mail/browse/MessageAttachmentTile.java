@@ -31,7 +31,7 @@ import android.view.ViewGroup;
 import android.view.ViewParent;
 
 import com.android.ex.photo.util.ImageUtils;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.photo.MailPhotoViewActivity;
 import com.indeema.mail.providers.Attachment;

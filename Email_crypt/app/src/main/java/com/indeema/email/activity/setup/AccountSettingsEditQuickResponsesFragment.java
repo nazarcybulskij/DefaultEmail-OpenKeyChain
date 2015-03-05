@@ -16,7 +16,7 @@
 
 package com.indeema.email.activity.setup;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.UiUtilities;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.UIProvider;

@@ -24,7 +24,7 @@ import android.app.FragmentManager;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.ui.ControllableActivity;
 
 /**

@@ -20,7 +20,7 @@ package com.indeema.mail.ui;
 import android.content.Context;
 import android.content.res.Resources.NotFoundException;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.utils.LogTag;
 import com.indeema.mail.utils.LogUtils;
 import com.indeema.mail.utils.Utils;

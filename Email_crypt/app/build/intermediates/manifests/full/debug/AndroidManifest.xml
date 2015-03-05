@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.emailee"
+    package="com.indeema.email"
     android:versionCode="600058" > <!-- This needs to be present when we are doing unbundled releases. -->
     <uses-sdk
         android:minSdkVersion="14"
@@ -43,7 +43,7 @@
 
     <!-- additional uses -->
 
-    <original-package android:name="com.android.email" />
+    <original-package android:name="com.indeema.email" />
 
     <!-- Grant permission to other apps to view attachments -->
     <!-- STOPSHIP: protectionLevel should not be dangerous -->

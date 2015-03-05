@@ -21,7 +21,7 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.view.View;
 
-import com.android.email.R;
+import com.indeema.email.R;
 
 public class UiUtilities {
     private UiUtilities() {

@@ -16,7 +16,7 @@
 
 package com.android.email.activity.setup;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.setup.AccountSetupOutgoing;
 import com.indeema.email.activity.setup.AccountSetupOutgoingFragment;
 import com.indeema.email.activity.setup.SetupData;

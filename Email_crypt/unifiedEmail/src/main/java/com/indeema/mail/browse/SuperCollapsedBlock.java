@@ -23,7 +23,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationViewAdapter.SuperCollapsedBlockItem;
 
 /**

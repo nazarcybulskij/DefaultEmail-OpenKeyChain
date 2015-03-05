@@ -43,7 +43,7 @@ import android.text.TextUtils;
 import android.view.Menu;
 import android.view.MenuInflater;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.SecurityPolicy;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.email.provider.FolderPickerActivity;

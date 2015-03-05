@@ -23,7 +23,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationViewAdapter.BorderItem;
 import com.indeema.mail.utils.LogUtils;
 

@@ -22,7 +22,7 @@ import android.app.ProgressDialog;
 import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.os.Bundle;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Attachment;
 import com.google.common.base.Objects;
 import com.indeema.mail.providers.UIProvider;

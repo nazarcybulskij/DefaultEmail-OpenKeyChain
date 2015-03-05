@@ -21,7 +21,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.database.Cursor;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Conversation;
 import com.indeema.mail.providers.Folder;

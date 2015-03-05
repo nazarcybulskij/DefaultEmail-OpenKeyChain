@@ -28,7 +28,7 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.UiUtilities;
 
 /**

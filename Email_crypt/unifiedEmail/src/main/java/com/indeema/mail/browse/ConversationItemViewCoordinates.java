@@ -30,9 +30,9 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
-import com.android.mail.R.dimen;
-import com.android.mail.R.id;
+import com.indeema.mail.R;
+import com.indeema.mail.R.dimen;
+import com.indeema.mail.R.id;
 import com.indeema.mail.ui.ViewMode;
 import com.indeema.mail.utils.Utils;
 import com.google.common.base.Objects;

@@ -37,7 +37,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.indeema.mail.ConversationListContext;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.browse.ConversationCursor;
 import com.indeema.mail.browse.ConversationItemView;

@@ -27,7 +27,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Folder;
 import com.indeema.mail.providers.UIProvider;
 import com.indeema.mail.ui.ViewMode;

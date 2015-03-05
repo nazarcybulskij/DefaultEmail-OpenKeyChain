@@ -39,7 +39,7 @@ import android.widget.PopupMenu.OnMenuItemClickListener;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.providers.Attachment;
 import com.indeema.mail.providers.UIProvider.AttachmentDestination;

@@ -25,7 +25,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Message;
 import com.indeema.mail.providers.UIProvider;
 import com.indeema.mail.utils.LogUtils;

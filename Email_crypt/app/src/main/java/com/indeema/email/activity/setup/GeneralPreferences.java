@@ -29,7 +29,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import com.indeema.email.Preferences;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.mail.preferences.MailPrefs;
 import com.indeema.mail.ui.settings.ClearPictureApprovalsDialogFragment;

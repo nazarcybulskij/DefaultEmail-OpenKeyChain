@@ -16,7 +16,7 @@
 
 package com.indeema.email;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.emailcommon.mail.MessagingException;
 
 import android.content.Context;

@@ -23,7 +23,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.indeema.mail.ConversationListContext;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.preferences.AccountPreferences;
 import com.indeema.mail.preferences.MailPrefs;

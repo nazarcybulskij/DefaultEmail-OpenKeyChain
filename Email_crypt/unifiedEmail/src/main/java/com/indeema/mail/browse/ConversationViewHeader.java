@@ -33,7 +33,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationViewAdapter.ConversationHeaderItem;
 import com.indeema.mail.browse.FolderSpan.FolderSpanDimensions;
 import com.indeema.mail.providers.Conversation;

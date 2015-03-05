@@ -35,7 +35,7 @@ import android.text.TextUtils;
 import android.text.format.DateUtils;
 
 import com.indeema.email.Preferences;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.SecurityPolicy;
 import com.indeema.email.activity.setup.AccountSettings;
 import com.indeema.email.provider.AccountReconciler;

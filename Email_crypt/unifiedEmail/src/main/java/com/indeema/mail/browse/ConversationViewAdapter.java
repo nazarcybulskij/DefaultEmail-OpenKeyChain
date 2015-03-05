@@ -28,7 +28,7 @@ import android.widget.BaseAdapter;
 
 import com.indeema.mail.ContactInfoSource;
 import com.indeema.mail.FormattedDateBuilder;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Address;
 import com.indeema.mail.providers.Conversation;
 import com.indeema.mail.providers.UIProvider;

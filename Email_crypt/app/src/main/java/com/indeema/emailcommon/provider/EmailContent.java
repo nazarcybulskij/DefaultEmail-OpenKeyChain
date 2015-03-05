@@ -33,7 +33,7 @@ import android.os.RemoteException;
 
 import com.indeema.emailcommon.utility.TextUtilities;
 import com.indeema.emailcommon.utility.Utility;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.mail.providers.UIProvider;
 import com.indeema.mail.utils.LogUtils;
 import com.google.common.annotations.VisibleForTesting;

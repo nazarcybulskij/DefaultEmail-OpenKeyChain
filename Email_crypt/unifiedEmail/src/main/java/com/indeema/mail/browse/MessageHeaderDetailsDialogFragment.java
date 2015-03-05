@@ -25,7 +25,7 @@ import android.app.DialogFragment;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Address;
 

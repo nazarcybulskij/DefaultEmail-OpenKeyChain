@@ -23,7 +23,7 @@ import com.indeema.bitmap.DecodeTask;
 import com.indeema.bitmap.DecodeTask.Request;
 import com.indeema.bitmap.ReusableBitmap;
 import com.indeema.bitmap.Trace;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationItemViewCoordinates;
 import com.indeema.mail.ui.SwipeableListView;
 import com.indeema.mail.utils.LogUtils;

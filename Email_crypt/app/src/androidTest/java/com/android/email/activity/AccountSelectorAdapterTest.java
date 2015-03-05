@@ -18,7 +18,7 @@ package com.android.email.activity;
 
 import com.android.email.DBTestHelper;
 import com.android.email.FolderProperties;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.android.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.Mailbox;

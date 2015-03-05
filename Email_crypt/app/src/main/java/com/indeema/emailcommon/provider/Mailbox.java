@@ -35,7 +35,7 @@ import android.text.TextUtils;
 import android.util.SparseBooleanArray;
 
 import com.indeema.emailcommon.Logging;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.emailcommon.provider.EmailContent.MailboxColumns;
 import com.indeema.emailcommon.utility.Utility;
 import com.indeema.mail.utils.LogUtils;

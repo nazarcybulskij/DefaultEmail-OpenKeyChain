@@ -20,7 +20,7 @@ package com.indeema.mail.utils;
 import android.content.res.Resources;
 import android.webkit.WebSettings;
 
-import com.indeema.email.R;
+import com.indeema.mail.R;
 
 public class ConversationViewUtils {
     public static void setTextZoom(Resources resources, WebSettings settings) {

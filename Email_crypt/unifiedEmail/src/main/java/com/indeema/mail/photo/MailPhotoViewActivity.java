@@ -35,7 +35,7 @@ import com.android.ex.photo.Intents;
 import com.android.ex.photo.PhotoViewActivity;
 import com.android.ex.photo.fragments.PhotoViewFragment;
 import com.android.ex.photo.views.ProgressBarWrapper;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.AttachmentActionHandler;
 import com.indeema.mail.providers.Attachment;
 import com.indeema.mail.providers.UIProvider;

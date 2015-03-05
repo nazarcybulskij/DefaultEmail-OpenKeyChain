@@ -20,7 +20,7 @@ import android.text.SpannableStringBuilder;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.mail.compose.ComposeActivity;
 import com.indeema.mail.utils.LogUtils;
 

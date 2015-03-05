@@ -25,7 +25,7 @@ import android.widget.CheckBox;
 import android.widget.Spinner;
 import android.widget.SpinnerAdapter;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.setup.AccountSetupOptions;
 import com.indeema.email.activity.setup.SetupData;
 import com.indeema.email.activity.setup.SpinnerOption;

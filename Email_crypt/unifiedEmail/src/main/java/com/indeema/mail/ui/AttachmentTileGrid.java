@@ -25,7 +25,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.MessageAttachmentTile;
 import com.indeema.mail.compose.ComposeAttachmentTile;
 import com.indeema.mail.providers.Attachment;

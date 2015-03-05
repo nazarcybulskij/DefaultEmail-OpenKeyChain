@@ -40,7 +40,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.ActivityHelper;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.emailcommon.Logging;

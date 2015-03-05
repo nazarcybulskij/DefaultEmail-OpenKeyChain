@@ -29,7 +29,7 @@ import android.widget.FrameLayout;
 import android.widget.ListView;
 
 import com.indeema.mail.ConversationListContext;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Conversation;
 import com.indeema.mail.providers.Folder;
 import com.indeema.mail.providers.UIProvider.ConversationListIcon;

@@ -16,7 +16,7 @@
 
 package com.indeema.email;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.emailcommon.provider.Account;
 
 import android.app.AlertDialog;

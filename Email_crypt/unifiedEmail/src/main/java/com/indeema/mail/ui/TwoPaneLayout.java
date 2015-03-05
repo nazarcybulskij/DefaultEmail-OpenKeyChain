@@ -31,7 +31,7 @@ import android.view.ViewParent;
 import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.utils.LogUtils;
 import com.indeema.mail.utils.Utils;
 import com.google.common.annotations.VisibleForTesting;

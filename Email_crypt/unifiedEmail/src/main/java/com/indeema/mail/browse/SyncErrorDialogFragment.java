@@ -25,7 +25,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.provider.Settings;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 
 /**
  * Implements a {@link android.app.DialogFragment} that uses an internal {@link android.app.AlertDialog}

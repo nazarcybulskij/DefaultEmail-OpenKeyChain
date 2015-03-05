@@ -25,7 +25,7 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.android.email.provider.ProviderTestUtils;
 import com.indeema.email.activity.setup.SetupData;
 import com.indeema.emailcommon.provider.Account;

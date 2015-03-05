@@ -27,7 +27,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 
 /**
  * A custom {@link android.view.View} that exposes an action to the user.

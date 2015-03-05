@@ -16,7 +16,7 @@
 
 package com.android.emailcommon.internet;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.emailcommon.internet.Rfc822Output;
 import com.indeema.emailcommon.mail.MessagingException;

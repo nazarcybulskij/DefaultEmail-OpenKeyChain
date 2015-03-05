@@ -37,7 +37,7 @@ import android.view.View;
 import android.widget.RemoteViews;
 import android.widget.RemoteViewsService;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.SendersView;
 import com.indeema.mail.compose.ComposeActivity;
 import com.indeema.mail.preferences.MailPrefs;

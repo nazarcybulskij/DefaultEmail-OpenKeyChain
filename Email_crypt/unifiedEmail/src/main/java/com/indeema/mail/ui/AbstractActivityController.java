@@ -62,7 +62,7 @@ import android.widget.Toast;
 
 import com.indeema.mail.ConversationListContext;
 import com.indeema.mail.MailLogService;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.analytics.AnalyticsUtils;
 import com.indeema.mail.browse.ConfirmDialogFragment;

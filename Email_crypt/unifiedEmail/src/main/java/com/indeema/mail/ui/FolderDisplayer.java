@@ -23,7 +23,7 @@ import com.google.common.collect.Sets;
 
 import android.content.Context;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Conversation;
 import com.indeema.mail.providers.Folder;
 

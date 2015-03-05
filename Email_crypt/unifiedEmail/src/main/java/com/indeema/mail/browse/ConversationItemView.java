@@ -65,9 +65,9 @@ import android.widget.AbsListView;
 import android.widget.AbsListView.OnScrollListener;
 import android.widget.TextView;
 
-import com.android.mail.R;
-import com.android.mail.R.drawable;
-import com.android.mail.R.integer;
+import com.indeema.mail.R;
+import com.indeema.mail.R.drawable;
+import com.indeema.mail.R.integer;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.bitmap.AttachmentDrawable;
 import com.indeema.mail.bitmap.AttachmentGridDrawable;

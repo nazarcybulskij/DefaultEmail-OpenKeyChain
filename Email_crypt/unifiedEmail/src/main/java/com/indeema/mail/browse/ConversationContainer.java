@@ -30,7 +30,7 @@ import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.widget.Adapter;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.UIProvider;
 import com.indeema.mail.ui.ConversationViewFragment;
 import com.indeema.mail.utils.DequeMap;

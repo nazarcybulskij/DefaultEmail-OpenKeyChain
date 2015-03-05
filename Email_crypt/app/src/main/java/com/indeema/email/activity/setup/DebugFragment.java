@@ -28,7 +28,7 @@ import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
 
 import com.indeema.email.Preferences;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.UiUtilities;
 import com.indeema.email.service.EmailServiceUtils;
 import com.indeema.email2.ui.MailActivityEmail;

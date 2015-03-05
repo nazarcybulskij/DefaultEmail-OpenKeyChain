@@ -21,7 +21,7 @@
 //
 //import com.android.email.Email;
 //import com.android.email.MessagingController;
-//import com.android.email.R;
+//import com.indeema.email.R;
 //
 //import android.app.Application;
 //import android.content.Context;

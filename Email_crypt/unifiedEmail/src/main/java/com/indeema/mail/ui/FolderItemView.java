@@ -25,7 +25,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Folder;
 import com.indeema.mail.utils.LogTag;
 import com.indeema.mail.utils.LogUtils;

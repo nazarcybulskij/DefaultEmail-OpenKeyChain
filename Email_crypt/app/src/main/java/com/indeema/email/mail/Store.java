@@ -19,7 +19,7 @@ package com.indeema.email.mail;
 import android.content.Context;
 import android.os.Bundle;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.mail.store.ImapStore;
 import com.indeema.email.mail.store.Pop3Store;
 import com.indeema.email.mail.store.ServiceStore;

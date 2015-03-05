@@ -29,7 +29,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
 
-import com.android.mail.R;
+import com.indeema.email.R;
 import com.indeema.mail.providers.Folder;
 import com.indeema.mail.providers.UIProvider;
 import com.indeema.mail.ui.FolderSelectorAdapter.FolderRow;

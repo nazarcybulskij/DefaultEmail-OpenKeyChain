@@ -17,7 +17,7 @@
 
 package com.indeema.mail.ui;
 
-import com.indeema.email.R;
+import com.indeema.mail.R;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Sets;
 

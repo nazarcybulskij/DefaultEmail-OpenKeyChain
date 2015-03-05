@@ -28,7 +28,7 @@ import android.os.Bundle;
 
 import com.indeema.email.NotificationController;
 import com.indeema.email.Preferences;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.email.service.AttachmentDownloadService;
 import com.indeema.email.service.EmailServiceUtils;

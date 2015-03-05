@@ -58,7 +58,7 @@ import android.view.Window;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.indeema.email.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationCursor;
 import com.indeema.mail.compose.ComposeActivity;
 import com.indeema.mail.perf.SimpleTimer;

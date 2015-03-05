@@ -40,7 +40,7 @@ import android.widget.Toast;
 
 import com.indeema.email.EmailAddressValidator;
 import com.indeema.email.Preferences;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.ActivityHelper;
 import com.indeema.email.activity.UiUtilities;
 import com.indeema.email.service.EmailServiceUtils;

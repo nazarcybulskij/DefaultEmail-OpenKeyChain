@@ -29,7 +29,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.TextUtils;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.mail.Sender;
 import com.indeema.email.mail.Store;
 import com.indeema.email.service.EmailServiceUtils;

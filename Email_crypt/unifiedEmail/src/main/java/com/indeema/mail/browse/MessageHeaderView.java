@@ -48,7 +48,7 @@ import android.widget.Toast;
 
 import com.indeema.mail.ContactInfo;
 import com.indeema.mail.ContactInfoSource;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationViewAdapter.BorderItem;
 import com.indeema.mail.browse.ConversationViewAdapter.MessageHeaderItem;
 import com.indeema.mail.compose.ComposeActivity;

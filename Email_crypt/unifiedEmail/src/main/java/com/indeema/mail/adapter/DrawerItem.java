@@ -17,7 +17,7 @@
 
 package com.indeema.mail.adapter;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.Folder;
 import com.indeema.mail.ui.AccountItemView;

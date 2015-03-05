@@ -28,7 +28,7 @@ import android.graphics.Typeface;
 import android.text.TextPaint;
 import android.text.TextUtils;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.photomanager.ContactPhotoManager.ContactIdentifier;
 import com.indeema.mail.photomanager.PhotoManager.DefaultImageProvider;
 import com.indeema.mail.photomanager.PhotoManager.PhotoIdentifier;

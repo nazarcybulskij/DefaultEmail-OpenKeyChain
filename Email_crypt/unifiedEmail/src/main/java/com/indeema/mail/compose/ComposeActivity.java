@@ -72,7 +72,7 @@ import com.android.common.Rfc822Validator;
 import com.android.common.contacts.DataUsageStatUpdater;
 import com.android.ex.chips.RecipientEditTextView;
 import com.indeema.mail.MailIntentService;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.browse.MessageHeaderView;
 import com.indeema.mail.providers.Account;

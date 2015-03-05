@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 import android.webkit.WebSettings;
 
 import com.indeema.mail.FormattedDateBuilder;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.BorderView;
 import com.indeema.mail.browse.ConversationMessage;
 import com.indeema.mail.browse.ConversationViewAdapter;

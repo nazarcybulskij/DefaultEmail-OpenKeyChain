@@ -31,7 +31,7 @@ import android.os.ParcelFileDescriptor;
 import android.os.SystemClock;
 
 import com.android.ex.photo.provider.PhotoContract;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.utils.LogTag;
 import com.indeema.mail.utils.LogUtils;
 import com.indeema.mail.utils.MimeType;

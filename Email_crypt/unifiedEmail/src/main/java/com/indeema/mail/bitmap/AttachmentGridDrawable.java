@@ -9,7 +9,7 @@ import android.graphics.drawable.Drawable;
 
 import com.indeema.bitmap.BitmapCache;
 import com.indeema.bitmap.DecodeAggregator;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationItemViewCoordinates;
 
 

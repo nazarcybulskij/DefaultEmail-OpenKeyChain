@@ -43,7 +43,7 @@ import android.widget.SearchView.OnSuggestionListener;
 import android.widget.TextView;
 
 import com.indeema.mail.ConversationListContext;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.preferences.MailPrefs;
 import com.indeema.mail.providers.Account;
 import com.indeema.mail.providers.AccountObserver;

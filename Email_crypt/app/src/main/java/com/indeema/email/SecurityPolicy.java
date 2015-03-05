@@ -32,7 +32,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.RemoteException;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.email.service.EmailBroadcastProcessorService;
 import com.indeema.email.service.EmailServiceUtils;

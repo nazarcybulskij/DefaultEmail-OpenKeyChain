@@ -31,7 +31,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.UiUtilities;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.HostAuth;

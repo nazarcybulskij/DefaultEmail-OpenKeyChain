@@ -17,7 +17,7 @@
 
 package com.indeema.mail.ui;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Folder;
 import com.google.common.base.Objects;
 import com.google.common.collect.Lists;

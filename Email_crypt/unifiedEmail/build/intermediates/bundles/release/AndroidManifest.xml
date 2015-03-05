@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.indeema.email"
+    package="com.indeema.mail"
     android:versionCode="1"
     android:versionName="1.0" > <!-- This needs to be present when we are doing unbundled releases. -->
     <uses-sdk

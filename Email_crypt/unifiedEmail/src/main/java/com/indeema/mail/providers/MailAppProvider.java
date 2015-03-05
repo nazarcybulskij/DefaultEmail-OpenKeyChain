@@ -32,7 +32,7 @@ import android.database.MatrixCursor;
 import android.net.Uri;
 import android.os.Bundle;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.utils.LogTag;
 import com.indeema.mail.utils.LogUtils;
 import com.indeema.mail.utils.MatrixCursorWithExtra;

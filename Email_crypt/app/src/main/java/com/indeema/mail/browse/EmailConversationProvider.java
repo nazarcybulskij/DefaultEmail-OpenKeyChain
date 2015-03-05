@@ -16,7 +16,7 @@
 
 package com.indeema.mail.browse;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.mail.browse.ConversationCursor.ConversationProvider;
 
 import java.lang.Override;

@@ -44,7 +44,7 @@ import android.webkit.WebView;
 import android.widget.Button;
 
 import com.indeema.mail.FormattedDateBuilder;
-import com.indeema.email.R;
+import com.indeema.mail.R;
 import com.indeema.mail.browse.ConversationContainer;
 import com.indeema.mail.browse.ConversationContainer.OverlayPosition;
 import com.indeema.mail.browse.ConversationMessage;

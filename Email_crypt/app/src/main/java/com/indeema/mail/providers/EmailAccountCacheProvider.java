@@ -20,7 +20,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.setup.AccountSettings;
 
 public class EmailAccountCacheProvider extends MailAppProvider {

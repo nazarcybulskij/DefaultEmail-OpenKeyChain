@@ -25,7 +25,7 @@ import android.database.Cursor;
 import android.text.TextUtils;
 
 import com.indeema.email.NotificationController;
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.service.EmailServiceUtils;
 import com.indeema.emailcommon.Logging;
 import com.indeema.emailcommon.provider.Account;

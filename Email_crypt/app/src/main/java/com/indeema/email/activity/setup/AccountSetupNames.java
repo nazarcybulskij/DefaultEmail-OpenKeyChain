@@ -34,7 +34,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.ActivityHelper;
 import com.indeema.email.activity.UiUtilities;
 import com.indeema.email.provider.AccountBackupRestore;

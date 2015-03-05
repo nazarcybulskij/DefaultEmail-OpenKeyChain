@@ -33,7 +33,7 @@ import android.widget.TextView;
 import android.widget.ImageView.ScaleType;
 
 import com.android.ex.photo.util.ImageUtils;
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.providers.Attachment;
 import com.indeema.mail.utils.LogTag;
 import com.indeema.mail.utils.AttachmentUtils;

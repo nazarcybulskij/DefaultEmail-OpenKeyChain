@@ -16,7 +16,7 @@
 
 package com.indeema.mail.ui;
 
-import com.android.mail.R;
+import com.indeema.mail.R;
 import com.indeema.mail.analytics.Analytics;
 import com.indeema.mail.browse.ConversationCursor;
 import com.indeema.mail.preferences.MailPrefs;

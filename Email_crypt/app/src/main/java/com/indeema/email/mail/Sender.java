@@ -19,7 +19,7 @@ package com.indeema.email.mail;
 import android.content.Context;
 import android.content.res.XmlResourceParser;
 
-import com.android.email.R;
+import com.indeema.email.R;
 import com.indeema.email.activity.setup.AccountSetupOutgoing;
 import com.indeema.emailcommon.Logging;
 import com.indeema.emailcommon.mail.MessagingException;
