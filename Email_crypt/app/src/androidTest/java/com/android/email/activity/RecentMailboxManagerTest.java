@@ -24,10 +24,10 @@ import android.test.suitebuilder.annotation.MediumTest;
 import com.android.email.Controller;
 import com.android.email.DBTestHelper;
 import com.android.email.MockClock;
-import com.android.email.provider.ContentCache;
+import com.indeema.email.provider.ContentCache;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.provider.EmailContent.MailboxColumns;
-import com.android.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.EmailContent.MailboxColumns;
+import com.indeema.emailcommon.provider.Mailbox;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.mail.browse.MessageAttachmentTile
+<com.indeema.mail.browse.MessageAttachmentTile
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/attachment_tile"
     android:layout_width="wrap_content"
@@ -80,5 +80,5 @@
         android:duplicateParentState="true"
         android:background="?android:attr/selectableItemBackground" />
 
-</com.android.mail.browse.MessageAttachmentTile>
+</com.indeema.mail.browse.MessageAttachmentTile>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_message_attachment_tile.xml -->

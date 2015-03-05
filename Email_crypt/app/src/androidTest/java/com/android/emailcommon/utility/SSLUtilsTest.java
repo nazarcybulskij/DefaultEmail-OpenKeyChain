@@ -20,6 +20,8 @@ import android.test.AndroidTestCase;
 import android.test.MoreAsserts;
 import android.test.suitebuilder.annotation.SmallTest;
 
+import com.indeema.emailcommon.utility.SSLUtils;
+
 import java.util.Random;
 import java.util.regex.Pattern;
 

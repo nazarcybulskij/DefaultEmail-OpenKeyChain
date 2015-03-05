@@ -19,6 +19,8 @@ package com.android.mail.ui;
 
 import android.test.AndroidTestCase;
 
+import com.indeema.mail.ui.HierarchicalFolderSelectorAdapter;
+
 public class HierarchicalFolderTruncationTests extends AndroidTestCase {
 
     private HierarchicalFolderSelectorAdapter mAdapter;

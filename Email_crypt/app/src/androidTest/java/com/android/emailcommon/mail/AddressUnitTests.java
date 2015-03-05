@@ -18,6 +18,9 @@ package com.android.emailcommon.mail;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
+
+import com.indeema.emailcommon.mail.Address;
+
 import org.apache.james.mime4j.decoder.DecoderUtil;
 
 import java.io.UnsupportedEncodingException;

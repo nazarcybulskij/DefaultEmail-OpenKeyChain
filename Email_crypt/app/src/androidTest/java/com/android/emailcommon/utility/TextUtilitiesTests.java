@@ -26,6 +26,8 @@ import android.test.AndroidTestCase;
 import android.text.SpannableStringBuilder;
 import android.text.style.BackgroundColorSpan;
 
+import com.indeema.emailcommon.utility.TextUtilities;
+
 public class TextUtilitiesTests extends AndroidTestCase {
 
     public void testPlainSnippet() {

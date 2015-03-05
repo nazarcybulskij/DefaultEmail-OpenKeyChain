@@ -19,7 +19,8 @@ import android.content.Intent;
 import android.os.Parcel;
 import android.test.AndroidTestCase;
 
-import com.android.mail.utils.Utils;
+import com.indeema.mail.providers.Account;
+import com.indeema.mail.utils.Utils;
 
 public class AccountTests extends AndroidTestCase {
 

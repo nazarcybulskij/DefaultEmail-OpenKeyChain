@@ -18,8 +18,9 @@ package com.android.mail.utils;
 
 import android.test.AndroidTestCase;
 
-import com.android.mail.utils.NotificationUtils.MailMessagePlainTextConverter;
+import com.indeema.mail.utils.NotificationUtils.MailMessagePlainTextConverter;
 import com.google.android.mail.common.html.parser.HtmlTree;
+import com.indeema.mail.utils.Utils;
 
 public class NotificationUtilsTest extends AndroidTestCase {
     /**

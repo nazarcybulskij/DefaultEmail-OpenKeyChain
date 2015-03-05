@@ -19,7 +19,7 @@ package com.android.email;
 import android.os.Parcel;
 import android.test.AndroidTestCase;
 
-import com.android.emailcommon.service.SearchParams;
+import com.indeema.emailcommon.service.SearchParams;
 
 public class MessageListContextTests extends AndroidTestCase {
 

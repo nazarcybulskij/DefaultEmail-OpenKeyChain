@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 
-<com.android.mail.ui.FolderListLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.indeema.mail.ui.FolderListLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -26,5 +26,5 @@
         android:layout_height="match_parent"
         android:drawSelectorOnTop="false"
         android:fadingEdge="none"/>
-</com.android.mail.ui.FolderListLayout>
+</com.indeema.mail.ui.FolderListLayout>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/folder_list.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/folder_list.xml -->

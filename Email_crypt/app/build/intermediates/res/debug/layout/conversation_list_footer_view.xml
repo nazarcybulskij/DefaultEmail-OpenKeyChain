@@ -17,7 +17,7 @@
  */
 -->
 
-<com.android.mail.browse.ConversationListFooterView
+<com.indeema.mail.browse.ConversationListFooterView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
     android:layout_width="match_parent"
@@ -89,5 +89,5 @@
             android:text="@string/load_more"/>
 
     </LinearLayout>
-</com.android.mail.browse.ConversationListFooterView>
+</com.indeema.mail.browse.ConversationListFooterView>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_list_footer_view.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/conversation_list_footer_view.xml -->

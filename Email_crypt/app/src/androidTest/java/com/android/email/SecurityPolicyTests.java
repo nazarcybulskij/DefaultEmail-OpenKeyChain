@@ -23,15 +23,16 @@ import android.test.ProviderTestCase2;
 import android.test.suitebuilder.annotation.MediumTest;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.email.provider.ContentCache;
-import com.android.email.provider.EmailProvider;
+import com.indeema.email.SecurityPolicy;
+import com.indeema.email.provider.ContentCache;
+import com.indeema.email.provider.EmailProvider;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent;
-import com.android.emailcommon.provider.EmailContent.Message;
-import com.android.emailcommon.provider.Mailbox;
-import com.android.emailcommon.provider.Policy;
-import com.android.emailcommon.service.LegacyPolicySet;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.EmailContent.Message;
+import com.indeema.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.Policy;
+import com.indeema.emailcommon.service.LegacyPolicySet;
 
 /**
  * This is a series of unit tests for backup/restore of the SecurityPolicy class.

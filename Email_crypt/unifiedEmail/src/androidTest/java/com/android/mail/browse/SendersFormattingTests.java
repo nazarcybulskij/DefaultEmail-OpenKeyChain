@@ -21,8 +21,9 @@ import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.text.SpannableString;
 
-import com.android.mail.providers.ConversationInfo;
-import com.android.mail.providers.MessageInfo;
+import com.indeema.mail.browse.SendersView;
+import com.indeema.mail.providers.ConversationInfo;
+import com.indeema.mail.providers.MessageInfo;
 
 import java.util.ArrayList;
 

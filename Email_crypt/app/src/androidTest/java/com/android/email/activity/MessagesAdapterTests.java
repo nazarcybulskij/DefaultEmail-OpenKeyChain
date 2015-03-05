@@ -22,8 +22,8 @@ import android.test.LoaderTestCase;
 import com.android.email.DBTestHelper;
 import com.android.email.MessageListContext;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.Mailbox;
 
 public class MessagesAdapterTests extends LoaderTestCase {
     // Account ID that's probably not in the database.

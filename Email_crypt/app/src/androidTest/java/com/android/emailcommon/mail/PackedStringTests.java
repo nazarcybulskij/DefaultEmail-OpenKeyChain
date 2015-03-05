@@ -16,7 +16,7 @@
 
 package com.android.emailcommon.mail;
 
-import com.android.emailcommon.mail.PackedString;
+import com.indeema.emailcommon.mail.PackedString;
 
 import junit.framework.TestCase;
 

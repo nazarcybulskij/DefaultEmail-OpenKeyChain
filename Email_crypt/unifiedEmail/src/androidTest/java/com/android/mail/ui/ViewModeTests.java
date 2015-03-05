@@ -22,7 +22,8 @@ import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.test.suitebuilder.annotation.Smoke;
 
-import com.android.mail.ui.ViewMode.ModeChangeListener;
+import com.indeema.mail.ui.ViewMode;
+import com.indeema.mail.ui.ViewMode.ModeChangeListener;
 
 @Smoke
 public class ViewModeTests extends AndroidTestCase {

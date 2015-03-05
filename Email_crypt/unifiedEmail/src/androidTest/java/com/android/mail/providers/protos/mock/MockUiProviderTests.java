@@ -16,9 +16,10 @@
 
 package com.android.mail.providers.protos.mock;
 
-import com.android.mail.providers.UIProvider;
-import com.android.mail.utils.LogTag;
-import com.android.mail.utils.LogUtils;
+import com.indeema.mail.providers.UIProvider;
+import com.indeema.mail.providers.protos.mock.MockUiProvider;
+import com.indeema.mail.utils.LogTag;
+import com.indeema.mail.utils.LogUtils;
 
 import android.content.ContentResolver;
 import android.database.Cursor;

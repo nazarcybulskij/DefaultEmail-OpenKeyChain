@@ -26,9 +26,9 @@ import com.android.email.DBTestHelper;
 import com.android.email.Email;
 import com.android.email.TestUtils;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.mail.MessagingException;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.mail.MessagingException;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.Mailbox;
 
 /**
  * Test case for {@link MailboxFinder}.

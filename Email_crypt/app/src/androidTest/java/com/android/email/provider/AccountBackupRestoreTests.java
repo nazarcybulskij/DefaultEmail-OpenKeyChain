@@ -16,9 +16,11 @@
 
 package com.android.email.provider;
 
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent;
-import com.android.emailcommon.provider.HostAuth;
+import com.indeema.email.provider.AccountBackupRestore;
+import com.indeema.email.provider.EmailProvider;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.HostAuth;
 
 import android.content.ContentResolver;
 import android.content.Context;

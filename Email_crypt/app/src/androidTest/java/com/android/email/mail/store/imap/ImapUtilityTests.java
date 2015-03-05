@@ -16,7 +16,7 @@
 
 package com.android.email.mail.store.imap;
 
-import com.android.email.mail.store.imap.ImapUtility;
+import com.indeema.email.mail.store.imap.ImapUtility;
 
 import android.test.AndroidTestCase;
 import android.test.MoreAsserts;

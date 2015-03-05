@@ -16,7 +16,8 @@
 
 package com.android.emailcommon.utility;
 
-import com.android.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.utility.AttachmentUtilities;
 
 import android.net.Uri;
 import android.test.AndroidTestCase;

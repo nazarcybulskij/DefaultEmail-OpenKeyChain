@@ -18,8 +18,8 @@ package com.android.email.activity;
 
 import com.android.email.DBTestHelper;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.Mailbox;
 
 import android.content.Context;
 import android.test.AndroidTestCase;

@@ -95,7 +95,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingRight="@dimen/compose_area_right_padding">
-                <com.android.mail.compose.CcBccView
+                <com.indeema.mail.compose.CcBccView
                     android:id="@+id/cc_bcc_wrapper"
                     style="@style/FillRowStyle"/>
             </TableRow>
@@ -109,7 +109,8 @@
                     android:layout_weight="1"
                     android:layout_width="0dip">
                     <!-- Subject: localization cannot control what field pressing tab will bring the user to. This is controlled at runtime.  -->
-                    <com.android.mail.compose.EnterSubject android:id="@+id/subject"
+                    <com.indeema.mail.compose.EnterSubject
+                        android:id="@+id/subject"
                         style="@style/ComposeSubjectView" />
                 </RelativeLayout>
                 <RelativeLayout android:id="@+id/add_photo_attachment"

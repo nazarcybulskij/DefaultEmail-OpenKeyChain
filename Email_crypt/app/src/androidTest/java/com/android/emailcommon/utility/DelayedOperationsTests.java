@@ -18,6 +18,8 @@ package com.android.emailcommon.utility;
 
 import android.test.AndroidTestCase;
 
+import com.indeema.emailcommon.utility.DelayedOperations;
+
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicInteger;
 

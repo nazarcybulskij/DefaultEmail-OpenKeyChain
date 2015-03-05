@@ -17,9 +17,10 @@
 package com.android.email;
 
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.Logging;
-import com.android.emailcommon.mail.MessagingException;
-import com.android.emailcommon.provider.Account;
+import com.indeema.email.MessagingExceptionStrings;
+import com.indeema.emailcommon.Logging;
+import com.indeema.emailcommon.mail.MessagingException;
+import com.indeema.emailcommon.provider.Account;
 
 import android.content.Context;
 import android.test.InstrumentationTestCase;

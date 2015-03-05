@@ -18,6 +18,8 @@ package com.android.mail.providers;
 
 import android.test.AndroidTestCase;
 
+import com.indeema.mail.providers.Address;
+
 public class AddressTests extends AndroidTestCase {
 
     public void testIsValid() {

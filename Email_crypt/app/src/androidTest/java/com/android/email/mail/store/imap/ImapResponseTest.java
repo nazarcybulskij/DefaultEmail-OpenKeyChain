@@ -18,9 +18,9 @@ package com.android.email.mail.store.imap;
 
 import static com.android.email.mail.store.imap.ImapTestUtils.*;
 
-import com.android.email.mail.store.imap.ImapConstants;
-import com.android.email.mail.store.imap.ImapResponse;
-import com.android.email.mail.store.imap.ImapSimpleString;
+import com.indeema.email.mail.store.imap.ImapConstants;
+import com.indeema.email.mail.store.imap.ImapResponse;
+import com.indeema.email.mail.store.imap.ImapSimpleString;
 
 import android.test.suitebuilder.annotation.SmallTest;
 

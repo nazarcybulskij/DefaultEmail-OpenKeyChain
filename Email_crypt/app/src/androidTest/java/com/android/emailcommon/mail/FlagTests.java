@@ -16,7 +16,7 @@
 
 package com.android.emailcommon.mail;
 
-import com.android.emailcommon.mail.Flag;
+import com.indeema.emailcommon.mail.Flag;
 
 import android.test.suitebuilder.annotation.SmallTest;
 

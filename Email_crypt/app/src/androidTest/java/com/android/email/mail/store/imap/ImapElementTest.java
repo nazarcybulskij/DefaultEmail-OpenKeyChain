@@ -16,7 +16,7 @@
 
 package com.android.email.mail.store.imap;
 
-import com.android.email.mail.store.imap.ImapElement;
+import com.indeema.email.mail.store.imap.ImapElement;
 
 import android.test.suitebuilder.annotation.SmallTest;
 

@@ -18,6 +18,8 @@ package com.android.mail;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
+import com.indeema.mail.EmailAddress;
+
 @SmallTest
 public class EmailAddressTest extends AndroidTestCase {
 

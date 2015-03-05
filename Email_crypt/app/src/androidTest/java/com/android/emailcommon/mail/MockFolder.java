@@ -16,7 +16,12 @@
 
 package com.android.emailcommon.mail;
 
-import com.android.emailcommon.service.SearchParams;
+import com.indeema.emailcommon.mail.FetchProfile;
+import com.indeema.emailcommon.mail.Flag;
+import com.indeema.emailcommon.mail.Folder;
+import com.indeema.emailcommon.mail.Message;
+import com.indeema.emailcommon.mail.MessagingException;
+import com.indeema.emailcommon.service.SearchParams;
 
 
 public class MockFolder extends Folder {

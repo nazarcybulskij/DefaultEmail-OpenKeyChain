@@ -24,9 +24,9 @@ import android.test.ProviderTestCase2;
 import android.test.suitebuilder.annotation.SmallTest;
 
 import com.android.email.MessageListContext;
-import com.android.email.provider.EmailProvider;
-import com.android.emailcommon.provider.EmailContent;
-import com.android.emailcommon.utility.DelayedOperations;
+import com.indeema.email.provider.EmailProvider;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.utility.DelayedOperations;
 
 import junit.framework.Assert;
 

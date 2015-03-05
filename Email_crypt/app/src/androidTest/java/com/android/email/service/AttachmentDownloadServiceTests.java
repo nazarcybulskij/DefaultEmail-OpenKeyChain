@@ -20,16 +20,17 @@ import android.content.Context;
 import android.content.Intent;
 
 import com.android.email.AccountTestCase;
-import com.android.email.EmailConnectivityManager;
+import com.indeema.email.EmailConnectivityManager;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.email.service.AttachmentDownloadService.DownloadRequest;
-import com.android.email.service.AttachmentDownloadService.DownloadSet;
-import com.android.email.service.EmailServiceUtils.NullEmailService;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent.Attachment;
-import com.android.emailcommon.provider.EmailContent.Message;
-import com.android.emailcommon.provider.Mailbox;
-import com.android.emailcommon.service.EmailServiceStatus;
+import com.indeema.email.service.AttachmentDownloadService;
+import com.indeema.email.service.AttachmentDownloadService.DownloadRequest;
+import com.indeema.email.service.AttachmentDownloadService.DownloadSet;
+import com.indeema.email.service.EmailServiceUtils.NullEmailService;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent.Attachment;
+import com.indeema.emailcommon.provider.EmailContent.Message;
+import com.indeema.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.service.EmailServiceStatus;
 
 import java.io.File;
 import java.util.Iterator;

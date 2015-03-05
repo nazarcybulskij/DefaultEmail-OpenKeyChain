@@ -21,6 +21,9 @@ import android.content.Context;
 import android.telephony.TelephonyManager;
 import android.test.AndroidTestCase;
 
+import com.indeema.emailcommon.Device;
+import com.indeema.emailcommon.Logging;
+
 public class DeviceTests extends AndroidTestCase {
 
     public void testGetConsistentDeviceId() {

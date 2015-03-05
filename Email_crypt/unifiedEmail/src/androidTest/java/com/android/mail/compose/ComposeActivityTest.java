@@ -28,24 +28,23 @@ import android.text.Html;
 import android.text.TextUtils;
 import android.text.util.Rfc822Tokenizer;
 
-import com.android.mail.compose.ComposeActivity;
-import com.android.mail.providers.Account;
-import com.android.mail.providers.Attachment;
-import com.android.mail.providers.MailAppProvider;
-import com.android.mail.providers.Message;
-import com.android.mail.providers.ReplyFromAccount;
-import com.android.mail.providers.UIProvider;
-import com.android.mail.utils.AccountUtils;
-import com.android.mail.utils.LogUtils;
-import com.android.mail.utils.MatrixCursorWithCachedColumns;
-import com.android.mail.utils.Utils;
+import com.indeema.mail.compose.ComposeActivity;
+import com.indeema.mail.compose.FromAddressSpinner;
+import com.indeema.mail.providers.Account;
+import com.indeema.mail.providers.Attachment;
+import com.indeema.mail.providers.MailAppProvider;
+import com.indeema.mail.providers.Message;
+import com.indeema.mail.providers.ReplyFromAccount;
+import com.indeema.mail.providers.UIProvider;
+import com.indeema.mail.utils.AccountUtils;
+import com.indeema.mail.utils.MatrixCursorWithCachedColumns;
+import com.indeema.mail.utils.Utils;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 
 import java.lang.Deprecated;
 import java.lang.Throwable;
-import java.util.Arrays;
 import java.util.Date;
 import java.util.HashSet;
 

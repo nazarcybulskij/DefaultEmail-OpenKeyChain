@@ -16,7 +16,7 @@
 
 package com.android.email;
 
-import com.android.emailcommon.Logging;
+import com.indeema.emailcommon.Logging;
 
 import android.app.KeyguardManager;
 import android.content.Context;

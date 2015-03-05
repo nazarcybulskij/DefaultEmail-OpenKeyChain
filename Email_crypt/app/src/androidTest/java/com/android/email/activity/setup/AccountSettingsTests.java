@@ -25,8 +25,9 @@ import android.preference.PreferenceFragment;
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.MediumTest;
 
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.HostAuth;
+import com.indeema.email.activity.setup.AccountSettings;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.HostAuth;
 
 import java.net.URISyntaxException;
 

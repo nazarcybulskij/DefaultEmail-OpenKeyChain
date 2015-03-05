@@ -20,7 +20,8 @@ import android.content.Context;
 import android.test.InstrumentationTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.email.activity.setup.AccountSettingsUtils.Provider;
+import com.indeema.email.activity.setup.AccountSettingsUtils;
+import com.indeema.email.activity.setup.AccountSettingsUtils.Provider;
 import com.android.email.tests.R;
 
 /**

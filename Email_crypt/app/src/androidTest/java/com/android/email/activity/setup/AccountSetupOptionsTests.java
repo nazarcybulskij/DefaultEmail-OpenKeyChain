@@ -26,8 +26,11 @@ import android.widget.Spinner;
 import android.widget.SpinnerAdapter;
 
 import com.android.email.R;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.HostAuth;
+import com.indeema.email.activity.setup.AccountSetupOptions;
+import com.indeema.email.activity.setup.SetupData;
+import com.indeema.email.activity.setup.SpinnerOption;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.HostAuth;
 
 import java.net.URISyntaxException;
 

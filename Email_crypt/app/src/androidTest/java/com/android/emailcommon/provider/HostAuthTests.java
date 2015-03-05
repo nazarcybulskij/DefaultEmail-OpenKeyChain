@@ -19,6 +19,8 @@ package com.android.emailcommon.provider;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
+import com.indeema.emailcommon.provider.HostAuth;
+
 /**
  * Unit tests for the HostAuth inner class.
  * These tests must be locally complete - no server(s) required.

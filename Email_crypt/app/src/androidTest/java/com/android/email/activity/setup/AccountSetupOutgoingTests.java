@@ -17,8 +17,11 @@
 package com.android.email.activity.setup;
 
 import com.android.email.R;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.HostAuth;
+import com.indeema.email.activity.setup.AccountSetupOutgoing;
+import com.indeema.email.activity.setup.AccountSetupOutgoingFragment;
+import com.indeema.email.activity.setup.SetupData;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.HostAuth;
 
 import android.content.Context;
 import android.content.Intent;

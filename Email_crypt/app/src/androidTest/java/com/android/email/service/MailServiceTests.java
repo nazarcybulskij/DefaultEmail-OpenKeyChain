@@ -26,17 +26,15 @@ import android.content.pm.PackageManager;
 
 import com.android.email.AccountTestCase;
 import com.android.email.Controller;
-import com.android.email.provider.AccountReconciler;
-import com.android.email.provider.EmailProvider;
+import com.indeema.email.provider.EmailProvider;
 import com.android.email.provider.ProviderTestUtils;
 import com.android.email.service.MailService.AccountSyncReport;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent;
-import com.android.emailcommon.provider.HostAuth;
+import com.indeema.email.service.EasTestAuthenticatorService;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.HostAuth;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 /**
  * Tests of the Email provider.

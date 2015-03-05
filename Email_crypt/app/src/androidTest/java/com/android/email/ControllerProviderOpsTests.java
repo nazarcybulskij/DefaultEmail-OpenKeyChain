@@ -20,15 +20,15 @@ import android.content.Context;
 import android.net.Uri;
 import android.test.ProviderTestCase2;
 
-import com.android.email.provider.ContentCache;
-import com.android.email.provider.EmailProvider;
+import com.indeema.email.provider.ContentCache;
+import com.indeema.email.provider.EmailProvider;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent;
-import com.android.emailcommon.provider.EmailContent.Body;
-import com.android.emailcommon.provider.EmailContent.Message;
-import com.android.emailcommon.provider.HostAuth;
-import com.android.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.EmailContent.Body;
+import com.indeema.emailcommon.provider.EmailContent.Message;
+import com.indeema.emailcommon.provider.HostAuth;
+import com.indeema.emailcommon.provider.Mailbox;
 
 import java.util.Locale;
 import java.util.concurrent.ExecutionException;

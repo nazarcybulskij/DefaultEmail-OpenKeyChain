@@ -5,6 +5,8 @@ package com.android.mail.utils;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
+import com.indeema.mail.utils.MimeType;
+
 @SmallTest
 public class MimeTypeTest extends AndroidTestCase {
 

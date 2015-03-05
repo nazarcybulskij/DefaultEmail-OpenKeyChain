@@ -16,13 +16,15 @@
 
 package com.android.email.provider;
 
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent;
-import com.android.emailcommon.provider.EmailContent.Attachment;
-import com.android.emailcommon.provider.EmailContent.AttachmentColumns;
-import com.android.emailcommon.provider.EmailContent.Message;
-import com.android.emailcommon.provider.Mailbox;
-import com.android.emailcommon.provider.Policy;
+import com.indeema.email.provider.ContentCache;
+import com.indeema.email.provider.EmailProvider;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.EmailContent.Attachment;
+import com.indeema.emailcommon.provider.EmailContent.AttachmentColumns;
+import com.indeema.emailcommon.provider.EmailContent.Message;
+import com.indeema.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.Policy;
 
 import android.content.Context;
 import android.os.Parcel;

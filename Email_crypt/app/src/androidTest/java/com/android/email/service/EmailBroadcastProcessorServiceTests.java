@@ -18,10 +18,11 @@ package com.android.email.service;
 
 import com.android.email.AccountTestCase;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.EmailContent.AccountColumns;
-import com.android.emailcommon.provider.HostAuth;
-import com.android.emailcommon.utility.Utility;
+import com.indeema.email.service.EmailBroadcastProcessorService;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.EmailContent.AccountColumns;
+import com.indeema.emailcommon.provider.HostAuth;
+import com.indeema.emailcommon.utility.Utility;
 
 import android.content.ContentUris;
 import android.content.Context;

@@ -17,7 +17,7 @@
 package com.android.email;
 
 import com.android.email.TestUtils.Condition;
-import com.android.emailcommon.utility.Utility;
+import com.indeema.emailcommon.utility.Utility;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

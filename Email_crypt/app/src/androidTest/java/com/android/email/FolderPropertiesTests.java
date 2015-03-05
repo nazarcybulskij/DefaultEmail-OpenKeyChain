@@ -16,8 +16,8 @@
 
 package com.android.email;
 
-import com.android.emailcommon.provider.EmailContent.MailboxColumns;
-import com.android.emailcommon.provider.Mailbox;
+import com.indeema.emailcommon.provider.EmailContent.MailboxColumns;
+import com.indeema.emailcommon.provider.Mailbox;
 
 import android.content.Context;
 import android.database.Cursor;

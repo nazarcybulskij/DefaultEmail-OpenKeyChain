@@ -25,7 +25,7 @@ import android.database.Cursor;
 import android.database.MatrixCursor;
 import android.net.Uri;
 
-import com.android.mail.utils.MatrixCursorWithCachedColumns;
+import com.indeema.mail.utils.MatrixCursorWithCachedColumns;
 
 import java.util.ArrayList;
 import java.util.HashMap;

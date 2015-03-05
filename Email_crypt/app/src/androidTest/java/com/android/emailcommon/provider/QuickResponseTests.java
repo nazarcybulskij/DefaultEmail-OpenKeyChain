@@ -21,8 +21,10 @@ import android.os.Parcel;
 import android.test.ProviderTestCase2;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.email.provider.ContentCache;
-import com.android.email.provider.EmailProvider;
+import com.indeema.email.provider.ContentCache;
+import com.indeema.email.provider.EmailProvider;
+import com.indeema.emailcommon.provider.EmailContent;
+import com.indeema.emailcommon.provider.QuickResponse;
 
 /**
  * Unit tests for the QuickResponse class

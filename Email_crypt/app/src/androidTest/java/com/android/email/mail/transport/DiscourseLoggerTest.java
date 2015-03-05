@@ -18,6 +18,8 @@ package com.android.email.mail.transport;
 
 import android.test.MoreAsserts;
 
+import com.indeema.email.mail.transport.DiscourseLogger;
+
 import junit.framework.TestCase;
 
 public class DiscourseLoggerTest extends TestCase {

@@ -25,19 +25,20 @@ import com.android.email.DBTestHelper;
 import com.android.email.mail.Transport;
 import com.android.email.mail.transport.MockTransport;
 import com.android.email.provider.ProviderTestUtils;
-import com.android.emailcommon.TempDirectory;
-import com.android.emailcommon.internet.MimeMessage;
-import com.android.emailcommon.mail.Address;
-import com.android.emailcommon.mail.FetchProfile;
-import com.android.emailcommon.mail.Flag;
-import com.android.emailcommon.mail.Folder;
-import com.android.emailcommon.mail.Folder.FolderType;
-import com.android.emailcommon.mail.Folder.OpenMode;
-import com.android.emailcommon.mail.Message;
-import com.android.emailcommon.mail.Message.RecipientType;
-import com.android.emailcommon.mail.MessagingException;
-import com.android.emailcommon.provider.Account;
-import com.android.emailcommon.provider.HostAuth;
+import com.indeema.email.mail.store.Pop3Store;
+import com.indeema.emailcommon.TempDirectory;
+import com.indeema.emailcommon.internet.MimeMessage;
+import com.indeema.emailcommon.mail.Address;
+import com.indeema.emailcommon.mail.FetchProfile;
+import com.indeema.emailcommon.mail.Flag;
+import com.indeema.emailcommon.mail.Folder;
+import com.indeema.emailcommon.mail.Folder.FolderType;
+import com.indeema.emailcommon.mail.Folder.OpenMode;
+import com.indeema.emailcommon.mail.Message;
+import com.indeema.emailcommon.mail.Message.RecipientType;
+import com.indeema.emailcommon.mail.MessagingException;
+import com.indeema.emailcommon.provider.Account;
+import com.indeema.emailcommon.provider.HostAuth;
 
 /**
  * This is a series of unit tests for the POP3 Store class.  These tests must be locally

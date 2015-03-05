@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.mail.ui.NestedFolderTeaserView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.indeema.mail.ui.NestedFolderTeaserView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal" >
@@ -76,4 +76,4 @@
 
     <include layout="@layout/teaser_right_edge" />
 
-</com.android.mail.ui.NestedFolderTeaserView><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/nested_folder_teaser_view.xml -->
+</com.indeema.mail.ui.NestedFolderTeaserView><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/nested_folder_teaser_view.xml -->

@@ -19,6 +19,8 @@ package com.android.email.mail.internet;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
+import com.indeema.email.mail.internet.EmailHtmlUtil;
+
 /**
  * Tests of the Email HTML utils.
  * 

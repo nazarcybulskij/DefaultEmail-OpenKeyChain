@@ -20,7 +20,7 @@ package com.android.mail.ui;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.mail.ui.HtmlConversationTemplates;
+import com.indeema.mail.ui.HtmlConversationTemplates;
 
 import junit.framework.ComparisonFailure;
 
