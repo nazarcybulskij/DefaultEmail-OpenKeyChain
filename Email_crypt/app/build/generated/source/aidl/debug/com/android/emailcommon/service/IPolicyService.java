@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/nazar/okc/okc/Email_crypt/app/src/main/java/com/android/emailcommon/service/IPolicyService.aidl
+ * Original file: /home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/java/com/android/emailcommon/service/IPolicyService.aidl
  */
 package com.android.emailcommon.service;
 public interface IPolicyService extends android.os.IInterface

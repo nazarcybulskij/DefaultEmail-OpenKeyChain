@@ -25,4 +25,4 @@
     android:accountType="@string/account_manager_type_legacy_imap"
     android:supportsUploading="true"
 />
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml/syncadapter_legacy_imap.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml/syncadapter_legacy_imap.xml -->

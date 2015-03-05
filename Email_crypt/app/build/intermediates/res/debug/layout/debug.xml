@@ -62,4 +62,4 @@
         android:text="@string/debug_enable_strict_mode_label"
     />
 </LinearLayout>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/layout/debug.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/layout/debug.xml -->

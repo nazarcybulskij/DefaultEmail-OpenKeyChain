@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-lt-sw600dp-v13/values.xml -->
+    <eat-comment/>
+    <string msgid="7648769906379235693" name="add_bcc_label">"+ nematomoji kopija"</string>
+    <string msgid="6156834609108442458" name="add_cc_label">"+ kop. / nemat. kop."</string>
+    <string msgid="7574962882483466700" name="menu_manage_folders">"Tvarkyti aplankus"</string>
+    <string msgid="5318418012992612729" name="preferences_default_reply_all_summary">"Naudoti kaip numatytąjį atsakant į pranešimus"</string>
+</resources>

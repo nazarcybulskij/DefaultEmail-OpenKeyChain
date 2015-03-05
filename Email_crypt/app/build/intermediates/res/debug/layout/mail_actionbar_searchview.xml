@@ -25,4 +25,4 @@
     android:hint="@string/search_hint"
     android:imeOptions="actionSearch"
     android:maxWidth="@dimen/search_view_width" />
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/mail_actionbar_searchview.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/mail_actionbar_searchview.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/mail_actionbar_searchview.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/mail_actionbar_searchview.xml -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw600dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw600dp-v13/values.xml -->
     <eat-comment/>
     <integer-array name="senders_lengths">
         <item>50</item>
@@ -37,7 +37,7 @@
     <dimen name="message_header_subtitle_text_size">16sp</dimen>
     <dimen name="message_sender_name_text_size">20sp</dimen>
     <dimen name="search_view_width">400dip</dimen>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-sw600dp/dimensions.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-sw600dp/dimensions.xml -->
     <eat-comment/>
     <dimen name="settings_fragment_padding_left">32dip</dimen>
     <dimen name="settings_fragment_padding_right">32dip</dimen>
@@ -55,7 +55,7 @@
     <dimen name="setup_padding_left">64dip</dimen>
     <dimen name="setup_padding_right">64dip</dimen>
     <dimen name="setup_padding_top">16dip</dimen>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw600dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw600dp-v13/values.xml -->
     <eat-comment/>
     <dimen name="spinner_frame_width">170dp</dimen>
     <dimen name="super_collapsed_height">39sp</dimen>
@@ -76,7 +76,7 @@
     <style name="ComposeArea">
         <item name="android:layout_width">match_parent</item>
     </style>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-sw600dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-sw600dp-v13/values.xml -->
     <eat-comment/>
     <style name="RecipientEditTextView" parent="@android:attr/autoCompleteTextViewStyle">
         <item name="android:paddingLeft">8dip</item>
@@ -90,13 +90,13 @@
         <item name="android:dropDownVerticalOffset">0dip</item>
         <item name="android:dropDownHorizontalOffset">-4dip</item>
     </style>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw600dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw600dp-v13/values.xml -->
     <eat-comment/>
     <style name="ShortcutWidgetTheme" parent="@android:style/Theme.Holo.Light.Dialog.MinWidth">
         <item name="android:actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
         <item name="android:homeAsUpIndicator">@drawable/ic_up_holo_light</item>
     </style>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-sw600dp/styles.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-sw600dp/styles.xml -->
     <eat-comment/>
     <style name="accountSettingsButton">
         <item name="android:layout_width">208sp</item>

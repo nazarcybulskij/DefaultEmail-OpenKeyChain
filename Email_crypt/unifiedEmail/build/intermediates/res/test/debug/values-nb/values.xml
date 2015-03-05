@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"Svar"</item>
+    <item msgid="4085029907540221568">"Svar alle"</item>
+    <item msgid="857480048798815437">"Videresend"</item>
+  </string-array>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"System"</item>
+    <item msgid="6593672292311851204">"Ofte brukt"</item>
+    <item msgid="3584541772344786752">"Alle mapper"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"Nyere"</item>
+    <item msgid="5562093094216840213">"Eldre"</item>
+    <item msgid="3331655314944797957">"Samtaleliste"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"Vis bare «arkivér»"</item>
+    <item msgid="5737880287951287278">"Vis bare «slett»"</item>
+    <item msgid="4279948809971752573">"Vis «arkivér» og «slett»"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"Vis nyere samtaler etter du har slettet"</item>
+    <item msgid="732746454445519134">"Vis eldre samtaler etter du har slettet"</item>
+    <item msgid="2189929276292165301">"Vis samtaleliste etter du har slettet"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"Vis bare «arkivér»"</item>
+    <item msgid="8350973578419775975">"Vis bare «slett»"</item>
+    <item msgid="2967059853409454648">"Vis «arkivér» og «slett»"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"Fullført"</item>
+    <item msgid="7109065688039971961">"Ingen tilkobling."</item>
+    <item msgid="8437496123716232060">"Påloggingen mislyktes."</item>
+    <item msgid="1651266301325684887">"Sikkerhetsfeil."</item>
+    <item msgid="1461520171154288533">"Synkroniseringen mislyktes."</item>
+    <item msgid="4779810016424303449">"Intern feil"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> uleste"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"Vil du arkivere denne samtalen?"</item>
+    <item msgid="4713469868399246772" quantity="other">"Vil du arkivere disse <ns1:g id="COUNT">%1$d</ns1:g> samtalene?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"Vil du slette denne samtalen?"</item>
+    <item msgid="930334208937121234" quantity="other">"Vil du slette disse <ns1:g id="COUNT">%1$d</ns1:g> samtalene?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"Vil du forkaste utkastene fra denne samtalen?"</item>
+    <item msgid="4173815457177336569" quantity="other">"Vil du forkaste utkastene fra disse <ns1:g id="COUNT">%1$d</ns1:g> samtalene?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er arkivert."</item>
+    <item msgid="3012054504370916482" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er arkivert."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er slettet."</item>
+    <item msgid="8630099095360065837" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er slettet."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"Endret mappe."</item>
+    <item msgid="8918589141287976985" quantity="other">"Endret mapper."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er ignorert."</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er ignorert."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er merket som uviktig."</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er merket som uviktige."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> rapporterte dette som ikke nettsøppel."</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> rapporterte dette som ikke nettsøppel."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> rapporterte dette som svindel."</item>
+    <item msgid="3678624994662639442" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> rapporterte dette som svindel."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er rapportert som nettsøppel."</item>
+    <item msgid="5071459475389411227" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> er rapportert som nettsøppel."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Fjerner stjernemerking for <ns1:g id="COUNT">%1$d</ns1:g> samtale."</item>
+    <item msgid="2222365088907519938" quantity="other">"Fjerner stjernemerking for <ns1:g id="COUNT">%1$d</ns1:g> samtaler."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"Utkast"</item>
+    <item msgid="6961049507579977505" quantity="other">"Utkast"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> melding slettes permanent."</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> meldinger slettes permanent."</item>
+  </plurals>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"Flytt samtale"</item>
+    <item msgid="1685896770174368261" quantity="other">"Flytt <ns1:g id="ID_1">%1$d</ns1:g> samtaler"</item>
+  </plurals>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> nye e-poster. Vis."</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> eldre e-poster"</item>
+  </plurals>
+    <string msgid="5277032997773498476" name="account_settings_param">"Kontoinnstillinger"</string>
+    <string msgid="5699548271856775808" name="account_sync_off">"Kontosynkronisering er slått av."</string>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ uleste"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"Velg mappe"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"Velg konto"</string>
+    <string msgid="2162808366829269770" name="add_account">"Legg til konto"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Legg til blindkopi"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"Legg til kopi eller blindkopi"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Legg ved fil"</string>
+    <string msgid="6060201715848652940" name="add_label">"Legg til mappe"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"Legg ved bilde"</string>
+    <string msgid="2866003744391266498" name="add_star">"Legg til stjerne"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"Legg ved video"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> (<ns1:g id="EMAIL">%2$s</ns1:g>) via <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"Alle mapper"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"Vis alltid bilder fra denne avsenderen"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"Bilder fra denne avsenderen blir vist automatisk."</string>
+    <string msgid="847250094775910499" name="archive">"Arkivér"</string>
+    <string msgid="7533995360704366325" name="archived">"Arkivert"</string>
+    <string msgid="4267189489654642035" name="attached_message">"Vedlagt e-post"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"Dokument"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"Regneark"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Presentasjon"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"Lyd"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"Bilde"</string>
+    <string msgid="5544874374971562759" name="attachment_text">"Tekst"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"Du kan dessverre ikke lagre eller åpne denne typen vedlegg."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>-fil"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"Video"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"Vedlegg"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"Angi innst. for autoflytting\n(etter at du sletter, osv.)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"Automatisk flytting"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"Velg hvilken skjerm som skal vises når du sletter en e-post"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"Automatisk synkronisering er slått av."</string>
+    <string msgid="3098643138241111579" name="bcc">"Blindkopi"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"Blindkopi: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"Skriv e-post"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"Avbryt"</string>
+    <string msgid="4651201258272223650" name="cancel_attachment">"Avbryt"</string>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Kan ikke flytte fordi utvalget inneholder flere kontoer."</string>
+    <string msgid="7017720927911078193" name="cc">"Kopi"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"Kopi: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"Kopi: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"Endre mapper"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"Endre synkroniseringsinnstillinger"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"Ser etter e-post"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"Del på"</string>
+    <string msgid="3184687982186479442" name="clear">"Fjern"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"Slutt å vise innebygde bilder fra avsendere du tidligere har godkjent."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"Vil du fjerne bildegodkjenninger?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"Fjern bildegodkjenninger"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"Skjul detaljer om mottaker"</string>
+    <string msgid="1473559896062432878" name="compose">"Skriv ny"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"Vil du forkaste denne e-posten?"</string>
+    <string msgid="3221546155385562874" name="confirm_send_message">"Vil du sende denne e-posten?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"E-posten har ingen tekst."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"E-postens emne har ingen tekst."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"Vil du sende e-posten?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"Vis kontaktinformasjon for <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"Vis kontaktinformasjon"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> om <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> kl. <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> om <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> kl. <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"Legg til kontakt"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"Kopiér"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"Kopiér koblingsadresse"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"Ring"</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"Send tilbakemelding"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"Hjelp"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"Kart"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"Åpne i nettleser"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"Send e-post"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"Del link"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"Send SMS"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"Flyttet til <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Trykk på et avsenderbilde for å velge den samtalen."</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"Kopiér e-postadressen"</string>
+    <string msgid="530057841276106843" name="copy_number">"Kopiér telefonnummeret"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"Send e-post som:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"Dato: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"I dag kl. <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"I går kl. <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="844871204175957681" name="delete">"Slett"</string>
+    <string msgid="2757349161107268029" name="deleted">"Slettet"</string>
+    <string msgid="1714960202994370243" name="discard">"OK"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"Forkast utkastene"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Avslå tips"</string>
+    <string msgid="3079981801778027540" name="done">"Ferdig"</string>
+    <string msgid="7418568915429156518" name="download_again">"Last ned på nytt"</string>
+    <string msgid="442019281547315527" name="download_failed">"Kunne ikke laste ned. Trykk for å prøve på nytt."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"Lukk navigasjonsskuffen"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"Åpne navigasjonsskuffen"</string>
+    <string msgid="6064497180615519589" name="empty_spam">"Fjern nettsøppel"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Vil du fjerne nettsøppelet?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"Tøm papirkurven"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Vil du tømme papirkurven?"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Slå på i <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"Utvid detaljer om mottaker"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"Kan ikke laste inn bildet"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"Send tilbakemelding"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"Henter vedlegg"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"Mappeikon"</string>
+    <string msgid="1047474677580149436" name="folder_removed">"Fjernet fra <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"E-postmappe"</string>
+    <string msgid="6822914459902983767" name="forward">"Videresend"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- Videresendt e-post ----------&lt;br>Fra: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Dato: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Emne: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Til: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Videresendt e-post ----------"</string>
+    <string msgid="2454519463223197231" name="from_heading">"Fra: "</string>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"Kunne ikke legge ved fil."</string>
+    <string msgid="7873089811705257882" name="help_and_info">"Hjelp"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ Skjul sitert tekst"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"Skjul mapper"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"Ignorer – pålitelig e-post"</string>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"Innboks"</string>
+    <string msgid="6009817562073541204" name="info">"Informasjon"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"Adressen <ns1:g id="WRONGEMAIL">%s</ns1:g> er ugyldig."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"Last inn flere"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"Laster inn …"</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"Laster inn ..."</string>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"Trykk og hold nede for å velge en samtale, og trykk så for å velge mer."</string>
+    <string msgid="6743983544685622800" name="manual_sync">"Synkroniser nå"</string>
+    <string msgid="6904096897104265870" name="mark_important">"Merk som viktig"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"Merk som uviktig"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"Rapportér som ikke nettsøppel"</string>
+    <string msgid="8438349154394313195" name="mark_read">"Merk som lest"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"Merk som ulest"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"meg"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"jeg"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"Endre mapper"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"Skriv ny"</string>
+    <string msgid="8897520487430647932" name="menu_folder_options">"Mappeinnstillinger"</string>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"Mappeinnstillinger"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"Flytt til"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"Flytt til innboksen"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"Lagre alle"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"Del"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"Del alle"</string>
+    <string msgid="5297197523031943248" name="menu_search">"Søk"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"Innstillinger"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"Tilbakestill autostr."</string>
+    <string msgid="2183394728494962332" name="message_details_title">"Meldingsinformasjon"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"E-posten er forkastet."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"Ja"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"Se i kalenderen"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"Nei"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"Skal du delta?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"Kanskje"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"Kalenderinvitasjon"</string>
+    <string msgid="7073947895562277576" name="message_saved">"E-posten er lagret som utkast."</string>
+    <string msgid="717244337981816703" name="more_info_attachment">"Informasjon"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Flytt til"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"Ignorer"</string>
+    <string msgid="2125579009654728299" name="network_error">"Ingen nettilkobling"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"Ny e-post fra <ns1:g id="SENDER">%s</ns1:g>. Vis."</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> nye e-poster"</string>
+    <string msgid="427548507197604096" name="no">"Nei"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"Ingen apper kan åpne dette vedlegget slik at du kan se det."</string>
+    <string msgid="35400008890372241" name="no_conversations">"Ingen samtaler."</string>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"Synkroniser denne mappen for å se samtaler."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"Kontoen ble ikke synkronisert"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"Arkivér"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"Slett"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"Fjern etikett"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"Svar"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"Svar alle"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"Arkivert"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"Slettet"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Etiketten er fjernet"</string>
+    <string msgid="8339355733816891026" name="ok">"OK"</string>
+    <string msgid="5171715391553213328" name="phone">"telefonen"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"Kan ikke laste inn bilde"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g> av <ns1:g id="COUNT">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"Vent litt …"</string>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Handlinger for arkivering og sletting"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"Handlinger for arkivering og sletting"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"Vis ved siden av navnet i samtalelisten"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"Avsenderbilder"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"I samtalelister"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"Sveip for å arkivere"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"Sveip for å slette"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"Bruk som standard for e-postvarsler"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"Svar alle"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"Signatur"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Ikke angitt"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"Signatur"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"Forhåndsvisning"</string>
+    <string msgid="7250749398672037355" name="quoted_text">"Inkluder sitert tekst"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"Siter tekst"</string>
+    <string msgid="219566857950091332" name="read_string">"samtalen er lest"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"Nylige mapper"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"Mottakerfeil"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"Legg til minst én mottaker."</string>
+    <string msgid="490989798005710951" name="refresh">"Last inn på nytt"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"Fjern fra <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"Fjern stjerne"</string>
+    <string msgid="2032052598496088561" name="reply">"Svar"</string>
+    <string msgid="7257248094625487557" name="reply_all">"Svar alle"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="DATE">%s</ns1:g> skrev <ns1:g id="PERSON">%s</ns1:g> følgende:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"Svar til: "</string>
+    <string msgid="5417082746232614958" name="report">"Rapportér"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"Rapportér nettfisking"</string>
+    <string msgid="6467567747975393907" name="report_spam">"Rapportér nettsøppel"</string>
+    <string msgid="6797117334768201180" name="respond_inline">"Integrert svar"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"Rediger"</string>
+    <string msgid="4515885444824418022" name="retry">"Prøv på nytt"</string>
+    <string msgid="5360128849867863132" name="save_attachment">"Lagre"</string>
+    <string msgid="5555744208032445632" name="save_draft">"Lagre utkast"</string>
+    <string msgid="6660844285730790469" name="saved">"Lagret – <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"Lagrer ..."</string>
+    <string msgid="3625734263059221350" name="search_hint">"Søk i e-post"</string>
+    <string msgid="4669917471897026269" name="search_results_header">"Resultater"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"Søker …"</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"Søk støttes ikke på denne kontoen."</string>
+    <string msgid="4711524151968942082" name="select_attachment_type">"Velg vedleggstype"</string>
+    <string msgid="8242003661397555986" name="send">"Send"</string>
+    <string msgid="750908595144529579" name="send_failed">"E-post ikke sendt."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"Bilder vises ikke automatisk."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"Sender …"</string>
+    <string msgid="1498583163419122128" name="sending_message">"Sender e-post …"</string>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"Navngi mappesnarvei"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ Vis sitert tekst"</string>
+    <string msgid="1875700481186331432" name="show_images">"Vis bilder"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"Vis <ns1:g id="NUMBER">%1$s</ns1:g> mapper til"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"Logg på"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"Stille"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="3262760336059073446" name="storage">"Lagring"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> – <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Emne"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Sveip ned for å laste inn på nytt"</string>
+    <string msgid="7368819509040597851" name="sync_error">"Synkroniseringen mislyktes."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"Enheten din har ikke nok lagringsplass til å synkronisere."</string>
+    <string msgid="7956969657216748522" name="tablet">"nettbrettet"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"Trykk for å konfigurere"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"Synkroniser mappen"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"Trykk for å slå på."</string>
+    <string msgid="4392614766835725698" name="to">"Til"</string>
+    <string msgid="1142876841308812954" name="to_heading">"Til: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Filen ble ikke vedlagt. Du har nådd maksgrensen på <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Én eller flere av filene ble ikke vedlagt. Grensen er på <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"Filer på mer enn <ns1:g id="MAXSIZE">%1$s</ns1:g> kan ikke legges ved."</string>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Endringer du gjør i apper og kontoer, ikke bare i Gmail, blir synkronisert mellom nettet, de andre enhetene dine og <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Slå på"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"Vil du aktivere automatisk synkronisering?"</string>
+    <string msgid="6070869718469782251" name="undo">"Angre"</string>
+    <string msgid="588180203444398297" name="unread_string">"samtalen er ulest"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> usendte i <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"via <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"Se flere samtaler"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"Denne kontoen er ikke konfigurert til å synkroniseres automatisk.\nTrykk på "<b>"Synkroniser nå"</b>" for å synkronisere e-post én gang, eller trykk på "<b>"Endre synkroniseringsinnstillinger"</b>" for å konfigurere denne kontoen til å synkronisere e-post automatisk."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"E-posten din vises snart."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"Venter på synkronisering"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"Ja"</string>
+</resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-w1000dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-w1000dp-v13/values.xml -->
     <eat-comment/>
     <integer name="conversation_list_search_header_mode">0</integer>
     <integer name="conversation_list_weight">3</integer>

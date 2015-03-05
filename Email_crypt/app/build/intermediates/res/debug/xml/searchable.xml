@@ -23,4 +23,4 @@
     android:searchSuggestSelection="query LIKE ?"
     android:searchSuggestIntentAction="android.intent.action.SEARCH"
     android:imeOptions="actionSearch" />
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml/searchable.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml/searchable.xml -->

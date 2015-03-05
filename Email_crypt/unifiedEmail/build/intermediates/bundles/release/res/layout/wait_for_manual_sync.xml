@@ -48,4 +48,4 @@
        android:text="@string/change_sync_settings" />
 
 </LinearLayout>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/wait_for_manual_sync.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/wait_for_manual_sync.xml -->

@@ -80,4 +80,4 @@
                 android:layout_height="wrap_content" />
         </FrameLayout>
     </RelativeLayout>
-</ScrollView><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/layout-sw600dp-land/account_setup_incoming.xml -->
+</ScrollView><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/layout-sw600dp-land/account_setup_incoming.xml -->

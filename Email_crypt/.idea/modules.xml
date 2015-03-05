@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/chips/chips.iml" filepath="$PROJECT_DIR$/chips/chips.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/photoviewer/photoviewer.iml" filepath="$PROJECT_DIR$/photoviewer/photoviewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/unifiedEmail/unifiedEmail.iml" filepath="$PROJECT_DIR$/unifiedEmail/unifiedEmail.iml" />
     </modules>

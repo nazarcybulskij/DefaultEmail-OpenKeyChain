@@ -43,4 +43,4 @@
         android:src="@drawable/ic_forward_holo_light"
         android:contentDescription="@string/forward" />
 </merge>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout-sw600dp/conversation_message_upper_header_actions.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout-sw600dp-v13/conversation_message_upper_header_actions.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout-sw600dp/conversation_message_upper_header_actions.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout-sw600dp-v13/conversation_message_upper_header_actions.xml -->

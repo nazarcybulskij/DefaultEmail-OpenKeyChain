@@ -31,4 +31,4 @@
         android:src="@drawable/default_image"
         android:id="@+id/attachment_default_image"
         android:layout_centerInParent="true"/>
-</RelativeLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/attachment_preview.xml -->
+</RelativeLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/attachment_preview.xml -->

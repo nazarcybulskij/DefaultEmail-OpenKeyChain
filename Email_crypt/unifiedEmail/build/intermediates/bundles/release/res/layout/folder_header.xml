@@ -19,4 +19,4 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="wrap_content"
     android:layout_width="match_parent"
-    style="?android:attr/listSeparatorTextViewStyle" /><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/folder_header.xml -->
+    style="?android:attr/listSeparatorTextViewStyle" /><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/folder_header.xml -->

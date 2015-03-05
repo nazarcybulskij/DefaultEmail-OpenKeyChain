@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"जवाफ फर्काउनुहोस्"</item>
     <item msgid="4085029907540221568">"सबैलाई जवाफ दिनुहोस्"</item>
     <item msgid="857480048798815437">"फर्वार्ड गर्नुहोस्"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"सानो पाठ"</item>
@@ -16,7 +16,7 @@
     <item msgid="6227813549949219991">"ठूलो पाठ"</item>
     <item msgid="1197917420815786571">"विशाल पाठ"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
     <item msgid="6984976603137892898">"प्रणाली"</item>
@@ -28,13 +28,13 @@
     <item msgid="5562093094216840213">"पुरानो"</item>
     <item msgid="3331655314944797957">"कुराकानी सूची"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string-array name="prefEntries_conversationListIconName">
     <item msgid="228585958140385749">"तस्वीर देखाउनुहोस्"</item>
     <item msgid="2226691218102223696">"केहि पनि नदेखाउनुहोस्"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string-array name="prefEntries_removal_action">
     <item msgid="1938422987822134657">"केवल संग्रह देखाउनुहोस्"</item>
@@ -118,7 +118,7 @@
     <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> सन्देश स्थायी रूपमा मेटाईनेछ।"</item>
     <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> सन्देशहरू स्थायी रूपमा मेटाईनेछन्।"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <plurals name="gal_completed_fmt">
     <item msgid="7496785524617037642" quantity="one">"<ns1:g id="RESULTS">%1$d</ns1:g> बाट परिणाम <ns1:g id="DOMAIN">%2$s</ns1:g>"</item>
@@ -160,13 +160,13 @@
     <item msgid="7594476368958824007" quantity="one">"संलग्न <ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g>"</item>
     <item msgid="974463163535515223" quantity="other">"संलग्नहरू <ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g>"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <plurals name="move_conversation">
     <item msgid="3657821200245019288" quantity="one">"कुराकानी सार्नुहोस्"</item>
     <item msgid="1685896770174368261" quantity="other">"<ns1:g id="ID_1">%1$d</ns1:g> कुराकानीहरू सार्नुहोस्"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <plurals name="move_messages">
     <item msgid="320885379869442589" quantity="one">"सन्देश सार्नुहोस्"</item>
@@ -189,7 +189,7 @@
     <item msgid="380235084337895804" quantity="one">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> खाता"</item>
     <item msgid="4145163147488719025" quantity="other">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> खाताहरू"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <plurals name="show_messages_read">
     <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> पुराना सन्देशहरू"</item>
@@ -198,7 +198,7 @@
     <item msgid="137489911893192702" quantity="one">"सिंक: अन्तिम <ns1:g id="COUNT">%1$d</ns1:g> दिन"</item>
     <item msgid="6856940335775567991" quantity="other">"सिंक: अन्तिम <ns1:g id="COUNT">%1$d</ns1:g> दिन"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8236846322040271280" name="account_delete_dlg_instructions_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\" ईमेलबाट हटाईनेछ।"</string>
     <string msgid="6806087520856396608" name="account_delete_dlg_title">"खाता हटाउनुहोस्"</string>
@@ -352,23 +352,23 @@
     <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"फोल्डर सूची लोड हुँदै..."</string>
     <string msgid="8337750045270269649" name="accounts_welcome">"तपाईं केवल केहि चरणहरूमा आफ्नो खाता सेट अप गर्न सक्नुहुनेछ।"</string>
     <string msgid="7484457755531286333" name="action_bar_mailbox_list_title">"फोल्डरहरू"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ अपठित"</string>
     <string msgid="5161845867397316052" name="activity_folder_selection">"फोल्डर छान्नुहोस्"</string>
     <string msgid="6876105223659297603" name="activity_mailbox_selection">"खाता छान्नुहोस्"</string>
     <string msgid="2162808366829269770" name="add_account">"खाता थप्नुहोस्"</string>
     <string msgid="7432027645493843336" name="add_bcc_label">"Bcc थप गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4757145078498200242" name="add_cc_bcc_menu">"Cc/Bcc थप गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="504861315425773180" name="add_cc_label">"Cc/Bcc थप्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2203398371671979481" name="add_file_attachment">"फाइल संलग्न गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1638508840481944248" name="add_label">"लेबल थप्नुहोस्"</string>
     <string msgid="3738882100645552858" name="add_photo_attachment">"चित्र संलग्न गर्नुहोस्"</string>
@@ -380,10 +380,10 @@
     <string msgid="5966408990164581801" name="always_show_images">"सधैं यस प्रेषकको चित्र देखाउनुहोस्"</string>
     <string msgid="6218061921546973716" name="always_show_images_toast">"यस प्रेषकको चित्र स्वचालित रूप मा देखाइनेछ।"</string>
     <string msgid="2285438422049030145" name="ap_overflow_format">"+ <ns1:g id="ID_1">%d</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="5815426892327290362" name="app_name">"इमेल गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="847250094775910499" name="archive">"अभिलेख"</string>
     <string msgid="7533995360704366325" name="archived">"भण्डार गरियो"</string>
@@ -394,7 +394,7 @@
     <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"प्रस्तुतिकरण"</string>
     <string msgid="135527133955622936" name="attachment_audio">"अडियो"</string>
     <string msgid="3832985223906528449" name="attachment_image">"चित्र"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2817790592227462682" name="attachment_info_apk_install_disabled">"अनुप्रयोग सिधा ईमेलबाट स्थापित गर्न सकिँदैन। पहिला यो अनुप्रयोग बचत गर्नुहोस् र पछि डाउनलोड अनुप्रयोगको प्रयोग गरेर स्थापना गर्नुहोस्।"</string>
     <string msgid="4124655487276125596" name="attachment_info_application_settings">"अनुप्रयोग सेटिङहरु"</string>
@@ -408,7 +408,7 @@
     <string msgid="1481120960014563617" name="attachment_info_wifi_only">"यो अनुलग्नक मोबाईल नेटवर्क मार्फत डाउनलोड गर्न निकै ठूलो छ। तपाईं यसलाई अर्को पटक वाई-फाई नेटवर्कमा जडान गर्नु भएपछि डाउनलोड गर्न सक्नुहुनेछ।"</string>
     <string msgid="96432970927503597" name="attachment_info_wifi_settings">"Wi-Fi सेटिङ"</string>
     <string msgid="7155322700141145123" name="attachment_not_found">"एट्याच्मेन्ट डाउनलोड गर्न सकिएन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="5544874374971562759" name="attachment_text">"पाठ"</string>
     <string msgid="7878184764428642891" name="attachment_type_blocked">"दुर्भाग्यबस, तपाइँ यस  प्रकारको एट्याच्मेन्टलाई सुरक्षित गर्न वा खोल्न सक्नुहुन्न।"</string>
@@ -418,72 +418,72 @@
     <string msgid="8091541690538426090" name="auto_advance_help_title">"स्वत: अग्रिम प्राथमिकता सेट गर्नुहोस् \n (तपाइँले मेटाएपछि, आदि)"</string>
     <string msgid="3192951873988392119" name="auto_advance_label">"स्वत:-उन्नत"</string>
     <string msgid="573927628806250719" name="auto_advance_summary">"तपाईंले सन्देश मेटाउनु भएपछि कुन स्क्रीन देखाउने भनेर छनौट गर्नहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="3098643138241111579" name="bcc">"Bcc"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="4698055226318660420" name="bcc_heading">"गुप्त बोधार्थ: "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4279864165439577668" name="body_hint">"ईमेल रचना गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
     <string msgid="8762981157252199115" name="cancel">"रद्द गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6967435583794021865" name="cancel_action">"रद्द गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="4651201258272223650" name="cancel_attachment">"रद्द गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"सार्न सकिएन किनकि छनोट भएका भित्र एक भन्दा बढी खाताहरु छन्।"</string>
     <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"POP3 खाताहरु मा सार्न समर्थन गर्दैन।"</string>
     <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"ड्राफ्ट, आउटबक्स र पठाईएको मा भएका सन्देशहरू सार्न सकिँदैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7997792014816166601" name="cant_move_or_change_labels">"सार्न सकिँदैन किनभने चयनताले बहु खाताहरू समावेश गर्दछ।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2742423840964045801" name="category_general_preferences">"अनुप्रयोग"</string>
     <string msgid="7017720927911078193" name="cc">"Cc"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="374493748526504562" name="cc_attribution">"Cc: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
     <string msgid="52678613787360092" name="cc_heading">"बोधार्थ: "</string>
     <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"फोल्डरहरू परिवर्तन गर्नुहोस्"</string>
     <string msgid="5514293926214426577" name="change_sync_settings">"सिंक सेटिंग्स परिवर्तन गर्नुहोस्"</string>
     <string msgid="2301797903350897130" name="checking_for_mail">"मेलको लागि जाँच भइरहेको छ"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="81937507117528954" name="choose_attachment_dialog_title">"एट्याच्मेन्ट छान्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6142681649048665134" name="choosertitle_sharevia">"को माध्यम बाट साझेदारी"</string>
     <string msgid="3184687982186479442" name="clear">"हटाउनुहोस्"</string>
     <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"तपाईँले पहिले अनुमति दिनु भएका प्रेषकहरूबाट इनलाइन चित्रहरू प्रदर्शन गर्न रोक्नुहोस्।"</string>
     <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"तस्बिर अनुमोदनहरू हटाउने हो?"</string>
     <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"तस्बिर अनुमोदनहरू हटाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="533058985745238100" name="close_action">"बन्द गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="3608892454869745927" name="collapse_recipient_details">"प्राप्तकर्ता विवरण कोलाप्स गर्नुहोस्"</string>
     <string msgid="1473559896062432878" name="compose">"कम्पोज गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4045702519637388045" name="compose_action">"रचना गर्नुहोस्"</string>
     <string msgid="427986915662706899" name="compose_title">"कम्पोज गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1149834186404614612" name="confirm_discard_text">"यस सन्देश रद्द गर्ने हो?"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="9151965975158906286" name="confirm_response">"प्रतिक्रिया पठाउँदै..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="3221546155385562874" name="confirm_send_message">"यस सन्देश पठाउने हो?"</string>
     <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"सन्देशको मूख्य भागमा कुनै पाठ छैन।"</string>
@@ -509,106 +509,106 @@
     <string msgid="7381341099165809801" name="conversation_newer">"अझ नयाँ"</string>
     <string msgid="6384287019562069353" name="conversation_older">"अझ पुरानो"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"त्यस  कुराकानीलाई छान्नको लागि एक प्रेषकको चित्रलाई छुनुहोस्।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="3062715563215392251" name="create_action">"नयाँ बनाउनुहोस्"</string>
     <string msgid="2726544180243210741" name="create_new_folder">"फोल्डर सिर्जना गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"को रूपमा मेल पठाउनुहोस्:"</string>
     <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
     <string msgid="7923108495669251362" name="date_message_received_today">"आज, <ns1:g id="TIME">%1$s</ns1:g>"</string>
     <string msgid="2240669381396206434" name="date_message_received_yesterday">"हिजो, <ns1:g id="TIME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="5175710493691536719" name="debug_title">"डिबग"</string>
     <string msgid="6160213145745376955" name="debug_version_fmt">"संस्करण: <ns1:g id="VERSION">%s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="844871204175957681" name="delete">"मेट्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8421026208288857155" name="delete_action">"मेट्नुहोस्"</string>
     <string msgid="3076922270182841978" name="delete_quick_response_action">"मेट्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="2757349161107268029" name="deleted">"मेटाइयो"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="426727923791430306" name="device_admin_description">"सर्भर-निर्दिष्ट सुरक्षा नीतिहरुलाई सक्षम बनाउँछ"</string>
     <string msgid="8680224994637869414" name="device_admin_label">"इमेल गर्नुहोस्"</string>
     <string msgid="6196985268695592382" name="disable_admin_warning">"चेतावनी: तपाईंको उपकरण ईमेल अनुप्रयोगको अधिकार प्रबन्धकमा असक्षम गरिँदा तपाईंको उपकरणले यसलाई आवश्यक पर्ने सबै ईमेल खाताहरू, साथै तिनीहरूको ईमेल, सम्पर्कहरू, क्यालेन्डर कार्यक्रमहरू, र अन्य डाटा मेटाउनेछ।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1714960202994370243" name="discard">"त्याग्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6532206074859505968" name="discard_action">"त्याग्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6862272443470085375" name="discard_drafts">"ड्राफ्ट बेवास्ता गर्नुहोस्"</string>
     <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"टिप खारेज गर्नुहोस्"</string>
     <string msgid="3079981801778027540" name="done">"भयो"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="7497990549515580249" name="done_action">"भयो"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7418568915429156518" name="download_again">"पुन: डाउनलोड गर्नुहोस्"</string>
     <string msgid="442019281547315527" name="download_failed">"डाउनलोड गर्न सकिएन। पुन: प्रयास गर्नको लागि छुनुहोस्।"</string>
     <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
     <string msgid="2764774620737876943" name="drawer_close">"नेभिगेसन ड्रअर बन्द गर्नुहोस्"</string>
     <string msgid="6074646853178471940" name="drawer_open">"नेभिगेसन ड्रअर खोल्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4322494050816995390" name="edit_quick_response_dialog">"ट्रुत प्रतिक्रिया सम्पादन गर्नुहोस्"</string>
     <string msgid="8827210108543430336" name="eml_view_title">"<ns1:g id="FILENAME">%s</ns1:g> हेर्दै"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6064497180615519589" name="empty_spam">"खाली स्पाम"</string>
     <string msgid="8091014690336479280" name="empty_spam_dialog_title">"खाली स्पाम?"</string>
     <string msgid="652435297593538512" name="empty_trash">"खाली रद्दी टोकरी"</string>
     <string msgid="3248644791068595150" name="empty_trash_dialog_title">"रद्दी टोकरी खाली गर्ने हो?"</string>
     <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6775234299515596760" name="error_loading_message_body">"सन्देश पाठ लोड गर्न सकिएन। सन्देश हेर्नको लागि निकै ठूलो हुनुपर्दछ।"</string>
     <string msgid="1190783774800310346" name="exchange_name">"कर्पोरेट"</string>
     <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="2266544827446346880" name="expand_recipient_details">"प्राप्तकर्ता विवरणहरू विस्तार गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4664259801498253756" name="favorite_action">"तारा"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="79365993169715049" name="feedback">"सुझाव पठाउनुहोस्"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"एट्याच्मेन्ट ल्याइरहेको छ"</string>
     <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
     <string msgid="1500547397347480618" name="folder_icon_desc">"फोल्डर आइकन"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="860241987640527156" name="folder_picker_title">"फोल्डर पिकर"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1047474677580149436" name="folder_removed">"<ns1:g id="FOLDERNAME">%1$s</ns1:g>बाट निकालियो"</string>
     <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"इमेल फोल्डर"</string>
     <string msgid="6822914459902983767" name="forward">"अग्रेषित गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="669174181042344116" name="forward_action">"फर्वार्ड"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1498936339458535158" name="forward_attribution">"---------- अग्रेषित सन्देश ----------&lt;br>बाट: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>मिति: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>विषय: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>प्रापक: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6176608320359303255" name="forward_download_failed_ticker">"एक वा अधिक अनुलग्नक अग्रेषित गर्न सकिएन"</string>
     <string msgid="6139701848515572511" name="forward_download_failed_title">"अनुलग्नक अग्रेषित गरिएन"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="2454519463223197231" name="from_heading">"बाट: "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6140450617663543464" name="gal_searching_fmt">"खोज भइरहेको छ <ns1:g id="DOMAIN">%s</ns1:g>..."</string>
     <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"मेट्नु भन्दा पहिले पुष्टि गर्नुहोस्"</string>
@@ -623,21 +623,21 @@
     <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"सानो"</string>
     <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"एकदम सानो"</string>
     <string msgid="2648501128162793879" name="general_preferences_clear_trusted_senders_summary">"सन्देशहरुमा भएको चित्रहरु स्वचालित रूप मा देखिनेछैनन्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="8775959340559458709" name="generic_attachment_problem">"फाईल संलग्न गर्न सकिँदैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8243724566056800991" name="header_label_general_preferences">"सामान्य सेटिङहरू"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7873089811705257882" name="help_and_info">"मद्दत"</string>
     <string msgid="8907305605854960737" name="hide_elided">"▼ उद्धृत पाठ लुकाउनुहोस्"</string>
     <string msgid="1554651881128904262" name="ignore_spam_warning">"बेवास्ता गर्नुहोस्, म यस सन्देशलाई विश्वास गर्दछु"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="3960094746248976565" name="inbox_folders_heading">"इनबक्स"</string>
     <string msgid="6009817562073541204" name="info">"जानकारी"</string>
@@ -648,14 +648,14 @@
     <string msgid="420892447103014683" name="load_more">"अधिक लोड गर्नुहोस्"</string>
     <string msgid="489160038366067983" name="loading_conversation">"लोड हुँदै..."</string>
     <string msgid="2649440958602369555" name="loading_conversations">"लोड हुँदै..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> साइनइन असफल भयो।"</string>
     <string msgid="7624349996212476176" name="login_failed_title">"साइन इन गर्न सकिँदैन"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="9205666839837250150" name="long_press_to_select_tip">"एउटा कुराकानी छान्न छुनुहोस् र समाउनुहोस्, त्यसपछि थप चयन गर्न छुनुहोस्।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4261295503836387876" name="mailbox_list_account_selector_account_header">"लेखाहरू"</string>
     <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"संयुक्त दृश्य"</string>
@@ -675,13 +675,13 @@
     <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"सिंक विकल्पहरू"</string>
     <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"सिङ्क विकल्पहरु (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
     <string msgid="4152973927804882131" name="mailbox_shortcut_picker_title">"एक फोल्डर छान्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6743983544685622800" name="manual_sync">"अहिले सिङ्क  गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="3766298115778767554" name="mark_as_unread_action">"नपढिएको भनि चिनो लगाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6904096897104265870" name="mark_important">"महत्वपूर्ण भनि चिनो लगाउनुहोस्"</string>
     <string msgid="4550967327747977068" name="mark_not_important">"महत्त्वहीनको रूपमा चिन्ह लगाउनुहोस्"</string>
@@ -693,10 +693,10 @@
     <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
     <string msgid="1542713666608888717" name="menu_change_folders">"फोल्डरहरू परिवर्तन गर्नुहोस्"</string>
     <string msgid="6274193058224230645" name="menu_compose">"रचना गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2871906096248843471" name="menu_folder_options">"सिङ्क विकल्पहरु"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6755623004628177492" name="menu_manage_folders">"फोल्डर सेटिङ"</string>
     <string msgid="9138296669516358542" name="menu_move_to">"मा सार्नुहोस्"</string>
@@ -707,7 +707,7 @@
     <string msgid="5297197523031943248" name="menu_search">"खोज्नुहोस्"</string>
     <string msgid="6007027046949837282" name="menu_settings">"सेटिङहरु"</string>
     <string msgid="4227060689700765828" name="menu_show_original">"स्वत: पूर्वाकारमा परिवर्तित"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4401081828287333647" name="message_compose_attachment_size">"संलग्न गर्न फाईल निकै ठूलो छ।"</string>
     <string msgid="9177337492358841680" name="message_compose_bcc_hint">"Bcc"</string>
@@ -725,14 +725,14 @@
     <string msgid="2891895306418177013" name="message_compose_to_hint">"प्रापक"</string>
     <string msgid="5016042255170947834" name="message_decode_error">"सन्देश डिकोड गर्दा एउटा समस्या थियो।"</string>
     <string msgid="6603370107217227252" name="message_delete_dialog_title"/>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="2183394728494962332" name="message_details_title">"सन्देश विवरणहरू"</string>
     <string msgid="5079975378884765445" name="message_discarded">"सन्देश खारेज गरियो।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="3891461729325584026" name="message_discarded_toast">"सन्देश खारेज गरियो।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="869753811259793266" name="message_invite_accept">"हो"</string>
     <string msgid="1898326841767645665" name="message_invite_calendar_view">"क्यालेन्डरमा हेर्नुहोस्"</string>
@@ -740,17 +740,17 @@
     <string msgid="7378806613557157546" name="message_invite_label_attending">"जाँदै हुनुहुन्छ?"</string>
     <string msgid="3898050756490962079" name="message_invite_tentative">"सायद"</string>
     <string msgid="6757287288611722175" name="message_invite_title">"पात्रो आमन्त्रित"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4004644319382041459" name="message_is_empty_description">"कुनै विषय छैन"</string>
     <string msgid="7428302707908825692" name="message_list_load_more_messages_action">"बढि सन्देशहरू लोड गर्नुहोस्"</string>
     <string msgid="7846910091922523867" name="message_list_no_messages">"कुनै सन्देशहरू छैन"</string>
     <string msgid="8502942186631824114" name="message_list_send_pending_messages_action">"सबै सन्देशहरु पठाउनुहोस्"</string>
     <string msgid="1783589062530679520" name="message_list_subject_snippet_divider">" - "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7073947895562277576" name="message_saved">"सन्देश ड्राफ्टको रूपमा सुरक्षित गरियो।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8443125659172627665" name="message_saved_toast">"सन्देश ड्राफ्टको रूपमा बचत गरियो।"</string>
     <string msgid="3597047441062021199" name="message_subject_description">"विषय"</string>
@@ -793,15 +793,15 @@
     <string msgid="8878790392556284868" name="message_view_status_attachment_saved">"अनुलग्नक <ns1:g id="FILENAME">%s</ns1:g>को रूपमा बचत गरियो।"</string>
     <string msgid="3731022187530000852" name="message_view_subject_label">"विषय:"</string>
     <string msgid="6485191743265527381" name="message_view_to_label">"प्रापक:"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="717244337981816703" name="more_info_attachment">"जानकारी"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8704425397397918798" name="more_than_999">"९९९+"</string>
     <string msgid="3059189775933985898" name="move_action">"सार्नुहोस्"</string>
     <string msgid="2614318192482193898" name="move_to_folder_dialog_title">"मा सार्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"मा सार्नुहोस्"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"  <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -810,17 +810,17 @@
     <string msgid="1071412616544342913" name="new_incoming_messages_many">"<ns1:g id="COUNT">%1$d</ns1:g> नयाँ सन्देशहरू"</string>
     <string msgid="3200934730744395520" name="new_incoming_messages_one">"<ns1:g id="SENDER">%s</ns1:g>बाट नयाँ मेल"</string>
     <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> नयाँ सन्देशहरू"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="3931301986364184415" name="next_action">"अर्को"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="427548507197604096" name="no">"होइन"</string>
     <string msgid="1945184804521392093" name="no_application_found">"कुनै अनुप्रयोगले हेर्नको लागि यो अनुलग्नकलाई खोल्न सक्दैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="5559527390337162819" name="no_conversations">"कुनै सन्देशहरू छैनन्।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6059194125558004080" name="non_synced_folder_description">"कुराकानी हेर्नको लागि, यस  फोल्डर सिङ्क गर्नुहोस्।"</string>
     <string msgid="794279749170198599" name="not_synced_title">"खाता सिंक भएको छैन"</string>
@@ -832,14 +832,14 @@
     <string msgid="7280710366587361219" name="notification_action_undo_archive">"अभिलेख बनाइयो"</string>
     <string msgid="3105611327110905438" name="notification_action_undo_delete">"मेटाइयो"</string>
     <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"लेबल हटाईयो"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2606649762841566104" name="notification_multiple_new_messages_fmt">"<ns1:g id="ID_1">%1$d</ns1:g> नयाँ सन्देशहरु"</string>
     <string msgid="2078557719010667913" name="notification_to_account">"प्रापक <ns1:g id="RECEIVER_NAME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="8339355733816891026" name="ok">"ठिक छ"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8365197396795675617" name="okay_action">"ठिक छ"</string>
     <string msgid="7174669014074849304" name="password_expire_warning_content_title">"लक स्क्रीन पासवर्डको म्याद सकिदैछ"</string>
@@ -854,18 +854,18 @@
     <string msgid="378256653525377586" name="permission_access_provider_label">"ईमेल प्रदाता डाटा पहुँच गर्नुहोस्"</string>
     <string msgid="3394721085306308972" name="permission_read_attachment_desc">"तपाईंको ईमेल अनुलग्नकहरू पढ्न अनुप्रयोगलाई अनुमति दिन्छ।"</string>
     <string msgid="9208086010625033590" name="permission_read_attachment_label">"ईमेल अनुलग्नकहरु पढ्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="8811324070219403896" name="photo_load_failed">"तस्वीर लोड गर्न सकिएन"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6276294768978512737" name="picker_combined_view_fmt">"संयुक्त दृश्य (<ns1:g id="COUNT">%s</ns1:g>)"</string>
     <string msgid="2277030979530376085" name="picker_mailbox_name_all_inbox">"इनबक्स (सबै)"</string>
     <string msgid="6392491216581687644" name="picker_mailbox_name_all_unread">"इनबक्स (नपढिएको)"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="8797634225088247121" name="please_wait">"कृपया प्रतीक्षा गर्नुहोस्..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="627405158087482302" name="policy_calendar_age">"सिङ्क भएका पात्रो घटनाहरुको संख्या सीमित गर्नुहोस्"</string>
     <string msgid="5744573062306937302" name="policy_dont_allow_camera">"उपकरणको क्यामेराको प्रयोग अस्वीकार गर्नुहोस्"</string>
@@ -877,14 +877,14 @@
     <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
     <string msgid="7989353140376877792" name="position_of_count">"<ns1:g id="ID_2">%2$s</ns1:g> को <ns1:g id="ID_1">%1$d</ns1:g>"</string>
     <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"प्रेषक तस्वीर"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"संग्रह र कार्यहरू मेटाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4654821690566370979" name="preference_conversation_list_icon_summary">"वार्तालाप दृश्य मा प्रेषक चित्रहरुलाई देखाउनको लागि केही छान्नुहोस्"</string>
     <string msgid="2691641598368725077" name="preference_conversation_list_icon_title">"प्रेषक तस्वीर"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6585232628422090835" name="preference_removal_action_title">"अभिलेख र कार्य मेट्नुहोस्"</string>
     <string msgid="7126493917536558232" name="preference_sender_image_description">"कुराकानी सूचीमा पछाडिको नाम देखाउनुहोस्"</string>
@@ -898,7 +898,7 @@
     <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"सेट गरेको छैन"</string>
     <string msgid="888167074398030574" name="preferences_signature_title">"हस्ताक्षर"</string>
     <string msgid="6934911143603455393" name="preview_attachment">"पूर्वावलोकन"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="5181616311579820981" name="previous_action">"अघिल्लो"</string>
     <string msgid="2995297671709325333" name="provider_note_live">"केवल केहि \"प्लस\" खाताहरूले मात्र यस प्रोग्रामलाई जडान गर्न POP पहुँच समावेश गर्दछ। यदि तपाईं आफ्नो सहि ईमेल ठेगाना र पासवर्डबाट साइन इन गर्न असक्षम हुनुभयो भने, तपाईंले \"प्लस\" खातामा भुक्तान नगरेको हुनुपर्दछ। यी ईमेल खाताहरूमा पहुँच पाउनको लागि वेब ब्राउजर सुरूवात गर्नुहोस्।"</string>
@@ -908,14 +908,14 @@
     <string msgid="8061819976353395585" name="quick_3">"म यसलाई पछि पढ्ने छु र तपाइँकोमा फर्किनेछु।"</string>
     <string msgid="3988974084396883051" name="quick_4">"यस बारेमा छलफल गर्न एउटा बैठक सेट अप गरौं।"</string>
     <string msgid="3960050972306132367" name="quick_responses_empty_view">"कुनै द्रूत प्रतिक्रिया छैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7250749398672037355" name="quoted_text">"उद्धृत पाठ समावेश गर्नुहोस्"</string>
     <string msgid="541007446961960617" name="quoted_text_label">"पाठ उद्धृत गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4701484794504781686" name="read_action">"पढेको भनि चिनो लगाउँनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="219566857950091332" name="read_string">"कुराकानी पढाई"</string>
     <string msgid="8240081561436891330" name="recent_folders">"हालैको"</string>
@@ -923,75 +923,75 @@
     <string msgid="6051694305498669180" name="recipient_error_dialog_title">"प्राप्तकर्ता त्रुटि"</string>
     <string msgid="999037027358925655" name="recipient_needed">"कम से कम एक प्राप्तकर्ता थप्नुहोस्।"</string>
     <string msgid="490989798005710951" name="refresh">"पुन:ताजा गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="5951383001436708175" name="refresh_action">"पुन:ताजा गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="4906542720439865413" name="remove_folder">"<ns1:g id="FOLDERNAME">%1$s</ns1:g> बाट हटाउनुहोस्"</string>
     <string msgid="4372327933122106128" name="remove_star">"तारा हटाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6689770999647007163" name="remove_star_action">"तारा हटाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="2032052598496088561" name="reply">"जवाफ दिनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4262472229221507619" name="reply_action">"जवाफ"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7257248094625487557" name="reply_all">"सबैलाई जवाफ दिनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6192179825726332152" name="reply_all_action">"सबैलाई जवाफ दिनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="DATE">%s</ns1:g>मा, <ns1:g id="PERSON">%s</ns1:g> लेखियो:"</string>
     <string msgid="8563992423173220512" name="replyto_heading">"यसमा जवाफ पठाउनुहोस्: "</string>
     <string msgid="5417082746232614958" name="report">"विवरण"</string>
     <string msgid="5714205737453138338" name="report_phishing">"फिशिंग रिपोर्ट गर्नुहोस्"</string>
     <string msgid="6467567747975393907" name="report_spam">"स्प्याम रिपोर्ट गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="7777357288642785955" name="require_manual_sync_message">"रोमिङको क्रममा यस  खाताको लागि पृष्ठभूमि सिङ्क असक्षम छ।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6797117334768201180" name="respond_inline">"जवाफ पाठ भित्र गर्नुहोस्"</string>
     <string msgid="6450150180834092146" name="resume_draft">"सम्पादन गर्नुहोस्"</string>
     <string msgid="4515885444824418022" name="retry">"पुन:प्रयास गर्नुहोला"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="1988862706623227093" name="save_action">"बचत गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="5360128849867863132" name="save_attachment">"बचत गर्नुहोस्"</string>
     <string msgid="5555744208032445632" name="save_draft">"ड्राफ्ट बचत गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6413714270991417223" name="save_draft_action">"ड्राफ्ट सुरक्षित गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6660844285730790469" name="saved">"<ns1:g id="SIZE">%s</ns1:g>, सुरक्षित भयो"</string>
     <string msgid="925514721138014677" name="saving">"बचत गर्दै...."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6325101454876682308" name="search_action">"खोज्नुहोस्"</string>
     <string msgid="3857004638127418247" name="search_header_text_fmt">"\"<ns1:g id="ID_1">%1$s</ns1:g>\" को लागि परिणामहरू खोजी गर्नुहोस्"</string>
     <string msgid="2200412192574686497" name="search_hint">"ईमेल खोजी गर्नुहोस्"</string>
     <string msgid="7854987729678942790" name="search_mailbox_hint">"खोज <ns1:g id="ID_1">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="4669917471897026269" name="search_results_header">"परिणामहरू"</string>
     <string msgid="3821361153909466819" name="search_results_searching_header">"खोजी गर्दै..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8494483410797387903" name="search_slow_warning_message">"केही सर्भरहरुले धेरै लामो समय लिन सक्छन्।"</string>
     <string msgid="2826118321880530239" name="search_slow_warning_title">"परिणामहरूको लागि प्रतीक्षा गरिँदै"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="4654227193354052607" name="search_unsupported">"यस खातामा खोजी समर्थित छैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\"यस को सुरक्षा सेटिङ परिवर्तन भयो, कुनै प्रयोगकर्ता कारवाही आवश्यकता छैन।"</string>
     <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\" लाई सुरक्षा सेटिंग्स अपडेट आवश्यकता छ।"</string>
@@ -999,61 +999,61 @@
     <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"सुरक्षा नीतिहरु पूरा हुन सकेन"</string>
     <string msgid="2429762903228690154" name="security_notification_content_update_title">"सुरक्षा अपडेटको आवश्यकता"</string>
     <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\" सुरक्षा आवश्यकताहरूको कारण सिंक गर्न सकिँदैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="4711524151968942082" name="select_attachment_type">"अनुलग्नकको प्रकार छनौट गर्नुहोस्"</string>
     <string msgid="8242003661397555986" name="send">"पठाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="1729766205562446418" name="send_action">"पठाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="750908595144529579" name="send_failed">"सन्देश पठाईएको थिएन।"</string>
     <string msgid="917434007919176024" name="sender_whitelist_cleared">"तस्बिरहरू स्वचालित रूपमा देखाइने छैन।"</string>
     <string msgid="5895854795157860258" name="senders_split_token">", "</string>
     <string msgid="8214361929125649771" name="sending">"पठाउँदै..."</string>
     <string msgid="1498583163419122128" name="sending_message">"सन्देश पठाउँदै..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2668629667423320684" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>को लागि सर्वर पठाईएका आईटमहरू चयन गर्नुहोस्"</string>
     <string msgid="4660317166196258160" name="set_star_action">"स्टार थप गर्नुहोस्"</string>
     <string msgid="6334807007967459412" name="settings_action">"सेटिङहरू"</string>
     <string msgid="5185915603716333904" name="settings_activity_title">"सेटिङहरू"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="8220482314700618391" name="shortcut_name_title">"फोल्डर शर्टकटको नाम दिनुहोस्"</string>
     <string msgid="7114006150083237343" name="show">"देखाउनुहोस्"</string>
     <string msgid="5255917904110437886" name="show_elided">"▶ उद्धृत पाठ देखाउनुहोस्"</string>
     <string msgid="1875700481186331432" name="show_images">"चित्रहरु देखाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4136018559611145202" name="show_quick_text_list_dialog_action">"द्रुत प्रतिक्रिया सम्मिलित गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
     <string msgid="8958889809095796177" name="signin">"साइन-इन गर्नुहोस्"</string>
     <string msgid="5856834572357761687" name="silent_ringtone">"मौन"</string>
     <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
     <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6552307237621292344" name="status_loading_messages">"सन्देशहरू लोड हुँदै..."</string>
     <string msgid="2611654064403817391" name="status_network_error">"कनेक्सन समस्या।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="3262760336059073446" name="storage">"भण्डारण"</string>
     <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> - <ns1:g id="ID_2">%s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="7253964583324677128" name="subject_hint">"विषय"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6401908905820786227" name="swipe_down_to_refresh">"पुन:ताजा गर्न तल स्वाईप गर्नुहोस्"</string>
     <string msgid="1057043212338233359" name="sync_all">"सिंक: सबै"</string>
     <string msgid="7368819509040597851" name="sync_error">"सिंक गर्न सकिँदैन।"</string>
     <string msgid="5367907194753034375" name="sync_error_message">"तपाइँको उपकरण सँग सिङ्क गर्नको लागि पर्याप्त भण्डारण स्थान छैन।"</string>
     <string msgid="3581727068747471804" name="sync_none">"सिंक: कुनै पनि होईन"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="3673792980526246177" name="system_account_create_failed">"खाता सिर्जना गर्न सकिँदैन। पुन:प्रयास गर्नुहोस्।"</string>
     <string msgid="7071006714702094762" name="system_folders_sent_dlg">"तपाइँको सर्भरको पठाइएको वस्तु फोल्डर छान्नुहोस्"</string>
@@ -1063,35 +1063,35 @@
     <string msgid="4461220303400833402" name="system_folders_trash_dlg">"तपाइँको सर्भरको रद्दी फोल्डर छान्नुहोस्"</string>
     <string msgid="1258919809198485244" name="system_folders_trash_summary">"तपाईंको सर्वरको रद्दी फोल्डर चयन गर्नुहोस्"</string>
     <string msgid="8470058000681188327" name="system_folders_trash_title">"रद्दीको फोल्डर"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1181356242354390930" name="tap_to_configure">"सेट अप गर्न टच गर्नुहोस्"</string>
     <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"सिङ्क फोल्डर"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="4392614766835725698" name="to">"प्रापक"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="1142876841308812954" name="to_heading">"प्रापक: "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8144242451730692816" name="toast_account_not_found">"खाता भेटिएको थिएन। यो सायद हटाइयो।"</string>
     <string msgid="4960014581292378895" name="toast_mailbox_not_found">"फोल्डर फेला परेन। यो हटाईएको थियो होला।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="3366607594339390249" name="too_large_to_attach_additional">"फाईल संलग्न भएको छैन। <ns1:g id="MAXSIZE">%1$s</ns1:g> सीमा पुग्यो।"</string>
     <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"एक वा बढी फाइलहरुलाई एट्याच गरिएको छैन। <ns1:g id="MAXSIZE">%1$s</ns1:g> सीमित गर्नुहोस्।"</string>
     <string msgid="2996733972478212136" name="too_large_to_attach_single">"<ns1:g id="MAXSIZE">%1$s</ns1:g> मा फाइल एट्याच गर्न सकिंदैन।"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="8052880079616386185" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>को लागि सर्वर रद्दी फोल्डर चयन गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="6070869718469782251" name="undo">"अन्डु गर्नुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="6280399049357552826" name="unread_action">"नपढिएकोलाई चिन्ह लगाउनुहोस्"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="588180203444398297" name="unread_string">"नपढिएको कुराकानी"</string>
     <string msgid="1209670815434513191" name="veiled_address"/>
@@ -1103,15 +1103,15 @@
     <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"यस  खाता मा स्वचालित रूप मा सिङ्क गर्नको लागि सेटअप छैन। \nछुवाइ "<b>"अहिले सिङ्क गर्नुहोस्"</b>" एक पटक मेल सिङ्क गर्नको लागि, वा "<b>" सिङ्क सेटिङ परिवर्तन गर्नुहोस् "</b>" सिङ्क मेल मा स्वत:ः यस  खाता सेटअप गर्नको लागि।"</string>
     <string msgid="7718316938173643688" name="wait_for_sync_body">"तपाईंको ईमेल शीघ्र देखिनेछ।"</string>
     <string msgid="2767841242539238015" name="wait_for_sync_title">"सिंकको लागि प्रतीक्षा गर्दै"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="1393719303955128036" name="waitinf_for_sync_message_1">"सिंकको लागि प्रतीक्षा गर्दै"</string>
     <string msgid="5656175205790694016" name="waitinf_for_sync_message_2">"तपाईंको ईमेल चाँडै देखा पर्नेछ।"</string>
     <string msgid="4352573990283094963" name="widget_all_mail">"संयुक्त इनबक्स"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-ne/strings.xml -->
     <eat-comment/>
     <string msgid="2340962056927255554" name="widget_loading">"लोड हुँदै..."</string>
     <string msgid="2412482205591224408" name="widget_no_accounts">"तपाइँले अझसम्म एक इ-मेल खाता सेटअप गर्नुभएको छैन।"</string>
@@ -1119,7 +1119,7 @@
     <string msgid="8290352707134011791" name="widget_starred">"ताराङ्कित"</string>
     <string msgid="7062039013915225323" name="widget_touch_to_configure">"सेट अप गर्न टच गर्नुहोस्।"</string>
     <string msgid="4404711399009077833" name="widget_unread">"नपढिएको"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
     <eat-comment/>
     <string msgid="7474216525286833848" name="yes">"हो"</string>
 </resources>

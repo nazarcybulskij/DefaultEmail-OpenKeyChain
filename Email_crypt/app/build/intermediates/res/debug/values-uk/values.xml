@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"Відповісти"</item>
     <item msgid="4085029907540221568">"Відповісти всім"</item>
     <item msgid="857480048798815437">"Переслати"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"Дуже малий текст"</item>
@@ -16,7 +16,7 @@
     <item msgid="6227813549949219991">"Великий текст"</item>
     <item msgid="1197917420815786571">"Дуже великий текст"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
     <item msgid="6984976603137892898">"Система"</item>
@@ -110,7 +110,7 @@
     <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> повідомлення буде видалено назавжди."</item>
     <item msgid="2182899395748020953" quantity="other">"Повідомлення (<ns1:g id="COUNT">%1$d</ns1:g>) буде видалено назавжди."</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <plurals name="message_view_attachment_bytes">
     <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> Б"</item>
@@ -128,19 +128,19 @@
     <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> Мб"</item>
     <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> Мб"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <plurals name="move_conversation">
     <item msgid="3657821200245019288" quantity="one">"Перемістити бесіду"</item>
     <item msgid="1685896770174368261" quantity="other">"Перемістити бесід: <ns1:g id="ID_1">%1$d</ns1:g>"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <plurals name="move_messages">
     <item msgid="320885379869442589" quantity="one">"Переміщення повідомлення"</item>
     <item msgid="371256717624461324" quantity="other">"Переміщення повідомлень"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <plurals name="new_incoming_messages_many">
     <item msgid="6028908826781946980" quantity="other">"Нових повідомлень: <ns1:g id="COUNT">%1$d</ns1:g>. Показати."</item>
@@ -148,7 +148,7 @@
     <plurals name="show_messages_read">
     <item msgid="7439716291751085801" quantity="other">"Попередні повідомлення: <ns1:g id="COUNT">%1$d</ns1:g>"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Ви вже використовуєте це ім’я користувача для облікового запису \"<ns1:g id="DUPLICATE">%s</ns1:g>\"."</string>
     <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Копія облікового запису"</string>
@@ -183,10 +183,10 @@
     <string msgid="8134339460923068254" name="account_settings_notify_summary">"Надсилати сповіщення, коли надходить лист"</string>
     <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Налашт-ня вихідних"</string>
     <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Ім’я корист., пароль й інші налашт-ня сервера вихідних повідомл."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5277032997773498476" name="account_settings_param">"Налаштування облікового запису"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="6292833636418641840" name="account_settings_policies">"Правила безпеки"</string>
     <string msgid="1104680719299842829" name="account_settings_retry_label">"Спробувати синхронізувати"</string>
@@ -299,14 +299,14 @@
     <string msgid="1850321535870447468" name="account_setup_security_required_title">"Віддалене керування безпекою"</string>
     <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Введіть дійсну електронну адресу та пароль."</string>
     <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Ви не можете змінювати ім’я користувача облікового запису. Щоб додати обліковий запис з іншим іменем користувача, торкніться опції \"Додати обліковий запис\"."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5699548271856775808" name="account_sync_off">"Синхронізацію облікового запису вимкнено."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"Завантаження списку папок…"</string>
     <string msgid="8337750045270269649" name="accounts_welcome">"Обліковий запис можна налаштувати за допомогою лише кількох дій."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="2780005218279965391" name="actionbar_large_unread_count">"Не прочитано: <ns1:g id="COUNT">%1$d</ns1:g>+"</string>
     <string msgid="5161845867397316052" name="activity_folder_selection">"Вибрати папку"</string>
@@ -324,10 +324,10 @@
     <string msgid="2506843494725730618" name="all_folders_heading">"Усі папки"</string>
     <string msgid="5966408990164581801" name="always_show_images">"Завжди показ. зображ.від цього відправн."</string>
     <string msgid="6218061921546973716" name="always_show_images_toast">"Зображення від цього відправника відображатимуться автоматично."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="5815426892327290362" name="app_name">"Ел.пошта"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="847250094775910499" name="archive">"Архів"</string>
     <string msgid="7533995360704366325" name="archived">"Заархівовано"</string>
@@ -338,10 +338,10 @@
     <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Презентація"</string>
     <string msgid="135527133955622936" name="attachment_audio">"Аудіо"</string>
     <string msgid="3832985223906528449" name="attachment_image">"Зображення"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="7155322700141145123" name="attachment_not_found">"Не вдалося завантажити вкладений файл."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5544874374971562759" name="attachment_text">"Текст"</string>
     <string msgid="7878184764428642891" name="attachment_type_blocked">"На жаль, вкладений файл такого типу неможливо зберегти чи відкрити."</string>
@@ -357,18 +357,18 @@
     <string msgid="4279864165439577668" name="body_hint">"Напишіть електронний лист"</string>
     <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> б"</string>
     <string msgid="8762981157252199115" name="cancel">"Скасувати"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="6967435583794021865" name="cancel_action">"Скасувати"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="4651201258272223650" name="cancel_attachment">"Скасувати"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Неможливо перемістити, оскільки вибрано декілька облікових записів."</string>
     <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"Переміщення не підтримується в облікових записах POP3."</string>
     <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Повідомлення в папках \"Чернетки\", \"Вихідні\" та \"Надіслані\" перемістити неможливо."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Неможливо перемістити, оскільки вибрано декілька облікових записів."</string>
     <string msgid="7017720927911078193" name="cc">"Копія"</string>
@@ -385,10 +385,10 @@
     <string msgid="3608892454869745927" name="collapse_recipient_details">"Згорнути дані отримувача"</string>
     <string msgid="1473559896062432878" name="compose">"Написати"</string>
     <string msgid="1149834186404614612" name="confirm_discard_text">"Відхилити це повідомлення?"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="9151965975158906286" name="confirm_response">"Надсилання відповіді…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="3221546155385562874" name="confirm_send_message">"Надіслати це повідомлення?"</string>
     <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"У тілі повідомлення немає тексту."</string>
@@ -411,52 +411,52 @@
     <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS…"</string>
     <string msgid="297469098857964678" name="conversation_folder_moved">"Переміщено в папку <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Торкніться зображення відправника, щоб вибрати бесіду."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="7869435992461603532" name="copy_email">"Копіювати електронну адресу"</string>
     <string msgid="530057841276106843" name="copy_number">"Копіювати номер телефону"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="3062715563215392251" name="create_action">"Створити"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"Надіслати як:"</string>
     <string msgid="2086174555097691910" name="date_heading">"Дата: "</string>
     <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
     <string msgid="7923108495669251362" name="date_message_received_today">"Сьогодні, <ns1:g id="TIME">%1$s</ns1:g>"</string>
     <string msgid="2240669381396206434" name="date_message_received_yesterday">"Учора, <ns1:g id="TIME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="5175710493691536719" name="debug_title">"Налагодж."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="844871204175957681" name="delete">"Видалити"</string>
     <string msgid="2757349161107268029" name="deleted">"Видалено"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="426727923791430306" name="device_admin_description">"Активує правила безпеки, указані сервером"</string>
     <string msgid="8680224994637869414" name="device_admin_label">"Ел.пошта"</string>
     <string msgid="6196985268695592382" name="disable_admin_warning">"ЗАСТЕРЕЖЕННЯ. Дезактивація повноважень програми електронної пошти на адміністрування вашого пристрою призведе до видалення всіх облікових записів електронної пошти, що потребують адміністрування, разом з їхніми електронними листами, контактами, подіями календаря й іншими даними."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="1714960202994370243" name="discard">"Закрити"</string>
     <string msgid="6862272443470085375" name="discard_drafts">"Відхилити чернетки"</string>
     <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Закрити пораду"</string>
     <string msgid="3079981801778027540" name="done">"Готово"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="7497990549515580249" name="done_action">"Готово"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="7418568915429156518" name="download_again">"Завантажити знову"</string>
     <string msgid="442019281547315527" name="download_failed">"Помилка завантаження. Повторіть."</string>
     <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
     <string msgid="2764774620737876943" name="drawer_close">"Сховати навігаційну панель"</string>
     <string msgid="6074646853178471940" name="drawer_open">"Висунути навігаційну панель"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="6479106007607928450" name="edit_quick_response_dialog">"Швидка відповідь"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="6064497180615519589" name="empty_spam">"Очистити папку для спаму"</string>
     <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Очистити папку для спаму?"</string>
@@ -464,40 +464,40 @@
     <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Очистити кошик?"</string>
     <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Увімкніть у меню \"<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>\"."</string>
     <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="1190783774800310346" name="exchange_name">"Корпоратив"</string>
     <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="2266544827446346880" name="expand_recipient_details">"Розгорнути дані отримувача"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="1458877219699376279" name="failed">"Зображення не завантажено"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="79365993169715049" name="feedback">"Надіслати відгук"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"Отримання вкладеного файлу"</string>
     <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
     <string msgid="1500547397347480618" name="folder_icon_desc">"Значок папки"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="860241987640527156" name="folder_picker_title">"Засіб вибору папки"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="1047474677580149436" name="folder_removed">"Видалено з папки <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
     <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Папка \"Електронна пошта\""</string>
     <string msgid="6822914459902983767" name="forward">"Переслати"</string>
     <string msgid="1498936339458535158" name="forward_attribution">"---------- Переслане повідомлення ----------&lt;br>Від: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Дата: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Тема: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Кому: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
     <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Переадресоване повідомлення ----------"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Не вдалося переслати один або кілька вкладених файлів."</string>
     <string msgid="6139701848515572511" name="forward_download_failed_title">"Вкладений файл не переслано"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="2454519463223197231" name="from_heading">"Від: "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"Підтвердити перед видаленням"</string>
     <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"Повідомлення"</string>
@@ -510,22 +510,22 @@
     <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Звичайний"</string>
     <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Малий"</string>
     <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Дуже малий"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="8775959340559458709" name="generic_attachment_problem">"Не вдалося вкласти файл."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="8243724566056800991" name="header_label_general_preferences">"Загальні налаштування"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="7873089811705257882" name="help_and_info">"Довідка"</string>
     <string msgid="8907305605854960737" name="hide_elided">"▼ Сховати цитований текст"</string>
     <string msgid="7473552966537131652" name="hide_folders">"Сховати папки"</string>
     <string msgid="1554651881128904262" name="ignore_spam_warning">"Я довіряю цьому повідомленню"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="3960094746248976565" name="inbox_folders_heading">"Вхідні"</string>
     <string msgid="6009817562073541204" name="info">"Інформація"</string>
@@ -535,14 +535,14 @@
     <string msgid="420892447103014683" name="load_more">"Завантажити ще"</string>
     <string msgid="489160038366067983" name="loading_conversation">"Завантаження…"</string>
     <string msgid="2649440958602369555" name="loading_conversations">"Завантаження…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="2169365211566829350" name="login_failed_ticker">"Помилка входу в обліковий запис <ns1:g id="ACCOUNT_NAME">%s</ns1:g>."</string>
     <string msgid="7624349996212476176" name="login_failed_title">"Не вдалося ввійти"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="9205666839837250150" name="long_press_to_select_tip">"Торкніться й утримуйте, щоб вибрати одну бесіду, а потім ще раз, щоб вибрати інші."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Об\'єднаний перегляд"</string>
     <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Чернетки"</string>
@@ -558,7 +558,7 @@
     <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"Період синхронізації"</string>
     <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"Синхронізувати цю папку"</string>
     <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"Повідомлення завантажаться, коли з’явиться з’єднання"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="6743983544685622800" name="manual_sync">"Синхр. зараз"</string>
     <string msgid="6904096897104265870" name="mark_important">"Позначити як важливу"</string>
@@ -571,10 +571,10 @@
     <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> Мб"</string>
     <string msgid="1542713666608888717" name="menu_change_folders">"Змінити папки"</string>
     <string msgid="6274193058224230645" name="menu_compose">"Написати"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="2871906096248843471" name="menu_folder_options">"Параметри синхронізації"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="6755623004628177492" name="menu_manage_folders">"Налаштування папки"</string>
     <string msgid="9138296669516358542" name="menu_move_to">"Перемістити в"</string>
@@ -585,13 +585,13 @@
     <string msgid="5297197523031943248" name="menu_search">"Пошук"</string>
     <string msgid="6007027046949837282" name="menu_settings">"Налаштування"</string>
     <string msgid="4227060689700765828" name="menu_show_original">"Не змінювати розмір"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Оригінал. повід. --------\nТема: <ns1:g id="SUBJECT">%1$s</ns1:g>\nВід: <ns1:g id="SENDER">%2$s</ns1:g>\nКому: <ns1:g id="TO">%3$s</ns1:g>\nКопія: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
     <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Вставити швидку відповідь"</string>
     <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"Вставити швидку відповідь"</string>
     <string msgid="5016042255170947834" name="message_decode_error">"Під час розшифрування повідомлення сталася помилка."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="2183394728494962332" name="message_details_title">"Деталі повідомлення"</string>
     <string msgid="5079975378884765445" name="message_discarded">"Повідомлення відхилено."</string>
@@ -602,19 +602,19 @@
     <string msgid="3898050756490962079" name="message_invite_tentative">"Можливо"</string>
     <string msgid="6757287288611722175" name="message_invite_title">"Запрошення календаря"</string>
     <string msgid="7073947895562277576" name="message_saved">"Повідомлення збережено як чернетку."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="7906875687519445185" name="message_view_attachment_background_load">"Перед надсиланням буде завантажено один або кілька вкладених файлів із повідомлення, яке ви пересилаєте."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="717244337981816703" name="more_info_attachment">"Інформація"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Перемістити в"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -622,17 +622,17 @@
     <string msgid="2125579009654728299" name="network_error">"Немає з’єднання"</string>
     <string msgid="164529476439626369" name="new_incoming_messages_one">"Повідомлення від <ns1:g id="SENDER">%s</ns1:g>. Показати."</string>
     <string msgid="4419173946074516420" name="new_messages">"Нових повідомлень: <ns1:g id="COUNT">%1$d</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="3931301986364184415" name="next_action">"Далі"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="427548507197604096" name="no">"Ні"</string>
     <string msgid="1945184804521392093" name="no_application_found">"Немає програми, щоб відкрити цей вкладений файл для перегляду."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="5559527390337162819" name="no_conversations">"Немає повідомлень."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="6059194125558004080" name="non_synced_folder_description">"Щоб переглядати бесіди, синхронізуйте цю папку."</string>
     <string msgid="794279749170198599" name="not_synced_title">"Обліковий запис не синхронізовано"</string>
@@ -645,7 +645,7 @@
     <string msgid="3105611327110905438" name="notification_action_undo_delete">"Видалено"</string>
     <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Мітку вилучено"</string>
     <string msgid="8339355733816891026" name="ok">"ОК"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="8365197396795675617" name="okay_action">"OK"</string>
     <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Терм.дії пар.блок.екр.закінч."</string>
@@ -660,17 +660,17 @@
     <string msgid="378256653525377586" name="permission_access_provider_label">"Доступ до даних постачальника послуг електронної пошти"</string>
     <string msgid="3394721085306308972" name="permission_read_attachment_desc">"Дозволяє програмі читати вкладені файли вашої пошти."</string>
     <string msgid="9208086010625033590" name="permission_read_attachment_label">"Читати вкладені файли пошти"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5171715391553213328" name="phone">"телефоном"</string>
     <string msgid="8811324070219403896" name="photo_load_failed">"Зображення не завантажено"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g> з <ns1:g id="COUNT">%d</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="8797634225088247121" name="please_wait">"Зачекайте…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="627405158087482302" name="policy_calendar_age">"Обмежувати к-сть синхронізованих подій календаря"</string>
     <string msgid="5744573062306937302" name="policy_dont_allow_camera">"Забороняти використання камери пристрою"</string>
@@ -681,7 +681,7 @@
     <string msgid="414869965358468080" name="policy_screen_timeout">"Вимаг. блок-ня екрана неактивн. пристрою"</string>
     <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
     <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"Зображення відправника"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Архівування та видалення"</string>
     <string msgid="6585232628422090835" name="preference_removal_action_title">"Архівування та видалення"</string>
@@ -696,7 +696,7 @@
     <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Не встановлено"</string>
     <string msgid="888167074398030574" name="preferences_signature_title">"Підпис"</string>
     <string msgid="6934911143603455393" name="preview_attachment">"Перегляд"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="5181616311579820981" name="previous_action">"Назад"</string>
     <string msgid="2995297671709325333" name="provider_note_live">"Лише деякі облікові записи класу \"Plus\" надаються з доступом до сервера POP, що дозволяє цій програмі підключатися. Якщо ви не можете ввійти, використовуючи правильну електронну адресу та пароль, можливо, у вас немає платного облікового запису \"Plus\". Запустіть веб-переглядач, щоб мати доступ до цих облікових записів електронної пошти."</string>
@@ -706,7 +706,7 @@
     <string msgid="8061819976353395585" name="quick_3">"Я прочитаю це пізніше, а потім дам знати."</string>
     <string msgid="3988974084396883051" name="quick_4">"Потрібно зустрітися, щоб це обговорити."</string>
     <string msgid="3960050972306132367" name="quick_responses_empty_view">"Швидких відповідей немає."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="7250749398672037355" name="quoted_text">"Додати цитований текст"</string>
     <string msgid="541007446961960617" name="quoted_text_label">"Цитований текст"</string>
@@ -724,32 +724,32 @@
     <string msgid="5417082746232614958" name="report">"Повідомити"</string>
     <string msgid="5714205737453138338" name="report_phishing">"Повідомити про фішинг"</string>
     <string msgid="6467567747975393907" name="report_spam">"Повідомити про спам"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="7777357288642785955" name="require_manual_sync_message">"У роумінгу фонову синхронізацію для цього облікового запису вимкнено."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="6797117334768201180" name="respond_inline">"Відповісти в тілі листа"</string>
     <string msgid="6450150180834092146" name="resume_draft">"Редагувати"</string>
     <string msgid="4515885444824418022" name="retry">"Повторити спробу"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="1988862706623227093" name="save_action">"Зберегти"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5360128849867863132" name="save_attachment">"Зберегти"</string>
     <string msgid="5555744208032445632" name="save_draft">"Зберегти як чернетку"</string>
     <string msgid="6660844285730790469" name="saved">"Збережено, <ns1:g id="SIZE">%s</ns1:g>"</string>
     <string msgid="925514721138014677" name="saving">"Збереження…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="2200412192574686497" name="search_hint">"Пошук в електронній пошті"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="4669917471897026269" name="search_results_header">"Результати"</string>
     <string msgid="3821361153909466819" name="search_results_searching_header">"Пошук..."</string>
     <string msgid="4654227193354052607" name="search_unsupported">"Функція пошуку в цьому обліковому записі не підтримується."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"Налаштування безпеки облікового запису \"<ns1:g id="ACCOUNT">%s</ns1:g>\" змінено. Користувачу не потрібно нічого робити."</string>
     <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"Для облікового запису \"<ns1:g id="ACCOUNT">%s</ns1:g>\" потрібно оновити налаштування безпеки."</string>
@@ -757,7 +757,7 @@
     <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"Неможл. дотрим. правил безпеки"</string>
     <string msgid="2429762903228690154" name="security_notification_content_update_title">"Потрібно оновити прав. безпеки"</string>
     <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"Обліковий запис \"<ns1:g id="ACCOUNT">%s</ns1:g>\" неможливо синхронізувати через вимоги безпеки."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="4711524151968942082" name="select_attachment_type">"Вибрати тип вкладеного файлу"</string>
     <string msgid="8242003661397555986" name="send">"Надіслати"</string>
@@ -766,11 +766,11 @@
     <string msgid="5895854795157860258" name="senders_split_token">", "</string>
     <string msgid="8214361929125649771" name="sending">"Надсилання…"</string>
     <string msgid="1498583163419122128" name="sending_message">"Надсилання повідомлення…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="2668629667423320684" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>: виберіть папку на сервері"</string>
     <string msgid="5185915603716333904" name="settings_activity_title">"Налаштування"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="8220482314700618391" name="shortcut_name_title">"Назвати ярлик папки"</string>
     <string msgid="5255917904110437886" name="show_elided">"▶ Показати цитований текст"</string>
@@ -781,10 +781,10 @@
     <string msgid="5856834572357761687" name="silent_ringtone">"Без звуку"</string>
     <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
     <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="2611654064403817391" name="status_network_error">"Проблема зі з’єднанням."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="3262760336059073446" name="storage">"Пам’ять"</string>
     <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> – <ns1:g id="ID_2">%s</ns1:g>"</string>
@@ -792,7 +792,7 @@
     <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Проведіть пальцем униз, щоб оновити"</string>
     <string msgid="7368819509040597851" name="sync_error">"Не вдалося синхронізувати."</string>
     <string msgid="5367907194753034375" name="sync_error_message">"У вашому пристрої не вистачає пам’яті для синхронізації."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="3673792980526246177" name="system_account_create_failed">"Не вдалося створити обліковий запис. Повторіть спробу."</string>
     <string msgid="7071006714702094762" name="system_folders_sent_dlg">"Виберіть папку надісланих на сервері"</string>
@@ -802,7 +802,7 @@
     <string msgid="4461220303400833402" name="system_folders_trash_dlg">"Виберіть \"Кошик\" на сервері"</string>
     <string msgid="1258919809198485244" name="system_folders_trash_summary">"Виберіть \"Кошик\" на сервері"</string>
     <string msgid="8470058000681188327" name="system_folders_trash_title">"Папка \"Кошик\""</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="7956969657216748522" name="tablet">"планшетом"</string>
     <string msgid="1181356242354390930" name="tap_to_configure">"Торкніться, щоб налаштувати"</string>
@@ -813,10 +813,10 @@
     <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Файл не вкладено. Досягнуто максимального розміру: <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
     <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Один або декілька файлів не вкладено. Максимальний розмір: <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
     <string msgid="2996733972478212136" name="too_large_to_attach_single">"Неможливо вкласти файл розміром понад <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string msgid="8052880079616386185" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>: виберіть \"Кошик\" на сервері"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-uk/values.xml -->
     <eat-comment/>
     <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Зміни, які ви вносите до всіх програм і облікових записів (не лише Gmail), синхронізуватимуться з веб-службами, іншими пристроями та вашим <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
     <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Увімкнути"</string>
