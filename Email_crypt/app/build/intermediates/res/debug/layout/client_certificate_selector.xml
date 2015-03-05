@@ -55,4 +55,4 @@
         android:text="@string/account_setup_exchange_no_certificate" />
 
 </com.android.email.view.CertificateSelector>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/layout/client_certificate_selector.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/layout/client_certificate_selector.xml -->

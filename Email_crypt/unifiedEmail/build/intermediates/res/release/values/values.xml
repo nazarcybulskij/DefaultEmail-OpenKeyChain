@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/accountprovider.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/accountprovider.xml -->
     <eat-comment/>
     <string-array name="account_providers" translatable="false">
         <!-- mock account list -->
         <item>content://com.android.mail.mockprovider/accounts</item>
     </string-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
         <!-- Reply -->
@@ -16,7 +16,7 @@
         <!-- Forward -->
         <item>Forward</item>
     </string-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
     <eat-comment/>
     <array name="letter_tile_colors">
         <item>#f16364</item>
@@ -28,7 +28,7 @@
         <item>#2093cd</item>
         <item>#ad62a7</item>
     </array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
         <item>System</item>
@@ -71,7 +71,7 @@
         <item>delete</item>
         <item>archive-and-delete</item>
     </string-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/arrays.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <integer-array name="senders_lengths">
         <item>27</item>
@@ -81,7 +81,7 @@
         <item>25</item>
         <item>25</item>
     </integer-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="sync_status">
         <item>Success</item>
@@ -91,19 +91,19 @@
         <item>Couldn\'t sync.</item>
         <item>Internal Error</item>
     </string-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <bool name="display_folder_colors_in_widget">false</bool>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <bool name="force_thumbnail_no_scaling">true</bool>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <bool name="list_collapsible">true</bool>
     <bool name="show_disabled_archive_menu_item">false</bool>
     <bool name="show_two_pane_search_results">false</bool>
     <bool name="veiled_address_enabled">false</bool>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="account_item_selected_text_color">@color/mail_app_blue</color>
     <color name="ap_background_color">#fff1f1f2</color>
@@ -144,11 +144,11 @@
     <color name="message_header_background_color">@android:color/white</color>
     <color name="message_info_text_color">@color/gray_text_color</color>
     <color name="notification_template_icon_low_bg">#0cffffff</color>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="photo_crop_dim_color">#cc000000</color>
     <color name="photo_crop_highlight_color">#fff</color>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="quotedTextColor">@color/gray_text_color</color>
     <color name="quoted_text_color">@color/gray_text_color</color>
@@ -156,10 +156,10 @@
     <color name="senders_text_color_unread">@color/dark_gray_text_color</color>
     <color name="snippet_text_color_read">@color/snippet_text_color_unread</color>
     <color name="snippet_text_color_unread">#777777</color>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="solid_black">#ff000000</color>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="subject_text_color_read">@color/subject_text_color_unread</color>
     <color name="subject_text_color_unread">@color/dark_gray_text_color</color>
@@ -172,7 +172,7 @@
     <declare-styleable name="GridLayout"><attr name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode"><enum name="alignBounds" value="0"/><enum name="alignMargins" value="1"/></attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
     <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr name="layout_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr></declare-styleable>
     <declare-styleable name="RecipientEditTextView"><attr format="reference" name="invalidChipBackground"/><attr format="reference" name="chipBackground"/><attr format="reference" name="chipBackgroundPressed"/><attr format="reference" name="chipDelete"/><attr format="reference" name="chipAlternatesLayout"/><attr format="reference" name="chipPadding"/><attr format="reference" name="chipHeight"/><attr format="reference" name="chipFontSize"/></declare-styleable>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="account_item_folder_color_width">36dip</dimen>
     <dimen name="account_item_left_margin">14dp</dimen>
@@ -196,12 +196,12 @@
     <dimen name="attachment_tile_min_size">120dp</dimen>
     <dimen name="attachment_toast_yoffset">-100dip</dimen>
     <dimen name="checked_text_padding">16dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="chip_height">32dip</dimen>
     <dimen name="chip_padding">8dip</dimen>
     <dimen name="chip_text_size">14sp</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="color_block_height">6dip</dimen>
     <dimen name="color_block_width">32dip</dimen>
@@ -221,19 +221,19 @@
     <dimen name="conversation_page_gutter">16dp</dimen>
     <dimen name="conversation_view_margin_side">8dp</dimen>
     <dimen name="conversation_view_margin_side_minus_gradient">7dp</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.0.0/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="default_gap">16dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="dismiss_button_padding_end">28dip</dimen>
     <dimen name="dismiss_button_padding_start">20dip</dimen>
     <dimen name="dismiss_separator_padding">16dip</dimen>
     <dimen name="drawer_width">300dp</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/two_pane_dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/two_pane_dimen.xml -->
     <eat-comment/>
     <dimen name="empty_view_top_padding">38dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="folder_cell_width">32dip</dimen>
     <dimen name="folder_list_folder_color_width">36dip</dimen>
@@ -249,10 +249,10 @@
     <dimen name="folder_teaser_count_textview_minwidth">68dp</dimen>
     <dimen name="folders_left_padding">8dip</dimen>
     <dimen name="folders_text_bottom_padding">4dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="line_spacing_extra">4dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="list_min_width_is_wide">720dp</dimen>
     <dimen name="list_normal_mode_min_width_is_spacious">600dp</dimen>
@@ -274,25 +274,25 @@
     <dimen name="message_header_title_container_margin_end_collapsed">10dp</dimen>
     <dimen name="message_sender_name_text_size">16sp</dimen>
     <dimen name="message_show_pics_header_padding_end">14dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
     <eat-comment/>
     <dimen name="min_swipe">10dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="notification_view_height">36dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="photo_crop_stroke_width">1dip</dimen>
     <dimen name="photo_crop_width">280dip</dimen>
     <dimen name="photo_page_margin">32dip</dimen>
     <dimen name="photo_preview_size">200dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="recipient_summary_margin">16dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="retry_button_size">48dip</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="search_view_width">400dip</dimen>
     <dimen name="send_mail_as_padding">8dip</dimen>
@@ -315,7 +315,7 @@
     <dimen name="widget_margin_right">0dip</dimen>
     <dimen name="widget_margin_top">0dip</dimen>
     <dimen name="widget_subject_font_size">13sp</dimen>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/ids.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="contact_image" type="id"/>
     <item name="folder" type="id"/>
@@ -323,7 +323,7 @@
     <item name="move_folder" type="id"/>
     <item name="personal_level" type="id"/>
     <item name="reply_state" type="id"/>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="actionbar_hidden_non_cab_items_no_physical_button">1</integer>
     <integer name="actionbar_max_items">3</integer>
@@ -333,14 +333,14 @@
     <integer name="ap_progress_animation_delay">2000</integer>
     <integer name="ap_progress_animation_duration">4000</integer>
     <integer name="attachment_preview_max_size">256</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/progress_dialog_values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/progress_dialog_values.xml -->
     <eat-comment/>
     <integer name="batch_progress_display_time">500</integer>
     <integer name="batch_progress_wait_time">750</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <integer name="chips_max_lines">2</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="config_image_cache_max_bitmaps">24</integer>
     <integer name="config_image_cache_max_bytes">1500000</integer>
@@ -354,61 +354,61 @@
     <integer name="conversation_webview_viewport_px">980</integer>
     <integer name="conversationview_min_show_loading">250</integer>
     <integer name="conversationview_show_loading_delay">500</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
     <eat-comment/>
     <integer name="dialog_animationDefaultDur">220</integer>
     <integer name="dialog_animationShortDur">150</integer>
     <integer name="dismiss_all_leavebehinds_long_delay">350</integer>
     <integer name="dismiss_all_leavebehinds_short_delay">175</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="dismiss_undo_bar_delay_ms">300</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
     <eat-comment/>
     <integer name="escape_animation_duration">200</integer>
     <integer name="fade_duration">250</integer>
     <integer name="fade_in_animation_duration">300</integer>
     <integer name="fadein_cc_bcc_dur">150</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="folder_item_refresh_delay_ms">500</integer>
     <integer name="folder_list_weight">1</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/progress_dialog_values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/progress_dialog_values.xml -->
     <eat-comment/>
     <integer name="html_conv_progress_display_time">600</integer>
     <integer name="html_conv_progress_wait_time">600</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="leaveBehindSwipeScrollSlop">25</integer>
     <integer name="maxUnreadCount">999</integer>
     <integer name="max_auto_load_messages">20</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
     <eat-comment/>
     <integer name="max_dismiss_velocity">2000</integer>
     <integer name="max_escape_animation_duration">400</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="max_list_item_images">4</integer>
     <integer name="max_num_notification_digest_items">10</integer>
     <integer name="nested_folders_collapse_threshold">1</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="reenter_fullscreen_delay_time_in_millis">5000</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="show_undo_bar_delay_ms">200</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
     <eat-comment/>
     <integer name="shrink_animation_duration">200</integer>
     <integer name="slide_animation_duration">320</integer>
     <integer name="snap_animation_duration">350</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="swipeScrollSlop">2</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/animation_constants.xml -->
     <eat-comment/>
     <integer name="swipe_escape_velocity">100</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/constants.xml -->
     <eat-comment/>
     <integer name="swipe_senders_length">25</integer>
     <integer name="timestamp_update_interval">60000</integer>
@@ -419,7 +419,7 @@
     <integer name="widget_account_unread_flip_ms">5000</integer>
     <integer name="widget_folder_refresh_delay_ms">500</integer>
     <integer name="widget_refresh_delay_ms">4000</integer>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <plurals name="actionbar_unread_messages">
         <!-- String for the actionbar subtitle when messages are unread [CHAR LIMIT=30] -->
@@ -577,10 +577,10 @@
     <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
     <string name="collapse_recipient_details">Collapse recipient details</string>
     <string name="compose">Compose</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/helpcontext.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/helpcontext.xml -->
     <eat-comment/>
     <string name="compose_help_context" translatable="false">compose</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="confirm_discard_text">Discard this message?</string>
     <string name="confirm_send_message">Send this message?</string>
@@ -605,17 +605,17 @@
     <string name="conversation_content_provider" translatable="false">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Moved to <ns1:g id="folderName">%1$s</ns1:g></string>
     <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="copy_email">Copy email address</string>
     <string name="copy_number">Copy phone number</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="custom_from_account_label">Send mail as:</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/donottranslate.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/donottranslate.xml -->
     <eat-comment/>
     <string name="date" translatable="false">2888/88/88</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="date_heading">Date:\u0020</string>
     <string name="date_message_received"><ns1:g id="day_and_date">%1$s</ns1:g>, <ns1:g id="time">%2$s</ns1:g></string>
@@ -641,10 +641,10 @@
     <string name="enable_sync_in_account_settings">Turn on in <ns1:g id="account_settings">%1$s</ns1:g>.</string>
     <string name="enumeration_comma">,\u0020</string>
     <string name="expand_recipient_details">Expand recipient details</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="failed">Couldn\'t load image</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="feedback">Send feedback</string>
     <string name="fetching_attachment">Fetching attachment</string>
@@ -677,13 +677,13 @@
     <string name="loading_conversation">Loading\u2026</string>
     <string name="loading_conversations">Loading\u2026</string>
     <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/donottranslate.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/donottranslate.xml -->
     <eat-comment/>
     <string name="long_string" translatable="false">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/helpcontext.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/helpcontext.xml -->
     <eat-comment/>
     <string name="main_help_context" translatable="false">ttl</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="manual_sync">Sync now</string>
     <string name="mark_important">Mark important</string>
@@ -718,10 +718,10 @@
     <string name="message_saved">Message saved as draft.</string>
     <string name="mock_content_provider" translatable="false">Mock Content Provider</string>
     <string name="more_info_attachment">Info</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="more_string">\u002B<ns1:g id="count">%1$s</ns1:g></string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="move_to_selection_dialog_title">Move to</string>
     <string name="multiple_new_message_notification_item"><b><ns1:g id="sender">%1$s</ns1:g></b>\u0020\u0020\u0020<ns1:g id="subject">%2$s</ns1:g></string>
@@ -746,10 +746,10 @@
     <string name="ok">OK</string>
     <string name="phone">phone</string>
     <string name="photo_load_failed">Couldn\'t load image</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="photo_view_count"><ns1:g id="current_pos">%d</ns1:g> of <ns1:g id="count">%d</ns1:g></string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="please_wait">Please wait\u2026</string>
     <string name="prefDefault_autoAdvance" translatable="false">list</string>
@@ -769,11 +769,11 @@
     <string name="preview_attachment">Preview</string>
     <string name="quote_begin" translatable="false">&lt;div class=\"quote\"></string>
     <string name="quoted_text">Include quoted text</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/colors.xml -->
     <eat-comment/>
     <string name="quoted_text_background_color_string" translatable="false">@android:color/white</string>
     <string name="quoted_text_font_color_string" translatable="false">@color/gray_text_color</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="quoted_text_label">Quote text</string>
     <string name="read_string">conversation read</string>
@@ -845,13 +845,13 @@
     <string name="too_large_to_attach_additional">File not attached. <ns1:g id="maxSize">%1$s</ns1:g> limit reached.</string>
     <string name="too_large_to_attach_multiple">One or more files not attached. Limit <ns1:g id="maxSize">%1$s</ns1:g>.</string>
     <string name="too_large_to_attach_single">Can\'t attach file over <ns1:g id="maxSize">%1$s</ns1:g>.</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/shortcut_keys.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/shortcut_keys.xml -->
     <eat-comment/>
     <string name="trigger_compose_char" translatable="false">c</string>
     <string name="trigger_refresh_char" translatable="false">u</string>
     <string name="trigger_save_char" translatable="false">s</string>
     <string name="trigger_y_char" translatable="false">y</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="turn_auto_sync_on_dialog_body">Changes you make to
     all apps and accounts, not just Gmail, will be synchronized
@@ -871,15 +871,15 @@
     <string name="wait_for_manual_sync_body">This account isn\'t set up to sync automatically.\nTouch <b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
     <string name="wait_for_sync_body">Your email will appear shortly.</string>
     <string name="wait_for_sync_title">Waiting for sync</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/helpcontext.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/helpcontext.xml -->
     <eat-comment/>
     <string name="wait_help_context" translatable="false">wait</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_provider" translatable="false">com.android.mail.widget.WidgetProvider</string>
     <string name="yes">Yes</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AbstractConversationSubjectStyle">
         <item name="android:textSize">@dimen/conversation_header_font_size</item>
@@ -1087,12 +1087,12 @@
         <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
         <item name="android:layout_gravity">center_vertical</item>
     </style>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Holo.ActionBar" parent="android:Widget.Holo.ActionBar">
         <item name="android:background">@drawable/actionbar_translucent</item>
     </style>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="InvisibleShortcutWidgetTheme" parent="@style/ShortcutWidgetTheme">
         <item name="android:windowNoDisplay">true</item>
@@ -1218,7 +1218,7 @@
     <style name="OverflowButtonStyle" parent="@android:style/Widget.Holo.Light.ActionButton.Overflow">
         <item name="android:src">@drawable/ic_menu_moreoverflow_normal_holo_light</item>
     </style>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="PhotoViewTheme" parent="android:Theme.Holo">
         <item name="android:windowNoTitle">false</item>
@@ -1227,7 +1227,7 @@
         <item name="android:windowBackground">@color/solid_black</item>
         <item name="android:actionBarStyle">@style/Holo.ActionBar</item>
     </style>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="PlainActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
         <item name="android:displayOptions"/>
@@ -1255,7 +1255,7 @@
         <item name="android:layout_marginTop">4dip</item>
         <item name="android:paddingLeft">0dip</item>
      </style>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="RecipientEditTextView" parent="@android:attr/autoCompleteTextViewStyle">
         <item name="android:inputType">textEmailAddress|textMultiLine</item>
@@ -1269,7 +1269,7 @@
         <item name="android:minHeight">48dip</item>
         <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
     </style>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="RecipientEditTextViewStyle" parent="@style/RecipientEditTextView">
         <item name="android:minHeight">42dip</item>

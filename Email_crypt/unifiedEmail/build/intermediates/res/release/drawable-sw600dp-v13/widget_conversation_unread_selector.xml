@@ -28,4 +28,4 @@
           android:state_activated="true"
           android:drawable="@drawable/list_conversation_wide_unread_selected_holo" />
     <item android:drawable="@drawable/list_conversation_wide_unread_normal_holo" />
-</selector><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable-sw600dp/widget_conversation_unread_selector.xml -->
+</selector><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable-sw600dp/widget_conversation_unread_selector.xml -->

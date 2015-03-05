@@ -38,4 +38,4 @@
         android:background="@drawable/card_top"
         style="@style/ConversationViewSideMarginStyle" />
 </com.android.mail.browse.BorderView>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/card_border.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/card_border.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/card_border.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/card_border.xml -->

@@ -38,4 +38,4 @@
         android:visibility="gone"
         android:text="@string/quick_responses_empty_view"
         />
-</LinearLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/layout/account_settings_edit_quick_responses_fragment.xml -->
+</LinearLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/layout/account_settings_edit_quick_responses_fragment.xml -->

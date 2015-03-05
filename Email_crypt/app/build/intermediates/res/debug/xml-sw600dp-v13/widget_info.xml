@@ -23,4 +23,4 @@
     android:resizeMode="horizontal|vertical"
     android:configure="com.android.email2.ui.MailboxSelectionActivityEmail"
     android:widgetCategory="home_screen|keyguard" />
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml-sw600dp/widget_info.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml-sw600dp/widget_info.xml -->

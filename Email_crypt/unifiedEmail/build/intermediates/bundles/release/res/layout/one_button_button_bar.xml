@@ -31,4 +31,4 @@
         android:text="@string/cancel"
         android:paddingLeft="2dip"
         android:paddingRight="2dip" />
-</LinearLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/one_button_button_bar.xml -->
+</LinearLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/one_button_button_bar.xml -->

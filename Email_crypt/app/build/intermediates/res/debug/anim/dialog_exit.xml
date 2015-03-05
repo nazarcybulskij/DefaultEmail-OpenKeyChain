@@ -28,4 +28,4 @@
         android:interpolator="@android:interpolator/decelerate_cubic"
         android:duration="@integer/dialog_animationShortDur"/>
 </set>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/anim/dialog_exit.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/anim/dialog_exit.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/anim/dialog_exit.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/anim/dialog_exit.xml -->

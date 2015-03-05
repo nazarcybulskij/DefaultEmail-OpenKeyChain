@@ -71,4 +71,4 @@
     <!-- retry button might use a background that is ICS+ so include it from the right layout -->
     <include layout="@layout/photo_retry_button" />
 </RelativeLayout>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/photoviewer/src/main/res/layout/photo_fragment_view.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/layout/photo_fragment_view.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/photoviewer/src/main/res/layout/photo_fragment_view.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/layout/photo_fragment_view.xml -->

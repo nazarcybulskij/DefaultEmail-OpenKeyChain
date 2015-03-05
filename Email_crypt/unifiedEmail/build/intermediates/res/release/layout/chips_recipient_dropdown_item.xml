@@ -55,4 +55,4 @@
         android:cropToPadding="true"
         android:scaleType="centerCrop" />
 </LinearLayout>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/chips/src/main/res/layout/chips_recipient_dropdown_item.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/layout/chips_recipient_dropdown_item.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/chips/src/main/res/layout/chips_recipient_dropdown_item.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/layout/chips_recipient_dropdown_item.xml -->

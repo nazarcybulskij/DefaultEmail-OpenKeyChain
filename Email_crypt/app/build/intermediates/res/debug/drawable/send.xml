@@ -22,4 +22,4 @@
     <item android:state_enabled="false"
         android:drawable="@drawable/ic_menu_send_disabled_holo_light" />
 </selector>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/send.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/drawable/send.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/send.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/drawable/send.xml -->

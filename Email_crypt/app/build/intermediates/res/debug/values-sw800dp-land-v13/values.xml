@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw800dp-land-v13/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-sw800dp-land-v13/values.xml -->
     <eat-comment/>
     <dimen name="compose_area_left_padding">104dip</dimen>
     <dimen name="compose_area_right_padding">104dip</dimen>

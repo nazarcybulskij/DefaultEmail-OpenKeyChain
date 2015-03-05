@@ -430,4 +430,4 @@
         <outgoing uri="smtp+ssl+://android.smtp.mail.yahoo.com" username="$email" />
     </provider>
 </providers>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml/providers.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml/providers.xml -->

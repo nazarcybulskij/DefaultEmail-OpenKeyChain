@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/java/com/android/emailcommon/service/IAccountService.aidl
+ * Original file: /home/nazar/okc/okc/Email_crypt/app/src/main/java/com/android/emailcommon/service/IAccountService.aidl
  */
 package com.android.emailcommon.service;
 public interface IAccountService extends android.os.IInterface

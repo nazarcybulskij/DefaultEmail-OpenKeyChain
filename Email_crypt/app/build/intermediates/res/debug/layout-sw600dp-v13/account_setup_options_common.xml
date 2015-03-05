@@ -144,4 +144,4 @@
         android:layout_height="1px"
         android:background="@color/account_setup_divider_color" />
 </RelativeLayout>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/layout-sw600dp/account_setup_options_common.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/layout-sw600dp/account_setup_options_common.xml -->

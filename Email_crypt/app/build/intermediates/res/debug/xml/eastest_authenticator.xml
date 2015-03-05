@@ -27,4 +27,4 @@
     android:label="com.android.test_exchange"
     android:accountPreferences="@xml/account_preferences"
 />
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml/eastest_authenticator.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml/eastest_authenticator.xml -->

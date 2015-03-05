@@ -27,4 +27,4 @@
     android:label="@string/imap_name"
     android:accountPreferences="@xml/account_preferences"
 />
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml/authenticator_legacy_imap.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml/authenticator_legacy_imap.xml -->

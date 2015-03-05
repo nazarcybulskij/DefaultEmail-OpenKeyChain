@@ -25,4 +25,4 @@
         android:hint="@string/body_hint"
         style="@style/ComposeBodyView" />
 
-</RelativeLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/compose_body.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/compose_body.xml -->
+</RelativeLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/compose_body.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/compose_body.xml -->

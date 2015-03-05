@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/java/com/android/emailcommon/service/IEmailServiceCallback.aidl
+ * Original file: /home/nazar/okc/okc/Email_crypt/app/src/main/java/com/android/emailcommon/service/IEmailServiceCallback.aidl
  */
 package com.android.emailcommon.service;
 public interface IEmailServiceCallback extends android.os.IInterface

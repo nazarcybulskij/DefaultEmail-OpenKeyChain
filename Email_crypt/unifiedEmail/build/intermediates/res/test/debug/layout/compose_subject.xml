@@ -22,4 +22,4 @@
         <com.android.mail.compose.EnterSubject android:id="@+id/subject"
             style="@style/ComposeSubjectView" />
 </RelativeLayout>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/compose_subject.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/compose_subject.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/compose_subject.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/compose_subject.xml -->

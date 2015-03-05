@@ -51,4 +51,4 @@
         android:layout_row="0"
         android:layout_column="4"
         android:background="@color/conversation_view_border_color"/>
-</GridLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_side_border_overlay.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/conversation_side_border_overlay.xml -->
+</GridLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/conversation_side_border_overlay.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/conversation_side_border_overlay.xml -->

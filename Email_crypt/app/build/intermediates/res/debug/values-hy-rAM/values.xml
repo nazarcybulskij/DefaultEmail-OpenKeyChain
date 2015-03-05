@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"Պատասխանել"</item>
     <item msgid="4085029907540221568">"Պատասխանել բոլորին"</item>
     <item msgid="857480048798815437">"Փոխանցել"</item>
   </string-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"Փոքրիկ տեքստ"</item>
@@ -16,7 +16,7 @@
     <item msgid="6227813549949219991">"Խոշորատառ տեքստ"</item>
     <item msgid="1197917420815786571">"Մեծացնել տեքստը"</item>
   </string-array>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
     <item msgid="6984976603137892898">"Համակարգ"</item>
@@ -110,7 +110,7 @@
     <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> հաղորդագրություն ընդմիշտ կջնջվի:"</item>
     <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> հաղորդագրություն ընդմիշտ կջնջվի:"</item>
   </plurals>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <plurals name="message_view_attachment_bytes">
     <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>Բ"</item>
@@ -128,19 +128,19 @@
     <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>Մբ"</item>
     <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>Մբ"</item>
   </plurals>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <plurals name="move_conversation">
     <item msgid="3657821200245019288" quantity="one">"Տեղափոխել խոսակցությունը"</item>
     <item msgid="1685896770174368261" quantity="other">"Տեղափոխել <ns1:g id="ID_1">%1$d</ns1:g> խոսակցությունները"</item>
   </plurals>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <plurals name="move_messages">
     <item msgid="320885379869442589" quantity="one">"Տեղափոխել հաղորդագրությունը"</item>
     <item msgid="371256717624461324" quantity="other">"Տեղափոխել հաղորդագրությունները"</item>
   </plurals>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <plurals name="new_incoming_messages_many">
     <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> նոր ուղերձ: Ցույց տալ:"</item>
@@ -148,7 +148,7 @@
     <plurals name="show_messages_read">
     <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ավելի հին հաղորդագրություն"</item>
   </plurals>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Դուք արդեն օգտագործում եք այս օգտանունը «<ns1:g id="DUPLICATE">%s</ns1:g>» հաշվի համար:"</string>
     <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Կրկնօրինակել հաշիվը"</string>
@@ -183,10 +183,10 @@
     <string msgid="8134339460923068254" name="account_settings_notify_summary">"Ուղարկել ծանուցում, երբ ստացվում է նամակ"</string>
     <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Ելքային կարգավորումներ"</string>
     <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Օգտանվան, գաղտնաբառի և այլ ելքային սերվերի կարգավորումներ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5277032997773498476" name="account_settings_param">"Հաշվի կարգավորումներ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="6292833636418641840" name="account_settings_policies">"Անվտանգության քաղաքականություն"</string>
     <string msgid="1104680719299842829" name="account_settings_retry_label">"Փորձել համաժամեցնել"</string>
@@ -299,14 +299,14 @@
     <string msgid="1850321535870447468" name="account_setup_security_required_title">"Անվտանգության հեռակա կառավարում"</string>
     <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Մուտքագրեք վավեր էլփոստի հասցե և գաղտնաբառ:"</string>
     <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Դուք չեք կարող փոխել հաշվի օգտանունը: Այլ օգտանունով հաշիվ ավելացնելու համար` հպեք Ավելացնել հաշիվ:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5699548271856775808" name="account_sync_off">"Հաշվի համաժամեցումն անջատված է:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"Բեռնվում է թղթապանակի ցանկը..."</string>
     <string msgid="8337750045270269649" name="accounts_welcome">"Դուք կարող եք կարգավորել ձեր հաշիվը ընդամենը մի քանի քայլով:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g> + չընթերցված"</string>
     <string msgid="5161845867397316052" name="activity_folder_selection">"Ընտրեք թղթապանակը"</string>
@@ -324,10 +324,10 @@
     <string msgid="2506843494725730618" name="all_folders_heading">"Բոլոր թղթապանակները"</string>
     <string msgid="5966408990164581801" name="always_show_images">"Միշտ ցուցադրել այս ուղարկողի պատկերները"</string>
     <string msgid="6218061921546973716" name="always_show_images_toast">"այս ուղարկողի պատկերները կցուցադրվեն ինքնաբերաբար:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="5815426892327290362" name="app_name">"Էլփոստ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="847250094775910499" name="archive">"Պահոց"</string>
     <string msgid="7533995360704366325" name="archived">"Արխիվացված"</string>
@@ -338,10 +338,10 @@
     <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Ներկայացում"</string>
     <string msgid="135527133955622936" name="attachment_audio">"Ձայնանյութ"</string>
     <string msgid="3832985223906528449" name="attachment_image">"Պատկեր"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="7155322700141145123" name="attachment_not_found">"Հնարավոր չէ ներբեռնել կցորդը:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5544874374971562759" name="attachment_text">"Տեքստ"</string>
     <string msgid="7878184764428642891" name="attachment_type_blocked">"Ցավոք, դուք չեք կարող պահել կամ բացել այս տեսակի կցորդը:"</string>
@@ -357,18 +357,18 @@
     <string msgid="4279864165439577668" name="body_hint">"Գրել նամակ"</string>
     <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> Բ"</string>
     <string msgid="8762981157252199115" name="cancel">"Չեղարկել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="6967435583794021865" name="cancel_action">"Չեղարկել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="4651201258272223650" name="cancel_attachment">"Չեղարկել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Հնարավոր չէ տեղափոխել, քանի որ ընտրությունը պարունակում բազմակի հաշիվներ:"</string>
     <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"Տեղափոխումը չի աջակցվում POP3 հաշիվներում:"</string>
     <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Սևագրեր, Ելից և Ուղարկված թղթապանակների հաղորդագրությունները հնարավոր չէ տեղափոխել:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Հնարավոր չէ տեղափոխել, քանի որ ընտրությունը պարունակում է բազմակի հաշիվներ:"</string>
     <string msgid="7017720927911078193" name="cc">"Պտճ"</string>
@@ -385,10 +385,10 @@
     <string msgid="3608892454869745927" name="collapse_recipient_details">"Թաքցնել ստացողի մանրամասները"</string>
     <string msgid="1473559896062432878" name="compose">"Գրել"</string>
     <string msgid="1149834186404614612" name="confirm_discard_text">"Մերժե՞լ այս հաղորդագրությունը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="9151965975158906286" name="confirm_response">"Ուղարկվում է պատասխանը..."</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="3221546155385562874" name="confirm_send_message">"Ու՞ղարկել այս հաղորդագրությունը"</string>
     <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"Հաղորդագրության գրվածքում տեքստ չկա:"</string>
@@ -411,52 +411,52 @@
     <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS..."</string>
     <string msgid="297469098857964678" name="conversation_folder_moved">"Տեղափոխվել է <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Հպեք ուղարկողի պատկերը` ընտրելու այդ խոսակցությունը:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="7869435992461603532" name="copy_email">"Պատճենել էլփոստի հասցեն"</string>
     <string msgid="530057841276106843" name="copy_number">"Պատճենել հեռախոսահամարը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="3062715563215392251" name="create_action">"Ստեղծել նորը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"Նամակ ուղարկել որպես`"</string>
     <string msgid="2086174555097691910" name="date_heading">"Ամսաթիվ` "</string>
     <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
     <string msgid="7923108495669251362" name="date_message_received_today">"Այսօր, <ns1:g id="TIME">%1$s</ns1:g>"</string>
     <string msgid="2240669381396206434" name="date_message_received_yesterday">"Երեկ, <ns1:g id="TIME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="5175710493691536719" name="debug_title">"Կարգաբերել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="844871204175957681" name="delete">"Ջնջել"</string>
     <string msgid="2757349161107268029" name="deleted">"Ջնջված է"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="426727923791430306" name="device_admin_description">"Միացնում է սերվերին հատուկ անվտանգության քաղաքականությունները"</string>
     <string msgid="8680224994637869414" name="device_admin_label">"Էլփոստ"</string>
     <string msgid="6196985268695592382" name="disable_admin_warning">"Զգուշացում. էլփոստի հավելվածի` ձեր սարքը կառավարելու լիազորության ապակտիվացումը կարող է ջնջել էլփոստի բոլոր հաշիվները, որոնք այն պահանջում են` իրենց էլփոստի, կոնտակտների, օրացուցային իրադարձությունների և այլ տվյալների հետ միասին:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="1714960202994370243" name="discard">"Հրաժարվել"</string>
     <string msgid="6862272443470085375" name="discard_drafts">"Հեռացնել սևագրերը"</string>
     <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Անտեսել հուշումը"</string>
     <string msgid="3079981801778027540" name="done">"Կատարված է"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="7497990549515580249" name="done_action">"Կատարված է"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="7418568915429156518" name="download_again">"Ներբեռնել կրկին"</string>
     <string msgid="442019281547315527" name="download_failed">"Հնարավոր չէ ներբեռնել: Հպեք՝ կրկին փորձելու համար:"</string>
     <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
     <string msgid="2764774620737876943" name="drawer_close">"Փակել նավարկման դարակը"</string>
     <string msgid="6074646853178471940" name="drawer_open">"Բացել նավարկման դարակը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="6479106007607928450" name="edit_quick_response_dialog">"Արագ պատասխան"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="6064497180615519589" name="empty_spam">"Դատարկել Թափոնը"</string>
     <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Դատարկե՞լ Թափոնը"</string>
@@ -464,40 +464,40 @@
     <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Դատարկե՞լ Աղբարկղը"</string>
     <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Միացրեք <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>-ում:"</string>
     <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="1190783774800310346" name="exchange_name">"Կորպորատիվ"</string>
     <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="2266544827446346880" name="expand_recipient_details">"Ընդարձակել ստացողի մանրամասները"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="1458877219699376279" name="failed">"Չհաջողվեց բեռնել պատկերը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="79365993169715049" name="feedback">"Ուղարկել կարծիք"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"Կցորդներն առբերվում են"</string>
     <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
     <string msgid="1500547397347480618" name="folder_icon_desc">"Թղթապանակի պատկերակ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="860241987640527156" name="folder_picker_title">"Թղթապանակի նշիչ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="1047474677580149436" name="folder_removed">"Հեռացվել է <ns1:g id="FOLDERNAME">%1$s</ns1:g>-ից"</string>
     <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Փոստային թղթապանակ"</string>
     <string msgid="6822914459902983767" name="forward">"Փոխանցել"</string>
     <string msgid="1498936339458535158" name="forward_attribution">"---------- Փոխանցված հաղորդագրություն ----------&lt;br>Ումից` <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Ամսաթիվը` <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Վերնագիրը` <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Ում` <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
     <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Փոխանցված հաղորդագրություն ----------"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Չհաջողվեց փոխանցել մեկ կամ ավելի կցորդներ:"</string>
     <string msgid="6139701848515572511" name="forward_download_failed_title">"Կցորդը չի փոխանցվել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="2454519463223197231" name="from_heading">"Ուղարկող` "</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"Հաստատել ջնջելուց առաջ"</string>
     <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"Հաղորդագրություններ"</string>
@@ -510,22 +510,22 @@
     <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Սովորական"</string>
     <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Փոքր"</string>
     <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Պստիկ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="8775959340559458709" name="generic_attachment_problem">"Ֆայլը կցել չհաջողվեց:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="8243724566056800991" name="header_label_general_preferences">"Հիմնական կարգավորումներ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="7873089811705257882" name="help_and_info">"Օգնություն"</string>
     <string msgid="8907305605854960737" name="hide_elided">"▼ Թաքցնել մեջբերված տեքստը"</string>
     <string msgid="7473552966537131652" name="hide_folders">"Թաքցնել թղթապանակները"</string>
     <string msgid="1554651881128904262" name="ignore_spam_warning">"Անտեսել, ես վստահում եմ այս հաղորդագրությանը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="3960094746248976565" name="inbox_folders_heading">"Մուտքի արկղ"</string>
     <string msgid="6009817562073541204" name="info">"Տեղեկություններ"</string>
@@ -535,14 +535,14 @@
     <string msgid="420892447103014683" name="load_more">"Բեռնել ավելին"</string>
     <string msgid="489160038366067983" name="loading_conversation">"Բեռնում..."</string>
     <string msgid="2649440958602369555" name="loading_conversations">"Բեռնում..."</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g>-ի մուտք գործումը խափանվել է:"</string>
     <string msgid="7624349996212476176" name="login_failed_title">"Չհաջողվեց մուտք գործել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="9205666839837250150" name="long_press_to_select_tip">"Հպեք &amp; պահեք՝ մեկ խոսակցություն ընտրելու համար, այնուհետ հպեք` ավելին ընտրելու համար:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Համակցված տեսք"</string>
     <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Սևագրեր"</string>
@@ -558,7 +558,7 @@
     <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"Փոստի համաժամեցման օրեր"</string>
     <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"Համաժամել այս թղթապանակը"</string>
     <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"Հաղորդագրությունները կներբեռնվեն միանալուն պես"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="6743983544685622800" name="manual_sync">"Համաժամեցնել հիմա"</string>
     <string msgid="6904096897104265870" name="mark_important">"Նշել կարևոր"</string>
@@ -571,10 +571,10 @@
     <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> Մբ"</string>
     <string msgid="1542713666608888717" name="menu_change_folders">"Փոխել թղթապանակները"</string>
     <string msgid="6274193058224230645" name="menu_compose">"Գրել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="2871906096248843471" name="menu_folder_options">"Համաժամեցման ընտրանքներ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="6755623004628177492" name="menu_manage_folders">"Թղթապանակի կարգավորումներ"</string>
     <string msgid="9138296669516358542" name="menu_move_to">"Տեղափոխել՝"</string>
@@ -585,13 +585,13 @@
     <string msgid="5297197523031943248" name="menu_search">"Որոնել"</string>
     <string msgid="6007027046949837282" name="menu_settings">"Կարգավորումներ"</string>
     <string msgid="4227060689700765828" name="menu_show_original">"Հետադարձել ավտոչափավորումը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Բնօրինակ հաղորդագրությունը --------\nՎերնագիրը` <ns1:g id="SUBJECT">%1$s</ns1:g>\nՈւմից` <ns1:g id="SENDER">%2$s</ns1:g>\nՈւմ` <ns1:g id="TO">%3$s</ns1:g>\nՊտճ` <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
     <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Տեղադրեք արագ պատասխանը"</string>
     <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"Տեղադրել արագ պատասխանը"</string>
     <string msgid="5016042255170947834" name="message_decode_error">"Սխալ հաղորդագրությունը ապակոդավորելիս տեղի է ունեցել սխալ:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="2183394728494962332" name="message_details_title">"Հաղորդագրության մանրամասները"</string>
     <string msgid="5079975378884765445" name="message_discarded">"Հաղորդագրությունը հեռացված է:"</string>
@@ -602,19 +602,19 @@
     <string msgid="3898050756490962079" name="message_invite_tentative">"Գուցե"</string>
     <string msgid="6757287288611722175" name="message_invite_title">"Օրացույցի հրավեր"</string>
     <string msgid="7073947895562277576" name="message_saved">"Հաղորդագրությունը պահվեց որպես սևագիր:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="7906875687519445185" name="message_view_attachment_background_load">"Ձեր փոխանցած հաղորդագրության մեկ կամ ավելի կցորդներ կներբեռնվեն նախքան ուղարկելը:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="717244337981816703" name="more_info_attachment">"Տեղեկություններ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Տեղափոխել"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>" <ns1:g id="SENDER">%1$s</ns1:g> "</b>" <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -622,17 +622,17 @@
     <string msgid="2125579009654728299" name="network_error">"Կապ չկա"</string>
     <string msgid="164529476439626369" name="new_incoming_messages_one">"Նոր ուղերձ <ns1:g id="SENDER">%s</ns1:g>-ից: Ցույց տալ:"</string>
     <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> նոր հաղորդագրություն"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="3931301986364184415" name="next_action">"Հաջորդը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="427548507197604096" name="no">"Ոչ"</string>
     <string msgid="1945184804521392093" name="no_application_found">"Ոչ մի հավելված չի կարող բացել այս կցորդը դիտման համար:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="5559527390337162819" name="no_conversations">"Հաղորդագրություններ չկան:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="6059194125558004080" name="non_synced_folder_description">"Զրույցները դիտելու համար համաժամեցրել այս թղթապանակը:"</string>
     <string msgid="794279749170198599" name="not_synced_title">"Հաշիվը համաժամեցված չէ"</string>
@@ -645,7 +645,7 @@
     <string msgid="3105611327110905438" name="notification_action_undo_delete">"Ջնջված է"</string>
     <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Պիտակը հեռացված է"</string>
     <string msgid="8339355733816891026" name="ok">"Լավ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="8365197396795675617" name="okay_action">"Լավ"</string>
     <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Էկրանի կողպման գաղտնաբառի ժամկետը լրանում է"</string>
@@ -660,17 +660,17 @@
     <string msgid="378256653525377586" name="permission_access_provider_label">"Մատչել էլփոստի մատուցողի տվյալները"</string>
     <string msgid="3394721085306308972" name="permission_read_attachment_desc">"Թույլ է տալիս հավելվածին կարդալ ձեր էլփոստի կցորդները:"</string>
     <string msgid="9208086010625033590" name="permission_read_attachment_label">"Կարդալ էլփոստի կցորդները"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5171715391553213328" name="phone">"հեռախոսահամար"</string>
     <string msgid="8811324070219403896" name="photo_load_failed">"Չհաջողվեց բեռնել պատկերը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="COUNT">%d</ns1:g>-ից <ns1:g id="CURRENT_POS">%d</ns1:g>-ը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="8797634225088247121" name="please_wait">"Խնդրում ենք սպասել..."</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="627405158087482302" name="policy_calendar_age">"Սահմանափակել համաժամեցված օրացուցային իրադարձությունների թիվը"</string>
     <string msgid="5744573062306937302" name="policy_dont_allow_camera">"Արգելել սարքի տեսախցիկի օգտագործումը"</string>
@@ -681,7 +681,7 @@
     <string msgid="414869965358468080" name="policy_screen_timeout">"Պահանջում է, որ անգործուն սարքը կողպի իր էկրանը"</string>
     <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
     <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"Ուղարկողի պատկերը"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Արխիվացնել &amp; ջնջել գործողությունները"</string>
     <string msgid="6585232628422090835" name="preference_removal_action_title">"Արխիվացնել &amp; ջնջել գործողությունները"</string>
@@ -696,7 +696,7 @@
     <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Սահմանված չէ"</string>
     <string msgid="888167074398030574" name="preferences_signature_title">"Ստորագրություն"</string>
     <string msgid="6934911143603455393" name="preview_attachment">"Նախադիտում"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="5181616311579820981" name="previous_action">"Նախորդը"</string>
     <string msgid="2995297671709325333" name="provider_note_live">"Միայն որոշ «Plus» հաշիվներ են ներառում POP մուտք` թույլատրելով այս ծրագրին միանալ: Եթե ​​դուք չեք կարող մուտք գործել ձեր ճիշտ էլփոստի հասցեով և գաղտնաբառով, դուք հնարավոր է չունեք վճարովի «Plus» հաշիվ: Գործարկեք վեբ զննարկիչը` այս էլփոստի հաշիվներ մուտք ստանալու համար:"</string>
@@ -706,7 +706,7 @@
     <string msgid="8061819976353395585" name="quick_3">"Ես սա ավելի ուշ կընթերցեմ և կվերադառնամ ձեզ:"</string>
     <string msgid="3988974084396883051" name="quick_4">"Եկեք հանդիպում նշանակենք` սա քննարկելու համար:"</string>
     <string msgid="3960050972306132367" name="quick_responses_empty_view">"Արագ պատասխաններ չկան:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="7250749398672037355" name="quoted_text">"Ներառել մեջբերված տեքստը"</string>
     <string msgid="541007446961960617" name="quoted_text_label">"Մեջբերել տեքստ"</string>
@@ -724,32 +724,32 @@
     <string msgid="5417082746232614958" name="report">"Զեկուցել"</string>
     <string msgid="5714205737453138338" name="report_phishing">"Զեկուցել որսման մասին"</string>
     <string msgid="6467567747975393907" name="report_spam">"Զեկուցել որպես լցոն"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="7777357288642785955" name="require_manual_sync_message">"Հետնաշերտի համաժամեցումը անջատված է այս հաշվի համար ռոումինգում գտնվելիս:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="6797117334768201180" name="respond_inline">"Պատասխանել մեջտեղում"</string>
     <string msgid="6450150180834092146" name="resume_draft">"Խմբագրել"</string>
     <string msgid="4515885444824418022" name="retry">"Կրկին փորձել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="1988862706623227093" name="save_action">"Պահել"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5360128849867863132" name="save_attachment">"Պահել"</string>
     <string msgid="5555744208032445632" name="save_draft">"Սևագիրը պահել"</string>
     <string msgid="6660844285730790469" name="saved">"Պահված է, <ns1:g id="SIZE">%s</ns1:g>"</string>
     <string msgid="925514721138014677" name="saving">"Պահվում է..."</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="2200412192574686497" name="search_hint">"Որոնել նամակ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="4669917471897026269" name="search_results_header">"Արդյունքներ"</string>
     <string msgid="3821361153909466819" name="search_results_searching_header">"Որոնում..."</string>
     <string msgid="4654227193354052607" name="search_unsupported">"Որոնումը չի աջակցվում այս հաշվի համար:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"«<ns1:g id="ACCOUNT">%s</ns1:g>» հաշիվը փոխել է իր անվտանգության կարգավորումները, օգտվողի գործողություն չի պահանջվում:"</string>
     <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"«<ns1:g id="ACCOUNT">%s</ns1:g>» հաշիվը պահանջում է անվտանգության կարգավորումների թարմացում:"</string>
@@ -757,7 +757,7 @@
     <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"Անվտանգության քաղաքականության չի կարող հանդիպել"</string>
     <string msgid="2429762903228690154" name="security_notification_content_update_title">"Պահանջվում է անվտանգության թարմացում"</string>
     <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"«<ns1:g id="ACCOUNT">%s</ns1:g>» հաշիվը չի կարող համաժամեցվել անվտանգության պահանջների պատճառով:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="4711524151968942082" name="select_attachment_type">"Ընտրեք կցորդի տեսակը"</string>
     <string msgid="8242003661397555986" name="send">"Ուղարկել"</string>
@@ -766,11 +766,11 @@
     <string msgid="5895854795157860258" name="senders_split_token">", "</string>
     <string msgid="8214361929125649771" name="sending">"Ուղարկվում է..."</string>
     <string msgid="1498583163419122128" name="sending_message">"Հաղորդագրությունն ուղարկվում է..."</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="2668629667423320684" name="sent_folder_selection_title">"Ընտրեք սերվերի ուղարկած նյութերի թղթապանակը <ns1:g id="ACCOUNT">%s</ns1:g>-ի համար"</string>
     <string msgid="5185915603716333904" name="settings_activity_title">"Կարգավորումներ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="8220482314700618391" name="shortcut_name_title">"Անվանեք դյուրանցման թղթապանակը"</string>
     <string msgid="5255917904110437886" name="show_elided">"▶ Ցուցադրել մեջբերված տեքստը"</string>
@@ -781,10 +781,10 @@
     <string msgid="5856834572357761687" name="silent_ringtone">"Լուռ"</string>
     <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
     <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>. <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="2611654064403817391" name="status_network_error">"Միացման խնդիր"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="3262760336059073446" name="storage">"Պահոց"</string>
     <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
@@ -792,7 +792,7 @@
     <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Սահահարվածեք ներքև՝ թարմացնելու համար"</string>
     <string msgid="7368819509040597851" name="sync_error">"Հնարավոր չէ համաժամեցնել:"</string>
     <string msgid="5367907194753034375" name="sync_error_message">"Ձեր սարքը համաժամեցնելու համար չունի բավարար պահոցի տարածք"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="3673792980526246177" name="system_account_create_failed">"Չհաջողվեց ստեղծել հաշիվը: Փորձեք կրկին:"</string>
     <string msgid="7071006714702094762" name="system_folders_sent_dlg">"Ընտրեք ձեր սերվերի կողմից ուղարկված նյութերի թղթապանակը"</string>
@@ -802,7 +802,7 @@
     <string msgid="4461220303400833402" name="system_folders_trash_dlg">"Ընտրեք ձեր սերվերի աղբարկղի թղթապանակը"</string>
     <string msgid="1258919809198485244" name="system_folders_trash_summary">"Ընտրեք ձեր սերվերի թափոնի թղթապանակը"</string>
     <string msgid="8470058000681188327" name="system_folders_trash_title">"Աղբարկղի թղթապանակ"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="7956969657216748522" name="tablet">"գրասալիկ"</string>
     <string msgid="1181356242354390930" name="tap_to_configure">"Հպեք՝ կարգավորելու համար"</string>
@@ -813,10 +813,10 @@
     <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Ֆայլը կցված չէ: <ns1:g id="MAXSIZE">%1$s</ns1:g>-ի սահմանը լրացել է:"</string>
     <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Մեկ կամ ավելի ֆայլեր չեն կցվել: Սահմանափակում <ns1:g id="MAXSIZE">%1$s</ns1:g>:"</string>
     <string msgid="2996733972478212136" name="too_large_to_attach_single">"Հնարավոր չէ կցել ֆայլը <ns1:g id="MAXSIZE">%1$s</ns1:g>-ում:"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-hy-rAM/strings.xml -->
     <eat-comment/>
     <string msgid="8052880079616386185" name="trash_folder_selection_title">"Ընտրեք սերվերի թափոնի թղթապանակը <ns1:g id="ACCOUNT">%s</ns1:g>-ի համար"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-hy-rAM/values.xml -->
     <eat-comment/>
     <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Ոչ միայն Gmail-ում, այլև մյուս բոլոր հավելվածներում և հաշիվներում ձեր կատարած փոփոխությունները կհամաժամեցվեն ցանցի, ձեր մյուս սարքերի և ձեր  <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>-ի միջև:"</string>
     <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Միացնել"</string>

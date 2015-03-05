@@ -31,4 +31,4 @@
         android:textSize="@dimen/super_collapsed_text_size"
         android:textColor="@color/dark_gray_text_color" />
 </com.android.mail.browse.SuperCollapsedBlock>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/super_collapsed_block.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/super_collapsed_block.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/super_collapsed_block.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/super_collapsed_block.xml -->

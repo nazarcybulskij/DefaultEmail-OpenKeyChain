@@ -22,4 +22,4 @@
              android:layout_height="match_parent"
              android:background="@android:color/white" >
 </FrameLayout>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/eml_viewer_activity.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/eml_viewer_activity.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/eml_viewer_activity.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/eml_viewer_activity.xml -->

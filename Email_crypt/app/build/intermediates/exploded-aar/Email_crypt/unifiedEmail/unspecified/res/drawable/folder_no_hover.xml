@@ -21,4 +21,4 @@
     to change the reference there to not be static -->
     <item android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/folder_no_hover.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/folder_no_hover.xml -->

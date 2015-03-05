@@ -31,4 +31,4 @@
     android:paddingRight="@dimen/folder_list_heading_padding_side"
     android:paddingBottom="@dimen/folder_list_heading_padding_bottom"
     style="?android:attr/listSeparatorTextViewStyle" />
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/folder_list_header.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/folder_list_header.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/folder_list_header.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/folder_list_header.xml -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka-rGE-sw600dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka-rGE-sw600dp-v13/values.xml -->
     <eat-comment/>
     <string msgid="7648769906379235693" name="add_bcc_label">"+ უხილავი ასლი"</string>
     <string msgid="6156834609108442458" name="add_cc_label">"+ ასლი/უხილავი ასლი"</string>

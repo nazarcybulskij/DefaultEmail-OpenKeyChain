@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-sw720dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-sw720dp-v13/values.xml -->
     <eat-comment/>
     <bool name="show_two_pane_search_results">false</bool>
     <bool name="use_expansive_tablet_ui">true</bool>

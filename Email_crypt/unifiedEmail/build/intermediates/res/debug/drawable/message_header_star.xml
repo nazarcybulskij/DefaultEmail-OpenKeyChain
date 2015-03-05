@@ -20,4 +20,4 @@
           android:drawable="@drawable/ic_star_on_convo_view_holo_light" />
     <item android:drawable="@drawable/ic_star_off_convo_view_holo_light" />
 </selector>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/message_header_star.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/message_header_star.xml -->

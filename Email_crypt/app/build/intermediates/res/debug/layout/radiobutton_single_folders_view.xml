@@ -33,4 +33,4 @@
         android:id="@+id/color_block"
         style="@style/FolderColorBoxStyle" />
 
-</RelativeLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/radiobutton_single_folders_view.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/radiobutton_single_folders_view.xml -->
+</RelativeLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/radiobutton_single_folders_view.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/radiobutton_single_folders_view.xml -->

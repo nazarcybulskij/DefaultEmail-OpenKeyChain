@@ -18,4 +18,4 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/wait"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" /><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/wait_container.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/wait_container.xml -->
+    android:layout_height="match_parent" /><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/wait_container.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/wait_container.xml -->

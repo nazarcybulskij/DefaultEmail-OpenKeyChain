@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/chips/build/intermediates/bundles/debug/res/values-sr/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/chips/build/intermediates/bundles/debug/res/values-sr/values.xml -->
     <eat-comment/>
     <string msgid="7869435992461603532" name="copy_email">"Копирај адресу е-поште"</string>
     <string msgid="530057841276106843" name="copy_number">"Копирај број телефона"</string>

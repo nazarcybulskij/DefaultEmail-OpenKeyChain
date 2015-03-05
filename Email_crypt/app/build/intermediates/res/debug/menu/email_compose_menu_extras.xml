@@ -19,4 +19,4 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/insert_quick_response_menu_item"
           android:title="@string/message_compose_insert_quick_response_menu_title"/>
-</menu><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/menu/email_compose_menu_extras.xml -->
+</menu><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/menu/email_compose_menu_extras.xml -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <declare-styleable name="RecipientEditTextView"><attr format="reference" name="invalidChipBackground"/><attr format="reference" name="chipBackground"/><attr format="reference" name="chipBackgroundPressed"/><attr format="reference" name="chipDelete"/><attr format="reference" name="chipAlternatesLayout"/><attr format="reference" name="chipPadding"/><attr format="reference" name="chipHeight"/><attr format="reference" name="chipFontSize"/></declare-styleable>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/chips/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/chips/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <dimen name="chip_height">32dip</dimen>
     <dimen name="chip_padding">8dip</dimen>

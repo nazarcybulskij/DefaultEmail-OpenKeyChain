@@ -9,4 +9,4 @@
     android:scaleType="center"
     android:src="@drawable/ic_menu_refresh_holo_dark"
     android:visibility="gone" />
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/photoviewer/src/main/res/layout/photo_retry_button.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/layout/photo_retry_button.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/photoviewer/src/main/res/layout/photo_retry_button.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/layout/photo_retry_button.xml -->

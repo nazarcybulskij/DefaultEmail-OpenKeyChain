@@ -26,4 +26,4 @@
     android:paddingBottom="@dimen/message_details_header_vertical_padding"
     android:text="@string/show_images"
     style="@style/MessageHeaderShowPicsStyle"/>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_message_show_pics.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_message_show_pics.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/conversation_message_show_pics.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_message_show_pics.xml -->

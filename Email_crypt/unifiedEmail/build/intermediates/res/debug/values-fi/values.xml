@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"Vastaa"</item>
@@ -187,11 +187,11 @@
     <string msgid="6481040539501081547" name="contextmenu_sms_dot">"Tekstiviesti..."</string>
     <string msgid="297469098857964678" name="conversation_folder_moved">"Siirretty kansioon <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Valitse keskustelu koskettamalla lähettäjän kuvaa."</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-fi/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-fi/values.xml -->
     <eat-comment/>
     <string msgid="7869435992461603532" name="copy_email">"Kopioi sähköpostiosoite"</string>
     <string msgid="530057841276106843" name="copy_number">"Kopioi puhelinnumero"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"Lähetysosoite:"</string>
     <string msgid="2086174555097691910" name="date_heading">"Päiväys: "</string>
@@ -216,10 +216,10 @@
     <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Ota käyttöön täällä: <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
     <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
     <string msgid="2266544827446346880" name="expand_recipient_details">"Laajenna vastaanottajan tiedot"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-fi/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-fi/values.xml -->
     <eat-comment/>
     <string msgid="1458877219699376279" name="failed">"Kuvan lataus epäonnistui"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string msgid="79365993169715049" name="feedback">"Lähetä palautetta"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"Noudetaan liitetiedostoa"</string>
@@ -276,10 +276,10 @@
     <string msgid="6757287288611722175" name="message_invite_title">"Kalenterikutsu"</string>
     <string msgid="7073947895562277576" name="message_saved">"Viesti tallennettu luonnokseksi."</string>
     <string msgid="717244337981816703" name="more_info_attachment">"Tiedot"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-fi/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-fi/values.xml -->
     <eat-comment/>
     <string msgid="8495478259330621990" name="more_string">"yli <ns1:g id="COUNT">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Siirrä kohteeseen"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -303,10 +303,10 @@
     <string msgid="8339355733816891026" name="ok">"OK"</string>
     <string msgid="5171715391553213328" name="phone">"puhelin"</string>
     <string msgid="8811324070219403896" name="photo_load_failed">"Kuvan lataus epäonnistui"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-fi/values.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-fi/values.xml -->
     <eat-comment/>
     <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g>/<ns1:g id="COUNT">%d</ns1:g>"</string>
-    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string msgid="8797634225088247121" name="please_wait">"Odota…"</string>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Arkistointi- ja poistotoiminnot"</string>

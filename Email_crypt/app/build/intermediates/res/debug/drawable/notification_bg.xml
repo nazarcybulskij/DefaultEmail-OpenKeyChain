@@ -20,4 +20,4 @@
     <item android:state_pressed="true"  android:drawable="@drawable/notification_bg_normal_pressed" />
     <item android:state_pressed="false" android:drawable="@drawable/notification_bg_normal" />
 </selector>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/notification_bg.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/drawable/notification_bg.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/notification_bg.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/drawable/notification_bg.xml -->

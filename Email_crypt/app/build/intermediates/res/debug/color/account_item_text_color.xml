@@ -20,4 +20,4 @@
     <item android:state_selected="true" android:color="@color/account_item_selected_text_color" />
     <item android:color="@color/dark_gray_text_color" />
 </selector>
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/color/account_item_text_color.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/color/account_item_text_color.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/color/account_item_text_color.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/color/account_item_text_color.xml -->

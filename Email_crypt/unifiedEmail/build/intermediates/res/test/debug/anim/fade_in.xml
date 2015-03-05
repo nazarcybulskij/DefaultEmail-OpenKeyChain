@@ -23,4 +23,4 @@
     android:propertyName="alpha"
     android:interpolator="@android:interpolator/decelerate_quad"
     android:duration="@integer/fade_duration" />
-<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/anim/fade_in.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/anim/fade_in.xml -->
+<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/anim/fade_in.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/anim/fade_in.xml -->

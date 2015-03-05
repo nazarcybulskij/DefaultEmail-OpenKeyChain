@@ -25,4 +25,4 @@
     android:checkMark="?android:attr/listChoiceIndicatorMultiple"
     android:ellipsize="marquee"
     style="@style/CheckedTextStyle"
-/><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/select_dialog_multichoice_holo.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/select_dialog_multichoice_holo.xml -->
+/><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/select_dialog_multichoice_holo.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/select_dialog_multichoice_holo.xml -->

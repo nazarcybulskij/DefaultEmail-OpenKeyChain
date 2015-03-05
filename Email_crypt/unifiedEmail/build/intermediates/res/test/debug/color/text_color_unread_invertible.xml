@@ -22,4 +22,4 @@
         android:color="@android:color/white" />
     <item
         android:color="#bcbcbc" />
-</selector><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/color/text_color_unread_invertible.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/color/text_color_unread_invertible.xml -->
+</selector><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/color/text_color_unread_invertible.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/color/text_color_unread_invertible.xml -->
