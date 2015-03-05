@@ -22,4 +22,4 @@
     <item android:state_enabled="false"
         android:drawable="@drawable/ic_menu_trash_disabled_holo_light" />
 </selector>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/trash.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/drawable/trash.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/trash.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/drawable/trash.xml -->

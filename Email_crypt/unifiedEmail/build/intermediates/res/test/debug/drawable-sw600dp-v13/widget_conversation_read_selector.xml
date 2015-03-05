@@ -29,4 +29,4 @@
           android:drawable="@drawable/list_conversation_wide_read_selected_holo" />
     <item android:drawable="@drawable/list_conversation_wide_read_normal_holo" />
 </selector>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable-sw600dp/widget_conversation_read_selector.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/drawable-sw600dp-v13/widget_conversation_read_selector.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable-sw600dp/widget_conversation_read_selector.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/drawable-sw600dp-v13/widget_conversation_read_selector.xml -->

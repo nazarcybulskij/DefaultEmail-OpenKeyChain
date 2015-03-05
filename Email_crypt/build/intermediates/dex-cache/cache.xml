@@ -9,18 +9,25 @@
         <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-3b7edf9be25523074ab0547a92fa109818e1536b.jar" />
     </item>
     <item
-        jar="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2b166fd92801b51e3969b84f6c3ad8eee667ea99">
-        <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-bf11ca6f72753ddf35d7b899e8e738c1560885f6.jar" />
-    </item>
-    <item
         jar="/home/nazar/adt-bundle-linux/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
         <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0-a5c1e234adaae9fa1045d5c6c699a4fedd5df446.jar" />
+    </item>
+    <item
+        jar="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="62d192e6867beaccd02f474146a36ba4ba397a8f">
+        <dex dex="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-59aba211507d0e8d78acc033b861eb6f8d4e84b5.jar" />
+    </item>
+    <item
+        jar="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2b166fd92801b51e3969b84f6c3ad8eee667ea99">
+        <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-bf11ca6f72753ddf35d7b899e8e738c1560885f6.jar" />
     </item>
     <item
         jar="/home/nazar/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
@@ -30,11 +37,11 @@
         <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/guava-15.0-750b5553099eb9381686664167e4f0a1a88efd96.jar" />
     </item>
     <item
-        jar="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/classes.jar"
+        jar="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="8b24fa0900b1ae88e2c226fdc0c6681573da2ff0">
-        <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-ce9fa66d6b3ca914a026ddb10262a210e71167f5.jar" />
+        sha1="8df207f6dc72d05af01fba09a1f027159395de10">
+        <dex dex="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-ee5140007754c516cf470c570fc216cdb8d26950.jar" />
     </item>
     <item
         jar="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/common/unspecified/classes.jar"
@@ -42,6 +49,34 @@
         revision="21.1.2"
         sha1="5a701360720bf525d13db17986f9a610daf4e6bb">
         <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-3ec27ef5a42debe47f78fdfa8be51d282d6ef33f.jar" />
+    </item>
+    <item
+        jar="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d02f3906606ead2f4909311d62dcb874474d81d">
+        <dex dex="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-3099b65978653a9fe553eee1b7e703b5b9674f77.jar" />
+    </item>
+    <item
+        jar="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2ada8b8f7c8fa9ddb6734e527d8e99d2f90174a3">
+        <dex dex="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-cb4ba0cf2a027f5da3c0d55f778cb2b5868a5c83.jar" />
+    </item>
+    <item
+        jar="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8b24fa0900b1ae88e2c226fdc0c6681573da2ff0">
+        <dex dex="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-ce9fa66d6b3ca914a026ddb10262a210e71167f5.jar" />
+    </item>
+    <item
+        jar="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/common/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="566fb38334a753a509ba7b8dd63a3de280d4a7b9">
+        <dex dex="/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/pre-dexed/debug/classes-4aef631c89f6602e821070c04e1b3a992d9becce.jar" />
     </item>
     <item
         jar="/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.0.0/classes.jar"

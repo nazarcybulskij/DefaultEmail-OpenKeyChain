@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"回覆"</item>
     <item msgid="4085029907540221568">"回覆所有人"</item>
     <item msgid="857480048798815437">"轉寄"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"最小字體"</item>
@@ -16,7 +16,7 @@
     <item msgid="6227813549949219991">"大字體"</item>
     <item msgid="1197917420815786571">"最大字體"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
     <item msgid="6984976603137892898">"系統"</item>
@@ -110,7 +110,7 @@
     <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> 封郵件將遭到永久刪除。"</item>
     <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> 封郵件將遭到永久刪除。"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <plurals name="message_view_attachment_bytes">
     <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>B"</item>
@@ -128,19 +128,19 @@
     <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>MB"</item>
     <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>MB"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <plurals name="move_conversation">
     <item msgid="3657821200245019288" quantity="one">"移動會話群組"</item>
     <item msgid="1685896770174368261" quantity="other">"移動 <ns1:g id="ID_1">%1$d</ns1:g> 個會話群組"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <plurals name="move_messages">
     <item msgid="320885379869442589" quantity="one">"移動郵件"</item>
     <item msgid="371256717624461324" quantity="other">"移動郵件數"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <plurals name="new_incoming_messages_many">
     <item msgid="6028908826781946980" quantity="other">"有 <ns1:g id="COUNT">%1$d</ns1:g> 封新郵件。顯示。"</item>
@@ -148,7 +148,7 @@
     <plurals name="show_messages_read">
     <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> 封較舊的郵件"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"您的「<ns1:g id="DUPLICATE">%s</ns1:g>」帳戶已經使用這個使用者名稱。"</string>
     <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"複製帳戶"</string>
@@ -183,10 +183,10 @@
     <string msgid="8134339460923068254" name="account_settings_notify_summary">"收到電子郵件時傳送通知"</string>
     <string msgid="4464829249980026745" name="account_settings_outgoing_label">"外寄設定"</string>
     <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"使用者名稱、密碼和其他外寄伺服器設定"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5277032997773498476" name="account_settings_param">"帳戶設定"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="6292833636418641840" name="account_settings_policies">"安全性政策"</string>
     <string msgid="1104680719299842829" name="account_settings_retry_label">"嘗試同步處理"</string>
@@ -299,14 +299,14 @@
     <string msgid="1850321535870447468" name="account_setup_security_required_title">"遠端安全性管理"</string>
     <string msgid="3968270274727947460" name="account_setup_username_password_toast">"輸入有效的電子郵件地址和密碼。"</string>
     <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"您無法變更帳戶的使用者名稱。如要以其他使用者名稱新增帳戶，請輕觸 [新增帳戶]。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5699548271856775808" name="account_sync_off">"帳戶同步處理功能已關閉。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"正在載入資料夾清單…"</string>
     <string msgid="8337750045270269649" name="accounts_welcome">"只要幾個步驟即可完成帳戶設定。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="2780005218279965391" name="actionbar_large_unread_count">"超過 <ns1:g id="COUNT">%1$d</ns1:g> 封未讀郵件"</string>
     <string msgid="5161845867397316052" name="activity_folder_selection">"選擇資料夾"</string>
@@ -324,10 +324,10 @@
     <string msgid="2506843494725730618" name="all_folders_heading">"所有資料夾"</string>
     <string msgid="5966408990164581801" name="always_show_images">"一律顯示這位寄件者所傳送的圖片"</string>
     <string msgid="6218061921546973716" name="always_show_images_toast">"系統會自動顯示這位寄件者所傳送的圖片。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="5815426892327290362" name="app_name">"電子郵件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="847250094775910499" name="archive">"封存"</string>
     <string msgid="7533995360704366325" name="archived">"已封存"</string>
@@ -338,10 +338,10 @@
     <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"簡報"</string>
     <string msgid="135527133955622936" name="attachment_audio">"音訊"</string>
     <string msgid="3832985223906528449" name="attachment_image">"圖片"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="7155322700141145123" name="attachment_not_found">"無法下載附件。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5544874374971562759" name="attachment_text">"文字"</string>
     <string msgid="7878184764428642891" name="attachment_type_blocked">"很抱歉，您無法儲存或開啟這類附件。"</string>
@@ -357,18 +357,18 @@
     <string msgid="4279864165439577668" name="body_hint">"撰寫電子郵件"</string>
     <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
     <string msgid="8762981157252199115" name="cancel">"取消"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="6967435583794021865" name="cancel_action">"取消"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="4651201258272223650" name="cancel_attachment">"取消"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"無法移動，因為選取了多個帳戶。"</string>
     <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"POP3 帳戶不支援郵件移動功能。"</string>
     <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"無法移動 [草稿]、[寄件匣] 及 [寄件備份] 中的郵件。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="7997792014816166601" name="cant_move_or_change_labels">"您已選取多個帳戶，因此無法移動。"</string>
     <string msgid="7017720927911078193" name="cc">"副本"</string>
@@ -385,10 +385,10 @@
     <string msgid="3608892454869745927" name="collapse_recipient_details">"收合收件者詳細資料"</string>
     <string msgid="1473559896062432878" name="compose">"撰寫"</string>
     <string msgid="1149834186404614612" name="confirm_discard_text">"要捨棄這封郵件嗎？"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="9151965975158906286" name="confirm_response">"正在傳送回應…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="3221546155385562874" name="confirm_send_message">"傳送這封郵件？"</string>
     <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"這封郵件沒有內文。"</string>
@@ -411,52 +411,52 @@
     <string msgid="6481040539501081547" name="contextmenu_sms_dot">"傳送簡訊…"</string>
     <string msgid="297469098857964678" name="conversation_folder_moved">"已移至「<ns1:g id="FOLDERNAME">%1$s</ns1:g>」"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"輕觸寄件者圖片即可選取該會話群組。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="7869435992461603532" name="copy_email">"複製電子郵件地址"</string>
     <string msgid="530057841276106843" name="copy_number">"複製電話號碼"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="3062715563215392251" name="create_action">"建立新回應"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"選擇寄件地址："</string>
     <string msgid="2086174555097691910" name="date_heading">"日期： "</string>
     <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g><ns1:g id="TIME">%2$s</ns1:g>"</string>
     <string msgid="7923108495669251362" name="date_message_received_today">"今天<ns1:g id="TIME">%1$s</ns1:g>"</string>
     <string msgid="2240669381396206434" name="date_message_received_yesterday">"昨天<ns1:g id="TIME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="5175710493691536719" name="debug_title">"偵錯"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="844871204175957681" name="delete">"刪除"</string>
     <string msgid="2757349161107268029" name="deleted">"已刪除"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="426727923791430306" name="device_admin_description">"啟用伺服器專用安全性政策"</string>
     <string msgid="8680224994637869414" name="device_admin_label">"電子郵件"</string>
     <string msgid="6196985268695592382" name="disable_admin_warning">"警告：如果停用「電子郵件」應用程式的裝置管理權限，系統將刪除所有需要使用這項權限的「電子郵件」帳戶，以及帳戶中所有的電子郵件、聯絡人、日曆活動和其他資料。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="1714960202994370243" name="discard">"捨棄"</string>
     <string msgid="6862272443470085375" name="discard_drafts">"捨棄草稿"</string>
     <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"關閉提示"</string>
     <string msgid="3079981801778027540" name="done">"完成"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="7497990549515580249" name="done_action">"完成"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="7418568915429156518" name="download_again">"重新下載"</string>
     <string msgid="442019281547315527" name="download_failed">"無法下載，請輕觸重試。"</string>
     <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
     <string msgid="2764774620737876943" name="drawer_close">"關閉導覽匣"</string>
     <string msgid="6074646853178471940" name="drawer_open">"開啟導覽匣"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="6479106007607928450" name="edit_quick_response_dialog">"快速回應"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="6064497180615519589" name="empty_spam">"清空垃圾郵件"</string>
     <string msgid="8091014690336479280" name="empty_spam_dialog_title">"清空垃圾郵件？"</string>
@@ -464,40 +464,40 @@
     <string msgid="3248644791068595150" name="empty_trash_dialog_title">"清空垃圾筒？"</string>
     <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"在 [<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>] 中開啟。"</string>
     <string msgid="5191660524342286026" name="enumeration_comma">"、 "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="1190783774800310346" name="exchange_name">"公司"</string>
     <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="2266544827446346880" name="expand_recipient_details">"展開收件者詳細資料"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="1458877219699376279" name="failed">"無法載入圖片"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="79365993169715049" name="feedback">"提供意見"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"擷取附件"</string>
     <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
     <string msgid="1500547397347480618" name="folder_icon_desc">"資料夾圖示"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="860241987640527156" name="folder_picker_title">"資料夾選取工具"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="1047474677580149436" name="folder_removed">"已從「<ns1:g id="FOLDERNAME">%1$s</ns1:g>」中移除"</string>
     <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"電子郵件資料夾"</string>
     <string msgid="6822914459902983767" name="forward">"轉寄"</string>
     <string msgid="1498936339458535158" name="forward_attribution">"---------- 轉寄的郵件 ----------&lt;br>寄件者：<ns1:g id="FROM">%1$s</ns1:g>&lt;br>日期：<ns1:g id="DATE">%2$s</ns1:g>&lt;br>主旨：<ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>收件者：<ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
     <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- 轉寄郵件 ----------"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="6176608320359303255" name="forward_download_failed_ticker">"無法轉寄一或多個附件。"</string>
     <string msgid="6139701848515572511" name="forward_download_failed_title">"無法轉寄附件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="2454519463223197231" name="from_heading">"寄件者： "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"刪除前需確認"</string>
     <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"郵件"</string>
@@ -510,22 +510,22 @@
     <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"適中"</string>
     <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"小"</string>
     <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"最小"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="8775959340559458709" name="generic_attachment_problem">"無法附加檔案。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="8243724566056800991" name="header_label_general_preferences">"一般設定"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="7873089811705257882" name="help_and_info">"說明"</string>
     <string msgid="8907305605854960737" name="hide_elided">"▼ 隱藏引用文字"</string>
     <string msgid="7473552966537131652" name="hide_folders">"隱藏資料夾"</string>
     <string msgid="1554651881128904262" name="ignore_spam_warning">"略過，我信任這封郵件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="3960094746248976565" name="inbox_folders_heading">"收件匣"</string>
     <string msgid="6009817562073541204" name="info">"資訊"</string>
@@ -535,14 +535,14 @@
     <string msgid="420892447103014683" name="load_more">"載入更多"</string>
     <string msgid="489160038366067983" name="loading_conversation">"載入中…"</string>
     <string msgid="2649440958602369555" name="loading_conversations">"載入中..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> 登入失敗。"</string>
     <string msgid="7624349996212476176" name="login_failed_title">"無法登入"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="9205666839837250150" name="long_press_to_select_tip">"輕觸並按住即可選取其中一個會話群組，接著可再輕觸選取其他會話群組。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"合併檢視"</string>
     <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"草稿"</string>
@@ -558,7 +558,7 @@
     <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"同步處理下列天數的郵件量"</string>
     <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"同步處理這個資料夾"</string>
     <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"連線時會下載郵件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="6743983544685622800" name="manual_sync">"立即同步處理"</string>
     <string msgid="6904096897104265870" name="mark_important">"標示為重要"</string>
@@ -571,10 +571,10 @@
     <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
     <string msgid="1542713666608888717" name="menu_change_folders">"變更資料夾"</string>
     <string msgid="6274193058224230645" name="menu_compose">"撰寫"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="2871906096248843471" name="menu_folder_options">"同步處理選項"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="6755623004628177492" name="menu_manage_folders">"資料夾設定"</string>
     <string msgid="9138296669516358542" name="menu_move_to">"移至"</string>
@@ -585,13 +585,13 @@
     <string msgid="5297197523031943248" name="menu_search">"搜尋"</string>
     <string msgid="6007027046949837282" name="menu_settings">"設定"</string>
     <string msgid="4227060689700765828" name="menu_show_original">"不要自動調整郵件顯示比例"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"--------原始郵件 --------\n主旨：<ns1:g id="SUBJECT">%1$s</ns1:g>\n寄件者：<ns1:g id="SENDER">%2$s</ns1:g>\n收件者：<ns1:g id="TO">%3$s</ns1:g>\n副本：<ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
     <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"插入快速回應"</string>
     <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"插入快速回應"</string>
     <string msgid="5016042255170947834" name="message_decode_error">"為郵件解碼時發生錯誤。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="2183394728494962332" name="message_details_title">"郵件詳細資料"</string>
     <string msgid="5079975378884765445" name="message_discarded">"已捨棄郵件。"</string>
@@ -602,19 +602,19 @@
     <string msgid="3898050756490962079" name="message_invite_tentative">"或許"</string>
     <string msgid="6757287288611722175" name="message_invite_title">"日曆邀請"</string>
     <string msgid="7073947895562277576" name="message_saved">"已儲存郵件草稿。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="7906875687519445185" name="message_view_attachment_background_load">"傳送轉寄的郵件之前，系統會先下載郵件中一或多個附件。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="717244337981816703" name="more_info_attachment">"資訊"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g> 人"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"移至"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>" - <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -622,17 +622,17 @@
     <string msgid="2125579009654728299" name="network_error">"沒有網路連線"</string>
     <string msgid="164529476439626369" name="new_incoming_messages_one">"來自 <ns1:g id="SENDER">%s</ns1:g> 的新郵件。顯示"</string>
     <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> 封新郵件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="3931301986364184415" name="next_action">"下一步"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="427548507197604096" name="no">"否"</string>
     <string msgid="1945184804521392093" name="no_application_found">"沒有應用程式可開啟這個附件供您檢視。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="5559527390337162819" name="no_conversations">"沒有任何郵件。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="6059194125558004080" name="non_synced_folder_description">"如要查看會話群組，請同步處理這個資料夾。"</string>
     <string msgid="794279749170198599" name="not_synced_title">"帳戶尚未同步處理"</string>
@@ -645,7 +645,7 @@
     <string msgid="3105611327110905438" name="notification_action_undo_delete">"已刪除"</string>
     <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"已移除標籤"</string>
     <string msgid="8339355733816891026" name="ok">"確定"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="8365197396795675617" name="okay_action">"確定"</string>
     <string msgid="7174669014074849304" name="password_expire_warning_content_title">"螢幕上鎖密碼即將過期"</string>
@@ -660,17 +660,17 @@
     <string msgid="378256653525377586" name="permission_access_provider_label">"存取電子郵件供應商資料"</string>
     <string msgid="3394721085306308972" name="permission_read_attachment_desc">"允許這個應用程式讀取您的電子郵件附件。"</string>
     <string msgid="9208086010625033590" name="permission_read_attachment_label">"讀取電子郵件附件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5171715391553213328" name="phone">"手機"</string>
     <string msgid="8811324070219403896" name="photo_load_failed">"無法載入圖片"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="3466690572899800275" name="photo_view_count">"第 <ns1:g id="CURRENT_POS">%d</ns1:g> 張 (共 <ns1:g id="COUNT">%d</ns1:g> 張)"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="8797634225088247121" name="please_wait">"請稍候…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="627405158087482302" name="policy_calendar_age">"限制同步處理的日曆活動數量"</string>
     <string msgid="5744573062306937302" name="policy_dont_allow_camera">"不允許使用裝置相機"</string>
@@ -681,7 +681,7 @@
     <string msgid="414869965358468080" name="policy_screen_timeout">"要求裝置在閒置時鎖定螢幕"</string>
     <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
     <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"寄件者圖片"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"封存及刪除動作"</string>
     <string msgid="6585232628422090835" name="preference_removal_action_title">"封存及刪除動作"</string>
@@ -696,7 +696,7 @@
     <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"未設定"</string>
     <string msgid="888167074398030574" name="preferences_signature_title">"簽名檔"</string>
     <string msgid="6934911143603455393" name="preview_attachment">"預覽"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="5181616311579820981" name="previous_action">"上一步"</string>
     <string msgid="2995297671709325333" name="provider_note_live">"只有部分包含 POP 存取功能的「Plus」帳戶能與這個程式連線。如果您輸入的電子郵件地址和密碼無誤，卻仍無法登入，表示您可能尚未購買「Plus」帳戶。請啟動網頁瀏覽器，以存取這些電子郵件帳戶。"</string>
@@ -706,7 +706,7 @@
     <string msgid="8061819976353395585" name="quick_3">"我稍晚看過後回覆您。"</string>
     <string msgid="3988974084396883051" name="quick_4">"開會討論吧！"</string>
     <string msgid="3960050972306132367" name="quick_responses_empty_view">"沒有任何快速回應。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="7250749398672037355" name="quoted_text">"包含引用文字"</string>
     <string msgid="541007446961960617" name="quoted_text_label">"引用文字"</string>
@@ -724,32 +724,32 @@
     <string msgid="5417082746232614958" name="report">"回報"</string>
     <string msgid="5714205737453138338" name="report_phishing">"回報為詐騙郵件"</string>
     <string msgid="6467567747975393907" name="report_spam">"回報為垃圾郵件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="7777357288642785955" name="require_manual_sync_message">"系統會在漫遊時停用這個帳戶的背景同步處理。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="6797117334768201180" name="respond_inline">"在內文中回覆"</string>
     <string msgid="6450150180834092146" name="resume_draft">"編輯"</string>
     <string msgid="4515885444824418022" name="retry">"重試"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="1988862706623227093" name="save_action">"儲存"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5360128849867863132" name="save_attachment">"儲存"</string>
     <string msgid="5555744208032445632" name="save_draft">"儲存草稿"</string>
     <string msgid="6660844285730790469" name="saved">"已儲存 (<ns1:g id="SIZE">%s</ns1:g>)"</string>
     <string msgid="925514721138014677" name="saving">"儲存中…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="2200412192574686497" name="search_hint">"搜尋電子郵件"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="4669917471897026269" name="search_results_header">"搜尋結果"</string>
     <string msgid="3821361153909466819" name="search_results_searching_header">"搜尋中…"</string>
     <string msgid="4654227193354052607" name="search_unsupported">"這個帳戶不支援搜尋功能。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"「<ns1:g id="ACCOUNT">%s</ns1:g>」帳戶已自行變更安全性設定，使用者不需採取任何行動。"</string>
     <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"「<ns1:g id="ACCOUNT">%s</ns1:g>」帳戶的安全性設定必須更新。"</string>
@@ -757,7 +757,7 @@
     <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"不符合安全性政策標準"</string>
     <string msgid="2429762903228690154" name="security_notification_content_update_title">"安全性必須更新"</string>
     <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"因為不符合安全性需求，系統無法同步處理「<ns1:g id="ACCOUNT">%s</ns1:g>」帳戶。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="4711524151968942082" name="select_attachment_type">"選擇附件類型"</string>
     <string msgid="8242003661397555986" name="send">"傳送"</string>
@@ -766,11 +766,11 @@
     <string msgid="5895854795157860258" name="senders_split_token">","</string>
     <string msgid="8214361929125649771" name="sending">"傳送中…"</string>
     <string msgid="1498583163419122128" name="sending_message">"正在傳送郵件…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="2668629667423320684" name="sent_folder_selection_title">"選取 <ns1:g id="ACCOUNT">%s</ns1:g> 伺服器的寄件備份資料夾"</string>
     <string msgid="5185915603716333904" name="settings_activity_title">"設定"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="8220482314700618391" name="shortcut_name_title">"名稱資料夾捷徑"</string>
     <string msgid="5255917904110437886" name="show_elided">"▶ 顯示引用文字"</string>
@@ -781,10 +781,10 @@
     <string msgid="5856834572357761687" name="silent_ringtone">"靜音"</string>
     <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
     <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>：<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="2611654064403817391" name="status_network_error">"連線問題。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="3262760336059073446" name="storage">"儲存空間"</string>
     <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
@@ -792,7 +792,7 @@
     <string msgid="6401908905820786227" name="swipe_down_to_refresh">"向下滑動即可重新整理"</string>
     <string msgid="7368819509040597851" name="sync_error">"無法同步處理。"</string>
     <string msgid="5367907194753034375" name="sync_error_message">"裝置的儲存空間不足，無法進行同步處理。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="3673792980526246177" name="system_account_create_failed">"無法建立帳戶，請再試一次。"</string>
     <string msgid="7071006714702094762" name="system_folders_sent_dlg">"選取您伺服器的寄件備份資料夾"</string>
@@ -802,7 +802,7 @@
     <string msgid="4461220303400833402" name="system_folders_trash_dlg">"選取您伺服器的垃圾桶資料夾"</string>
     <string msgid="1258919809198485244" name="system_folders_trash_summary">"選取您伺服器的垃圾桶資料夾"</string>
     <string msgid="8470058000681188327" name="system_folders_trash_title">"垃圾桶資料夾"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="7956969657216748522" name="tablet">"平板電腦"</string>
     <string msgid="1181356242354390930" name="tap_to_configure">"輕觸即可設定"</string>
@@ -813,10 +813,10 @@
     <string msgid="3366607594339390249" name="too_large_to_attach_additional">"無法附加檔案。檔案大小已達上限 <ns1:g id="MAXSIZE">%1$s</ns1:g>。"</string>
     <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"無法附加一或多個檔案 (大小上限：<ns1:g id="MAXSIZE">%1$s</ns1:g>)。"</string>
     <string msgid="2996733972478212136" name="too_large_to_attach_single">"無法附加大小超過 <ns1:g id="MAXSIZE">%1$s</ns1:g> 的檔案。"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-zh-rTW/strings.xml -->
     <eat-comment/>
     <string msgid="8052880079616386185" name="trash_folder_selection_title">"選取 <ns1:g id="ACCOUNT">%s</ns1:g> 伺服器的垃圾桶資料夾"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rTW/values.xml -->
     <eat-comment/>
     <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"您對所有應用程式和帳戶 (不限於 Gmail) 所做的變更一律會在網路、您的其他裝置和您的<ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>之間保持同步。"</string>
     <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"開啟"</string>

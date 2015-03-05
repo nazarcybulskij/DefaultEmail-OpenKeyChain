@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-sl-sw600dp/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-sl-sw600dp/strings.xml -->
     <eat-comment/>
     <string msgid="7648769906379235693" name="add_bcc_label">"+ Skp"</string>
     <string msgid="6156834609108442458" name="add_cc_label">"+ Kp/Skp"</string>

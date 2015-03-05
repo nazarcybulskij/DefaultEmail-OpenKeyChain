@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"Yanıt"</item>
     <item msgid="4085029907540221568">"Tümünü yanıtla"</item>
     <item msgid="857480048798815437">"Yönlendir"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"Çok küçük metin"</item>
@@ -16,7 +16,7 @@
     <item msgid="6227813549949219991">"Büyük metin"</item>
     <item msgid="1197917420815786571">"Çok büyük metin"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
     <item msgid="6984976603137892898">"Sistem"</item>
@@ -110,7 +110,7 @@
     <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> ileti kalıcı olarak silinecek."</item>
     <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ileti kalıcı olarak silinecek."</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <plurals name="message_view_attachment_bytes">
     <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
@@ -128,19 +128,19 @@
     <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
     <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <plurals name="move_conversation">
     <item msgid="3657821200245019288" quantity="one">"İleti dizisini taşı"</item>
     <item msgid="1685896770174368261" quantity="other">"<ns1:g id="ID_1">%1$d</ns1:g> ileti dizisini taşı"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <plurals name="move_messages">
     <item msgid="320885379869442589" quantity="one">"İletiyi taşı"</item>
     <item msgid="371256717624461324" quantity="other">"İletileri taşı"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <plurals name="new_incoming_messages_many">
     <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> yeni ileti. Göster."</item>
@@ -148,7 +148,7 @@
     <plurals name="show_messages_read">
     <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> eski ileti"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Bu kullanıcı adını \"<ns1:g id="DUPLICATE">%s</ns1:g>\" hesabı için zaten kullanıyorsunuz."</string>
     <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Yinelenen hesap"</string>
@@ -183,10 +183,10 @@
     <string msgid="8134339460923068254" name="account_settings_notify_summary">"E-posta geldiğinde bildirim gönder"</string>
     <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Giden ayarlar"</string>
     <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Kullanıcı adı, şifre ve diğer giden sunucu ayarları"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5277032997773498476" name="account_settings_param">"Hesap ayarları"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="6292833636418641840" name="account_settings_policies">"Güvenlik politikaları"</string>
     <string msgid="1104680719299842829" name="account_settings_retry_label">"Senkronize etmeyi dene"</string>
@@ -299,14 +299,14 @@
     <string msgid="1850321535870447468" name="account_setup_security_required_title">"Uzaktan güvenlik yönetimi"</string>
     <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Geçerli bir e-posta adresi ve şifre yazın."</string>
     <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Bir hesabın kullanıcı adını değiştiremezsiniz. Farklı kullanıcı adıyla hesap eklemek için Hesap ekle\'ye dokunun."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5699548271856775808" name="account_sync_off">"Hesap senkronizasyonu kapalı."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"Klasör listesi yükleniyor…"</string>
     <string msgid="8337750045270269649" name="accounts_welcome">"Hesabınızı birkaç adımda oluşturabilirsiniz."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ tane okunmadı"</string>
     <string msgid="5161845867397316052" name="activity_folder_selection">"Klasör seç"</string>
@@ -324,10 +324,10 @@
     <string msgid="2506843494725730618" name="all_folders_heading">"Tüm klasörler"</string>
     <string msgid="5966408990164581801" name="always_show_images">"Bu gönderenden gelen resimleri her zaman göster"</string>
     <string msgid="6218061921546973716" name="always_show_images_toast">"Bu gönderenden gelen resimler otomatik olarak gösterilecek."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="5815426892327290362" name="app_name">"E-posta"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="847250094775910499" name="archive">"Arşiv"</string>
     <string msgid="7533995360704366325" name="archived">"Arşivlendi"</string>
@@ -338,10 +338,10 @@
     <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Sunu"</string>
     <string msgid="135527133955622936" name="attachment_audio">"Ses"</string>
     <string msgid="3832985223906528449" name="attachment_image">"Resim"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="7155322700141145123" name="attachment_not_found">"Ek indirilemedi."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5544874374971562759" name="attachment_text">"Metin"</string>
     <string msgid="7878184764428642891" name="attachment_type_blocked">"Maalesef bu tür ekleri kaydedemez veya açamazsınız."</string>
@@ -357,18 +357,18 @@
     <string msgid="4279864165439577668" name="body_hint">"E-posta yazın"</string>
     <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
     <string msgid="8762981157252199115" name="cancel">"İptal"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="6967435583794021865" name="cancel_action">"İptal"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="4651201258272223650" name="cancel_attachment">"İptal"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Seçim birden fazla hesap içerdiğinden taşınamıyor."</string>
     <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"Taşıma işlemi POP3 hesaplarında desteklenmiyor."</string>
     <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Taslaklar, Giden Kutusu ve Gönderilenler\'deki iletiler taşınamaz."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Seçim birden fazla hesap içerdiğinden taşınamıyor."</string>
     <string msgid="7017720927911078193" name="cc">"Cc"</string>
@@ -385,10 +385,10 @@
     <string msgid="3608892454869745927" name="collapse_recipient_details">"Alıcı ayrıntılarını daralt"</string>
     <string msgid="1473559896062432878" name="compose">"E-posta yaz"</string>
     <string msgid="1149834186404614612" name="confirm_discard_text">"Bu ileti silinsin mi?"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="9151965975158906286" name="confirm_response">"Yanıt gönderiliyor…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="3221546155385562874" name="confirm_send_message">"Bu ileti gönderilsin mi?"</string>
     <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"İleti gövdesinde metin yok."</string>
@@ -411,52 +411,52 @@
     <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS..."</string>
     <string msgid="297469098857964678" name="conversation_folder_moved">"<ns1:g id="FOLDERNAME">%1$s</ns1:g> klasörüne taşındı"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"İlgili ileti dizisini seçmek için gönderenin resmine dokunun."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="7869435992461603532" name="copy_email">"E-posta adresini kopyala"</string>
     <string msgid="530057841276106843" name="copy_number">"Telefon numarasını kopyala"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="3062715563215392251" name="create_action">"Yeni oluştur"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"Postayı şu adresten gönder:"</string>
     <string msgid="2086174555097691910" name="date_heading">"Tarih: "</string>
     <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
     <string msgid="7923108495669251362" name="date_message_received_today">"Bugün, <ns1:g id="TIME">%1$s</ns1:g>"</string>
     <string msgid="2240669381396206434" name="date_message_received_yesterday">"Dün, <ns1:g id="TIME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="5175710493691536719" name="debug_title">"Hata Ayıklama"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="844871204175957681" name="delete">"Sil"</string>
     <string msgid="2757349161107268029" name="deleted">"Silindi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="426727923791430306" name="device_admin_description">"Sunucu tarafından belirlenen güvenlik politikalarını etkinleştirir"</string>
     <string msgid="8680224994637869414" name="device_admin_label">"E-posta"</string>
     <string msgid="6196985268695592382" name="disable_admin_warning">"UYARI: E-posta uygulamasının cihazınızı yönetme yetkisinin devre dışı bırakılması, bunu gerektiren tüm e-posta hesaplarının yanı sıra bu hesaplar ait e-postaları, kişileri, takvim olaylarını ve diğer verileri siler."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="1714960202994370243" name="discard">"Sil"</string>
     <string msgid="6862272443470085375" name="discard_drafts">"Taslakları sil"</string>
     <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"İpucunu kapat"</string>
     <string msgid="3079981801778027540" name="done">"Bitti"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="7497990549515580249" name="done_action">"Bitti"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="7418568915429156518" name="download_again">"Tekrar indir"</string>
     <string msgid="442019281547315527" name="download_failed">"İndirilemedi. Tekrar denemek için dokunun."</string>
     <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
     <string msgid="2764774620737876943" name="drawer_close">"Gezinme menüsünü kapat"</string>
     <string msgid="6074646853178471940" name="drawer_open">"Gezinme menüsünü aç"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="6479106007607928450" name="edit_quick_response_dialog">"Hızlı yanıt"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="6064497180615519589" name="empty_spam">"Spam Klasörünü Boşalt"</string>
     <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Spam Klasörü boşaltılsın mı?"</string>
@@ -464,40 +464,40 @@
     <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Çöp Kutusu boşaltılsın mı?"</string>
     <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g> içinde açın."</string>
     <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="1190783774800310346" name="exchange_name">"Kurumsal"</string>
     <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="2266544827446346880" name="expand_recipient_details">"Alıcı ayrıntılarını genişlet"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="1458877219699376279" name="failed">"Resim yüklenemedi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="79365993169715049" name="feedback">"Geri bildirim gönder"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"Ek alınıyor"</string>
     <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
     <string msgid="1500547397347480618" name="folder_icon_desc">"Klasör simgesi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="860241987640527156" name="folder_picker_title">"Klasör seçici"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="1047474677580149436" name="folder_removed">"<ns1:g id="FOLDERNAME">%1$s</ns1:g> adlı klasörden kaldırıldı"</string>
     <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"E-posta klasörü"</string>
     <string msgid="6822914459902983767" name="forward">"Yönlendir"</string>
     <string msgid="1498936339458535158" name="forward_attribution">"---------- Yönlendirilen ileti ----------&lt;br>Gönderen: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Tarih:<ns1:g id="DATE">%2$s</ns1:g> &lt;br>Konu: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Alıcı: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
     <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Yönlendirilen ileti ----------"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Bir veya birden fazla ek yönlendirilemedi."</string>
     <string msgid="6139701848515572511" name="forward_download_failed_title">"Ek yönlendirilmedi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="2454519463223197231" name="from_heading">"Gönderen: "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"Silmeden önce onayla"</string>
     <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"İletiler"</string>
@@ -510,22 +510,22 @@
     <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Normal"</string>
     <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Küçük"</string>
     <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Çok Küçük"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="8775959340559458709" name="generic_attachment_problem">"Dosya eklenemedi."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="8243724566056800991" name="header_label_general_preferences">"Genel ayarlar"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="7873089811705257882" name="help_and_info">"Yardım"</string>
     <string msgid="8907305605854960737" name="hide_elided">"▼ Alıntılanan metni gizle"</string>
     <string msgid="7473552966537131652" name="hide_folders">"Klasörleri gizle"</string>
     <string msgid="1554651881128904262" name="ignore_spam_warning">"Yoksay, bu iletiye güveniyorum"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="3960094746248976565" name="inbox_folders_heading">"Gelen Kutusu"</string>
     <string msgid="6009817562073541204" name="info">"Bilgi"</string>
@@ -535,14 +535,14 @@
     <string msgid="420892447103014683" name="load_more">"Daha fazla yükle"</string>
     <string msgid="489160038366067983" name="loading_conversation">"Yükleniyor..."</string>
     <string msgid="2649440958602369555" name="loading_conversations">"Yükleniyor…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> oturumu açılamadı."</string>
     <string msgid="7624349996212476176" name="login_failed_title">"Oturum açılamadı"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="9205666839837250150" name="long_press_to_select_tip">"Bir ileti dizisini seçmek için uzun dokunun ve sonra başka ileti dizilerini seçmek için tekrar dokunun."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Birleşik görünüm"</string>
     <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Taslaklar"</string>
@@ -558,7 +558,7 @@
     <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"Postanın senkronize edileceği gün sayısı"</string>
     <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"Bu klasörü senkronize et"</string>
     <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"Bağlandığında iletiler indirilir"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="6743983544685622800" name="manual_sync">"Şimdi senk et"</string>
     <string msgid="6904096897104265870" name="mark_important">"Önemli olarak işaretle"</string>
@@ -571,10 +571,10 @@
     <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
     <string msgid="1542713666608888717" name="menu_change_folders">"Klasörleri değiştir"</string>
     <string msgid="6274193058224230645" name="menu_compose">"Oluştur"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="2871906096248843471" name="menu_folder_options">"Senkronizasyon seçenekleri"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="6755623004628177492" name="menu_manage_folders">"Klasör ayarları"</string>
     <string msgid="9138296669516358542" name="menu_move_to">"Taşı"</string>
@@ -585,13 +585,13 @@
     <string msgid="5297197523031943248" name="menu_search">"Ara"</string>
     <string msgid="6007027046949837282" name="menu_settings">"Ayarlar"</string>
     <string msgid="4227060689700765828" name="menu_show_original">"Otomatik boyutlandırmayı geri çevir"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Orijinal İleti --------\nKonu: <ns1:g id="SUBJECT">%1$s</ns1:g>\nGönderen: <ns1:g id="SENDER">%2$s</ns1:g>\nAlıcı:<ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
     <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Hızlı yanıt ekle"</string>
     <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"Hızlı yanıt ekle"</string>
     <string msgid="5016042255170947834" name="message_decode_error">"İletinin kodu çözülürken bir hata oluştu."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="2183394728494962332" name="message_details_title">"Mesaj ayrıntıları"</string>
     <string msgid="5079975378884765445" name="message_discarded">"İleti silindi."</string>
@@ -602,19 +602,19 @@
     <string msgid="3898050756490962079" name="message_invite_tentative">"Belki"</string>
     <string msgid="6757287288611722175" name="message_invite_title">"Takvim daveti"</string>
     <string msgid="7073947895562277576" name="message_saved">"İleti taslak olarak kaydedildi."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="7906875687519445185" name="message_view_attachment_background_load">"Yönlendirilen iletinizdeki bir veya daha fazla ek, gönderme işleminden önce indirilecek."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="717244337981816703" name="more_info_attachment">"Bilgi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Taşı"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -622,17 +622,17 @@
     <string msgid="2125579009654728299" name="network_error">"Bağlantı yok"</string>
     <string msgid="164529476439626369" name="new_incoming_messages_one">"<ns1:g id="SENDER">%s</ns1:g> adlı kişiden yeni iletiler. Göster."</string>
     <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> yeni ileti"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="3931301986364184415" name="next_action">"İleri"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="427548507197604096" name="no">"Hayır"</string>
     <string msgid="1945184804521392093" name="no_application_found">"Bu eki görüntülemek için açacak uygulama yok."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="5559527390337162819" name="no_conversations">"İleti yok."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="6059194125558004080" name="non_synced_folder_description">"İleti dizilerini görüntülemek için bu klasörü senk edin."</string>
     <string msgid="794279749170198599" name="not_synced_title">"Hesap senkronize değil"</string>
@@ -645,7 +645,7 @@
     <string msgid="3105611327110905438" name="notification_action_undo_delete">"Silindi"</string>
     <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Etiket Kaldırıldı"</string>
     <string msgid="8339355733816891026" name="ok">"Tamam"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="8365197396795675617" name="okay_action">"Tamam"</string>
     <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Ekr kilidi şifr süresi doluyor"</string>
@@ -660,17 +660,17 @@
     <string msgid="378256653525377586" name="permission_access_provider_label">"E-posta sağlayıcı verilerine eriş"</string>
     <string msgid="3394721085306308972" name="permission_read_attachment_desc">"Uygulamaya e-posta eklerinizi okuma izni verir."</string>
     <string msgid="9208086010625033590" name="permission_read_attachment_label">"E-posta eklerini oku"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5171715391553213328" name="phone">"telefon"</string>
     <string msgid="8811324070219403896" name="photo_load_failed">"Resim yüklenemedi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g> / <ns1:g id="COUNT">%d</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="8797634225088247121" name="please_wait">"Lütfen bekleyin…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="627405158087482302" name="policy_calendar_age">"Senk. edilen takvim etkinliği sayısını sınırlandır"</string>
     <string msgid="5744573062306937302" name="policy_dont_allow_camera">"Cihaz kamerasının kullanımına izin verme"</string>
@@ -681,7 +681,7 @@
     <string msgid="414869965358468080" name="policy_screen_timeout">"Boştaki cihazın ekranını kilitlemesini gerektir"</string>
     <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
     <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"Gönderen resmi"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Arşivleme ve silme işlemleri"</string>
     <string msgid="6585232628422090835" name="preference_removal_action_title">"Arşivleme ve silme işlemleri"</string>
@@ -696,7 +696,7 @@
     <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Ayarlanmadı"</string>
     <string msgid="888167074398030574" name="preferences_signature_title">"İmza"</string>
     <string msgid="6934911143603455393" name="preview_attachment">"Önizle"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="5181616311579820981" name="previous_action">"Önceki"</string>
     <string msgid="2995297671709325333" name="provider_note_live">"Yalnızca bazı \"Plus\" hesapları bu programın bağlanmasına izin veren POP erişimi içerir. Doğru e-posta adresinizle ve şifrenizle oturum açamıyorsanız, ödemeli bir \"Plus\" hesabına sahip olmayabilirsiniz. Bu e-posta hesaplarına erişmek için web tarayıcıyı başlatın."</string>
@@ -706,7 +706,7 @@
     <string msgid="8061819976353395585" name="quick_3">"Bunu daha sonra okuyup size geri döneceğim."</string>
     <string msgid="3988974084396883051" name="quick_4">"Bu konuyu tartışmak üzere bir toplantı ayarlayalım."</string>
     <string msgid="3960050972306132367" name="quick_responses_empty_view">"Hızlı yanıt yok."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="7250749398672037355" name="quoted_text">"Alıntılanan metni dahil et"</string>
     <string msgid="541007446961960617" name="quoted_text_label">"Alıntılanan metin"</string>
@@ -724,32 +724,32 @@
     <string msgid="5417082746232614958" name="report">"Bildir"</string>
     <string msgid="5714205737453138338" name="report_phishing">"Kimlik avı olarak bildir"</string>
     <string msgid="6467567747975393907" name="report_spam">"Spam bildir"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="7777357288642785955" name="require_manual_sync_message">"Dolaşımdayken bu hesabın arka plan senkronizasyonu devre dışı bırakılır."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="6797117334768201180" name="respond_inline">"Satır içi yanıtla"</string>
     <string msgid="6450150180834092146" name="resume_draft">"Düzenle"</string>
     <string msgid="4515885444824418022" name="retry">"Yeniden dene"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="1988862706623227093" name="save_action">"Kaydet"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5360128849867863132" name="save_attachment">"Kaydet"</string>
     <string msgid="5555744208032445632" name="save_draft">"Taslağı kaydet"</string>
     <string msgid="6660844285730790469" name="saved">"Kaydedildi, <ns1:g id="SIZE">%s</ns1:g>"</string>
     <string msgid="925514721138014677" name="saving">"Kaydediliyor…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="2200412192574686497" name="search_hint">"E-postada ara"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="4669917471897026269" name="search_results_header">"Sonuçlar"</string>
     <string msgid="3821361153909466819" name="search_results_searching_header">"Aranıyor…"</string>
     <string msgid="4654227193354052607" name="search_unsupported">"Bu hesapta arama desteklenmiyor"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" hesabının güvenlik ayarları değiştirildi; kullanıcının işlem yapmasına gerek yok."</string>
     <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" hesabı, güvenlik ayarları güncellemesi gerektiriyor."</string>
@@ -757,7 +757,7 @@
     <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"Güvenlik politikaları karşılanamıyor"</string>
     <string msgid="2429762903228690154" name="security_notification_content_update_title">"Güvenlik güncellemesi gerekli"</string>
     <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" hesabı güvenlik gereksinimleri nedeniyle senkronize edilemez."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="4711524151968942082" name="select_attachment_type">"Ek türünü seçin"</string>
     <string msgid="8242003661397555986" name="send">"Gönder"</string>
@@ -766,11 +766,11 @@
     <string msgid="5895854795157860258" name="senders_split_token">", "</string>
     <string msgid="8214361929125649771" name="sending">"Gönderiliyor..."</string>
     <string msgid="1498583163419122128" name="sending_message">"İleti gönderiliyor..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="2668629667423320684" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g> için sunucunun gönderilen öğeler klasörünü seçin"</string>
     <string msgid="5185915603716333904" name="settings_activity_title">"Ayarlar"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="8220482314700618391" name="shortcut_name_title">"Ad klasörü kısayolu"</string>
     <string msgid="5255917904110437886" name="show_elided">"▶ Alıntılanan metni göster"</string>
@@ -781,10 +781,10 @@
     <string msgid="5856834572357761687" name="silent_ringtone">"Sessiz"</string>
     <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
     <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="2611654064403817391" name="status_network_error">"Bağlantı sorunu."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="3262760336059073446" name="storage">"Depolama"</string>
     <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
@@ -792,7 +792,7 @@
     <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Yenilemek için aşağı hızlıca kaydırın"</string>
     <string msgid="7368819509040597851" name="sync_error">"Senkronize edilemedi."</string>
     <string msgid="5367907194753034375" name="sync_error_message">"Cihazınızda senkronizasyon için yeterli depolama alanı yok."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="3673792980526246177" name="system_account_create_failed">"Hesap oluşturulamadı. Tekrar deneyin."</string>
     <string msgid="7071006714702094762" name="system_folders_sent_dlg">"Sunucunuzun gönderilen öğeler klasörünü seçin"</string>
@@ -802,7 +802,7 @@
     <string msgid="4461220303400833402" name="system_folders_trash_dlg">"Sunucunuzun çöp kutusu klasörünü seçin"</string>
     <string msgid="1258919809198485244" name="system_folders_trash_summary">"Sunucunuzun çöp kutusu klasörünü seçin"</string>
     <string msgid="8470058000681188327" name="system_folders_trash_title">"Çöp kutusu klasörü"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="7956969657216748522" name="tablet">"tablet"</string>
     <string msgid="1181356242354390930" name="tap_to_configure">"Kurulum için dokunun"</string>
@@ -813,10 +813,10 @@
     <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Dosya eklenmedi. <ns1:g id="MAXSIZE">%1$s</ns1:g> sınırına ulaşıldı."</string>
     <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Bir veya daha fazla dosya eklenmedi. Boyut sınırı: <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
     <string msgid="2996733972478212136" name="too_large_to_attach_single">"<ns1:g id="MAXSIZE">%1$s</ns1:g> boyutundan büyük dosyalar eklenemez."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-tr/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-tr/strings.xml -->
     <eat-comment/>
     <string msgid="8052880079616386185" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g> için sunucunun çöp kutusu klasörünü seçin"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-tr/values.xml -->
     <eat-comment/>
     <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Yalnızca Gmail değil, tüm uygulamalarda ve hesaplarda yaptığınız değişiklikler web ile diğer cihazlarınız ve <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g> arasında senkronize edilir."</string>
     <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Aç"</string>

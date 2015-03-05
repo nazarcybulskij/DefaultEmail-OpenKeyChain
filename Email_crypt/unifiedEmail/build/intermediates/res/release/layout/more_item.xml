@@ -22,4 +22,4 @@
     android:text="@string/more_string"
     android:paddingLeft="8dip"
     android:paddingRight="8dip"
-    /><!-- From: file:/home/nazar/okc/okc/Email_crypt/chips/src/main/res/layout/more_item.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/layout/more_item.xml -->
+    /><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/chips/src/main/res/layout/more_item.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/layout/more_item.xml -->

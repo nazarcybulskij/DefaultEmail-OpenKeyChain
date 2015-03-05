@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-fr-rCA-sw600dp-v13/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/values-fr-rCA-sw600dp-v13/values.xml -->
     <eat-comment/>
     <string msgid="7648769906379235693" name="add_bcc_label">"+ Cci"</string>
     <string msgid="6156834609108442458" name="add_cc_label">"+ Cc/Cci"</string>

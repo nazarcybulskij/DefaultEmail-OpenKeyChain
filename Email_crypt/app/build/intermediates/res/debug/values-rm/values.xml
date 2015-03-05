@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-rm/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-rm/strings.xml -->
     <eat-comment/>
     <plurals name="message_view_attachment_bytes">
     <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>B"</item>
@@ -83,7 +83,7 @@
     <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Messadi original --------\nObject: <ns1:g id="SUBJECT">%1$s</ns1:g>\nDa: <ns1:g id="SENDER">%2$s</ns1:g>\nA: <ns1:g id="TO">%3$s</ns1:g>\nCc: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
     <string msgid="3931301986364184415" name="next_action">"Vinavant"</string>
     <string msgid="8365197396795675617" name="okay_action">"OK"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-rm/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-rm/values.xml -->
     <eat-comment/>
     <string msgid="1209670815434513191" name="veiled_address"/>
     <string msgid="7370933826442034211" name="veiled_alternate_text"/>

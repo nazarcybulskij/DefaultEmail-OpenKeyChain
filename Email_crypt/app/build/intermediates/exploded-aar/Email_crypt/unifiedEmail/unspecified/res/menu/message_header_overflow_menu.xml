@@ -28,4 +28,4 @@
     <item android:id="@+id/report_rendering_improvement"
           android:title="@string/report_rendering_improvement" />
 </menu>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/menu/message_header_overflow_menu.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/menu/message_header_overflow_menu.xml -->

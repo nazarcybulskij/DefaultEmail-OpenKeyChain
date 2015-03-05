@@ -64,4 +64,4 @@
         android:background="?android:attr/selectableItemBackground"
         android:duplicateParentState="true"/>
 </LinearLayout>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/swipe_leavebehind_body.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/swipe_leavebehind_body.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/swipe_leavebehind_body.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/swipe_leavebehind_body.xml -->

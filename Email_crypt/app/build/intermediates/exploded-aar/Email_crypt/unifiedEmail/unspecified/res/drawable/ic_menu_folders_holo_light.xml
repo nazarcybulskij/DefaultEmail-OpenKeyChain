@@ -16,4 +16,4 @@
      limitations under the License.
 -->
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
-        android:src="@drawable/ic_menu_move_to_holo_light"/><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/ic_menu_folders_holo_light.xml -->
+        android:src="@drawable/ic_menu_move_to_holo_light"/><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/ic_menu_folders_holo_light.xml -->

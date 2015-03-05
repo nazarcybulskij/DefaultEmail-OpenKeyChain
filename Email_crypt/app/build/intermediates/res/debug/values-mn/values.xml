@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string-array name="compose_modes">
     <item msgid="8631190144210933782">"Хариулах"</item>
     <item msgid="4085029907540221568">"Бүгдэд хариу илгээх"</item>
     <item msgid="857480048798815437">"Дамжуулах"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"Жижиг текст"</item>
@@ -16,7 +16,7 @@
     <item msgid="6227813549949219991">"Өргөн текст"</item>
     <item msgid="1197917420815786571">"Маш том текст"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string-array name="moveto_folder_sections">
     <item msgid="6984976603137892898">"Систем"</item>
@@ -28,13 +28,13 @@
     <item msgid="5562093094216840213">"Хуучин"</item>
     <item msgid="3331655314944797957">"Харилцааны жагсаалт"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string-array name="prefEntries_conversationListIconName">
     <item msgid="228585958140385749">"Зургийг харуулах"</item>
     <item msgid="2226691218102223696">"Юуг ч харуулахгүй"</item>
   </string-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string-array name="prefEntries_removal_action">
     <item msgid="1938422987822134657">"Зөвхөн архивлахыг харуулах"</item>
@@ -118,7 +118,7 @@
     <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> зурвас бүрмөсөн устгагдах болно."</item>
     <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> зурвас бүрмөсөн устгагдах болно."</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <plurals name="message_view_attachment_bytes">
     <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>Б"</item>
@@ -136,24 +136,24 @@
     <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>МБ"</item>
     <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>МБ"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <plurals name="move_conversation">
     <item msgid="3657821200245019288" quantity="one">"Харилцааг зөөх"</item>
     <item msgid="1685896770174368261" quantity="other">"<ns1:g id="ID_1">%1$d</ns1:g> харилцааг зөөх"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <plurals name="move_messages">
     <item msgid="320885379869442589" quantity="one">"Зурвасыг зөөх"</item>
     <item msgid="371256717624461324" quantity="other">"Зурвасуудыг зөөх"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <plurals name="show_messages_read">
     <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> хуучин зурвас"</item>
   </plurals>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Та энэ хэрэглэгчийн нэрийг \"<ns1:g id="DUPLICATE">%s</ns1:g>\" акаунтад ашиглаж байна."</string>
     <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Давхардсан Акаунт"</string>
@@ -188,10 +188,10 @@
     <string msgid="8134339460923068254" name="account_settings_notify_summary">"Имэйл ирвэл мэдэгдэл илгээх"</string>
     <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Илгээх имэйлийн тохиргоо"</string>
     <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Хэрэглэгчийн нэр, нууц үг болон бусад гарч буй серверийн тохиргоо"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="5277032997773498476" name="account_settings_param">"Акаунтын тохиргоо"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="6292833636418641840" name="account_settings_policies">"Аюулгүй байдлын бодлогууд"</string>
     <string msgid="1104680719299842829" name="account_settings_retry_label">"Синк хийхийг оролдох"</string>
@@ -302,14 +302,14 @@
     <string msgid="1850321535870447468" name="account_setup_security_required_title">"Алсаас аюулгүй байдлыг удирдах"</string>
     <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Зөв имэйл хаяг болон нууц үг оруулна уу."</string>
     <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Та акаунтын хэрэглэгчийн нэрийг өөрчлөх боломжгүй. Өөр хэрэглэгчийн нэртэй акаунт нэмэхийн тулд Акаунт нэмэх гэсэнд хүрнэ үү."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="5699548271856775808" name="account_sync_off">"Акаунтын синк идэвхгүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"Фолдерын жагсаалтыг ачаалж байна…"</string>
     <string msgid="8337750045270269649" name="accounts_welcome">"Та өөрийн акаунтыг ердөө хэдхэн алхамаар тохируулж болно."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ уншаагүй"</string>
     <string msgid="5161845867397316052" name="activity_folder_selection">"Фолдер сонгох"</string>
@@ -328,10 +328,10 @@
     <string msgid="5966408990164581801" name="always_show_images">"Энэ илгээгчийн хувьд ирүүлсэн зургуудыг нь байнга харуулах"</string>
     <string msgid="6218061921546973716" name="always_show_images_toast">"Энэ илгээгчээс ирүүлсэн зургуудыг автоматаар харуулна."</string>
     <string msgid="2285438422049030145" name="ap_overflow_format">"+<ns1:g id="ID_1">%d</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="5815426892327290362" name="app_name">"Имэйл"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="847250094775910499" name="archive">"Архивлах"</string>
     <string msgid="7533995360704366325" name="archived">"Архивлагдсан"</string>
@@ -342,10 +342,10 @@
     <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Үзүүлэн"</string>
     <string msgid="135527133955622936" name="attachment_audio">"Аудио"</string>
     <string msgid="3832985223906528449" name="attachment_image">"Зураг"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="7155322700141145123" name="attachment_not_found">"Хавсралтыг татаж авч чадсангүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="5544874374971562759" name="attachment_text">"Текст"</string>
     <string msgid="7878184764428642891" name="attachment_type_blocked">"Харамсалтай нь та энэ төрлийн хавсралтыг хадгалах буюу нээх боломжгүй."</string>
@@ -361,18 +361,18 @@
     <string msgid="4279864165439577668" name="body_hint">"Имэйл бичих"</string>
     <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
     <string msgid="8762981157252199115" name="cancel">"Цуцлах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="6967435583794021865" name="cancel_action">"Цуцлах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="4651201258272223650" name="cancel_attachment">"Цуцлах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Сонголтонд олон тооны акаунт багтсан учир зөөх боломжгүй."</string>
     <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"POP3 акаунт дээр зөөх дэмжигддэггүй."</string>
     <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Ноорог, Гарсан имэйл болон Илгээсэнд байгаа зурвасуудыг зөөх боломжгүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Сонголтонд олон тооны акаунт багтсан учир зөөх боломжгүй."</string>
     <string msgid="7017720927911078193" name="cc">"Cc"</string>
@@ -389,10 +389,10 @@
     <string msgid="3608892454869745927" name="collapse_recipient_details">"Хүлээн авагчийн мэдээллийг хумих"</string>
     <string msgid="1473559896062432878" name="compose">"Бичих"</string>
     <string msgid="1149834186404614612" name="confirm_discard_text">"Энэ зурвасыг устгах уу?"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="9151965975158906286" name="confirm_response">"Хариулт илгээж байна…"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="3221546155385562874" name="confirm_send_message">"Энэ зурвасыг илгээх үү?"</string>
     <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"Зурвасын их биед текст байхгүй байна."</string>
@@ -415,47 +415,47 @@
     <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS..."</string>
     <string msgid="297469098857964678" name="conversation_folder_moved">"<ns1:g id="FOLDERNAME">%1$s</ns1:g> руу зөөсөн"</string>
     <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Тухайн харилцааг сонгохын тулд илгээгчийн зурганд хүрнэ үү."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="3062715563215392251" name="create_action">"Шинийг үүсгэх"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="5069652141632649722" name="custom_from_account_label">"Имэйл илгээгч:"</string>
     <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
     <string msgid="7923108495669251362" name="date_message_received_today">"Өнөөдөр, <ns1:g id="TIME">%1$s</ns1:g>"</string>
     <string msgid="2240669381396206434" name="date_message_received_yesterday">"Өчигдөр, <ns1:g id="TIME">%1$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="5175710493691536719" name="debug_title">"Дебаг"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="844871204175957681" name="delete">"Устгах"</string>
     <string msgid="2757349161107268029" name="deleted">"Устгасан"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="426727923791430306" name="device_admin_description">"Серверт тохируулсан аюулгүй байдлын бодлогуудыг идэвхжүүлнэ"</string>
     <string msgid="8680224994637869414" name="device_admin_label">"Имэйл"</string>
     <string msgid="6196985268695592382" name="disable_admin_warning">"АНХААРУУЛГА: Имэйл апп-н таны төхөөрөмжийг удирдах эрхийг идэвхгүйжүүлэх нь үүнийг шаарддаг бүх имэйл акаунтыг холбогдох имэйл, харилцагчид, календарийн үйл явдал, бусад датаны хамт устгах болно."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="1714960202994370243" name="discard">"Цуцлах"</string>
     <string msgid="6862272443470085375" name="discard_drafts">"Нооргыг цуцлах"</string>
     <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Зөвлөмжийг хаах"</string>
     <string msgid="3079981801778027540" name="done">"Дууссан"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="7497990549515580249" name="done_action">"Дууссан"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="7418568915429156518" name="download_again">"Дахин татах"</string>
     <string msgid="442019281547315527" name="download_failed">"Татаж чадсангүй. Дахин оролдохын тулд хүрнэ үү."</string>
     <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
     <string msgid="2764774620737876943" name="drawer_close">"Навигацын татуургыг хаах"</string>
     <string msgid="6074646853178471940" name="drawer_open">"Навигацын татуургыг нээх"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="4322494050816995390" name="edit_quick_response_dialog">"Шуурхай хариунуудыг засах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6064497180615519589" name="empty_spam">"Спамыг хоослох"</string>
     <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Спамыг хоослох уу?"</string>
@@ -463,35 +463,35 @@
     <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Хогийн савыг хоослох уу?"</string>
     <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>-г асаах."</string>
     <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="1190783774800310346" name="exchange_name">"Байгууллагын"</string>
     <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Солигч АктивСинк"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="2266544827446346880" name="expand_recipient_details">"Хүлээн авагчийн мэдээллийг дэлгэх"</string>
     <string msgid="79365993169715049" name="feedback">"Санал хүсэл илгээх"</string>
     <string msgid="2599763030649526179" name="fetching_attachment">"Хавсралтыг дуудаж байна"</string>
     <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
     <string msgid="1500547397347480618" name="folder_icon_desc">"Фолдерын дүрс"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="860241987640527156" name="folder_picker_title">"Фолдер сонгогч"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="1047474677580149436" name="folder_removed">"<ns1:g id="FOLDERNAME">%1$s</ns1:g>-с арилгасан"</string>
     <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Имэйл фолдер"</string>
     <string msgid="6822914459902983767" name="forward">"Дамжуулах"</string>
     <string msgid="1498936339458535158" name="forward_attribution">"---------- Дамжуулсан зурвас ----------&lt;br>Хэнээс: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Огноо: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Гарчиг: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Хэнд: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
     <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Дамжуулагдсан зурвас ----------"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Нэг буюу хэд хэдэн хавсралтыг дамжуулж чадсангүй."</string>
     <string msgid="6139701848515572511" name="forward_download_failed_title">"Хавсралтыг дамжуулсангүй"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="2454519463223197231" name="from_heading">"Хэнээс: "</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"Устгахын өмнө баталгаажуулах"</string>
     <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"Зурвасууд"</string>
@@ -504,21 +504,21 @@
     <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Энгийн"</string>
     <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Жижиг"</string>
     <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Нарийхан"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="8775959340559458709" name="generic_attachment_problem">"Файлын хавсаргаж чадсангүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="8243724566056800991" name="header_label_general_preferences">"Ерөнхий тохиргоо"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="7873089811705257882" name="help_and_info">"Тусламж"</string>
     <string msgid="8907305605854960737" name="hide_elided">"▼ Ишлэсэн текстийг нуух"</string>
     <string msgid="1554651881128904262" name="ignore_spam_warning">"Үл тоох, би энэ зурваст итгэж байна"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="3960094746248976565" name="inbox_folders_heading">"Ирсэн имэйл"</string>
     <string msgid="6009817562073541204" name="info">"Мэдээлэл"</string>
@@ -528,14 +528,14 @@
     <string msgid="420892447103014683" name="load_more">"Нэмж харуулах"</string>
     <string msgid="489160038366067983" name="loading_conversation">"Ачаалж байна..."</string>
     <string msgid="2649440958602369555" name="loading_conversations">"Ачаалж байна..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> амжилттай нэвтэрлээ."</string>
     <string msgid="7624349996212476176" name="login_failed_title">"Нэвтэрч чадсангүй"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="9205666839837250150" name="long_press_to_select_tip">"Нэг харилцааг сонгохын тулд хүрээд &amp; барина уу, дараа нь илүү олныг сонгохын тулд хүрнэ үү."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Нэгтгэж харах"</string>
     <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Ноорог"</string>
@@ -551,7 +551,7 @@
     <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"Мэйл синк хийх хугацаа"</string>
     <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"Энэ фолдерийг синк хийх"</string>
     <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"Холбогдсон үед бүх зурвасууд татагдах болно"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6743983544685622800" name="manual_sync">"Одоо синк хийх"</string>
     <string msgid="6904096897104265870" name="mark_important">"Чухал болгож тэмдэглэх"</string>
@@ -564,10 +564,10 @@
     <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> МБ"</string>
     <string msgid="1542713666608888717" name="menu_change_folders">"Фолдеруудыг өөрчлөх"</string>
     <string msgid="6274193058224230645" name="menu_compose">"Бичих"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="2871906096248843471" name="menu_folder_options">"Синк сонголтууд"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6755623004628177492" name="menu_manage_folders">"Фолдерын тохиргоо"</string>
     <string msgid="9138296669516358542" name="menu_move_to">"Шилжүүлэх газар"</string>
@@ -578,13 +578,13 @@
     <string msgid="5297197523031943248" name="menu_search">"Хайх"</string>
     <string msgid="6007027046949837282" name="menu_settings">"Тохиргоо"</string>
     <string msgid="4227060689700765828" name="menu_show_original">"Авто-хэмжээ тохируулахыг буцаах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Анхдагч Зурвас --------\nГарчиг: <ns1:g id="SUBJECT">%1$s</ns1:g>\nХэнээс: <ns1:g id="SENDER">%2$s</ns1:g>\nХэнд: <ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
     <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Шуурхай хариулт оруулах"</string>
     <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"Шуурхай хариулт оруулах"</string>
     <string msgid="5016042255170947834" name="message_decode_error">"Зурвасын кодыг тайлах явцад алдаа гарсан."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="2183394728494962332" name="message_details_title">"Зурвасын мэдээлэл"</string>
     <string msgid="5079975378884765445" name="message_discarded">"Зурвас устгагдсан."</string>
@@ -595,16 +595,16 @@
     <string msgid="3898050756490962079" name="message_invite_tentative">"Магадгүй"</string>
     <string msgid="6757287288611722175" name="message_invite_title">"Календарийн урилга"</string>
     <string msgid="7073947895562277576" name="message_saved">"Зурвасыг ноорогт хадгалав."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="7906875687519445185" name="message_view_attachment_background_load">"Таны дамжуулж буй зурвасын нэг буюу хэд хэдэн хавсралт илгээгдэхээсээ өмнө татагдах болно."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="717244337981816703" name="more_info_attachment">"Мэдээлэл"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Зөөх"</string>
     <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
@@ -612,17 +612,17 @@
     <string msgid="2125579009654728299" name="network_error">"Холбогдоогүй"</string>
     <string msgid="164529476439626369" name="new_incoming_messages_one">"<ns1:g id="SENDER">%s</ns1:g>-с шинэ зурвас. Харах."</string>
     <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> шинэ зурвас"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="3931301986364184415" name="next_action">"Дараах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="427548507197604096" name="no">"Үгүй"</string>
     <string msgid="1945184804521392093" name="no_application_found">"Энэ хавсралтыг нээж харуулах апп байхгүй байна."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="5559527390337162819" name="no_conversations">"Зурвас байхгүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6059194125558004080" name="non_synced_folder_description">"Харилцаануудыг харахын тулд энэ фолдерыг синк хийнэ үү."</string>
     <string msgid="794279749170198599" name="not_synced_title">"Акаунт синк хийгдээгүй"</string>
@@ -635,7 +635,7 @@
     <string msgid="3105611327110905438" name="notification_action_undo_delete">"Устгасан"</string>
     <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Шошгыг арилгасан"</string>
     <string msgid="8339355733816891026" name="ok">"Тийм"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="8365197396795675617" name="okay_action">"Тийм"</string>
     <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Дэлгэцийн түгжээний нууц үгний хугацаа хэтэрч байна"</string>
@@ -650,11 +650,11 @@
     <string msgid="378256653525377586" name="permission_access_provider_label">"Имэйл нийлүүлэгчийн датад хандалт хийх"</string>
     <string msgid="3394721085306308972" name="permission_read_attachment_desc">"Таны имэйлийн хавсралтуудыг уншихыг апп-д зөвшөөрнө."</string>
     <string msgid="9208086010625033590" name="permission_read_attachment_label">"Имэйл хавсралтуудыг унших"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="8811324070219403896" name="photo_load_failed">"Зургийг ачаалж чадсангүй"</string>
     <string msgid="8797634225088247121" name="please_wait">"Түр хүлээнэ үү..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="627405158087482302" name="policy_calendar_age">"Синк хийгдсэн календарийн үйл явдлуудын тоог хязгаарлах"</string>
     <string msgid="5744573062306937302" name="policy_dont_allow_camera">"Төхөөрөмжийн камерыг ашиглахыг зөвшөөрөхгүй"</string>
@@ -665,16 +665,16 @@
     <string msgid="414869965358468080" name="policy_screen_timeout">"Идэвхгүй төхөөрөмжийг дэлгэцээ түгжихийг шаардах"</string>
     <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
     <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"Илгээгчийн зураг"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Архивлах &amp; устгах үйлдлүүд"</string>
     <string msgid="2468573302785576222" name="preference_attachment_previews_description">"Харилцааны жагсаалтад байгаа сүүлийн зурвасуудын хавсралтыг урьдчилж харуулах"</string>
     <string msgid="778099230423462593" name="preference_attachment_previews_title">"Хавсралт Урьдчилж харах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="4654821690566370979" name="preference_conversation_list_icon_summary">"Харилааг харахад илгээгчийн дүрсийг харуулах эсэхийг сонгох"</string>
     <string msgid="2691641598368725077" name="preference_conversation_list_icon_title">"Илгээгчийн зураг"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6585232628422090835" name="preference_removal_action_title">"Архивлах &amp; устгах үйлдлүүд"</string>
     <string msgid="7126493917536558232" name="preference_sender_image_description">"Харилцааны жагсаалтад нэрний хажууд харуулах"</string>
@@ -688,7 +688,7 @@
     <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Тохируулаагүй"</string>
     <string msgid="888167074398030574" name="preferences_signature_title">"Гарын үсэг"</string>
     <string msgid="6934911143603455393" name="preview_attachment">"Урьдчилж харах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="5181616311579820981" name="previous_action">"Өмнөх"</string>
     <string msgid="2995297671709325333" name="provider_note_live">"Зөвхөн зарим \"Plus\" акаунтууд энэ програмыг холбогдохыг зөвшөөрдөг POP хандалтыг агуулна. Та өөрийн зөв имэйл хаяг болон нууц үгээрээ нэвтрэх боломжгүй байгаа бол та төлбөртэй \"Plus\" акаунтгүй байна. Эдгээр имэйл акаунтын хандалттай болохын тулд вэб хөтчийг ажиллуулна уу."</string>
@@ -698,7 +698,7 @@
     <string msgid="8061819976353395585" name="quick_3">"Би үүнийг дараа уншаад танруу холбоо барина."</string>
     <string msgid="3988974084396883051" name="quick_4">"Уулзалт зохион байгуулж энэ асуудлыг ярилцая."</string>
     <string msgid="3960050972306132367" name="quick_responses_empty_view">"Шуурхай хариулт байхгүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="7250749398672037355" name="quoted_text">"Иш татсан текстийг оруулах"</string>
     <string msgid="541007446961960617" name="quoted_text_label">"Текст ишлэх"</string>
@@ -716,32 +716,32 @@
     <string msgid="5417082746232614958" name="report">"Мэдэгдэх"</string>
     <string msgid="5714205737453138338" name="report_phishing">"Фишинг мэдээлэх"</string>
     <string msgid="6467567747975393907" name="report_spam">"Спам мэдээлэх"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="7777357288642785955" name="require_manual_sync_message">"Роумингын үеэр энэ акаунтын арын синк хийхийг идэвхгүйжүүлсэн."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6797117334768201180" name="respond_inline">"Шугаманд хариулах"</string>
     <string msgid="6450150180834092146" name="resume_draft">"Засах"</string>
     <string msgid="4515885444824418022" name="retry">"Дахин оролдох"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="1988862706623227093" name="save_action">"Хадгалах"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="5360128849867863132" name="save_attachment">"Хадгалах"</string>
     <string msgid="5555744208032445632" name="save_draft">"Ноорог хадгалах"</string>
     <string msgid="6660844285730790469" name="saved">"Хадгалагдсан, <ns1:g id="SIZE">%s</ns1:g>"</string>
     <string msgid="925514721138014677" name="saving">"Хадгалж байна..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="2200412192574686497" name="search_hint">"Имэйл хайх"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="4669917471897026269" name="search_results_header">"Илэрцүүд"</string>
     <string msgid="3821361153909466819" name="search_results_searching_header">"Хайж байна..."</string>
     <string msgid="4654227193354052607" name="search_unsupported">"Энэ акаунтад хайлт дэмжигддэггүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" акаунт өөрийн аюулгүй байдлын тохиргоог өөрчилсөн; хэрэглэгч үйлдэл хийх шаардлагагүй."</string>
     <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" акаунт аюулгүй байдлын тохиргоог шинэчлэхийг шаардаж байна."</string>
@@ -749,7 +749,7 @@
     <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"Аюулгүй байдлын бодлого биелэгдэхгүй"</string>
     <string msgid="2429762903228690154" name="security_notification_content_update_title">"Аюулгүй байдлын шинэчлэлт хийх шаардлагатай"</string>
     <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"Аюулгүй байдлын шаардлагын дагуу \"<ns1:g id="ACCOUNT">%s</ns1:g>\" акаунт синк хийх боломжгүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="4711524151968942082" name="select_attachment_type">"Хавсралтын төрлийг сонгоно уу"</string>
     <string msgid="8242003661397555986" name="send">"Илгээх"</string>
@@ -758,11 +758,11 @@
     <string msgid="5895854795157860258" name="senders_split_token">", "</string>
     <string msgid="8214361929125649771" name="sending">"Илгээж байна ..."</string>
     <string msgid="1498583163419122128" name="sending_message">"Зурвасыг илгээж байна..."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="2668629667423320684" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>-н серверийн илгээсэн зурвасуудын фолдерыг сонгоно уу"</string>
     <string msgid="5185915603716333904" name="settings_activity_title">"Тохиргоо"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="8220482314700618391" name="shortcut_name_title">"Нэрийн фолдерын товчилбор"</string>
     <string msgid="5255917904110437886" name="show_elided">"▶ Ишлэгдсэн текстийг харуулах"</string>
@@ -772,10 +772,10 @@
     <string msgid="5856834572357761687" name="silent_ringtone">"Чимээгүй"</string>
     <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
     <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="2611654064403817391" name="status_network_error">"Холболтын асуудал."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="3262760336059073446" name="storage">"Сан"</string>
     <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
@@ -783,7 +783,7 @@
     <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Дахин шинэчлэхийн тулд доош шудрана уу"</string>
     <string msgid="7368819509040597851" name="sync_error">"Синк хийж чадсангүй."</string>
     <string msgid="5367907194753034375" name="sync_error_message">"Таны төхөөрөмж синк хийхэд хангалттай зайгүй байна."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="3673792980526246177" name="system_account_create_failed">"Акаунтыг үүсгэж чадсангүй. Дахин оролдоно уу."</string>
     <string msgid="7071006714702094762" name="system_folders_sent_dlg">"Өөрийн серверийн илгээсэн зурвасуудын фолдерыг сонгоно уу"</string>
@@ -793,7 +793,7 @@
     <string msgid="4461220303400833402" name="system_folders_trash_dlg">"Өөрийн серверийн хогийн савны фолдерыг сонгоно уу"</string>
     <string msgid="1258919809198485244" name="system_folders_trash_summary">"Өөрийн серверийн хогийн савны фолдерыг сонгоно уу"</string>
     <string msgid="8470058000681188327" name="system_folders_trash_title">"Хогийн савны фолдер"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="1181356242354390930" name="tap_to_configure">"Тохируулах бол хүрнэ үү"</string>
     <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"Фолдер синк хийх"</string>
@@ -802,10 +802,10 @@
     <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Файлыг хавсаргасангүй. <ns1:g id="MAXSIZE">%1$s</ns1:g> хязгаарт хүрсэн."</string>
     <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Нэг буюу хэд хэдэн файл хавсрагдаагүй. Хязгаар <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
     <string msgid="2996733972478212136" name="too_large_to_attach_single">"<ns1:g id="MAXSIZE">%1$s</ns1:g>-с хэтэрсэн файлыг хавсаргах боломжгүй."</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-mn/strings.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values-mn/strings.xml -->
     <eat-comment/>
     <string msgid="8052880079616386185" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>-н серверийн хогийн савны фолдерыг сонгоно уу"</string>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-mn/values.xml -->
     <eat-comment/>
     <string msgid="6070869718469782251" name="undo">"Буцаах"</string>
     <string msgid="588180203444398297" name="unread_string">"харилцаа уншигдаагүй"</string>

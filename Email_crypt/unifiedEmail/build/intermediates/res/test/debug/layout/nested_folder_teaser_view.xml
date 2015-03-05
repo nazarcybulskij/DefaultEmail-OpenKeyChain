@@ -76,4 +76,4 @@
 
     <include layout="@layout/teaser_right_edge" />
 
-</com.android.mail.ui.NestedFolderTeaserView><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/nested_folder_teaser_view.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/nested_folder_teaser_view.xml -->
+</com.android.mail.ui.NestedFolderTeaserView><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/nested_folder_teaser_view.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/nested_folder_teaser_view.xml -->

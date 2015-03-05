@@ -28,4 +28,4 @@
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen|keyguard" >
 </appwidget-provider>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/xml/widget_info.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/xml/widget_info.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/xml/widget_info.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/xml/widget_info.xml -->

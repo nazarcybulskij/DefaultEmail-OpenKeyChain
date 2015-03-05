@@ -2451,9 +2451,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButteryProgressBar_barColor com.android.email:barColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ButteryProgressBar_barHeight com.android.email:barHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ButteryProgressBar_detentWidth com.android.email:detentWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButteryProgressBar_barColor com.android.emailee:barColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButteryProgressBar_barHeight com.android.emailee:barHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButteryProgressBar_detentWidth com.android.emailee:detentWidth}</code></td><td></td></tr>
            </table>
            @see #ButteryProgressBar_barColor
            @see #ButteryProgressBar_barHeight
@@ -2463,7 +2463,7 @@ containing a value of this type.
             0x7f010000, 0x7f010001, 0x7f010002
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#barColor}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#barColor}
           attribute's value can be found in the {@link #ButteryProgressBar} array.
 
 
@@ -2474,11 +2474,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:barColor
+          @attr name com.android.emailee:barColor
         */
         public static final int ButteryProgressBar_barColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#barHeight}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#barHeight}
           attribute's value can be found in the {@link #ButteryProgressBar} array.
 
 
@@ -2490,11 +2490,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:barHeight
+          @attr name com.android.emailee:barHeight
         */
         public static final int ButteryProgressBar_barHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#detentWidth}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#detentWidth}
           attribute's value can be found in the {@link #ButteryProgressBar} array.
 
 
@@ -2506,7 +2506,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:detentWidth
+          @attr name com.android.emailee:detentWidth
         */
         public static final int ButteryProgressBar_detentWidth = 2;
         /** Attributes that can be used with a EmailServiceInfo.
@@ -2515,36 +2515,36 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EmailServiceInfo_accountType com.android.email:accountType}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_defaultLocalDeletes com.android.email:defaultLocalDeletes}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_defaultLookback com.android.email:defaultLookback}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_defaultSsl com.android.email:defaultSsl}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_defaultSyncInterval com.android.email:defaultSyncInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_hide com.android.email:hide}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_inferPrefix com.android.email:inferPrefix}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_intent com.android.email:intent}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_intentPackage com.android.email:intentPackage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_name com.android.email:name}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerAttachmentPreload com.android.email:offerAttachmentPreload}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerCerts com.android.email:offerCerts}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerLoadMore com.android.email:offerLoadMore}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerLocalDeletes com.android.email:offerLocalDeletes}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerLookback com.android.email:offerLookback}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerMoveTo com.android.email:offerMoveTo}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerPrefix com.android.email:offerPrefix}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_offerTls com.android.email:offerTls}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_port com.android.email:port}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_portSsl com.android.email:portSsl}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_protocol com.android.email:protocol}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_requiresSetup com.android.email:requiresSetup}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_serviceClass com.android.email:serviceClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_syncCalendar com.android.email:syncCalendar}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_syncChanges com.android.email:syncChanges}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_syncContacts com.android.email:syncContacts}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_syncIntervalStrings com.android.email:syncIntervalStrings}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_syncIntervals com.android.email:syncIntervals}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_usesAutodiscover com.android.email:usesAutodiscover}</code></td><td></td></tr>
-           <tr><td><code>{@link #EmailServiceInfo_usesSmtp com.android.email:usesSmtp}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_accountType com.android.emailee:accountType}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_defaultLocalDeletes com.android.emailee:defaultLocalDeletes}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_defaultLookback com.android.emailee:defaultLookback}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_defaultSsl com.android.emailee:defaultSsl}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_defaultSyncInterval com.android.emailee:defaultSyncInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_hide com.android.emailee:hide}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_inferPrefix com.android.emailee:inferPrefix}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_intent com.android.emailee:intent}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_intentPackage com.android.emailee:intentPackage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_name com.android.emailee:name}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerAttachmentPreload com.android.emailee:offerAttachmentPreload}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerCerts com.android.emailee:offerCerts}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerLoadMore com.android.emailee:offerLoadMore}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerLocalDeletes com.android.emailee:offerLocalDeletes}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerLookback com.android.emailee:offerLookback}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerMoveTo com.android.emailee:offerMoveTo}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerPrefix com.android.emailee:offerPrefix}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_offerTls com.android.emailee:offerTls}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_port com.android.emailee:port}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_portSsl com.android.emailee:portSsl}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_protocol com.android.emailee:protocol}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_requiresSetup com.android.emailee:requiresSetup}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_serviceClass com.android.emailee:serviceClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_syncCalendar com.android.emailee:syncCalendar}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_syncChanges com.android.emailee:syncChanges}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_syncContacts com.android.emailee:syncContacts}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_syncIntervalStrings com.android.emailee:syncIntervalStrings}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_syncIntervals com.android.emailee:syncIntervals}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_usesAutodiscover com.android.emailee:usesAutodiscover}</code></td><td></td></tr>
+           <tr><td><code>{@link #EmailServiceInfo_usesSmtp com.android.emailee:usesSmtp}</code></td><td></td></tr>
            </table>
            @see #EmailServiceInfo_accountType
            @see #EmailServiceInfo_defaultLocalDeletes
@@ -2588,7 +2588,7 @@ containing a value of this type.
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#accountType}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#accountType}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2598,11 +2598,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:accountType
+          @attr name com.android.emailee:accountType
         */
         public static final int EmailServiceInfo_accountType = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#defaultLocalDeletes}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#defaultLocalDeletes}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2612,11 +2612,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:defaultLocalDeletes
+          @attr name com.android.emailee:defaultLocalDeletes
         */
         public static final int EmailServiceInfo_defaultLocalDeletes = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#defaultLookback}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#defaultLookback}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2634,11 +2634,11 @@ containing a value of this type.
 <tr><td><code>months1</code></td><td>5</td><td></td></tr>
 <tr><td><code>all</code></td><td>6</td><td></td></tr>
 </table>
-          @attr name com.android.email:defaultLookback
+          @attr name com.android.emailee:defaultLookback
         */
         public static final int EmailServiceInfo_defaultLookback = 23;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#defaultSsl}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#defaultSsl}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2648,11 +2648,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:defaultSsl
+          @attr name com.android.emailee:defaultSsl
         */
         public static final int EmailServiceInfo_defaultSsl = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#defaultSyncInterval}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#defaultSyncInterval}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2670,11 +2670,11 @@ containing a value of this type.
 <tr><td><code>mins30</code></td><td>30</td><td></td></tr>
 <tr><td><code>mins60</code></td><td>60</td><td></td></tr>
 </table>
-          @attr name com.android.email:defaultSyncInterval
+          @attr name com.android.emailee:defaultSyncInterval
         */
         public static final int EmailServiceInfo_defaultSyncInterval = 27;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#hide}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#hide}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2684,11 +2684,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:hide
+          @attr name com.android.emailee:hide
         */
         public static final int EmailServiceInfo_hide = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#inferPrefix}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#inferPrefix}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2698,11 +2698,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:inferPrefix
+          @attr name com.android.emailee:inferPrefix
         */
         public static final int EmailServiceInfo_inferPrefix = 28;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#intent}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#intent}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2712,11 +2712,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:intent
+          @attr name com.android.emailee:intent
         */
         public static final int EmailServiceInfo_intent = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#intentPackage}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#intentPackage}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2726,11 +2726,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:intentPackage
+          @attr name com.android.emailee:intentPackage
         */
         public static final int EmailServiceInfo_intentPackage = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#name}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#name}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2740,11 +2740,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:name
+          @attr name com.android.emailee:name
         */
         public static final int EmailServiceInfo_name = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerAttachmentPreload}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerAttachmentPreload}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2754,11 +2754,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerAttachmentPreload
+          @attr name com.android.emailee:offerAttachmentPreload
         */
         public static final int EmailServiceInfo_offerAttachmentPreload = 24;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerCerts}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerCerts}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2768,11 +2768,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerCerts
+          @attr name com.android.emailee:offerCerts
         */
         public static final int EmailServiceInfo_offerCerts = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerLoadMore}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerLoadMore}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2782,11 +2782,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerLoadMore
+          @attr name com.android.emailee:offerLoadMore
         */
         public static final int EmailServiceInfo_offerLoadMore = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerLocalDeletes}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerLocalDeletes}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2796,11 +2796,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerLocalDeletes
+          @attr name com.android.emailee:offerLocalDeletes
         */
         public static final int EmailServiceInfo_offerLocalDeletes = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerLookback}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerLookback}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2810,11 +2810,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerLookback
+          @attr name com.android.emailee:offerLookback
         */
         public static final int EmailServiceInfo_offerLookback = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerMoveTo}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerMoveTo}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2824,11 +2824,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerMoveTo
+          @attr name com.android.emailee:offerMoveTo
         */
         public static final int EmailServiceInfo_offerMoveTo = 22;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerPrefix}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerPrefix}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2838,11 +2838,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerPrefix
+          @attr name com.android.emailee:offerPrefix
         */
         public static final int EmailServiceInfo_offerPrefix = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#offerTls}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#offerTls}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2852,11 +2852,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:offerTls
+          @attr name com.android.emailee:offerTls
         */
         public static final int EmailServiceInfo_offerTls = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#port}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#port}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2866,11 +2866,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:port
+          @attr name com.android.emailee:port
         */
         public static final int EmailServiceInfo_port = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#portSsl}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#portSsl}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2880,11 +2880,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:portSsl
+          @attr name com.android.emailee:portSsl
         */
         public static final int EmailServiceInfo_portSsl = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#protocol}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#protocol}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2894,11 +2894,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:protocol
+          @attr name com.android.emailee:protocol
         */
         public static final int EmailServiceInfo_protocol = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#requiresSetup}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#requiresSetup}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2908,11 +2908,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:requiresSetup
+          @attr name com.android.emailee:requiresSetup
         */
         public static final int EmailServiceInfo_requiresSetup = 29;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#serviceClass}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#serviceClass}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2922,11 +2922,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:serviceClass
+          @attr name com.android.emailee:serviceClass
         */
         public static final int EmailServiceInfo_serviceClass = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#syncCalendar}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#syncCalendar}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2936,11 +2936,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:syncCalendar
+          @attr name com.android.emailee:syncCalendar
         */
         public static final int EmailServiceInfo_syncCalendar = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#syncChanges}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#syncChanges}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2950,11 +2950,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:syncChanges
+          @attr name com.android.emailee:syncChanges
         */
         public static final int EmailServiceInfo_syncChanges = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#syncContacts}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#syncContacts}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2964,31 +2964,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:syncContacts
+          @attr name com.android.emailee:syncContacts
         */
         public static final int EmailServiceInfo_syncContacts = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#syncIntervalStrings}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#syncIntervalStrings}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:syncIntervalStrings
+          @attr name com.android.emailee:syncIntervalStrings
         */
         public static final int EmailServiceInfo_syncIntervalStrings = 25;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#syncIntervals}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#syncIntervals}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:syncIntervals
+          @attr name com.android.emailee:syncIntervals
         */
         public static final int EmailServiceInfo_syncIntervals = 26;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#usesAutodiscover}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#usesAutodiscover}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -2998,11 +2998,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:usesAutodiscover
+          @attr name com.android.emailee:usesAutodiscover
         */
         public static final int EmailServiceInfo_usesAutodiscover = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#usesSmtp}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#usesSmtp}
           attribute's value can be found in the {@link #EmailServiceInfo} array.
 
 
@@ -3012,7 +3012,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:usesSmtp
+          @attr name com.android.emailee:usesSmtp
         */
         public static final int EmailServiceInfo_usesSmtp = 15;
         /** Attributes that can be used with a FolderItemViewDrawableState.
@@ -3021,7 +3021,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FolderItemViewDrawableState_state_drag_mode com.android.email:state_drag_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FolderItemViewDrawableState_state_drag_mode com.android.emailee:state_drag_mode}</code></td><td></td></tr>
            </table>
            @see #FolderItemViewDrawableState_state_drag_mode
          */
@@ -3029,7 +3029,7 @@ containing a value of this type.
             0x7f010021
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#state_drag_mode}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#state_drag_mode}
           attribute's value can be found in the {@link #FolderItemViewDrawableState} array.
 
 
@@ -3039,7 +3039,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:state_drag_mode
+          @attr name com.android.emailee:state_drag_mode
         */
         public static final int FolderItemViewDrawableState_state_drag_mode = 0;
         /** Attributes that can be used with a GridLayout.
@@ -3048,13 +3048,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GridLayout_alignmentMode com.android.email:alignmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_columnCount com.android.email:columnCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_columnOrderPreserved com.android.email:columnOrderPreserved}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_orientation com.android.email:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_rowCount com.android.email:rowCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_rowOrderPreserved com.android.email:rowOrderPreserved}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_useDefaultMargins com.android.email:useDefaultMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_alignmentMode com.android.emailee:alignmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_columnCount com.android.emailee:columnCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_columnOrderPreserved com.android.emailee:columnOrderPreserved}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_orientation com.android.emailee:orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_rowCount com.android.emailee:rowCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_rowOrderPreserved com.android.emailee:rowOrderPreserved}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_useDefaultMargins com.android.emailee:useDefaultMargins}</code></td><td></td></tr>
            </table>
            @see #GridLayout_alignmentMode
            @see #GridLayout_columnCount
@@ -3069,7 +3069,7 @@ containing a value of this type.
             0x7f010026, 0x7f010027, 0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#alignmentMode}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#alignmentMode}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3082,11 +3082,11 @@ containing a value of this type.
 <tr><td><code>alignBounds</code></td><td>0</td><td></td></tr>
 <tr><td><code>alignMargins</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.android.email:alignmentMode
+          @attr name com.android.emailee:alignmentMode
         */
         public static final int GridLayout_alignmentMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#columnCount}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#columnCount}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3096,11 +3096,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:columnCount
+          @attr name com.android.emailee:columnCount
         */
         public static final int GridLayout_columnCount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#columnOrderPreserved}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#columnOrderPreserved}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3110,11 +3110,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:columnOrderPreserved
+          @attr name com.android.emailee:columnOrderPreserved
         */
         public static final int GridLayout_columnOrderPreserved = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#orientation}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#orientation}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3127,11 +3127,11 @@ containing a value of this type.
 <tr><td><code>horizontal</code></td><td>0</td><td></td></tr>
 <tr><td><code>vertical</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.android.email:orientation
+          @attr name com.android.emailee:orientation
         */
         public static final int GridLayout_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#rowCount}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#rowCount}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3141,11 +3141,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:rowCount
+          @attr name com.android.emailee:rowCount
         */
         public static final int GridLayout_rowCount = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#rowOrderPreserved}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#rowOrderPreserved}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3155,11 +3155,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:rowOrderPreserved
+          @attr name com.android.emailee:rowOrderPreserved
         */
         public static final int GridLayout_rowOrderPreserved = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#useDefaultMargins}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#useDefaultMargins}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -3169,7 +3169,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:useDefaultMargins
+          @attr name com.android.emailee:useDefaultMargins
         */
         public static final int GridLayout_useDefaultMargins = 3;
         /** Attributes that can be used with a GridLayout_Layout.
@@ -3185,11 +3185,11 @@ containing a value of this type.
            <tr><td><code>{@link #GridLayout_Layout_android_layout_marginRight android:layout_marginRight}</code></td><td></td></tr>
            <tr><td><code>{@link #GridLayout_Layout_android_layout_marginTop android:layout_marginTop}</code></td><td></td></tr>
            <tr><td><code>{@link #GridLayout_Layout_android_layout_width android:layout_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_column com.android.email:layout_column}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan com.android.email:layout_columnSpan}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_gravity com.android.email:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_row com.android.email:layout_row}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan com.android.email:layout_rowSpan}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_column com.android.emailee:layout_column}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan com.android.emailee:layout_columnSpan}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_gravity com.android.emailee:layout_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_row com.android.emailee:layout_row}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan com.android.emailee:layout_rowSpan}</code></td><td></td></tr>
            </table>
            @see #GridLayout_Layout_android_layout_height
            @see #GridLayout_Layout_android_layout_margin
@@ -3252,7 +3252,7 @@ containing a value of this type.
         */
         public static final int GridLayout_Layout_android_layout_width = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#layout_column}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#layout_column}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -3262,11 +3262,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:layout_column
+          @attr name com.android.emailee:layout_column
         */
         public static final int GridLayout_Layout_layout_column = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#layout_columnSpan}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#layout_columnSpan}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -3276,11 +3276,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:layout_columnSpan
+          @attr name com.android.emailee:layout_columnSpan
         */
         public static final int GridLayout_Layout_layout_columnSpan = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#layout_gravity}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#layout_gravity}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -3305,11 +3305,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.android.email:layout_gravity
+          @attr name com.android.emailee:layout_gravity
         */
         public static final int GridLayout_Layout_layout_gravity = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#layout_row}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#layout_row}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -3319,11 +3319,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:layout_row
+          @attr name com.android.emailee:layout_row
         */
         public static final int GridLayout_Layout_layout_row = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#layout_rowSpan}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#layout_rowSpan}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -3333,7 +3333,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.email:layout_rowSpan
+          @attr name com.android.emailee:layout_rowSpan
         */
         public static final int GridLayout_Layout_layout_rowSpan = 8;
         /** Attributes that can be used with a RecipientEditTextView.
@@ -3342,14 +3342,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipAlternatesLayout com.android.email:chipAlternatesLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipBackground com.android.email:chipBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipBackgroundPressed com.android.email:chipBackgroundPressed}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipDelete com.android.email:chipDelete}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipFontSize com.android.email:chipFontSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipHeight com.android.email:chipHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_chipPadding com.android.email:chipPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecipientEditTextView_invalidChipBackground com.android.email:invalidChipBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipAlternatesLayout com.android.emailee:chipAlternatesLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipBackground com.android.emailee:chipBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipBackgroundPressed com.android.emailee:chipBackgroundPressed}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipDelete com.android.emailee:chipDelete}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipFontSize com.android.emailee:chipFontSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipHeight com.android.emailee:chipHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_chipPadding com.android.emailee:chipPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecipientEditTextView_invalidChipBackground com.android.emailee:invalidChipBackground}</code></td><td></td></tr>
            </table>
            @see #RecipientEditTextView_chipAlternatesLayout
            @see #RecipientEditTextView_chipBackground
@@ -3365,83 +3365,83 @@ containing a value of this type.
             0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipAlternatesLayout}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipAlternatesLayout}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipAlternatesLayout
+          @attr name com.android.emailee:chipAlternatesLayout
         */
         public static final int RecipientEditTextView_chipAlternatesLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipBackground}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipBackground}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipBackground
+          @attr name com.android.emailee:chipBackground
         */
         public static final int RecipientEditTextView_chipBackground = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipBackgroundPressed}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipBackgroundPressed}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipBackgroundPressed
+          @attr name com.android.emailee:chipBackgroundPressed
         */
         public static final int RecipientEditTextView_chipBackgroundPressed = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipDelete}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipDelete}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipDelete
+          @attr name com.android.emailee:chipDelete
         */
         public static final int RecipientEditTextView_chipDelete = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipFontSize}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipFontSize}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipFontSize
+          @attr name com.android.emailee:chipFontSize
         */
         public static final int RecipientEditTextView_chipFontSize = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipHeight}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipHeight}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipHeight
+          @attr name com.android.emailee:chipHeight
         */
         public static final int RecipientEditTextView_chipHeight = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#chipPadding}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#chipPadding}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:chipPadding
+          @attr name com.android.emailee:chipPadding
         */
         public static final int RecipientEditTextView_chipPadding = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.email.R.attr#invalidChipBackground}
+          <p>This symbol is the offset where the {@link com.android.emailee.R.attr#invalidChipBackground}
           attribute's value can be found in the {@link #RecipientEditTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.email:invalidChipBackground
+          @attr name com.android.emailee:invalidChipBackground
         */
         public static final int RecipientEditTextView_invalidChipBackground = 0;
     };

@@ -107,4 +107,4 @@
             android:maxLines="2"
             android:includeFontPadding="false" />
     </RelativeLayout>
-</FrameLayout><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/layout/widget_conversation_list_item.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/widget_conversation_list_item.xml -->
+</FrameLayout><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/widget_conversation_list_item.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/layout/widget_conversation_list_item.xml -->

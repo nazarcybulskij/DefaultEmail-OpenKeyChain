@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-land/arrays.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-land/arrays.xml -->
     <eat-comment/>
     <integer-array name="senders_lengths">
         <item>42</item>
@@ -10,13 +10,13 @@
         <item>40</item>
         <item>40</item>
     </integer-array>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-land/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-land/values.xml -->
     <eat-comment/>
     <dimen name="chip_height">26dip</dimen>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-land/dimen.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-land/dimen.xml -->
     <eat-comment/>
     <dimen name="compose_scrollview_width">800dp</dimen>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-land/styles.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-land/styles.xml -->
     <eat-comment/>
     <style name="AccountSpinnerAnchorTextPrimary" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
         <item name="android:textSize">14dp</item>

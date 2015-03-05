@@ -23,4 +23,4 @@
     <item android:state_activated="true" android:color="@android:color/white" />
     <item android:color="@color/dark_gray_text_color" />
 </selector>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/color/folder_item_text_color.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/color/folder_item_text_color.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/color/folder_item_text_color.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/color/folder_item_text_color.xml -->

@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.email"
+    package="com.android.emailee"
     android:versionCode="600058" > <!-- This needs to be present when we are doing unbundled releases. -->
     <uses-sdk
         android:minSdkVersion="14"

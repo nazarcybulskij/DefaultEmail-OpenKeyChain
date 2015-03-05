@@ -19,4 +19,4 @@
    <item android:state_checked="true" android:color="@android:color/white" />
    <item android:state_selected="true" android:color="@android:color/white" />
    <item android:color="#777777"/>
- </selector><!-- From: file:/home/nazar/okc/okc/Email_crypt/chips/src/main/res/drawable/list_item_font_secondary.xml --><!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/drawable/list_item_font_secondary.xml -->
+ </selector><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/chips/src/main/res/drawable/list_item_font_secondary.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/drawable/list_item_font_secondary.xml -->

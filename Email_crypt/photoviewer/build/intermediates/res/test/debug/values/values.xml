@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/photoviewer/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/photoviewer/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <bool name="force_thumbnail_no_scaling">true</bool>
     <color name="photo_crop_dim_color">#cc000000</color>

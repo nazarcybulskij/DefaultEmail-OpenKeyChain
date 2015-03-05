@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-sw720dp-land/constants.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-sw720dp-land/constants.xml -->
     <eat-comment/>
     <bool name="show_two_pane_search_results">true</bool>
-    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-sw720dp-land/dimen.xml -->
+    <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/values-sw720dp-land/dimen.xml -->
     <eat-comment/>
     <dimen name="compose_scrollview_width">900dip</dimen>
     <dimen name="spinner_frame_width">260dip</dimen>

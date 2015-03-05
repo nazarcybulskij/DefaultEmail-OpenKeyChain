@@ -29,4 +29,4 @@
     android:label="@string/exchange_name_alternate"
     android:accountPreferences="@xml/account_preferences"
 />
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/xml/authenticator_alternate.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/xml/authenticator_alternate.xml -->

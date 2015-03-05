@@ -26,4 +26,4 @@
           android:drawable="@drawable/list_focused_holo" />
     <item android:drawable="@drawable/list_read_holo" />
 </selector>
-<!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/drawable/conversation_read_selector.xml -->
+<!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/drawable/conversation_read_selector.xml -->
