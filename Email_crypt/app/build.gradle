@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+
+
+
+
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.android.email"
+        minSdkVersion 14
+        targetSdkVersion 19
+
+        testApplicationId "com.android.email.tests"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        compile project(':unifiedEmail')
+//    compile project(':chips')
+//    compile project (':photoviewer')
+//    compile project(':common')
+//    compile group: 'com.google.guava', name: 'guava', version: '15.0'
+//        compile 'com.android.support:support-v4:19.0.0'
+//    compile 'com.android.support:gridlayout-v7:19.0.0'
+//    compile 'com.android.support:support-v13:19.0.0'
+
+    }
+
+
+    sourceSets {
+        main {
+            aidl.srcDirs = ['src/main/java']
+            res.srcDirs = ['src/main/res','src/main/emailcommon_res']
+        }
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}

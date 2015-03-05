@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"回复"</item>
+    <item msgid="4085029907540221568">"全部回复"</item>
+    <item msgid="857480048798815437">"转发"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"超小字体"</item>
+    <item msgid="4415205108584620118">"小号字体"</item>
+    <item msgid="4550219696381691112">"正常大小的文字"</item>
+    <item msgid="6227813549949219991">"大号字体"</item>
+    <item msgid="1197917420815786571">"超大字体"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"系统"</item>
+    <item msgid="6593672292311851204">"常用"</item>
+    <item msgid="3584541772344786752">"所有文件夹"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"后一个会话"</item>
+    <item msgid="5562093094216840213">"前一个会话"</item>
+    <item msgid="3331655314944797957">"会话列表"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"仅显示归档"</item>
+    <item msgid="5737880287951287278">"仅显示删除"</item>
+    <item msgid="4279948809971752573">"显示归档和删除"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"在您执行删除操作后显示较新的后一个会话"</item>
+    <item msgid="732746454445519134">"在您执行删除操作后显示较旧的前一个会话"</item>
+    <item msgid="2189929276292165301">"在您执行删除操作后显示会话列表"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"仅显示归档"</item>
+    <item msgid="8350973578419775975">"仅显示删除"</item>
+    <item msgid="2967059853409454648">"显示归档和删除"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"成功"</item>
+    <item msgid="7109065688039971961">"无网络连接。"</item>
+    <item msgid="8437496123716232060">"无法登录。"</item>
+    <item msgid="1651266301325684887">"安全错误。"</item>
+    <item msgid="1461520171154288533">"无法同步。"</item>
+    <item msgid="4779810016424303449">"内部错误"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g>封未读邮件"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"要将此会话归档吗？"</item>
+    <item msgid="4713469868399246772" quantity="other">"要将这 <ns1:g id="COUNT">%1$d</ns1:g> 个会话归档吗？"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"要删除此会话吗？"</item>
+    <item msgid="930334208937121234" quantity="other">"要删除这 <ns1:g id="COUNT">%1$d</ns1:g> 个会话吗？"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"要舍弃此会话中的草稿吗？"</item>
+    <item msgid="4173815457177336569" quantity="other">"要舍弃这 <ns1:g id="COUNT">%1$d</ns1:g> 个会话中的草稿吗？"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话归档。"</item>
+    <item msgid="3012054504370916482" quantity="other">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话归档。"</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"已删除 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话。"</item>
+    <item msgid="8630099095360065837" quantity="other">"已删除 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话。"</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"已更改文件夹。"</item>
+    <item msgid="8918589141287976985" quantity="other">"已更改文件夹。"</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"已忽略 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话。"</item>
+    <item msgid="1941193356069303587" quantity="other">"已忽略 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话。"</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话标记为不重要。"</item>
+    <item msgid="6662213740575340397" quantity="other">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话标记为不重要。"</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话举报为非垃圾邮件。"</item>
+    <item msgid="2250720080221922267" quantity="other">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话举报为非垃圾邮件。"</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话举报为网上诱骗。"</item>
+    <item msgid="3678624994662639442" quantity="other">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话举报为网上诱骗。"</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话举报为垃圾邮件。"</item>
+    <item msgid="5071459475389411227" quantity="other">"已将 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 个会话举报为垃圾邮件。"</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"正在取消 <ns1:g id="COUNT">%1$d</ns1:g> 个会话的星标。"</item>
+    <item msgid="2222365088907519938" quantity="other">"正在取消 <ns1:g id="COUNT">%1$d</ns1:g> 个会话的星标。"</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"草稿"</item>
+    <item msgid="6961049507579977505" quantity="other">"草稿"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g>封邮件将会永久删除。"</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g>封邮件将会永久删除。"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> GB"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> GB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> KB"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> KB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"移动会话"</item>
+    <item msgid="1685896770174368261" quantity="other">"移动 <ns1:g id="ID_1">%1$d</ns1:g> 个会话"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"移动邮件"</item>
+    <item msgid="371256717624461324" quantity="other">"移动邮件"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"有<ns1:g id="COUNT">%1$d</ns1:g>封新邮件。显示"</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g>封较早的邮件"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"帐户“<ns1:g id="DUPLICATE">%s</ns1:g>”已经使用了此用户名。"</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"帐户重复"</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"草稿"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"收件箱"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"发件箱"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"已加星标的内容"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"该密码的开头或结尾存在一个或多个空格。很多服务器不支持带空格的密码。"</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> 要求更新您的安全设置。"</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"安全更新"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"“<ns1:g id="SERVER">%s</ns1:g>”服务器要求您允许其远程控制您 Android 设备的某些安全功能。"</string>
+    <string msgid="3511543138560418587" name="account_security_title">"设备安全性"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"帐户设置"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"下载附件"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"通过 WLAN 自动下载最新邮件的附件"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"数据使用"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"帐户名称"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"快速回复"</string>
+    <string msgid="8056686122888722591" name="account_settings_edit_quick_responses_summary">"编辑您在写电子邮件时经常插入的文本"</string>
+    <string msgid="7429582254433588882" name="account_settings_enforced_label">"政策已执行"</string>
+    <string msgid="8140860420440447771" name="account_settings_enforced_summary">"无"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"要舍弃未保存的更改？"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"接收设置"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"用户名、密码和其他接收服务器设置"</string>
+    <string msgid="8849649646111167377" name="account_settings_login_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> 的用户名或密码不正确。要立即更新吗？"</string>
+    <string msgid="4266359321648406752" name="account_settings_login_dialog_reason_fmt">"无法登录 <ns1:g id="ACCOUNT">%s</ns1:g>；服务器提示：<ns1:g id="REASON">%s</ns1:g>。您要更新自己的用户名和/或密码吗？"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"无法登录"</string>
+    <string msgid="4322235101687302250" name="account_settings_mail_check_frequency_label">"同步频率"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"您的姓名"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"通知设置"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"电子邮件通知"</string>
+    <string msgid="8134339460923068254" name="account_settings_notify_summary">"收到电子邮件时发送通知"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"外发设置"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"用户名、密码和其他外发服务器设置"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5277032997773498476" name="account_settings_param">"帐户设置"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="6292833636418641840" name="account_settings_policies">"安全政策"</string>
+    <string msgid="1104680719299842829" name="account_settings_retry_label">"尝试同步"</string>
+    <string msgid="2703599639846201913" name="account_settings_retry_summary">"触摸此处以同步此帐户"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"选择铃声"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"服务器设置"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"同步频率、通知等。"</string>
+    <string msgid="6855333393468628003" name="account_settings_sync_calendar_enable">"同步日历"</string>
+    <string msgid="7606340353079301703" name="account_settings_sync_calendar_summary">"同步此帐户的日历活动"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"同步联系人"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"同步此帐户的联系人"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"同步电子邮件"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"同步此帐户的电子邮件"</string>
+    <string msgid="1954091071454235577" name="account_settings_unsupported_label">"不支持的政策"</string>
+    <string msgid="2107633813351863608" name="account_settings_unsupported_summary">"无"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"振动"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"帐户类型"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"这是什么类型的帐户？"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"帐户设置"</string>
+    <string msgid="8354874879956702097" name="account_setup_autodiscover_dlg_authfail_message">"请确认用户名、密码和帐户设置均正确无误。"</string>
+    <string msgid="7365992662150541370" name="account_setup_autodiscover_dlg_authfail_title">"设置帐户时出现问题"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"电子邮件地址"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"电子邮件帐户"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"手动设置"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"密码"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"帐户设置"</string>
+    <string msgid="2869198335297585862" name="account_setup_check_settings_check_incoming_msg">"正在验证服务器设置…"</string>
+    <string msgid="4566131393776891419" name="account_setup_check_settings_check_outgoing_msg">"正在验证 SMTP 设置…"</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"正在检索帐户信息..."</string>
+    <string msgid="6235569720466839946" name="account_setup_creating_account_msg">"正在创建帐户…"</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"客户端证书"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"移动设备 ID"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"无"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"删除"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"选择"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"使用客户端证书"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"您没有与此服务器同步的权限。要了解详情，请与您服务器的管理员联系。"</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"服务器不支持身份验证方法。"</string>
+    <string msgid="3563840279690749547" name="account_setup_failed_certificate_inaccessible">"证书无效或无法使用。"</string>
+    <string msgid="2689944595775206006" name="account_setup_failed_certificate_required">"需要客户端证书。要通过客户端证书连接到服务器吗？"</string>
+    <string msgid="6531658092540248067" name="account_setup_failed_check_credentials_message">"该服务器返回了包含错误讯息的响应。请检查您的用户名和密码，然后重试。"</string>
+    <string msgid="426627755590431364" name="account_setup_failed_dlg_auth_message">"用户名或密码不正确。"</string>
+    <string msgid="2081384892947238930" name="account_setup_failed_dlg_auth_message_fmt">"登录失败。\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"无法安全地连接到服务器。"</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"无法安全地连接到服务器。\n（<ns1:g id="ERROR">%s</ns1:g>）"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"编辑详情"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"无法连接到服务器。"</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"无法连接到服务器。\n（<ns1:g id="ERROR">%s</ns1:g>）"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"无法完成"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"无法连接到服务器。"</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"您键入的服务器地址不正确，或电子邮件服务不支持该服务器需要的协议版本。"</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"由于安全错误，无法连接到服务器。"</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"您的 Android 设备不支持此服务器要求使用的安全功能，其中包括：<ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"需要 TLS，但服务器不支持 TLS。"</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"当我从收件箱中删除时"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"从服务器中删除电子邮件"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"永不"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"接收服务器设置"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"可选"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"IMAP 路径前缀"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"密码"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"端口"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"安全类型"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"无"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS（接受所有证书）"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS（接受所有证书）"</string>
+    <string msgid="1480342966630002638" name="account_setup_incoming_server_label">"服务器"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"帐户设置"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"用户名"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"为此帐户起个名称（可选）"</string>
+    <string msgid="914858472109729140" name="account_setup_names_headline">"您的帐户已设置完毕，可以收发电子邮件了！"</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"帐户设置"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"此字段不能为空。"</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"您的姓名（显示在外发邮件中）"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"连接到 WLAN 后自动下载附件"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"帐户选项"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"每隔 10 分钟"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"每隔 15 分钟"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"每小时"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"每隔 30 分钟"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"每隔 5 分钟"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"邮件查收频率"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"永不"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"自动（推送）"</string>
+    <string msgid="7727436096227637646" name="account_setup_options_mail_window_1day">"最近一天"</string>
+    <string msgid="4289585173153789717" name="account_setup_options_mail_window_1month">"最近一个月"</string>
+    <string msgid="5804121771990249346" name="account_setup_options_mail_window_1week">"最近一周"</string>
+    <string msgid="3583478100026382495" name="account_setup_options_mail_window_2weeks">"最近两周"</string>
+    <string msgid="1841106793912850270" name="account_setup_options_mail_window_3days">"最近三天"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"全部"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"自动"</string>
+    <string msgid="2540360826995543134" name="account_setup_options_mail_window_default">"使用帐户的默认设置"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"同步最近多少天的邮件"</string>
+    <string msgid="7046146571560728829" name="account_setup_options_notify_label">"收到电子邮件时通知我"</string>
+    <string msgid="3222151135467189411" name="account_setup_options_sync_calendar_label">"同步此帐户中的日历"</string>
+    <string msgid="276492345599531778" name="account_setup_options_sync_contacts_label">"同步此帐户中的联系人"</string>
+    <string msgid="8585177128405004068" name="account_setup_options_sync_email_label">"同步此帐户中的电子邮件"</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"帐户设置"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"外发服务器设置"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"密码"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"端口"</string>
+    <string msgid="7779484127897397562" name="account_setup_outgoing_require_login_label">"要求登录"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"安全类型"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"SMTP 服务器"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"帐户设置"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"用户名"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"“<ns1:g id="SERVER">%s</ns1:g>”服务器要求您允许其远程控制您 Android 设备的某些安全功能。您想要完成此帐户设置吗？"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"远程安全管理"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"请键入有效的电子邮件地址和密码。"</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"您无法更改帐户的用户名。要添加使用其他用户名的帐户，请触摸“添加帐户”。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5699548271856775808" name="account_sync_off">"帐户同步功能已关闭。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"正在加载文件夹列表…"</string>
+    <string msgid="8337750045270269649" name="accounts_welcome">"只需几步操作，即可设置好您的帐户。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"超过<ns1:g id="COUNT">%1$d</ns1:g>封未读邮件"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"选择文件夹"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"选择帐户"</string>
+    <string msgid="2162808366829269770" name="add_account">"添加帐户"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"添加密送地址"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"添加抄送/密送地址"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"添加附件"</string>
+    <string msgid="6060201715848652940" name="add_label">"添加文件夹"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"附加图片"</string>
+    <string msgid="2866003744391266498" name="add_star">"加注星标"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"附加视频"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> 来自 <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"所有文件夹"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"总是显示来自此发件人的图片"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"来自该发件人的图片将会自动显示。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5815426892327290362" name="app_name">"电子邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="847250094775910499" name="archive">"归档"</string>
+    <string msgid="7533995360704366325" name="archived">"已归档"</string>
+    <string msgid="4267189489654642035" name="attached_message">"附加的邮件"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"文档"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"电子表格"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"演示文稿"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"音频"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"图片"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="7155322700141145123" name="attachment_not_found">"无法下载该附件。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5544874374971562759" name="attachment_text">"文本"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"很抱歉，您无法保存或打开此类型的附件。"</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g> 文件"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"视频"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"附件"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"自动跳转偏好设置\n（在您执行删除等操作后）"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"自动跳转"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"选择删除邮件后显示的屏幕"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"自动同步功能已关闭。"</string>
+    <string msgid="3098643138241111579" name="bcc">"密送"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"密送： "</string>
+    <string msgid="4279864165439577668" name="body_hint">"邮件内容"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"取消"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="6967435583794021865" name="cancel_action">"取消"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="4651201258272223650" name="cancel_attachment">"取消"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"所选内容包含多个帐户的邮件，因此无法进行移动。"</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"POP3 帐户不支持移动邮件的操作。"</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"无法移动“草稿”、“发件箱”和“已发邮件”中的邮件。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"所选内容分属多个帐户，因此无法进行移动。"</string>
+    <string msgid="7017720927911078193" name="cc">"抄送"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"抄送：<ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"抄送： "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"更改文件夹"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"更改同步设置"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"正在检查邮件"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"分享方式："</string>
+    <string msgid="3184687982186479442" name="clear">"清除"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"对于您之前允许显示其邮件内嵌图片的发件人，停止显示其邮件内的图片。"</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"是否要清除“显示图片”设置？"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"清除“显示图片”设置"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"折叠收件人详细信息"</string>
+    <string msgid="1473559896062432878" name="compose">"写邮件"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"要舍弃此邮件吗？"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="9151965975158906286" name="confirm_response">"正在发送回复…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="3221546155385562874" name="confirm_send_message">"要发送此邮件吗？"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"邮件正文中没有文字。"</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"邮件主题中没有文字。"</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"要发送邮件吗？"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"显示<ns1:g id="NAME">%1$s</ns1:g>的联系人信息"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"显示联系人信息"</string>
+    <string msgid="5191020413686786341" name="content_description">"发送者：<ns1:g id="SENDER">%1$s</ns1:g>；主题：<ns1:g id="SUBJECT">%2$s</ns1:g>；摘要：<ns1:g id="SNIPPET">%3$s</ns1:g>；日期：<ns1:g id="DATE">%4$s</ns1:g>；阅读状态：<ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"发送者：<ns1:g id="SENDER">%1$s</ns1:g>；主题：<ns1:g id="SUBJECT">%2$s</ns1:g>；摘要：<ns1:g id="SNIPPET">%3$s</ns1:g>；时间：<ns1:g id="TIME">%4$s</ns1:g>；阅读状态：<ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"添加联系人"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"复制"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"复制链接网址"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"拨号..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"发送反馈"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"帮助"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"地图"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"在浏览器中打开"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"发送电子邮件"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"分享链接"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"短信..."</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"已移至“<ns1:g id="FOLDERNAME">%1$s</ns1:g>”"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"触摸发件人头像即可选择相应的会话。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"复制电子邮件地址"</string>
+    <string msgid="530057841276106843" name="copy_number">"复制电话号码"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="3062715563215392251" name="create_action">"新建"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"用以下地址发送邮件："</string>
+    <string msgid="2086174555097691910" name="date_heading">"日期： "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>，<ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"今天<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"昨天<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5175710493691536719" name="debug_title">"调试"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="844871204175957681" name="delete">"删除"</string>
+    <string msgid="2757349161107268029" name="deleted">"已删除"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="426727923791430306" name="device_admin_description">"启用指定服务器的安全政策"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"电子邮件"</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"警告：撤消“电子邮件”应用管理您设备的权限会删除所有需要此权限的电子邮件帐户，以及这些帐户中的电子邮件、联系人、日历活动和其他数据。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="1714960202994370243" name="discard">"舍弃"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"舍弃草稿"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"忽略提示"</string>
+    <string msgid="3079981801778027540" name="done">"完成"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="7497990549515580249" name="done_action">"完成"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="7418568915429156518" name="download_again">"再次下载"</string>
+    <string msgid="442019281547315527" name="download_failed">"无法下载。请触摸以重试。"</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"关闭抽屉式导航栏"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"打开抽屉式导航栏"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="6479106007607928450" name="edit_quick_response_dialog">"快速回复"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="6064497180615519589" name="empty_spam">"清空垃圾邮件"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"要清空垃圾邮件吗？"</string>
+    <string msgid="652435297593538512" name="empty_trash">"清空已删除邮件"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"要清空已删除邮件吗？"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"在“<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>”中开启。"</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="1190783774800310346" name="exchange_name">"公司"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"展开收件人详细信息"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"无法加载图片"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"发送反馈"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"正在提取附件"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>] <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"文件夹图标"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="860241987640527156" name="folder_picker_title">"选择文件夹"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="1047474677580149436" name="folder_removed">"已从<ns1:g id="FOLDERNAME">%1$s</ns1:g>中删除"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"电子邮件文件夹"</string>
+    <string msgid="6822914459902983767" name="forward">"转发"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- 转发的邮件 ----------&lt;br>发件人：<ns1:g id="FROM">%1$s</ns1:g>&lt;br>日期：<ns1:g id="DATE">%2$s</ns1:g>&lt;br>主题：<ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>收件人：<ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- 转发的邮件 ----------"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"一个或多个附件无法转发。"</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"无法转发附件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="2454519463223197231" name="from_heading">"发件人： "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"删除前先确认"</string>
+    <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"邮件"</string>
+    <string msgid="4548277349553989930" name="general_preference_confirm_send_label">"发送前先确认"</string>
+    <string msgid="2695471027185506093" name="general_preference_confirm_send_summary">"邮件"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"邮件文字大小"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"超大"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"邮件文字大小"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"大"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"正常"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"小"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"超小"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"无法附加文件。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="8243724566056800991" name="header_label_general_preferences">"常规设置"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="7873089811705257882" name="help_and_info">"帮助"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ 隐藏引用文字"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"隐藏文件夹"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"忽略，我信任此邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"收件箱"</string>
+    <string msgid="6009817562073541204" name="info">"信息"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"地址 <ns1:g id="WRONGEMAIL">%s</ns1:g> 无效。"</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>：<ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"加载更多"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"正在加载..."</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"正在加载…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> 登录失败。"</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"无法登录"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"触摸并按住即可选择一个会话，然后再触摸即可选择其他会话。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"合并的视图"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"草稿"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"收件箱"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"垃圾邮件"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"发件箱"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"已发送邮件"</string>
+    <string msgid="7788694947644186069" name="mailbox_name_display_starred">"已加星标"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"已删除邮件"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"未读邮件"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"同步选项"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"同步选项（<ns1:g id="MAILBOXX_NAME">%s</ns1:g>）"</string>
+    <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"同步最近多少天的邮件"</string>
+    <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"同步此文件夹"</string>
+    <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"连接到网络后下载邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="6743983544685622800" name="manual_sync">"立即同步"</string>
+    <string msgid="6904096897104265870" name="mark_important">"标记为重要"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"标记为不重要"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"这不是垃圾邮件"</string>
+    <string msgid="8438349154394313195" name="mark_read">"标记为已读"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"标记为未读"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"我"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"我"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"更改文件夹"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"写邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="2871906096248843471" name="menu_folder_options">"同步选项"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"文件夹设置"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"移至"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"移至收件箱"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"全部保存"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"分享"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"全部分享"</string>
+    <string msgid="5297197523031943248" name="menu_search">"搜索"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"设置"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"撤消自动重设大小"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- 原始邮件 --------\n主题：<ns1:g id="SUBJECT">%1$s</ns1:g>\n发件人：<ns1:g id="SENDER">%2$s</ns1:g>\n收件人：<ns1:g id="TO">%3$s</ns1:g>\n抄送：<ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"插入快速回复"</string>
+    <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"插入快速回复"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"解码邮件时出错。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="2183394728494962332" name="message_details_title">"邮件详情"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"邮件已舍弃。"</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"是"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"在日历中查看"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"否"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"是否参加？"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"不确定"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"日历邀请"</string>
+    <string msgid="7073947895562277576" name="message_saved">"邮件已另存为草稿。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="7906875687519445185" name="message_view_attachment_background_load">"您转发的邮件中有一个或多个附件需要先下载，然后才能发送。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="717244337981816703" name="more_info_attachment">"信息"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"移至"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"忽略"</string>
+    <string msgid="2125579009654728299" name="network_error">"无连接"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"有来自<ns1:g id="SENDER">%s</ns1:g>的新邮件。显示。"</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g>封新邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="3931301986364184415" name="next_action">"下一步"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="427548507197604096" name="no">"否"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"无应用可打开此附件，因此无法查看。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5559527390337162819" name="no_conversations">"无邮件。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"要查看会话，请同步此文件夹。"</string>
+    <string msgid="794279749170198599" name="not_synced_title">"帐户未同步"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"归档"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"删除"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"删除标签"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"回复"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"全部回复"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"已归档"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"已删除"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"已删除标签"</string>
+    <string msgid="8339355733816891026" name="ok">"确定"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="8365197396795675617" name="okay_action">"确定"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"锁定屏幕密码即将过期"</string>
+    <string msgid="4293446611405084436" name="password_expire_warning_dialog_content_fmt">"您需要尽快更改锁定屏幕 PIN 或密码，否则系统将会清除 <ns1:g id="ACCOUNT">%s</ns1:g> 的数据。要立即更改吗？"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"锁定屏幕密码即将过期"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"“<ns1:g id="ACCOUNT">%s</ns1:g>”要求更改锁定屏幕 PIN 或密码。"</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"锁定屏幕密码已过期"</string>
+    <string msgid="6538210092073931079" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> 的数据已从设备中清除。您可以通过更改锁定屏幕 PIN 或密码来还原这些数据。要立即更改吗？"</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"锁定屏幕密码已过期"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"您的锁定屏幕 PIN 或密码已过期。"</string>
+    <string msgid="6296566558584670348" name="permission_access_provider_desc">"允许此应用访问您的电子邮件数据库，包括已收邮件、已发邮件、用户名和密码。"</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"访问电子邮件服务提供商数据"</string>
+    <string msgid="3394721085306308972" name="permission_read_attachment_desc">"允许此应用读取您的电子邮件附件。"</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"读取电子邮件附件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5171715391553213328" name="phone">"手机"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"无法加载图片"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"第 <ns1:g id="CURRENT_POS">%d</ns1:g> 张，共 <ns1:g id="COUNT">%d</ns1:g> 张"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"请稍候…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="627405158087482302" name="policy_calendar_age">"限制同步的日历活动数"</string>
+    <string msgid="5744573062306937302" name="policy_dont_allow_camera">"不允许使用设备的相机"</string>
+    <string msgid="7144148367145424963" name="policy_email_age">"限制同步的电子邮件数"</string>
+    <string msgid="1248123255253649199" name="policy_password_expiration">"强制密码在一段时间后过期"</string>
+    <string msgid="5743544498302303181" name="policy_password_history">"限制重复使用近期所用密码"</string>
+    <string msgid="7177274900480984702" name="policy_require_password">"需要设备密码"</string>
+    <string msgid="414869965358468080" name="policy_screen_timeout">"要求闲置设备锁定其屏幕"</string>
+    <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
+    <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"发件人头像"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"归档和删除操作"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"归档和删除操作"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"在会话列表中的名称旁显示"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"发件人头像"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"在会话列表中"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"滑动即可归档"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"滑动删除邮件"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"用作默认的邮件回复方式"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"全部回复"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"签名"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"未设置"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"签名"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"预览"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181616311579820981" name="previous_action">"上一步"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"只有某些“Plus”帐户支持 POP 访问而允许此程序进行连接。如果您使用正确的电子邮件地址和密码无法登录，则可能还未开通付费的“Plus”帐户。请启动网络浏览器以获取对这些电子邮件帐户的访问权限。"</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"在设置该电子邮件帐户之前，请访问 T-Online 网站，为访问 POP3 电子邮件创建密码。"</string>
+    <string msgid="3426057697353380951" name="quick_1">"非常感谢！"</string>
+    <string msgid="4188036352885736617" name="quick_2">"我觉得不错！"</string>
+    <string msgid="8061819976353395585" name="quick_3">"稍后我会阅读此邮件并给您回复。"</string>
+    <string msgid="3988974084396883051" name="quick_4">"我们可以安排一个会议，讨论一下这个问题。"</string>
+    <string msgid="3960050972306132367" name="quick_responses_empty_view">"没有快速回复。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="7250749398672037355" name="quoted_text">"包含引用文字"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"引用文字"</string>
+    <string msgid="219566857950091332" name="read_string">"已读会话"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"近期文件夹"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"收件人出错"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"请至少添加一位收件人。"</string>
+    <string msgid="490989798005710951" name="refresh">"刷新"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"从<ns1:g id="FOLDERNAME">%1$s</ns1:g>中删除"</string>
+    <string msgid="4372327933122106128" name="remove_star">"删除星标"</string>
+    <string msgid="2032052598496088561" name="reply">"回复"</string>
+    <string msgid="7257248094625487557" name="reply_all">"全部回复"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="PERSON">%s</ns1:g>于 <ns1:g id="DATE">%s</ns1:g>写道："</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"回复地址： "</string>
+    <string msgid="5417082746232614958" name="report">"提交反馈"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"举报网上诱骗行为"</string>
+    <string msgid="6467567747975393907" name="report_spam">"举报垃圾邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"漫游时停用了此帐户的后台同步功能。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="6797117334768201180" name="respond_inline">"在原邮件内容上回复"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"修改"</string>
+    <string msgid="4515885444824418022" name="retry">"重试"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="1988862706623227093" name="save_action">"保存"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5360128849867863132" name="save_attachment">"保存"</string>
+    <string msgid="5555744208032445632" name="save_draft">"保存草稿"</string>
+    <string msgid="6660844285730790469" name="saved">"已保存 (<ns1:g id="SIZE">%s</ns1:g>)"</string>
+    <string msgid="925514721138014677" name="saving">"正在保存…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="2200412192574686497" name="search_hint">"搜索电子邮件"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="4669917471897026269" name="search_results_header">"结果"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"正在搜索..."</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"此帐户不支持搜索。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"帐户“<ns1:g id="ACCOUNT">%s</ns1:g>”已更改其安全设置，用户无需进行任何操作。"</string>
+    <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"帐户“<ns1:g id="ACCOUNT">%s</ns1:g>”需要更新安全设置。"</string>
+    <string msgid="443490921895642130" name="security_notification_content_change_title">"安全政策已更改"</string>
+    <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"无法满足安全政策的要求"</string>
+    <string msgid="2429762903228690154" name="security_notification_content_update_title">"需要进行安全更新"</string>
+    <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"帐户“<ns1:g id="ACCOUNT">%s</ns1:g>”由于安全要求而无法同步。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="4711524151968942082" name="select_attachment_type">"选择附件类型"</string>
+    <string msgid="8242003661397555986" name="send">"发送"</string>
+    <string msgid="750908595144529579" name="send_failed">"邮件发送失败。"</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"图片不会自动显示。"</string>
+    <string msgid="5895854795157860258" name="senders_split_token">"、"</string>
+    <string msgid="8214361929125649771" name="sending">"正在发送..."</string>
+    <string msgid="1498583163419122128" name="sending_message">"正在发送邮件..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="2668629667423320684" name="sent_folder_selection_title">"选择 <ns1:g id="ACCOUNT">%s</ns1:g> 在服务器上的已发邮件文件夹"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"设置"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"为文件夹快捷方式命名"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ 显示引用文字"</string>
+    <string msgid="1875700481186331432" name="show_images">"显示图片"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"显示另外<ns1:g id="NUMBER">%1$s</ns1:g>个文件夹"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"登录"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"静音"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>：<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="2611654064403817391" name="status_network_error">"发生连接问题。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="3262760336059073446" name="storage">"存储"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> - <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"主题"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"下拉即可刷新"</string>
+    <string msgid="7368819509040597851" name="sync_error">"无法同步。"</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"您的设备存储空间不足，无法同步。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"无法创建帐户，请重试。"</string>
+    <string msgid="7071006714702094762" name="system_folders_sent_dlg">"选择您在服务器上的已发邮件文件夹"</string>
+    <string msgid="5529250353569545181" name="system_folders_sent_summary">"选择您在服务器上的已发邮件文件夹"</string>
+    <string msgid="4265722817877075367" name="system_folders_sent_title">"已发邮件文件夹"</string>
+    <string msgid="2934406494244347991" name="system_folders_title">"系统文件夹"</string>
+    <string msgid="4461220303400833402" name="system_folders_trash_dlg">"选择您在服务器上的已删除邮件文件夹"</string>
+    <string msgid="1258919809198485244" name="system_folders_trash_summary">"选择您在服务器上的已删除邮件文件夹"</string>
+    <string msgid="8470058000681188327" name="system_folders_trash_title">"已删除邮件文件夹"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="7956969657216748522" name="tablet">"平板电脑"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"触摸可进行设置"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"同步文件夹"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"触摸即可开启。"</string>
+    <string msgid="4392614766835725698" name="to">"收件人"</string>
+    <string msgid="1142876841308812954" name="to_heading">"收件人： "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"未能附加文件。已达到上限 (<ns1:g id="MAXSIZE">%1$s</ns1:g>)。"</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"未能附加一个或多个文件。上限为 <ns1:g id="MAXSIZE">%1$s</ns1:g>。"</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"不能附加大小超过 <ns1:g id="MAXSIZE">%1$s</ns1:g> 的文件。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="8052880079616386185" name="trash_folder_selection_title">"选择 <ns1:g id="ACCOUNT">%s</ns1:g> 在服务器上的已删除邮件文件夹"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"您对所有应用和帐户（不只是 Gmail）所做的更改都会在网络、您的其他设备和您的<ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>之间同步。"</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"开启"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"要开启自动同步功能吗？"</string>
+    <string msgid="6070869718469782251" name="undo">"撤消"</string>
+    <string msgid="588180203444398297" name="unread_string">"未读会话"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="OUTBOX">%2$s</ns1:g>中有<ns1:g id="NUMBER">%1$s</ns1:g>封未发送的邮件"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"来自 <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"查看更多会话"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"此帐户未设置为自动同步。您可以\n触摸"<b>"立即同步"</b>"同步邮件一次，或者触摸"<b>"更改同步设置"</b>"，将此帐户设置为自动同步邮件。"</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"您的电子邮件很快就会显示。"</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"正在等待同步"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"是"</string>
+</resources>

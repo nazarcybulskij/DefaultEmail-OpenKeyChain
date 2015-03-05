@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"ตอบ"</item>
+    <item msgid="4085029907540221568">"ตอบทั้งหมด"</item>
+    <item msgid="857480048798815437">"ส่งต่อ"</item>
+  </string-array>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"ระบบ"</item>
+    <item msgid="6593672292311851204">"ใช้บ่อย"</item>
+    <item msgid="3584541772344786752">"โฟลเดอร์ทั้งหมด"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"ใหม่กว่า"</item>
+    <item msgid="5562093094216840213">"เก่ากว่า"</item>
+    <item msgid="3331655314944797957">"รายการการสนทนา"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"แสดงเฉพาะ \"เก็บ\""</item>
+    <item msgid="5737880287951287278">"แสดงเฉพาะ \"ลบ\""</item>
+    <item msgid="4279948809971752573">"แสดง \"เก็บ\" และ \"ลบ\""</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"แสดงการสนทนาที่ใหม่กว่าหลังจากลบ"</item>
+    <item msgid="732746454445519134">"แสดงการสนทนาที่เก่ากว่าหลังจากลบ"</item>
+    <item msgid="2189929276292165301">"แสดงรายการสนทนาหลังจากลบ"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"แสดงเฉพาะ \"เก็บ\""</item>
+    <item msgid="8350973578419775975">"แสดงเฉพาะ \"ลบ\""</item>
+    <item msgid="2967059853409454648">"แสดง \"เก็บ\" และ \"ลบ\""</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"สำเร็จ"</item>
+    <item msgid="7109065688039971961">"ไม่มีการเชื่อมต่อ"</item>
+    <item msgid="8437496123716232060">"ไม่สามารถลงชื่อเข้าใช้"</item>
+    <item msgid="1651266301325684887">"ข้อผิดพลาดเกี่ยวกับความปลอดภัย"</item>
+    <item msgid="1461520171154288533">"ไม่สามารถซิงค์"</item>
+    <item msgid="4779810016424303449">"ข้อผิดพลาดภายใน"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"ยังไม่ได้อ่าน <ns1:g id="COUNT">%1$d</ns1:g> ข้อความ"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"เก็บการสนทนานี้ถาวรหรือไม่"</item>
+    <item msgid="4713469868399246772" quantity="other">"เก็บการสนทนาทั้ง <ns1:g id="COUNT">%1$d</ns1:g> รายการนี้ถาวรหรือไม่"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"ลบการสนทนานี้หรือไม่"</item>
+    <item msgid="930334208937121234" quantity="other">"ลบการสนทนาทั้ง <ns1:g id="COUNT">%1$d</ns1:g> รายการนี้หรือไม่"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"ยกเลิกข้อความร่างจากการสนทนานี้ใช่หรือไม่"</item>
+    <item msgid="4173815457177336569" quantity="other">"ยกเลิกข้อความร่างจากการสนทนาทั้ง <ns1:g id="COUNT">%1$d</ns1:g> อันนี้ใช่หรือไม่"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"เก็บ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="3012054504370916482" quantity="other">"เก็บ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"ลบ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="8630099095360065837" quantity="other">"ลบ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"เปลี่ยนโฟลเดอร์แล้ว"</item>
+    <item msgid="8918589141287976985" quantity="other">"เปลี่ยนโฟลเดอร์แล้ว"</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"ปิดรับ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="1941193356069303587" quantity="other">"ปิดรับ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"ทำเครื่องหมายว่าไม่สำคัญ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="6662213740575340397" quantity="other">"ทำเครื่องหมายว่าไม่สำคัญ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"ได้รับการรายงานว่าไม่ใช่สแปม &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="2250720080221922267" quantity="other">"ได้รับการรายงานว่าไม่ใช่สแปม &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"ได้รับการรายงานว่าเป็นฟิชชิง &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="3678624994662639442" quantity="other">"ได้รับการรายงานว่าเป็นฟิชชิง &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"รายงานว่าเป็นจดหมายขยะ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+    <item msgid="5071459475389411227" quantity="other">"รายงานว่าเป็นจดหมายขยะ &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> รายการ"</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"กำลังยกเลิกการติดดาวการสนทนา <ns1:g id="COUNT">%1$d</ns1:g> รายการ"</item>
+    <item msgid="2222365088907519938" quantity="other">"กำลังยกเลิกการติดดาวการสนทนา <ns1:g id="COUNT">%1$d</ns1:g> รายการ"</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"ร่างจดหมาย"</item>
+    <item msgid="6961049507579977505" quantity="other">"ร่างจดหมาย"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> ข้อความจะถูกลบออกอย่างถาวร"</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ข้อความจะถูกลบออกอย่างถาวร"</item>
+  </plurals>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"ย้ายการสนทนา"</item>
+    <item msgid="1685896770174368261" quantity="other">"ย้ายการสนทนา <ns1:g id="ID_1">%1$d</ns1:g> รายการ"</item>
+  </plurals>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ข้อความใหม่ แสดง"</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ข้อความเก่า"</item>
+  </plurals>
+    <string msgid="5277032997773498476" name="account_settings_param">"การตั้งค่าบัญชี"</string>
+    <string msgid="5699548271856775808" name="account_sync_off">"การซิงค์บัญชีปิดอยู่"</string>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"ยังไม่ได้อ่านมากกว่า <ns1:g id="COUNT">%1$d</ns1:g> ข้อความ"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"เลือกโฟลเดอร์"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"เลือกบัญชี"</string>
+    <string msgid="2162808366829269770" name="add_account">"เพิ่มบัญชี"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"เพิ่มสำเนาลับ"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"เพิ่มสำเนา/สำเนาลับ"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"แนบไฟล์"</string>
+    <string msgid="6060201715848652940" name="add_label">"เพิ่มโฟลเดอร์"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"แนบรูปภาพ"</string>
+    <string msgid="2866003744391266498" name="add_star">"เพิ่มดาว"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"แนบวิดีโอ"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> ผ่าน <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"โฟลเดอร์ทั้งหมด"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"แสดงรูปภาพจากผู้ส่งรายนี้เสมอ"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"แสดงรูปภาพจากผู้ส่งนี้โดยอัตโนมัติ"</string>
+    <string msgid="847250094775910499" name="archive">"เก็บถาวร"</string>
+    <string msgid="7533995360704366325" name="archived">"เก็บถาวร"</string>
+    <string msgid="4267189489654642035" name="attached_message">"ข้อความที่แนบมา"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"เอกสาร"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"สเปรดชีต"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"งานนำเสนอ"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"เสียง"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"ภาพ"</string>
+    <string msgid="5544874374971562759" name="attachment_text">"ข้อความ"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"ขออภัย คุณไม่สามารถบันทึกหรือเปิดไฟล์แนบประเภทนี้"</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"ไฟล์ <ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"วิดีโอ"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"ไฟล์แนบ"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"ตั้งค่ากำหนดเลื่อนอัตโนมัติ\n(หลังจากที่คุณลบ ฯลฯ)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"เลื่อนไปข้างหน้าโดยอัตโนมัติ"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"เลือกหน้าจอที่จะแสดงขึ้นหลังจากที่คุณลบข้อความ"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"การซิงค์อัตโนมัติปิดอยู่"</string>
+    <string msgid="3098643138241111579" name="bcc">"สำเนาลับ"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"สำเนาลับ: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"เขียนอีเมล"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"ยกเลิก"</string>
+    <string msgid="4651201258272223650" name="cancel_attachment">"ยกเลิก"</string>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"ย้ายไม่ได้เนื่องจากข้อความที่เลือกมาจากหลายบัญชี"</string>
+    <string msgid="7017720927911078193" name="cc">"สำเนา"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"สำเนา: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"สำเนา: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"เปลี่ยนโฟลเดอร์"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"เปลี่ยนการตั้งค่าการซิงค์"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"กำลังตรวจดูจดหมาย"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"แบ่งปันผ่าน"</string>
+    <string msgid="3184687982186479442" name="clear">"ล้าง"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"หยุดการแสดงภาพในบรรทัดจากผู้ส่งที่คุณอนุญาตไว้ก่อนหน้านี้"</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"ล้างการอนุมัติภาพไหม"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"ล้างการอนุมัติภาพ"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"ยุบรายละเอียดผู้รับ"</string>
+    <string msgid="1473559896062432878" name="compose">"เขียน"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"ยกเลิกข้อความนี้หรือไม่"</string>
+    <string msgid="3221546155385562874" name="confirm_send_message">"ส่งข้อความนี้หรือไม่"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"ไม่มีเนื้อหาข้อความ"</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"ไม่มีหัวเรื่องข้อความ"</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"ส่งข้อความหรือไม่"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"แสดงข้อมูลติดต่อของ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"แสดงข้อมูลติดต่อ"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> เกี่ยวกับ <ns1:g id="SUBJECT">%2$s</ns1:g> <ns1:g id="SNIPPET">%3$s</ns1:g> เมื่อ <ns1:g id="DATE">%4$s</ns1:g> <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> เกี่ยวกับ <ns1:g id="SUBJECT">%2$s</ns1:g> <ns1:g id="SNIPPET">%3$s</ns1:g> เมื่อ <ns1:g id="TIME">%4$s</ns1:g> <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"เพิ่มรายชื่อติดต่อ"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"คัดลอก"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"คัดลอก URL ของลิงก์"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"หมุนหมายเลข..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"ส่งความคิดเห็น"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"ความช่วยเหลือ"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"แผนที่"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"เปิดในเบราว์เซอร์"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"ส่งอีเมล"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"แบ่งปันลิงก์"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS…"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"ย้ายไปยัง <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"แตะภาพผู้ส่งเพื่อเลือกการสนทนานั้น"</string>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"ส่งเมลในชื่อ:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"วันที่: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g> เวลา <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"วันนี้เวลา <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"เมื่อวานนี้เวลา <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="844871204175957681" name="delete">"ลบ"</string>
+    <string msgid="2757349161107268029" name="deleted">"ลบแล้ว"</string>
+    <string msgid="1714960202994370243" name="discard">"ทิ้ง"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"ยกเลิกข้อความร่าง"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"ปิดเคล็ดลับ"</string>
+    <string msgid="3079981801778027540" name="done">"เสร็จสิ้น"</string>
+    <string msgid="7418568915429156518" name="download_again">"ดาวน์โหลดอีกครั้ง"</string>
+    <string msgid="442019281547315527" name="download_failed">"โหลดไม่ได้ แตะเพื่อลองซ้ำ"</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"ปิดช่องการนำทาง"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"เปิดช่องการนำทาง"</string>
+    <string msgid="6064497180615519589" name="empty_spam">"ลบทุกอย่างในสแปม"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"ลบทุกอย่างในสแปมหรือไม่"</string>
+    <string msgid="652435297593538512" name="empty_trash">"ลบทุกอย่างในถังขยะ"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"ลบทุกอย่างในถังขยะหรือไม่"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"เปิดใน<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>"</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"ขยายรายละเอียดผู้รับ"</string>
+    <string msgid="79365993169715049" name="feedback">"ส่งความคิดเห็น"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"กำลังเรียกไฟล์แนบ"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"ไอคอนโฟลเดอร์"</string>
+    <string msgid="1047474677580149436" name="folder_removed">"นำออกจาก <ns1:g id="FOLDERNAME">%1$s</ns1:g> แล้ว"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"โฟลเดอร์อีเมล"</string>
+    <string msgid="6822914459902983767" name="forward">"ส่งต่อ"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- จดหมายที่ส่งต่อ ----------&lt;br>จาก: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>วันที่: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>หัวเรื่อง: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>ถึง: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- ข้อความที่ส่งต่อ ----------"</string>
+    <string msgid="2454519463223197231" name="from_heading">"จาก: "</string>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"ไม่สามารถแนบไฟล์"</string>
+    <string msgid="7873089811705257882" name="help_and_info">"ความช่วยเหลือ"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ ซ่อนข้อความที่ยกมา"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"ซ่อนโฟลเดอร์"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"ไม่เป็นไร ฉันมั่นใจข้อความนี้"</string>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"กล่องจดหมาย"</string>
+    <string msgid="6009817562073541204" name="info">"ข้อมูล"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"ที่อยู่ <ns1:g id="WRONGEMAIL">%s</ns1:g> ไม่ถูกต้อง"</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"โหลดเพิ่มเติม"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"กำลังโหลด…"</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"กำลังโหลด…"</string>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"แตะค้างไว้เพื่อเลือกการสนทนาหนึ่งรายการ แล้วแตะเพื่อเลือกเพิ่ม"</string>
+    <string msgid="6743983544685622800" name="manual_sync">"ซิงค์เลย"</string>
+    <string msgid="6904096897104265870" name="mark_important">"ทำเครื่องหมายว่าสำคัญ"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"ทำเครื่องหมายว่าไม่สำคัญ"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"รายงานว่าไม่ใช่สแปม"</string>
+    <string msgid="8438349154394313195" name="mark_read">"ทำเครื่องหมายว่าอ่านแล้ว"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"ทำเครื่องหมายว่ายังไม่อ่าน"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"ฉัน"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"ฉัน"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"เปลี่ยนโฟลเดอร์"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"เขียน"</string>
+    <string msgid="8897520487430647932" name="menu_folder_options">"การตั้งค่าโฟลเดอร์"</string>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"การตั้งค่าโฟลเดอร์"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"ย้ายไปที่"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"ย้ายไปยังกล่องจดหมาย"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"บันทึกทั้งหมด"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"แบ่งปัน"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"แบ่งปันหมด"</string>
+    <string msgid="5297197523031943248" name="menu_search">"ค้นหา"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"การตั้งค่า"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"เปลี่ยนกลับการปรับขนาด"</string>
+    <string msgid="2183394728494962332" name="message_details_title">"รายละเอียดข้อความ"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"ยกเลิกข้อความแล้ว"</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"ตกลง"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"ดูในปฏิทิน"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"ไม่"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"ไปหรือไม่"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"อาจจะ"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"คำเชิญในปฏิทิน"</string>
+    <string msgid="7073947895562277576" name="message_saved">"บันทึกข้อความเป็นร่างจดหมาย"</string>
+    <string msgid="717244337981816703" name="more_info_attachment">"ข้อมูล"</string>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"ย้ายไปที่"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"ปิดรับ"</string>
+    <string msgid="2125579009654728299" name="network_error">"ไม่มีการเชื่อมต่อ"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"ข้อความใหม่จาก <ns1:g id="SENDER">%s</ns1:g> แสดง"</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> ข้อความใหม่"</string>
+    <string msgid="427548507197604096" name="no">"ไม่"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"ไม่มีแอปที่สามารถเปิดดูไฟล์แนบนี้ได้"</string>
+    <string msgid="35400008890372241" name="no_conversations">"ไม่มีการสนทนา"</string>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"ในการดูการสนทนา ให้ซิงค์โฟลเดอร์นี้"</string>
+    <string msgid="794279749170198599" name="not_synced_title">"บัญชีไม่ได้ซิงค์"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"เก็บถาวร"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"ลบ"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"ลบป้ายกำกับ"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"ตอบ"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"ตอบทั้งหมด"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"เก็บถาวรแล้ว"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"ลบแล้ว"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"ลบป้ายกำกับแล้ว"</string>
+    <string msgid="8339355733816891026" name="ok">"ตกลง"</string>
+    <string msgid="5171715391553213328" name="phone">"โทรศัพท์"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"ไม่สามารถโหลดภาพ"</string>
+    <string msgid="8797634225088247121" name="please_wait">"โปรดรอสักครู่…"</string>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"การดำเนินการ \"เก็บ\" และ \"ลบ\""</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"การดำเนินการ \"เก็บ\" และ \"ลบ\""</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"แสดงข้างชื่อในรายการสนทนา"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"ภาพของผู้ส่ง"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"ในรายการการสนทนา"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"กวาดนิ้วเพื่อเก็บถาวร"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"กวาดนิ้วเพื่อลบ"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"ใช้เป็นค่าเริ่มต้นสำหรับการตอบกลับข้อความ"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"ตอบทั้งหมด"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"ลายเซ็น"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"ไม่ได้ตั้งค่า"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"ลายเซ็น"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"ดูตัวอย่าง"</string>
+    <string msgid="7250749398672037355" name="quoted_text">"รวมข้อความที่ยกมา"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"ข้อความที่ยกมา"</string>
+    <string msgid="219566857950091332" name="read_string">"อ่านการสนทนาแล้ว"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"โฟลเดอร์ล่าสุด"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"พบข้อผิดพลาดกับผู้รับ"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"เพิ่มผู้รับอย่างน้อยหนึ่งราย"</string>
+    <string msgid="490989798005710951" name="refresh">"รีเฟรช"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"นำออกจาก <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"นำดาวออก"</string>
+    <string msgid="2032052598496088561" name="reply">"ตอบ"</string>
+    <string msgid="7257248094625487557" name="reply_all">"ตอบทั้งหมด"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"เมื่อ <ns1:g id="DATE">%s</ns1:g> <ns1:g id="PERSON">%s</ns1:g> เขียนว่า:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"ตอบกลับ: "</string>
+    <string msgid="5417082746232614958" name="report">"รายงาน"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"รายงานฟิชชิง"</string>
+    <string msgid="6467567747975393907" name="report_spam">"รายงานจดหมายขยะ"</string>
+    <string msgid="6797117334768201180" name="respond_inline">"ตอบกลับแบบอินไลน์"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"แก้ไข"</string>
+    <string msgid="4515885444824418022" name="retry">"ลองอีกครั้ง"</string>
+    <string msgid="5360128849867863132" name="save_attachment">"บันทึก"</string>
+    <string msgid="5555744208032445632" name="save_draft">"บันทึกร่างจดหมาย"</string>
+    <string msgid="6660844285730790469" name="saved">"บันทึกแล้ว, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"กำลังบันทึก…"</string>
+    <string msgid="3625734263059221350" name="search_hint">"ค้นหาจดหมาย"</string>
+    <string msgid="4669917471897026269" name="search_results_header">"ผลการค้นหา"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"กำลังค้นหา..."</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"บัญชีนี้ไม่สนับสนุนการค้นหา"</string>
+    <string msgid="4711524151968942082" name="select_attachment_type">"เลือกประเภทของไฟล์แนบ"</string>
+    <string msgid="8242003661397555986" name="send">"ส่ง"</string>
+    <string msgid="750908595144529579" name="send_failed">"ไม่ได้ส่งข้อความ"</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"รูปภาพจะไม่แสดงโดยอัตโนมัติ"</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"กำลังส่ง…"</string>
+    <string msgid="1498583163419122128" name="sending_message">"กำลังส่งข้อความ…"</string>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"ตั้งชื่อทางลัดของโฟลเดอร์"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ แสดงข้อความที่ยกมา"</string>
+    <string msgid="1875700481186331432" name="show_images">"แสดงรูปภาพ"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"แสดงอีก <ns1:g id="NUMBER">%1$s</ns1:g> โฟลเดอร์"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"ลงชื่อเข้าใช้"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"เงียบ"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="3262760336059073446" name="storage">"พื้นที่จัดเก็บ"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"หัวเรื่อง"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"กวาดลงเพื่อรีเฟรช"</string>
+    <string msgid="7368819509040597851" name="sync_error">"ไม่สามารถซิงค์"</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"อุปกรณ์ของคุณมีพื้นที่จัดเก็บไม่เพียงพอสำหรับการซิงค์"</string>
+    <string msgid="7956969657216748522" name="tablet">"แท็บเล็ต"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"แตะเพื่อตั้งค่า"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"ซิงค์โฟลเดอร์"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"แตะเพื่อเปิด"</string>
+    <string msgid="4392614766835725698" name="to">"ถึง"</string>
+    <string msgid="1142876841308812954" name="to_heading">"ถึง: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"ไม่ได้แนบไฟล์ เกินขนาดที่จำกัดสูงสุด <ns1:g id="MAXSIZE">%1$s</ns1:g>"</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"ไม่ได้แนบไฟล์อย่างน้อยหนึ่งไฟล์ จำกัดขนาดที่ <ns1:g id="MAXSIZE">%1$s</ns1:g>"</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"ไม่สามารถแนบไฟล์ที่มีขนาดเกิน <ns1:g id="MAXSIZE">%1$s</ns1:g>"</string>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"การเปลี่ยนแปลงที่คุณทำกับแอปและบัญชีทั้งหมด ไม่ใช่เพียง Gmail จะมีการซิงค์กันระหว่างเว็บ อุปกรณ์อื่นๆ และ <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g> ของคุณ"</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"เปิด"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"เปิดซิงค์อัตโนมัติไหม"</string>
+    <string msgid="6070869718469782251" name="undo">"เลิกทำ"</string>
+    <string msgid="588180203444398297" name="unread_string">"ยังไม่ได้อ่านการสนทนา"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> ข้อความที่ยังไม่ได้ส่งใน <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"ผ่าน <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"ดูการสนทนาเพิ่มเติม"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"บัญชีนี้ไม่ได้รับการตั้งค่าให้ซิงค์อัตโนมัติ\nแตะ "<b>"ซิงค์เลย"</b>" เพื่อซิงค์เมลหนึ่งครั้ง หรือแตะ "<b>"เปลี่ยนการตั้งค่าการซิงค์"</b>" เพื่อตั้งค่าบัญชีนี้ให้ซิงค์เมลอัตโนมัติ"</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"อีเมลของคุณจะปรากฏในไม่ช้า"</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"กำลังรอการซิงค์"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"ใช่"</string>
+</resources>

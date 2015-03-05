@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"जवाफ फर्काउनुहोस्"</item>
+    <item msgid="4085029907540221568">"सबैलाई जवाफ दिनुहोस्"</item>
+    <item msgid="857480048798815437">"फर्वार्ड गर्नुहोस्"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"सानो पाठ"</item>
+    <item msgid="4415205108584620118">"लघु पाठ"</item>
+    <item msgid="4550219696381691112">"सामान्य आकार पाठ"</item>
+    <item msgid="6227813549949219991">"ठूलो पाठ"</item>
+    <item msgid="1197917420815786571">"विशाल पाठ"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"प्रणाली"</item>
+    <item msgid="6593672292311851204">"प्राय: प्रयोग गरिने"</item>
+    <item msgid="3584541772344786752">"सबै फोल्डरहरू"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"नयाँ"</item>
+    <item msgid="5562093094216840213">"पुरानो"</item>
+    <item msgid="3331655314944797957">"कुराकानी सूची"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string-array name="prefEntries_conversationListIconName">
+    <item msgid="228585958140385749">"तस्वीर देखाउनुहोस्"</item>
+    <item msgid="2226691218102223696">"केहि पनि नदेखाउनुहोस्"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"केवल संग्रह देखाउनुहोस्"</item>
+    <item msgid="5737880287951287278">"केवल मेटाउने देखाउनुहोस्"</item>
+    <item msgid="4279948809971752573">"अभिलेख देखाउँनुहोस्&amp; मेट्नुहोस्"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"तपाईंले मेटाए पछि नयाँ कुराकानी देखाउनुहोस्"</item>
+    <item msgid="732746454445519134">"तपाईंले मेटाए पछि पुरानो कुराकानी देखाउनुहोस्"</item>
+    <item msgid="2189929276292165301">"तपाईंले मेटाए पछि कुराकानी सूची देखाउनुहोस्"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"केवल संग्रह देखाउनुहोस्"</item>
+    <item msgid="8350973578419775975">"मेट्ने मात्र देखाउनुहोस्"</item>
+    <item msgid="2967059853409454648">"अभिलेख देखाउँनुहोस्&amp; मेट्नुहोस्"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"सफलता"</item>
+    <item msgid="7109065688039971961">"जडान छैन"</item>
+    <item msgid="8437496123716232060">"साइन इन गर्न सकिँदैन।"</item>
+    <item msgid="1651266301325684887">"सुरक्षा त्रुटि।"</item>
+    <item msgid="1461520171154288533">"सिङ्क हुन सकेन"</item>
+    <item msgid="4779810016424303449">"आन्तरिक त्रुटि"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> नपढेको"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"यस  कुराकानीको अभिलेख राख्ने हो?"</item>
+    <item msgid="4713469868399246772" quantity="other">"यी <ns1:g id="COUNT">%1$d</ns1:g> कुराकानीहरू अभिलेख गर्नुहुन्छ?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"यो कुराकानी मेटाउने हो?"</item>
+    <item msgid="930334208937121234" quantity="other">"यी <ns1:g id="COUNT">%1$d</ns1:g> कुराकानीहरू मेटाउने हो?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"यस कुराकानीबाट ड्राफ्टहरू बेवास्ता गर्ने हो?"</item>
+    <item msgid="4173815457177336569" quantity="other">"यी <ns1:g id="COUNT">%1$d</ns1:g> कुराकानीहरूबाट ड्राफ्टहरू बेवास्ता गर्ने हो?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> अभिलेख तयार पारियो।"</item>
+    <item msgid="3012054504370916482" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> अभिलेख राखियो।"</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> मेटाइयो।"</item>
+    <item msgid="8630099095360065837" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> मेटाइयो"</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"फोल्डर परिवर्तन भयो।"</item>
+    <item msgid="8918589141287976985" quantity="other">"फोल्डरहरु परिवर्तन भए।"</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> मौन गरियो।"</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> मौन गरियो।"</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> महत्त्वहीनको रूपमा चिन्ह लगाईयो।"</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>महत्वपूर्ण छैन भनी चिनो लगाइयो।"</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> स्पाम नभएको रूपमा रिपोर्ट गरियो।"</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> स्पाम हैन भनी रिपोर्ट गरियो।"</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> फिशिंगको रूपमा रिपोर्ट गरियो।"</item>
+    <item msgid="3678624994662639442" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> फिशिंगको रूपमा रिपोर्ट गरियो।"</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> स्पाम हो भनी रिपोर्ट गरियो।"</item>
+    <item msgid="5071459475389411227" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>  स्पाम हो भनी रिपोर्ट गरियो।"</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Unstarring <ns1:g id="COUNT">%1$d</ns1:g> कुराकानी।"</item>
+    <item msgid="2222365088907519938" quantity="other">"ताराङ्कन हटउँदै <ns1:g id="COUNT">%1$d</ns1:g> कुराकानी।"</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"ड्राफ्ट"</item>
+    <item msgid="6961049507579977505" quantity="other">"ड्राफ्टहरू"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> सन्देश स्थायी रूपमा मेटाईनेछ।"</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> सन्देशहरू स्थायी रूपमा मेटाईनेछन्।"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <plurals name="gal_completed_fmt">
+    <item msgid="7496785524617037642" quantity="one">"<ns1:g id="RESULTS">%1$d</ns1:g> बाट परिणाम <ns1:g id="DOMAIN">%2$s</ns1:g>"</item>
+    <item msgid="7816121892960632123" quantity="other">"<ns1:g id="RESULTS">%1$d</ns1:g> परिणामहरू <ns1:g id="DOMAIN">%2$s</ns1:g>बाट"</item>
+  </plurals>
+    <plurals name="message_delete_confirm">
+    <item msgid="3799616435056423256" quantity="one">"यस सन्देश मेटाउने हो?"</item>
+    <item msgid="4437637377522896262" quantity="other">"यी सन्देशहरु लाई मेटाउने हो?"</item>
+  </plurals>
+    <plurals name="message_deleted_toast">
+    <item msgid="710742672464447084" quantity="one">"सन्देश मेटाईयो।"</item>
+    <item msgid="6574961322865652255" quantity="other">"सन्देशहरू मेटाईयो।"</item>
+  </plurals>
+    <plurals name="message_moved_toast">
+    <item msgid="3098493230185412871" quantity="one">"<ns1:g id="NUM_MESSAGE">%1$d</ns1:g> सन्देश <ns1:g id="MAILBOX_NAME">%2$s</ns1:g> मा सारियो"</item>
+    <item msgid="2286739630865943494" quantity="other">"<ns1:g id="NUM_MESSAGE">%1$d</ns1:g> सन्देशहरु <ns1:g id="MAILBOX_NAME">%2$s</ns1:g> मा सारियो"</item>
+  </plurals>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>B"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>B"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g>GB"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g>GB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g>KB"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g>KB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>MB"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>MB"</item>
+  </plurals>
+    <plurals name="message_view_selected_message_count">
+    <item msgid="5064657358375178519" quantity="one">"<ns1:g id="MESSAGE_COUNT">%d</ns1:g> छानीएका"</item>
+    <item msgid="7901361399231876038" quantity="other">"<ns1:g id="MESSAGE_COUNT">%d</ns1:g> चयनित"</item>
+  </plurals>
+    <plurals name="message_view_show_attachments_action">
+    <item msgid="7594476368958824007" quantity="one">"संलग्न <ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g>"</item>
+    <item msgid="974463163535515223" quantity="other">"संलग्नहरू <ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g>"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"कुराकानी सार्नुहोस्"</item>
+    <item msgid="1685896770174368261" quantity="other">"<ns1:g id="ID_1">%1$d</ns1:g> कुराकानीहरू सार्नुहोस्"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"सन्देश सार्नुहोस्"</item>
+    <item msgid="371256717624461324" quantity="other">"सन्देशहरू सार्नुहोस्"</item>
+  </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+    <item msgid="1991747245324120305" quantity="few">"<ns1:g id="NUMBER_ACCOUNTS">%d</ns1:g> खाताहरूमा"</item>
+    <item msgid="2723797835410343458" quantity="other">"<ns1:g id="NUMBER_ACCOUNTS">%d</ns1:g> खाताहरूमा"</item>
+  </plurals>
+    <plurals name="notification_new_one_account_fmt">
+    <item msgid="3422945912787702191" quantity="one">"<ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g> अपठित (<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+    <item msgid="6543078667692990869" quantity="few">"<ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g> अपठित (<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+    <item msgid="6937673814351448076" quantity="other">"<ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g> अपठित (<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+  </plurals>
+    <plurals name="number_of_accounts">
+    <item msgid="6343953132237244947" quantity="one">"<ns1:g id="NUM_ACCOUNTS">%1$d</ns1:g> खाता"</item>
+    <item msgid="8548760449976444566" quantity="other">"<ns1:g id="NUM_ACCOUNTS">%1$d</ns1:g> खाताहरू"</item>
+  </plurals>
+    <plurals name="picker_combined_view_account_count">
+    <item msgid="380235084337895804" quantity="one">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> खाता"</item>
+    <item msgid="4145163147488719025" quantity="other">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> खाताहरू"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> पुराना सन्देशहरू"</item>
+  </plurals>
+    <plurals name="sync_recent">
+    <item msgid="137489911893192702" quantity="one">"सिंक: अन्तिम <ns1:g id="COUNT">%1$d</ns1:g> दिन"</item>
+    <item msgid="6856940335775567991" quantity="other">"सिंक: अन्तिम <ns1:g id="COUNT">%1$d</ns1:g> दिन"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8236846322040271280" name="account_delete_dlg_instructions_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\" ईमेलबाट हटाईनेछ।"</string>
+    <string msgid="6806087520856396608" name="account_delete_dlg_title">"खाता हटाउनुहोस्"</string>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"तपाइँको \" <ns1:g id="DUPLICATE">%s</ns1:g> \" खाताको लागि तपाइँले पहिल्यै बाट यस  प्रयोगकर्ता नाम प्रयोग गरिरहनुभएको छ।"</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"खाता नक्कली"</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"ड्राफ्टहरू"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"इनबक्स"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"आउटबक्स"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"ताराङ्कित"</string>
+    <string msgid="837218861494831989" name="account_name_display_all">"सबै खाताहरु"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"यो पासवर्ड एक वा एक भन्दा अधिक स्थान पात्रहरूको साथ सुरू वा समाप्त हुन्छ। धेरै सर्वरहरू रिक्त स्थानको साथ पासवर्डको समर्थन गर्दैन।"</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> तपाइँले तपाइँको त्यस सुरक्षा सेटिङ अद्यावधिक गर्न आवश्यकता छ।"</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"सुरक्षा अद्यावधिक"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"सर्वर <ns1:g id="SERVER">%s</ns1:g> तपाईं यसलाई आफ्नो एण्ड्रोईड उपकरणको केहि दूर सुरक्षा सुविधाहरूको नियन्त्रण गर्नको लागि अनुमतिको आवश्यकता छ।"</string>
+    <string msgid="3511543138560418587" name="account_security_title">"उपकरण सुरक्षा"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"खाता सेटिङहरू"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"संलग्नकहरू डाउनलोड गर्नुहोस्"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"Wi-Fi को माध्यम बाट हालका सन्देशहरुको एट्याच्मेन्टहरू स्वत:: डाउनलोड हुन्छ"</string>
+    <string msgid="5128545184407925226" name="account_settings_category_delete_account">"खाता हटाउनुहोस्"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"डेटा प्रयोग"</string>
+    <string msgid="4889158717472601718" name="account_settings_delete_account_label">"खाता हटाउनुहोस्"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"खाता नाम"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"द्रुत प्रतिक्रिया"</string>
+    <string msgid="8056686122888722591" name="account_settings_edit_quick_responses_summary">"ईमेल रचना गर्दा तपाईंले प्राय: सम्मिलित गर्ने पाठ सम्पादन गर्नुहोस्"</string>
+    <string msgid="7429582254433588882" name="account_settings_enforced_label">"नीतिहरू लागू गरियो"</string>
+    <string msgid="8140860420440447771" name="account_settings_enforced_summary">"कुनै पनि होइन"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"सुरक्षित नभएका परिवर्तनहरूलाई छाड्ने हो?"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"आगमन सेटिङ"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"प्रयोगकर्ता नाम, पासवर्ड, र अन्य आगमन सर्भर सेटिङ"</string>
+    <string msgid="8849649646111167377" name="account_settings_login_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> को लागि प्रयोगकर्ता नाम वा पासवर्ड गलत छ। के तपाइँ तिनीहरुलाई अद्यावधिक गर्न चाहनुहुन्छ?"</string>
+    <string msgid="4266359321648406752" name="account_settings_login_dialog_reason_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> मा तपाइँको लग इन विफल भयो, सर्भरले भन्यो: <ns1:g id="REASON">%s</ns1:g> के तपाइँ प्रयोगकर्ता नाम र/वा पासवर्डलाई अद्यावधिक गर्न चाहनुहुन्छ?"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"साइन इन गर्न सकेन"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"तपाईंको नाम"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"सूचना सेटिङहरू"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"ईमेल अधिसूचनाहरू"</string>
+    <string msgid="8134339460923068254" name="account_settings_notify_summary">"ईमेल आएको बेलामा अधिसूचनाहरू पठाउनुहोस्"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"बाहिर जाने सेटिंग्स"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"प्रयोगकर्ता नाम, पासवर्ड, र अन्य बहिर्गमन सर्भर सेटिङहरु"</string>
+    <string msgid="6292833636418641840" name="account_settings_policies">"सुरक्षा नीतिहरू"</string>
+    <string msgid="1104680719299842829" name="account_settings_retry_label">"सिङ्क प्रयास गर्नुहोस्"</string>
+    <string msgid="2703599639846201913" name="account_settings_retry_summary">"यस  खातालाई सिङ्क गर्न को लागि यहाँ छुनुहोस्"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"रिङटोन छनौट गर्नुहोस्"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"सर्वर सेटिंग्स"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"सिंक फ्रिक्वेन्सी, अधिसूचनाहरू, आदि।"</string>
+    <string msgid="6855333393468628003" name="account_settings_sync_calendar_enable">"सिंक क्यालेन्डर"</string>
+    <string msgid="7606340353079301703" name="account_settings_sync_calendar_summary">"यस खाताको लागि क्यालेन्डर कार्यक्रम सिंक गर्नुहोस्"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"सिंक सम्पर्कहरू"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"यस खाताको लागि सम्पर्कहरू सिंक गर्नुहोस्"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"सिङ्क इ-मेल"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"यस खाताको लागि ईमेल सिंक गर्नुहोस्"</string>
+    <string msgid="1954091071454235577" name="account_settings_unsupported_label">"असमर्थित नीतिहरू"</string>
+    <string msgid="2107633813351863608" name="account_settings_unsupported_summary">"कुनै पनि होइन"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"कम्पन"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"खाता प्रकार"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"यस खाता कुन प्रकारको हो?"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"खाता सेटअप"</string>
+    <string msgid="8896222991837026736" name="account_setup_basics_default_label">"पूर्वनिर्धारितरूपमा यस  खाता द्वारा इ-मेल पठाउनुहोस्।"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"इमेल ठेगाना"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"ईमेल खाता"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"म्यानुअल सेटअप"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"पासवर्ड"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"खाता सेटअप"</string>
+    <string msgid="2869198335297585862" name="account_setup_check_settings_check_incoming_msg">"सर्भर सेटिङ लाई प्रमाणित गरियस ..."</string>
+    <string msgid="4566131393776891419" name="account_setup_check_settings_check_outgoing_msg">"एसएमटीपी सेटिंग्स मान्य गरिँदै..."</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"खाताको जानकारी प्राप्त भइरहेछ..."</string>
+    <string msgid="6235569720466839946" name="account_setup_creating_account_msg">"खाता सिर्जना गरिँदै..."</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"क्लाइन्ट सर्टिफिकेट"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"मोबाइल उपकरण ID"</string>
+    <string msgid="6099049671599242131" name="account_setup_exchange_headline">"सर्वर सेटिंग्स"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"कुनै पनि होइन"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"हटाउनुहोस्"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"चयन गर्नुहोस्"</string>
+    <string msgid="795137797983360826" name="account_setup_exchange_server_label">"सर्भर"</string>
+    <string msgid="6704105469083211236" name="account_setup_exchange_ssl_label">"सुरक्षित कनेक्शन (SSL) को प्रयोग गर्नुहोस्"</string>
+    <string msgid="396004732514751781" name="account_setup_exchange_title">"खाता सेटअप"</string>
+    <string msgid="6232880757633882678" name="account_setup_exchange_trust_certificates_label">"सबै SSL प्रमाणपत्र स्वीकार गर्नुहोस्"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"क्लाइन्ट प्रमाणपत्र प्रयोग गर्नुहोस्"</string>
+    <string msgid="6517176180828983060" name="account_setup_exchange_username_label">"डोमेन \\ प्रयोगकर्तानाम"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"तपाईंलाई यस सर्वरसँग सिंक गर्ने अनुमति छैन। थप जानकारीको लागि आफ्नो सर्वरको ब्यवस्थापकसँग सम्पर्क गर्नुहोला।"</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"प्रमाणीकरण तरीकाहरु सर्भर द्वारा समर्थित छैन।"</string>
+    <string msgid="3563840279690749547" name="account_setup_failed_certificate_inaccessible">"सर्टिफिकेट अवैध वा अनुपलब्ध छ।"</string>
+    <string msgid="2689944595775206006" name="account_setup_failed_certificate_required">"एक क्लाईन्ट सर्टिफिकेट आवश्यक छ। के तपाईं क्लाईन्ट सर्टिफिकेटको साथ सर्वरसँग कनेक्ट गर्न चाहनुहुन्छ?"</string>
+    <string msgid="6531658092540248067" name="account_setup_failed_check_credentials_message">"सर्भरले एक त्रुटिको साथ जवाफ दियो। तपाइँको प्रयोगकर्ता नाम र पासवर्ड परीक्षण गर्नुहोस्, अनि पुनः प्रयास गर्नुहोस्।"</string>
+    <string msgid="426627755590431364" name="account_setup_failed_dlg_auth_message">"प्रयोगकर्ता नाम वा पासवर्ड गलत छ।"</string>
+    <string msgid="2081384892947238930" name="account_setup_failed_dlg_auth_message_fmt">"लगइन विफल।\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"सर्वरमा सुरक्षित कनेक्ट गर्न सकिँदैन।"</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"सर्वरमा सुरक्षित कनेक्ट गर्न सकिँदैन।\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"विवरणहरु सम्पादन गर्नुहोस्"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"भ्वाइसमेल सर्वरमा जडान गर्न सकिएन।"</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"सर्भरसँग जोडिन सकेन।\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"समाप्त गर्न सकिएन"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"सर्भरसँग जडान खुल्न सकेन।"</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"तपाईंले गलत सर्वर ठेगाना टाईप गर्नुभयो वा सर्वरलाई एउटा प्रोटोकल संस्करणक आवश्यकता छ जुन ईमेलले समर्थन गर्दैन।"</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"सुरक्षा त्रुटिको कारण सर्वरमा कनेक्शन खोल्न सकिएन।"</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"यस सर्भर सहित तपाइँको Android उपकरणलाई समर्थन नगर्ने सुरक्षा सुविधाहरुको आवश्यकता छ: <ns1:g id="ERROR">%s</ns1:g> लगायत"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"टीएलएस आवश्यक तर सर्वर द्वारा समर्थित छैन।"</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"जब म इनबक्सबाट मेटाउँछु"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"सर्वरबाट ईमेल मेटाउनुहोस्"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"कहिल्यै पनि होइन"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"आवक सर्वर सेटिंग्स"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"वैकल्पिक"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"IMAP पथ उपसर्ग"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"पासवर्ड:"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"पोर्ट"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"सुरक्षा प्रकार"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"कुनै पनि होइन"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"एसएसएल / टीएलएस (सबै सर्टिफिकेटहरू स्वीकार गर्नुहोस्)"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (सबै प्रमाणपत्रहरु स्वीकार गर्नुहोस्)"</string>
+    <string msgid="1480342966630002638" name="account_setup_incoming_server_label">"सर्वर"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"खाता सेटअप"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"प्रयोगकर्तानाम"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"यस  खातालाई एक नाम दिनुहोस् (वैकल्पिक)"</string>
+    <string msgid="914858472109729140" name="account_setup_names_headline">"तपाईंको खाता सेट अप भयो र ईमेल यसको मार्गमा छ!"</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"खाता सेटअप"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"यस क्षेत्र खाली हुन सक्दैन"</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"तपाइँको नाम (बहिर्गमन सन्देशहरूमा प्रदर्शित)"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"वाई-फाईमा कनेक्ट भएपछि स्वचालित रूपमा अनुलग्नकहरू डाउनलोड गर्नुहोस्"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"खाता विकल्पहरू"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"हरेक १० मिनेटहरू"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"हरेक १५ मिनेटमा"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"हरेक घण्टा"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"हरेक ३० मिनेटहरू"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"हरेक ५ मिनेटहरू"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"इनबक्सको जाँच फ्रिक्वेन्सी"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"कहिल्यै पनि होइन"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"स्वचालित (पुश)"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"सबै"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"स्वतः"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"सिंक गर्न दिनहरू"</string>
+    <string msgid="7046146571560728829" name="account_setup_options_notify_label">"इ-मेल आउँदा मलाई सूचित गर्नुहोस्"</string>
+    <string msgid="3222151135467189411" name="account_setup_options_sync_calendar_label">"यस खाताबाट पात्रो सिङ्क गर्नुहोस्"</string>
+    <string msgid="276492345599531778" name="account_setup_options_sync_contacts_label">"यस खाताबाट सम्पर्क सिङ्क गर्नुहोस्"</string>
+    <string msgid="8585177128405004068" name="account_setup_options_sync_email_label">"यस खाताबाट इ-मेल सिङ्क गर्नुहोस्"</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"खाता सेटिङहरू"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"बाहिर जाने सर्वर सेटिंग्स"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"पासवर्ड"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"पोर्ट"</string>
+    <string msgid="7779484127897397562" name="account_setup_outgoing_require_login_label">"साइन इन आवश्यकता"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"सुरक्षा प्रकार"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"SMTP सर्वर"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"खाता सेटअप"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"प्रयोगकर्तानाम"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"सर्भर <ns1:g id="SERVER">%s</ns1:g> तपाइँले यस भन्दा टाढा तपाइँको Android उपकरणको सुरक्षा सुविधाहरुलाई नियन्त्रण गर्नको लागि अनुमतिको आवश्यकता पर्छ। तपाइँ यस  खाता सेटअपलाई पुरा गर्न चाहानुहुन्छ?"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"टाढा सुरक्षा प्रशासन"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"एक मान्य ईमेल ठेगाना र पासवर्ड टाइप गर्नुहोस्।"</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"तपाईं खाताको प्रयोगकर्तानाम परिवर्तन गर्न सक्नुहुन्न। बिभिन्न प्रयोगकर्तानामको साथ खाता थप गर्न, खाता थप गर्नुहोस् भन्ने टच गर्नुहोला।"</string>
+    <string msgid="1994861845225243190" name="account_shortcut_picker_name">"इ-मेल खाता"</string>
+    <string msgid="1039929224016048015" name="account_shortcut_picker_title">"एउटा खाताको चयन गर्नुहोस्"</string>
+    <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"फोल्डर सूची लोड हुँदै..."</string>
+    <string msgid="8337750045270269649" name="accounts_welcome">"तपाईं केवल केहि चरणहरूमा आफ्नो खाता सेट अप गर्न सक्नुहुनेछ।"</string>
+    <string msgid="7484457755531286333" name="action_bar_mailbox_list_title">"फोल्डरहरू"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ अपठित"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"फोल्डर छान्नुहोस्"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"खाता छान्नुहोस्"</string>
+    <string msgid="2162808366829269770" name="add_account">"खाता थप्नुहोस्"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Bcc थप गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4757145078498200242" name="add_cc_bcc_menu">"Cc/Bcc थप गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="504861315425773180" name="add_cc_label">"Cc/Bcc थप्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2203398371671979481" name="add_file_attachment">"फाइल संलग्न गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1638508840481944248" name="add_label">"लेबल थप्नुहोस्"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"चित्र संलग्न गर्नुहोस्"</string>
+    <string msgid="2866003744391266498" name="add_star">"स्टार थप गर्नुहोस्"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"भिडियो संलग्न गर्नुहोस्"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> <ns1:g id="VIA_DOMAIN">%3$s</ns1:g> मार्फत"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"सबै फोल्डरहरू"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"सधैं यस प्रेषकको चित्र देखाउनुहोस्"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"यस प्रेषकको चित्र स्वचालित रूप मा देखाइनेछ।"</string>
+    <string msgid="2285438422049030145" name="ap_overflow_format">"+ <ns1:g id="ID_1">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="5815426892327290362" name="app_name">"इमेल गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="847250094775910499" name="archive">"अभिलेख"</string>
+    <string msgid="7533995360704366325" name="archived">"भण्डार गरियो"</string>
+    <string msgid="4267189489654642035" name="attached_message">"संलग्न सन्देश"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"कागजात"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"स्प्रेडशिट"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"प्रस्तुतिकरण"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"अडियो"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"चित्र"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2817790592227462682" name="attachment_info_apk_install_disabled">"अनुप्रयोग सिधा ईमेलबाट स्थापित गर्न सकिँदैन। पहिला यो अनुप्रयोग बचत गर्नुहोस् र पछि डाउनलोड अनुप्रयोगको प्रयोग गरेर स्थापना गर्नुहोस्।"</string>
+    <string msgid="4124655487276125596" name="attachment_info_application_settings">"अनुप्रयोग सेटिङहरु"</string>
+    <string msgid="4995755709689009622" name="attachment_info_dialog_default_title">"अनुलग्नक जानकारी"</string>
+    <string msgid="3174350153882915382" name="attachment_info_dialog_wifi_title">"वाई फाई कनेक्शनको आवश्यकता"</string>
+    <string msgid="6576029010855055528" name="attachment_info_malware">"तपाइँले यस  फाइललाई बचाउन वा खोल्न सक्नुहुन्न किनकि संलग्नका यस  प्रकारमा दुर्भावपूर्ण सफ्टवेयर हुन सक्छन्।"</string>
+    <string msgid="8139209405745777924" name="attachment_info_no_intent">"त्यहाँ कुनै स्थापित अनुप्रयोग छैन जुन यस  एट्याच्मेन्टलाई खोल्न सक्छ। Android बजार बाट एक उपयुक्त अनुप्रयोग डाउनलोड गर्ने प्रयास गर्नुहोस्।"</string>
+    <string msgid="3560422300127587508" name="attachment_info_policy">"यस एट्याच्मेन्ट सुरक्षित गर्न वा खोल्न सकिंदैन किनकि यस  खाताको सुरक्षा नीतिहरुको कारण।"</string>
+    <string msgid="3270731101769840006" name="attachment_info_sideload_disabled">"यो अनुलग्नक एउटा अनुप्रयोग हो। तपाईंले यसलाई स्थापना गर्नु अघि सेटिंग्स > अनुप्रयोगहरूमा अज्ञात स्रोतहरू जाँच गर्नुपर्नेछ।"</string>
+    <string msgid="8342655396805943320" name="attachment_info_unknown">"अनुलग्नक खोल्न सकिँदैन।"</string>
+    <string msgid="1481120960014563617" name="attachment_info_wifi_only">"यो अनुलग्नक मोबाईल नेटवर्क मार्फत डाउनलोड गर्न निकै ठूलो छ। तपाईं यसलाई अर्को पटक वाई-फाई नेटवर्कमा जडान गर्नु भएपछि डाउनलोड गर्न सक्नुहुनेछ।"</string>
+    <string msgid="96432970927503597" name="attachment_info_wifi_settings">"Wi-Fi सेटिङ"</string>
+    <string msgid="7155322700141145123" name="attachment_not_found">"एट्याच्मेन्ट डाउनलोड गर्न सकिएन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="5544874374971562759" name="attachment_text">"पाठ"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"दुर्भाग्यबस, तपाइँ यस  प्रकारको एट्याच्मेन्टलाई सुरक्षित गर्न वा खोल्न सक्नुहुन्न।"</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g> फाईल"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"भिडियो"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"एट्याच्मेन्टहरू"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"स्वत: अग्रिम प्राथमिकता सेट गर्नुहोस् \n (तपाइँले मेटाएपछि, आदि)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"स्वत:-उन्नत"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"तपाईंले सन्देश मेटाउनु भएपछि कुन स्क्रीन देखाउने भनेर छनौट गर्नहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="3098643138241111579" name="bcc">"Bcc"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="4698055226318660420" name="bcc_heading">"गुप्त बोधार्थ: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4279864165439577668" name="body_hint">"ईमेल रचना गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"रद्द गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6967435583794021865" name="cancel_action">"रद्द गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="4651201258272223650" name="cancel_attachment">"रद्द गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"सार्न सकिएन किनकि छनोट भएका भित्र एक भन्दा बढी खाताहरु छन्।"</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"POP3 खाताहरु मा सार्न समर्थन गर्दैन।"</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"ड्राफ्ट, आउटबक्स र पठाईएको मा भएका सन्देशहरू सार्न सकिँदैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"सार्न सकिँदैन किनभने चयनताले बहु खाताहरू समावेश गर्दछ।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2742423840964045801" name="category_general_preferences">"अनुप्रयोग"</string>
+    <string msgid="7017720927911078193" name="cc">"Cc"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="374493748526504562" name="cc_attribution">"Cc: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"बोधार्थ: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"फोल्डरहरू परिवर्तन गर्नुहोस्"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"सिंक सेटिंग्स परिवर्तन गर्नुहोस्"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"मेलको लागि जाँच भइरहेको छ"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="81937507117528954" name="choose_attachment_dialog_title">"एट्याच्मेन्ट छान्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"को माध्यम बाट साझेदारी"</string>
+    <string msgid="3184687982186479442" name="clear">"हटाउनुहोस्"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"तपाईँले पहिले अनुमति दिनु भएका प्रेषकहरूबाट इनलाइन चित्रहरू प्रदर्शन गर्न रोक्नुहोस्।"</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"तस्बिर अनुमोदनहरू हटाउने हो?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"तस्बिर अनुमोदनहरू हटाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="533058985745238100" name="close_action">"बन्द गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"प्राप्तकर्ता विवरण कोलाप्स गर्नुहोस्"</string>
+    <string msgid="1473559896062432878" name="compose">"कम्पोज गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4045702519637388045" name="compose_action">"रचना गर्नुहोस्"</string>
+    <string msgid="427986915662706899" name="compose_title">"कम्पोज गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"यस सन्देश रद्द गर्ने हो?"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="9151965975158906286" name="confirm_response">"प्रतिक्रिया पठाउँदै..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="3221546155385562874" name="confirm_send_message">"यस सन्देश पठाउने हो?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"सन्देशको मूख्य भागमा कुनै पाठ छैन।"</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"सन्देशको विषयमा कुनै पाठ छैन।"</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"सन्देश पठाउनुहुन्छ?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"सम्पर्क जानकारी <ns1:g id="NAME">%1$s</ns1:g>को लागि देखाउनुहोस्"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"सम्पर्क जानकारी देखाउनुहोस्"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> बारेमा <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> यस <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>मा"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> बारेमा <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> यस <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>मा"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"सम्पर्क थप्नुहोस्"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"प्रतिलिपि गर्नुहोस्"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"लिंक URL लाई नक्कल गर्नुहोस्"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"डायल गर्नुहोस्..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"सुझाव पठाउनुहोस्"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"मद्दत"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"नक्सा"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"ब्राउजरमा खोल्नुहोस्"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"इमेल पठाउनुहोस्"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"लिंक साझेदारी गर्नुहोस्"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS..."</string>
+    <string msgid="4459776616201694172" name="conversation_count">"<ns1:g id="COUNT">%1$s</ns1:g> यस <ns1:g id="TOTAL">%2$s</ns1:g>को"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"<ns1:g id="FOLDERNAME">%1$s</ns1:g>मा सारियो"</string>
+    <string msgid="7381341099165809801" name="conversation_newer">"अझ नयाँ"</string>
+    <string msgid="6384287019562069353" name="conversation_older">"अझ पुरानो"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"त्यस  कुराकानीलाई छान्नको लागि एक प्रेषकको चित्रलाई छुनुहोस्।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="3062715563215392251" name="create_action">"नयाँ बनाउनुहोस्"</string>
+    <string msgid="2726544180243210741" name="create_new_folder">"फोल्डर सिर्जना गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"को रूपमा मेल पठाउनुहोस्:"</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"आज, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"हिजो, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="5175710493691536719" name="debug_title">"डिबग"</string>
+    <string msgid="6160213145745376955" name="debug_version_fmt">"संस्करण: <ns1:g id="VERSION">%s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="844871204175957681" name="delete">"मेट्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8421026208288857155" name="delete_action">"मेट्नुहोस्"</string>
+    <string msgid="3076922270182841978" name="delete_quick_response_action">"मेट्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="2757349161107268029" name="deleted">"मेटाइयो"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="426727923791430306" name="device_admin_description">"सर्भर-निर्दिष्ट सुरक्षा नीतिहरुलाई सक्षम बनाउँछ"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"इमेल गर्नुहोस्"</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"चेतावनी: तपाईंको उपकरण ईमेल अनुप्रयोगको अधिकार प्रबन्धकमा असक्षम गरिँदा तपाईंको उपकरणले यसलाई आवश्यक पर्ने सबै ईमेल खाताहरू, साथै तिनीहरूको ईमेल, सम्पर्कहरू, क्यालेन्डर कार्यक्रमहरू, र अन्य डाटा मेटाउनेछ।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1714960202994370243" name="discard">"त्याग्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6532206074859505968" name="discard_action">"त्याग्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6862272443470085375" name="discard_drafts">"ड्राफ्ट बेवास्ता गर्नुहोस्"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"टिप खारेज गर्नुहोस्"</string>
+    <string msgid="3079981801778027540" name="done">"भयो"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="7497990549515580249" name="done_action">"भयो"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7418568915429156518" name="download_again">"पुन: डाउनलोड गर्नुहोस्"</string>
+    <string msgid="442019281547315527" name="download_failed">"डाउनलोड गर्न सकिएन। पुन: प्रयास गर्नको लागि छुनुहोस्।"</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"नेभिगेसन ड्रअर बन्द गर्नुहोस्"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"नेभिगेसन ड्रअर खोल्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4322494050816995390" name="edit_quick_response_dialog">"ट्रुत प्रतिक्रिया सम्पादन गर्नुहोस्"</string>
+    <string msgid="8827210108543430336" name="eml_view_title">"<ns1:g id="FILENAME">%s</ns1:g> हेर्दै"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6064497180615519589" name="empty_spam">"खाली स्पाम"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"खाली स्पाम?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"खाली रद्दी टोकरी"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"रद्दी टोकरी खाली गर्ने हो?"</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6775234299515596760" name="error_loading_message_body">"सन्देश पाठ लोड गर्न सकिएन। सन्देश हेर्नको लागि निकै ठूलो हुनुपर्दछ।"</string>
+    <string msgid="1190783774800310346" name="exchange_name">"कर्पोरेट"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"प्राप्तकर्ता विवरणहरू विस्तार गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4664259801498253756" name="favorite_action">"तारा"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"सुझाव पठाउनुहोस्"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"एट्याच्मेन्ट ल्याइरहेको छ"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"फोल्डर आइकन"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="860241987640527156" name="folder_picker_title">"फोल्डर पिकर"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1047474677580149436" name="folder_removed">"<ns1:g id="FOLDERNAME">%1$s</ns1:g>बाट निकालियो"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"इमेल फोल्डर"</string>
+    <string msgid="6822914459902983767" name="forward">"अग्रेषित गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="669174181042344116" name="forward_action">"फर्वार्ड"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- अग्रेषित सन्देश ----------&lt;br>बाट: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>मिति: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>विषय: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>प्रापक: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"एक वा अधिक अनुलग्नक अग्रेषित गर्न सकिएन"</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"अनुलग्नक अग्रेषित गरिएन"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="2454519463223197231" name="from_heading">"बाट: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6140450617663543464" name="gal_searching_fmt">"खोज भइरहेको छ <ns1:g id="DOMAIN">%s</ns1:g>..."</string>
+    <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"मेट्नु भन्दा पहिले पुष्टि गर्नुहोस्"</string>
+    <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"सन्देशहरू"</string>
+    <string msgid="4548277349553989930" name="general_preference_confirm_send_label">"पठाउनु अघि पुष्टि गर्नुहोस्"</string>
+    <string msgid="2695471027185506093" name="general_preference_confirm_send_summary">"सन्देशहरू"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"सन्देश पाठ आकार"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"विशाल"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"सन्देश पाठ आकार"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"ठूलो"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"सामान्य"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"सानो"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"एकदम सानो"</string>
+    <string msgid="2648501128162793879" name="general_preferences_clear_trusted_senders_summary">"सन्देशहरुमा भएको चित्रहरु स्वचालित रूप मा देखिनेछैनन्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"फाईल संलग्न गर्न सकिँदैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8243724566056800991" name="header_label_general_preferences">"सामान्य सेटिङहरू"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7873089811705257882" name="help_and_info">"मद्दत"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ उद्धृत पाठ लुकाउनुहोस्"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"बेवास्ता गर्नुहोस्, म यस सन्देशलाई विश्वास गर्दछु"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"इनबक्स"</string>
+    <string msgid="6009817562073541204" name="info">"जानकारी"</string>
+    <string msgid="607849900865956536" name="info_attachment">"जानकारी"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"ठेगाना <ns1:g id="WRONGEMAIL">%s</ns1:g> अमान्य छ।"</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"अधिक लोड गर्नुहोस्"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"लोड हुँदै..."</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"लोड हुँदै..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> साइनइन असफल भयो।"</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"साइन इन गर्न सकिँदैन"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"एउटा कुराकानी छान्न छुनुहोस् र समाउनुहोस्, त्यसपछि थप चयन गर्न छुनुहोस्।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4261295503836387876" name="mailbox_list_account_selector_account_header">"लेखाहरू"</string>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"संयुक्त दृश्य"</string>
+    <string msgid="3320144348694625092" name="mailbox_list_account_selector_mailbox_header_fmt">"हालका फोल्डरहरू (<ns1:g id="EMAIL_ADDRESS">%s</ns1:g>)"</string>
+    <string msgid="4185052839366909439" name="mailbox_list_account_selector_show_all_folders">"सबै फोल्डरहरू देखाउनुहोस्"</string>
+    <string msgid="8922653040520361032" name="mailbox_list_recent_mailboxes">"हालका फोल्डरहरू"</string>
+    <string msgid="484260487104726379" name="mailbox_list_user_mailboxes">"सबै फोल्डरहरू"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"ड्राफ्टहरू"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"इनबक्स"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"रद्दी"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"आउटबक्स"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"पठाइयो"</string>
+    <string msgid="7788694947644186069" name="mailbox_name_display_starred">"ताराङ्कित"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"रद्दीटोकरी"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"नपढिएको"</string>
+    <string msgid="9077316556563252246" name="mailbox_preferences_header">"सिंक सेटिंग्स"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"सिंक विकल्पहरू"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"सिङ्क विकल्पहरु (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="4152973927804882131" name="mailbox_shortcut_picker_title">"एक फोल्डर छान्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6743983544685622800" name="manual_sync">"अहिले सिङ्क  गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="3766298115778767554" name="mark_as_unread_action">"नपढिएको भनि चिनो लगाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6904096897104265870" name="mark_important">"महत्वपूर्ण भनि चिनो लगाउनुहोस्"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"महत्त्वहीनको रूपमा चिन्ह लगाउनुहोस्"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"स्पाम नभएको रिपोर्ट गर्नुहोस्"</string>
+    <string msgid="8438349154394313195" name="mark_read">"पढिएको चिन्ह लगाउनुहोस्"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"नपढिएको भनी चिनो लगाउनुहोस्"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"म"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"म"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"फोल्डरहरू परिवर्तन गर्नुहोस्"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"रचना गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2871906096248843471" name="menu_folder_options">"सिङ्क विकल्पहरु"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"फोल्डर सेटिङ"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"मा सार्नुहोस्"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"इनबक्समा सार्नुहोस्"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"सबै सुरक्षित गर्नुहोस्"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"साझेदारी गर्नुहोस्"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"सबै साझेदारी गर्नुहोस्"</string>
+    <string msgid="5297197523031943248" name="menu_search">"खोज्नुहोस्"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"सेटिङहरु"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"स्वत: पूर्वाकारमा परिवर्तित"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4401081828287333647" name="message_compose_attachment_size">"संलग्न गर्न फाईल निकै ठूलो छ।"</string>
+    <string msgid="9177337492358841680" name="message_compose_bcc_hint">"Bcc"</string>
+    <string msgid="8481884461031434144" name="message_compose_cc_hint">"Cc"</string>
+    <string msgid="6415258924917140704" name="message_compose_display_name">"<ns1:g id="NAME">%1$s</ns1:g> र <ns1:g id="NUMBER">%2$d</ns1:g> अन्य"</string>
+    <string msgid="1817633338629885643" name="message_compose_error_invalid_email">"केहि ईमेल ठेगानाहरू अमान्य छन्।"</string>
+    <string msgid="140299472517968199" name="message_compose_error_no_recipients">"कम्तिमा एउटा प्राप्तकर्ता थप गर्नुहोस्।"</string>
+    <string msgid="4084843296548498041" name="message_compose_from_label">"बाट:"</string>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- मूल सन्देश --------\nविषय: <ns1:g id="SUBJECT">%1$s</ns1:g>\nबाट: <ns1:g id="SENDER">%2$s</ns1:g>\nप्रापक: <ns1:g id="TO">%3$s</ns1:g>\nCC: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="8165567368956050390" name="message_compose_include_quoted_text_checkbox_label">"पाठ समावेश गर्नुहोस्"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"द्रुत प्रतिक्रिया सम्मिलित गर्नुहोस्"</string>
+    <string msgid="6950097435198536165" name="message_compose_quoted_text_label">"उद्धृत पाठ समावेश गर्नुहोस्"</string>
+    <string msgid="8815624773273454573" name="message_compose_reply_header_fmt">\n\n"<ns1:g id="SENDER">%s</ns1:g> लेख्दछ:\n\n"</string>
+    <string msgid="6993487234024160782" name="message_compose_subject_hint">"विषय"</string>
+    <string msgid="2891895306418177013" name="message_compose_to_hint">"प्रापक"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"सन्देश डिकोड गर्दा एउटा समस्या थियो।"</string>
+    <string msgid="6603370107217227252" name="message_delete_dialog_title"/>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="2183394728494962332" name="message_details_title">"सन्देश विवरणहरू"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"सन्देश खारेज गरियो।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="3891461729325584026" name="message_discarded_toast">"सन्देश खारेज गरियो।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="869753811259793266" name="message_invite_accept">"हो"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"क्यालेन्डरमा हेर्नुहोस्"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"होइन"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"जाँदै हुनुहुन्छ?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"सायद"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"पात्रो आमन्त्रित"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4004644319382041459" name="message_is_empty_description">"कुनै विषय छैन"</string>
+    <string msgid="7428302707908825692" name="message_list_load_more_messages_action">"बढि सन्देशहरू लोड गर्नुहोस्"</string>
+    <string msgid="7846910091922523867" name="message_list_no_messages">"कुनै सन्देशहरू छैन"</string>
+    <string msgid="8502942186631824114" name="message_list_send_pending_messages_action">"सबै सन्देशहरु पठाउनुहोस्"</string>
+    <string msgid="1783589062530679520" name="message_list_subject_snippet_divider">" - "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7073947895562277576" name="message_saved">"सन्देश ड्राफ्टको रूपमा सुरक्षित गरियो।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8443125659172627665" name="message_saved_toast">"सन्देश ड्राफ्टको रूपमा बचत गरियो।"</string>
+    <string msgid="3597047441062021199" name="message_subject_description">"विषय"</string>
+    <string msgid="6523810929103546865" name="message_view_always_show_pictures_button">"सँधै देखाउनुहोस्"</string>
+    <string msgid="6838463134312859448" name="message_view_always_show_pictures_confirmation">"यस  प्रेषकबाट पठाइएका चित्र स्वचालित रुपमा देखिनेछ।"</string>
+    <string msgid="7685500276479967959" name="message_view_always_show_pictures_prompt">"यस प्रेषकबाट सँधै चित्रहरू देखाउनुहोस्"</string>
+    <string msgid="7906875687519445185" name="message_view_attachment_background_load">"एक वा अधिक अनुलग्नकहरू तपाईंको अग्रेषित सन्देशमा पठाउनु अघि डाउनलोड गरिनेछ।"</string>
+    <string msgid="316700885943712101" name="message_view_attachment_cancel_action">"रोक्नुहोस्"</string>
+    <string msgid="3908148393469626740" name="message_view_attachment_info_action">"जानकारी"</string>
+    <string msgid="381211378884166381" name="message_view_attachment_install_action">"स्थापना गर्नुहोस्"</string>
+    <string msgid="8645178445048233745" name="message_view_attachment_load_action">"लोड"</string>
+    <string msgid="5214215414665114061" name="message_view_attachment_play_action">"प्ले गर्नुहोस्"</string>
+    <string msgid="4704436274670997903" name="message_view_attachment_save_action">"बचत गर्नुहोस्"</string>
+    <string msgid="3432810414785232025" name="message_view_attachment_saved">"सुरक्षित गरियो"</string>
+    <string msgid="4408093860407096078" name="message_view_attachment_view_action">"दृश्य"</string>
+    <string msgid="7577479221285310198" name="message_view_bcc_label">"Bcc:"</string>
+    <string msgid="6322992216371163122" name="message_view_cc_label">"Cc:"</string>
+    <string msgid="7033814961837313339" name="message_view_date_label">"मिति:"</string>
+    <string msgid="7714482237896346836" name="message_view_display_attachment_toast">"एट्याच्मेन्टलाई प्रदर्शित गर्न सकिंदैन।"</string>
+    <string msgid="6055076379282772675" name="message_view_from_label">"बाट:"</string>
+    <string msgid="744546668021679819" name="message_view_invite_accept">" हो"</string>
+    <string msgid="6119797303297149463" name="message_view_invite_decline">" होइन"</string>
+    <string msgid="7555189462441562318" name="message_view_invite_maybe">" सायद"</string>
+    <string msgid="1212799906603873708" name="message_view_invite_text">"जाँदै हुनुहुन्छ?"</string>
+    <string msgid="3418949733434713805" name="message_view_invite_title">"पात्रो आमन्त्रण"</string>
+    <string msgid="8547454326090527202" name="message_view_invite_toast_maybe">"यो निमन्त्रणालाई तपाईंले जवाफ दिनुभयो \"शायद\" भनेर।"</string>
+    <string msgid="1842341256942784143" name="message_view_invite_toast_no">"तपाईंले यो निमन्त्रणालाई अस्वीकृत गर्नुभयो।"</string>
+    <string msgid="6802274503171644414" name="message_view_invite_toast_yes">"यस निमन्त्रणालाई तपाइँले स्वीकार गर्नुभयो।"</string>
+    <string msgid="5521032519960111675" name="message_view_invite_view">"क्यालेन्डरमा हेर्नुहोस्"</string>
+    <string msgid="8605967295095023587" name="message_view_load_attachment_failed_toast">"अनुलग्नक \" <ns1:g id="FILENAME">%s</ns1:g>\" लोड गर्न सकिँदैन।"</string>
+    <string msgid="9042008615386883449" name="message_view_message_details_dialog_title">"सन्देश विवरणहरू"</string>
+    <string msgid="2190862552581773765" name="message_view_move_to_newer">"नयाँ"</string>
+    <string msgid="4993043091356700890" name="message_view_move_to_older">"पुरानो"</string>
+    <string msgid="8830378966553031281" name="message_view_parse_message_toast">"सन्देश खुल्दै छ..."</string>
+    <string msgid="6287415596441037095" name="message_view_show_details">"विवरणहरू देखाउनुहोस्"</string>
+    <string msgid="8862797393776226777" name="message_view_show_invite_action">"आमन्त्रण"</string>
+    <string msgid="5134222901019191436" name="message_view_show_message_action">"सन्देश"</string>
+    <string msgid="5059936981743072545" name="message_view_show_pictures_action">"चित्रहरू देखाउनुहोस्"</string>
+    <string msgid="4013475734255421939" name="message_view_status_attachment_not_saved">"अनुलग्नक बचत गर्न सकिँदैन।"</string>
+    <string msgid="8878790392556284868" name="message_view_status_attachment_saved">"अनुलग्नक <ns1:g id="FILENAME">%s</ns1:g>को रूपमा बचत गरियो।"</string>
+    <string msgid="3731022187530000852" name="message_view_subject_label">"विषय:"</string>
+    <string msgid="6485191743265527381" name="message_view_to_label">"प्रापक:"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="717244337981816703" name="more_info_attachment">"जानकारी"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8704425397397918798" name="more_than_999">"९९९+"</string>
+    <string msgid="3059189775933985898" name="move_action">"सार्नुहोस्"</string>
+    <string msgid="2614318192482193898" name="move_to_folder_dialog_title">"मा सार्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"मा सार्नुहोस्"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"  <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"म्युट"</string>
+    <string msgid="2125579009654728299" name="network_error">"जडान छैन"</string>
+    <string msgid="1071412616544342913" name="new_incoming_messages_many">"<ns1:g id="COUNT">%1$d</ns1:g> नयाँ सन्देशहरू"</string>
+    <string msgid="3200934730744395520" name="new_incoming_messages_one">"<ns1:g id="SENDER">%s</ns1:g>बाट नयाँ मेल"</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> नयाँ सन्देशहरू"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="3931301986364184415" name="next_action">"अर्को"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="427548507197604096" name="no">"होइन"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"कुनै अनुप्रयोगले हेर्नको लागि यो अनुलग्नकलाई खोल्न सक्दैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="5559527390337162819" name="no_conversations">"कुनै सन्देशहरू छैनन्।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"कुराकानी हेर्नको लागि, यस  फोल्डर सिङ्क गर्नुहोस्।"</string>
+    <string msgid="794279749170198599" name="not_synced_title">"खाता सिंक भएको छैन"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"अभिलेख"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"मेट्नुहोस्"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"लेबलहरू हटाउनुहोस्"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"जवाफ"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"सबैलाई जवाफ दिनुहोस्"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"अभिलेख बनाइयो"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"मेटाइयो"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"लेबल हटाईयो"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2606649762841566104" name="notification_multiple_new_messages_fmt">"<ns1:g id="ID_1">%1$d</ns1:g> नयाँ सन्देशहरु"</string>
+    <string msgid="2078557719010667913" name="notification_to_account">"प्रापक <ns1:g id="RECEIVER_NAME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="8339355733816891026" name="ok">"ठिक छ"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8365197396795675617" name="okay_action">"ठिक छ"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"लक स्क्रीन पासवर्डको म्याद सकिदैछ"</string>
+    <string msgid="4293446611405084436" name="password_expire_warning_dialog_content_fmt">"तपाईंले आफ्नो लक स्क्रीन पीन वा पासवर्ड चाँडै नै परिवर्तन गर्नु पर्दछ, वा <ns1:g id="ACCOUNT">%s</ns1:g>को लागि डाटा मेटिनेछन्। के तपाईं अहिले परिवर्तन गर्नुहुन्छ?"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"लक स्क्रीन पासवर्डको म्याद सकिदैछ"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"\"<ns1:g id="ACCOUNT">%s</ns1:g>\" लाई तपाईंले आफ्नो लक स्क्रीन वा पासवर्ड परिवर्तन गर्न आवश्यक छ।"</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"लक स्क्रीन पासवर्डको समयावधि सकियो।"</string>
+    <string msgid="6538210092073931079" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g>को लागि डाटा तपाईंको उपकरणबाट मेटाईयो। तपाईं यसलाई आफ्नो स्क्रीन पीन वा पासवर्ड परिवर्तन गरेर पुनर्वस्थामा लैजान सक्नुहुनेछ। के तपाईं यसलाई अहिले परिवर्तन गर्न चाहनुहुन्छ?"</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"लक स्क्रीन पासवर्डको समयावधि सकियो"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"तपइँको लक स्क्रीन PIN वा पासवर्ड समाप्त भएको छ।"</string>
+    <string msgid="6296566558584670348" name="permission_access_provider_desc">"अनुप्रयोगलाई तपाईंको ईमेल डाटाबेस, साथै प्राप्त सन्देशहरू, पठाईएका सन्देशहरू, प्रयोगकर्तानामहरू, र पासवर्डहरू अनुमति दिन्छ।"</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"ईमेल प्रदाता डाटा पहुँच गर्नुहोस्"</string>
+    <string msgid="3394721085306308972" name="permission_read_attachment_desc">"तपाईंको ईमेल अनुलग्नकहरू पढ्न अनुप्रयोगलाई अनुमति दिन्छ।"</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"ईमेल अनुलग्नकहरु पढ्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="8811324070219403896" name="photo_load_failed">"तस्वीर लोड गर्न सकिएन"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6276294768978512737" name="picker_combined_view_fmt">"संयुक्त दृश्य (<ns1:g id="COUNT">%s</ns1:g>)"</string>
+    <string msgid="2277030979530376085" name="picker_mailbox_name_all_inbox">"इनबक्स (सबै)"</string>
+    <string msgid="6392491216581687644" name="picker_mailbox_name_all_unread">"इनबक्स (नपढिएको)"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"कृपया प्रतीक्षा गर्नुहोस्..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="627405158087482302" name="policy_calendar_age">"सिङ्क भएका पात्रो घटनाहरुको संख्या सीमित गर्नुहोस्"</string>
+    <string msgid="5744573062306937302" name="policy_dont_allow_camera">"उपकरणको क्यामेराको प्रयोग अस्वीकार गर्नुहोस्"</string>
+    <string msgid="7144148367145424963" name="policy_email_age">"सि‌ंक भएका इ-मेलहरुको संख्या सीमित गर्नुहोस्"</string>
+    <string msgid="1248123255253649199" name="policy_password_expiration">"समयावधिमा पासवर्डहरू आवश्यकता"</string>
+    <string msgid="5743544498302303181" name="policy_password_history">"हालका पासवर्डहरूको पुन: उपयोग प्रतिबन्धित गर्नुहोस्"</string>
+    <string msgid="7177274900480984702" name="policy_require_password">"उपकरण पासवर्डको आवश्यकता छ"</string>
+    <string msgid="414869965358468080" name="policy_screen_timeout">"यसको स्क्रीन लक गर्नको लागि एउटा निष्क्रिय उपकरणको आवश्यकता"</string>
+    <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
+    <string msgid="7989353140376877792" name="position_of_count">"<ns1:g id="ID_2">%2$s</ns1:g> को <ns1:g id="ID_1">%1$d</ns1:g>"</string>
+    <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"प्रेषक तस्वीर"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"संग्रह र कार्यहरू मेटाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4654821690566370979" name="preference_conversation_list_icon_summary">"वार्तालाप दृश्य मा प्रेषक चित्रहरुलाई देखाउनको लागि केही छान्नुहोस्"</string>
+    <string msgid="2691641598368725077" name="preference_conversation_list_icon_title">"प्रेषक तस्वीर"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"अभिलेख र कार्य मेट्नुहोस्"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"कुराकानी सूचीमा पछाडिको नाम देखाउनुहोस्"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"प्रेषक चित्र"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"वार्तालाप सूचीमा"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"संग्रह गर्न स्वाईप गर्नुहोस्"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"मेट्नको लागि स्वाइप गर्नुहोस्"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"सन्देश जवाफहरूको लागि पूर्वनिर्धारितको रूपमा प्रयोग गर्नुहोस्"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"सबैलाई जवाफ दिनुहोस्"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"हस्ताक्षर"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"सेट गरेको छैन"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"हस्ताक्षर"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"पूर्वावलोकन"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181616311579820981" name="previous_action">"अघिल्लो"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"केवल केहि \"प्लस\" खाताहरूले मात्र यस प्रोग्रामलाई जडान गर्न POP पहुँच समावेश गर्दछ। यदि तपाईं आफ्नो सहि ईमेल ठेगाना र पासवर्डबाट साइन इन गर्न असक्षम हुनुभयो भने, तपाईंले \"प्लस\" खातामा भुक्तान नगरेको हुनुपर्दछ। यी ईमेल खाताहरूमा पहुँच पाउनको लागि वेब ब्राउजर सुरूवात गर्नुहोस्।"</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"यो ईमेल खाता सेट अप गर्नु अघि, टि-अनलाइन वेबसाइटको भ्रमण गर्नुहोस् र POP3 ईमेल पहुँचको लागि एउटा पासवर्डको सिर्जना गर्नुहोस्।"</string>
+    <string msgid="3426057697353380951" name="quick_1">"धन्यवाद!"</string>
+    <string msgid="4188036352885736617" name="quick_2">"मलाई राम्रो लाग्दछ!"</string>
+    <string msgid="8061819976353395585" name="quick_3">"म यसलाई पछि पढ्ने छु र तपाइँकोमा फर्किनेछु।"</string>
+    <string msgid="3988974084396883051" name="quick_4">"यस बारेमा छलफल गर्न एउटा बैठक सेट अप गरौं।"</string>
+    <string msgid="3960050972306132367" name="quick_responses_empty_view">"कुनै द्रूत प्रतिक्रिया छैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7250749398672037355" name="quoted_text">"उद्धृत पाठ समावेश गर्नुहोस्"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"पाठ उद्धृत गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4701484794504781686" name="read_action">"पढेको भनि चिनो लगाउँनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="219566857950091332" name="read_string">"कुराकानी पढाई"</string>
+    <string msgid="8240081561436891330" name="recent_folders">"हालैको"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"भर्खरका फोल्डरहरु"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"प्राप्तकर्ता त्रुटि"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"कम से कम एक प्राप्तकर्ता थप्नुहोस्।"</string>
+    <string msgid="490989798005710951" name="refresh">"पुन:ताजा गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="5951383001436708175" name="refresh_action">"पुन:ताजा गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="4906542720439865413" name="remove_folder">"<ns1:g id="FOLDERNAME">%1$s</ns1:g> बाट हटाउनुहोस्"</string>
+    <string msgid="4372327933122106128" name="remove_star">"तारा हटाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6689770999647007163" name="remove_star_action">"तारा हटाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="2032052598496088561" name="reply">"जवाफ दिनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4262472229221507619" name="reply_action">"जवाफ"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7257248094625487557" name="reply_all">"सबैलाई जवाफ दिनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6192179825726332152" name="reply_all_action">"सबैलाई जवाफ दिनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="DATE">%s</ns1:g>मा, <ns1:g id="PERSON">%s</ns1:g> लेखियो:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"यसमा जवाफ पठाउनुहोस्: "</string>
+    <string msgid="5417082746232614958" name="report">"विवरण"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"फिशिंग रिपोर्ट गर्नुहोस्"</string>
+    <string msgid="6467567747975393907" name="report_spam">"स्प्याम रिपोर्ट गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"रोमिङको क्रममा यस  खाताको लागि पृष्ठभूमि सिङ्क असक्षम छ।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6797117334768201180" name="respond_inline">"जवाफ पाठ भित्र गर्नुहोस्"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"सम्पादन गर्नुहोस्"</string>
+    <string msgid="4515885444824418022" name="retry">"पुन:प्रयास गर्नुहोला"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="1988862706623227093" name="save_action">"बचत गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="5360128849867863132" name="save_attachment">"बचत गर्नुहोस्"</string>
+    <string msgid="5555744208032445632" name="save_draft">"ड्राफ्ट बचत गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6413714270991417223" name="save_draft_action">"ड्राफ्ट सुरक्षित गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6660844285730790469" name="saved">"<ns1:g id="SIZE">%s</ns1:g>, सुरक्षित भयो"</string>
+    <string msgid="925514721138014677" name="saving">"बचत गर्दै...."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6325101454876682308" name="search_action">"खोज्नुहोस्"</string>
+    <string msgid="3857004638127418247" name="search_header_text_fmt">"\"<ns1:g id="ID_1">%1$s</ns1:g>\" को लागि परिणामहरू खोजी गर्नुहोस्"</string>
+    <string msgid="2200412192574686497" name="search_hint">"ईमेल खोजी गर्नुहोस्"</string>
+    <string msgid="7854987729678942790" name="search_mailbox_hint">"खोज <ns1:g id="ID_1">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="4669917471897026269" name="search_results_header">"परिणामहरू"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"खोजी गर्दै..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8494483410797387903" name="search_slow_warning_message">"केही सर्भरहरुले धेरै लामो समय लिन सक्छन्।"</string>
+    <string msgid="2826118321880530239" name="search_slow_warning_title">"परिणामहरूको लागि प्रतीक्षा गरिँदै"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="4654227193354052607" name="search_unsupported">"यस खातामा खोजी समर्थित छैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\"यस को सुरक्षा सेटिङ परिवर्तन भयो, कुनै प्रयोगकर्ता कारवाही आवश्यकता छैन।"</string>
+    <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\" लाई सुरक्षा सेटिंग्स अपडेट आवश्यकता छ।"</string>
+    <string msgid="443490921895642130" name="security_notification_content_change_title">"सुरक्षा नीतिहरू परिवर्तित भयो"</string>
+    <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"सुरक्षा नीतिहरु पूरा हुन सकेन"</string>
+    <string msgid="2429762903228690154" name="security_notification_content_update_title">"सुरक्षा अपडेटको आवश्यकता"</string>
+    <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"खाता \"<ns1:g id="ACCOUNT">%s</ns1:g>\" सुरक्षा आवश्यकताहरूको कारण सिंक गर्न सकिँदैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="4711524151968942082" name="select_attachment_type">"अनुलग्नकको प्रकार छनौट गर्नुहोस्"</string>
+    <string msgid="8242003661397555986" name="send">"पठाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="1729766205562446418" name="send_action">"पठाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="750908595144529579" name="send_failed">"सन्देश पठाईएको थिएन।"</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"तस्बिरहरू स्वचालित रूपमा देखाइने छैन।"</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"पठाउँदै..."</string>
+    <string msgid="1498583163419122128" name="sending_message">"सन्देश पठाउँदै..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2668629667423320684" name="sent_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>को लागि सर्वर पठाईएका आईटमहरू चयन गर्नुहोस्"</string>
+    <string msgid="4660317166196258160" name="set_star_action">"स्टार थप गर्नुहोस्"</string>
+    <string msgid="6334807007967459412" name="settings_action">"सेटिङहरू"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"सेटिङहरू"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"फोल्डर शर्टकटको नाम दिनुहोस्"</string>
+    <string msgid="7114006150083237343" name="show">"देखाउनुहोस्"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ उद्धृत पाठ देखाउनुहोस्"</string>
+    <string msgid="1875700481186331432" name="show_images">"चित्रहरु देखाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4136018559611145202" name="show_quick_text_list_dialog_action">"द्रुत प्रतिक्रिया सम्मिलित गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"साइन-इन गर्नुहोस्"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"मौन"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6552307237621292344" name="status_loading_messages">"सन्देशहरू लोड हुँदै..."</string>
+    <string msgid="2611654064403817391" name="status_network_error">"कनेक्सन समस्या।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="3262760336059073446" name="storage">"भण्डारण"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> - <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="7253964583324677128" name="subject_hint">"विषय"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"पुन:ताजा गर्न तल स्वाईप गर्नुहोस्"</string>
+    <string msgid="1057043212338233359" name="sync_all">"सिंक: सबै"</string>
+    <string msgid="7368819509040597851" name="sync_error">"सिंक गर्न सकिँदैन।"</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"तपाइँको उपकरण सँग सिङ्क गर्नको लागि पर्याप्त भण्डारण स्थान छैन।"</string>
+    <string msgid="3581727068747471804" name="sync_none">"सिंक: कुनै पनि होईन"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"खाता सिर्जना गर्न सकिँदैन। पुन:प्रयास गर्नुहोस्।"</string>
+    <string msgid="7071006714702094762" name="system_folders_sent_dlg">"तपाइँको सर्भरको पठाइएको वस्तु फोल्डर छान्नुहोस्"</string>
+    <string msgid="5529250353569545181" name="system_folders_sent_summary">"तपाईंको सर्वरको पठाईएको आईटमहरू भन्ने फोल्डर चयन गर्नुहोस्"</string>
+    <string msgid="4265722817877075367" name="system_folders_sent_title">"पठाइएको वस्तु फोल्डर"</string>
+    <string msgid="2934406494244347991" name="system_folders_title">"प्रणाली फोल्डर"</string>
+    <string msgid="4461220303400833402" name="system_folders_trash_dlg">"तपाइँको सर्भरको रद्दी फोल्डर छान्नुहोस्"</string>
+    <string msgid="1258919809198485244" name="system_folders_trash_summary">"तपाईंको सर्वरको रद्दी फोल्डर चयन गर्नुहोस्"</string>
+    <string msgid="8470058000681188327" name="system_folders_trash_title">"रद्दीको फोल्डर"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1181356242354390930" name="tap_to_configure">"सेट अप गर्न टच गर्नुहोस्"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"सिङ्क फोल्डर"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="4392614766835725698" name="to">"प्रापक"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="1142876841308812954" name="to_heading">"प्रापक: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8144242451730692816" name="toast_account_not_found">"खाता भेटिएको थिएन। यो सायद हटाइयो।"</string>
+    <string msgid="4960014581292378895" name="toast_mailbox_not_found">"फोल्डर फेला परेन। यो हटाईएको थियो होला।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"फाईल संलग्न भएको छैन। <ns1:g id="MAXSIZE">%1$s</ns1:g> सीमा पुग्यो।"</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"एक वा बढी फाइलहरुलाई एट्याच गरिएको छैन। <ns1:g id="MAXSIZE">%1$s</ns1:g> सीमित गर्नुहोस्।"</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"<ns1:g id="MAXSIZE">%1$s</ns1:g> मा फाइल एट्याच गर्न सकिंदैन।"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="8052880079616386185" name="trash_folder_selection_title">"<ns1:g id="ACCOUNT">%s</ns1:g>को लागि सर्वर रद्दी फोल्डर चयन गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="6070869718469782251" name="undo">"अन्डु गर्नुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="6280399049357552826" name="unread_action">"नपढिएकोलाई चिन्ह लगाउनुहोस्"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="588180203444398297" name="unread_string">"नपढिएको कुराकानी"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"<ns1:g id="VIADOMAIN">%1$s</ns1:g> को माध्यम बाट"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"थप कुराकानीहरू हेर्नुहोस्"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"यस  खाता मा स्वचालित रूप मा सिङ्क गर्नको लागि सेटअप छैन। \nछुवाइ "<b>"अहिले सिङ्क गर्नुहोस्"</b>" एक पटक मेल सिङ्क गर्नको लागि, वा "<b>" सिङ्क सेटिङ परिवर्तन गर्नुहोस् "</b>" सिङ्क मेल मा स्वत:ः यस  खाता सेटअप गर्नको लागि।"</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"तपाईंको ईमेल शीघ्र देखिनेछ।"</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"सिंकको लागि प्रतीक्षा गर्दै"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="1393719303955128036" name="waitinf_for_sync_message_1">"सिंकको लागि प्रतीक्षा गर्दै"</string>
+    <string msgid="5656175205790694016" name="waitinf_for_sync_message_2">"तपाईंको ईमेल चाँडै देखा पर्नेछ।"</string>
+    <string msgid="4352573990283094963" name="widget_all_mail">"संयुक्त इनबक्स"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ne/strings.xml -->
+    <eat-comment/>
+    <string msgid="2340962056927255554" name="widget_loading">"लोड हुँदै..."</string>
+    <string msgid="2412482205591224408" name="widget_no_accounts">"तपाइँले अझसम्म एक इ-मेल खाता सेटअप गर्नुभएको छैन।"</string>
+    <string msgid="4988574907386539499" name="widget_other_views">"परिवर्तन गर्नको लागि आइकनमा छुनुहोस्।"</string>
+    <string msgid="8290352707134011791" name="widget_starred">"ताराङ्कित"</string>
+    <string msgid="7062039013915225323" name="widget_touch_to_configure">"सेट अप गर्न टच गर्नुहोस्।"</string>
+    <string msgid="4404711399009077833" name="widget_unread">"नपढिएको"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ne/values.xml -->
+    <eat-comment/>
+    <string msgid="7474216525286833848" name="yes">"हो"</string>
+</resources>

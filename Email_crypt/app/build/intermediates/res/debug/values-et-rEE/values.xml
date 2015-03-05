@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"Vasta"</item>
+    <item msgid="4085029907540221568">"Vasta kõigile"</item>
+    <item msgid="857480048798815437">"Edasta"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"Väga väike tekst"</item>
+    <item msgid="4415205108584620118">"Väike tekst"</item>
+    <item msgid="4550219696381691112">"Normaalse suurusega tekst"</item>
+    <item msgid="6227813549949219991">"Suur tekst"</item>
+    <item msgid="1197917420815786571">"Hiiglaslik tekst"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"Süsteem"</item>
+    <item msgid="6593672292311851204">"Tihti kasutatud"</item>
+    <item msgid="3584541772344786752">"Kõik kaustad"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"Uuemad"</item>
+    <item msgid="5562093094216840213">"Vanemad"</item>
+    <item msgid="3331655314944797957">"Vestlusloend"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"Kuva ainult arhiveerimine"</item>
+    <item msgid="5737880287951287278">"Kuva ainult kustutamine"</item>
+    <item msgid="4279948809971752573">"Kuva arhiveerimine ja kustutamine"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"Uuema vestluse näitamine pärast kustutamist"</item>
+    <item msgid="732746454445519134">"Vanema vestluse näitamine pärast kustutamist"</item>
+    <item msgid="2189929276292165301">"Vestlusloendi näitamine pärast kustutamist"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"Kuva ainult arhiveerimine"</item>
+    <item msgid="8350973578419775975">"Kuva ainult kustutamine"</item>
+    <item msgid="2967059853409454648">"Kuva arhiveerimine ja kustutamine"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"Õnnestus"</item>
+    <item msgid="7109065688039971961">"Ühendus puudub."</item>
+    <item msgid="8437496123716232060">"Sisselogimine ebaõnnestus."</item>
+    <item msgid="1651266301325684887">"Turvalisuse viga."</item>
+    <item msgid="1461520171154288533">"Ei saanud sünkroonida."</item>
+    <item msgid="4779810016424303449">"Sisemine viga"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> on lugemata"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"Kas arhiveerida see meilivestlus?"</item>
+    <item msgid="4713469868399246772" quantity="other">"Kas arhiveerida need <ns1:g id="COUNT">%1$d</ns1:g> meilivestlust?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"Kas kustutada see meilivestlus?"</item>
+    <item msgid="930334208937121234" quantity="other">"Kas kustutada need <ns1:g id="COUNT">%1$d</ns1:g> meilivestlust?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"Kas kustutada mustandid sellest vestlusest?"</item>
+    <item msgid="4173815457177336569" quantity="other">"Kas kustutada mustandid <ns1:g id="COUNT">%1$d</ns1:g> vestlusest?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> arhiveeriti."</item>
+    <item msgid="3012054504370916482" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> arhiveeriti."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> kustutati."</item>
+    <item msgid="8630099095360065837" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> kustutati."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"Muudetud kaust."</item>
+    <item msgid="8918589141287976985" quantity="other">"Muudetud kaustad."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> summutati."</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> summutati."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> üksus märgiti ebaoluliseks."</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> üksust märgiti ebaoluliseks."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> vestlus märgiti mitte-rämpspostiks."</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> vestlust märgiti mitte-rämpspostiks."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> vestlus märgiti andmepüügiga seotuks."</item>
+    <item msgid="3678624994662639442" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> vestlust märgiti andmepüügiga seotuks."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> meilivestlusest teatatakse kui rämpspostist."</item>
+    <item msgid="5071459475389411227" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> meilivestlusest teatatakse kui rämpspostist."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Tärnid eemaldatakse <ns1:g id="COUNT">%1$d</ns1:g> meilivestluselt."</item>
+    <item msgid="2222365088907519938" quantity="other">"Tärnid eemaldatakse <ns1:g id="COUNT">%1$d</ns1:g> meilivestluselt."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"Mustand"</item>
+    <item msgid="6961049507579977505" quantity="other">"Mustandid"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> sõnum kustutatakse jäädavalt."</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> sõnumit kustutatakse jäädavalt."</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> GB"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> GB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> kB"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> kB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"Meilivestluse teisaldamine"</item>
+    <item msgid="1685896770174368261" quantity="other">"Teisalda <ns1:g id="ID_1">%1$d</ns1:g> meilivestlust"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"Teisaldatud sõnum"</item>
+    <item msgid="371256717624461324" quantity="other">"Teisaldatud sõnumid"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> uut sõnumit. Kuva."</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> vanemat sõnumit"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Kasutate juba konto „<ns1:g id="DUPLICATE">%s</ns1:g>” puhul seda kasutajanime."</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Duplikaatkonto"</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"Mustandid"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"Postkast"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"Väljundkast"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"Tärniga"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"See parool algab või lõpeb ühe või mitme tühikuga. Paljud serverid ei toeta tühikutega paroole."</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> nõuab, et värskendaksite oma turvaseadeid."</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"Turvavärskendus"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"Server <ns1:g id="SERVER">%s</ns1:g> nõuab mõnede teie Android-seadme turvafunktsioonide kaugjuhtimise lubamist."</string>
+    <string msgid="3511543138560418587" name="account_security_title">"Seadme turvalisus"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"Konto seaded"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"Manuste allalaadimine"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"Hiljutiste sõnumite manuste automaatne allalaadimine WiFi kaudu"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"Andmete kasutamine"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"Konto nimi"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"Kiirvastused"</string>
+    <string msgid="8056686122888722591" name="account_settings_edit_quick_responses_summary">"Muutke teksti, mida meilide koostamisel sageli sisestate"</string>
+    <string msgid="7429582254433588882" name="account_settings_enforced_label">"Eeskirjad on jõustatud"</string>
+    <string msgid="8140860420440447771" name="account_settings_enforced_summary">"Puudub"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"Kas loobute salvestamata muudatustest?"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"Sissetulevate seaded"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"Kasutajanimi, parool ja muud sissetuleva posti serveri seaded"</string>
+    <string msgid="8849649646111167377" name="account_settings_login_dialog_content_fmt">"Konto <ns1:g id="ACCOUNT">%s</ns1:g> kasutajanimi või parool on vale. Kas soovite neid kohe värskendada?"</string>
+    <string msgid="4266359321648406752" name="account_settings_login_dialog_reason_fmt">"Sisselogimine kontole <ns1:g id="ACCOUNT">%s</ns1:g> ebaõnnestus; server vastas: <ns1:g id="REASON">%s</ns1:g> Kas soovite oma kasutajanime ja/või salasõna värskendada?"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"Sisselogimine ebaõnnestus"</string>
+    <string msgid="4322235101687302250" name="account_settings_mail_check_frequency_label">"Sünkroonimissagedus"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"Teie nimi"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"Teadistusseaded"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"Meiliteatised"</string>
+    <string msgid="8134339460923068254" name="account_settings_notify_summary">"Saada teatis meili saabumisel"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Väljuvad seaded"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Kasutajanimi, parool ja muud väljamineva posti serveri seaded"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5277032997773498476" name="account_settings_param">"Konto seaded"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="6292833636418641840" name="account_settings_policies">"Turvaeeskirjad"</string>
+    <string msgid="1104680719299842829" name="account_settings_retry_label">"Proovi sünkroonida"</string>
+    <string msgid="2703599639846201913" name="account_settings_retry_summary">"Konto sünkroonimiseks puudutage siin"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"Vali helin"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"Serveri seaded"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"Sünkroonimise sagedus, teatised jne."</string>
+    <string msgid="6855333393468628003" name="account_settings_sync_calendar_enable">"Sünkrooni kalender"</string>
+    <string msgid="7606340353079301703" name="account_settings_sync_calendar_summary">"Sünkrooni konto kalendri sündmused"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"Sünkrooni kontaktid"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"Konto kontaktide sünkroonimine"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"Sünkrooni meil"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"Konto meili sünkroonimine"</string>
+    <string msgid="1954091071454235577" name="account_settings_unsupported_label">"Toeta eeskirjad"</string>
+    <string msgid="2107633813351863608" name="account_settings_unsupported_summary">"Puudub"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"Vibreering"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"Konto tüüp"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"Mis tüüpi see konto on?"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"Konto seadistamine"</string>
+    <string msgid="8354874879956702097" name="account_setup_autodiscover_dlg_authfail_message">"Veenduge, et kasutajanimi, parool ja kontoseaded on õiged."</string>
+    <string msgid="7365992662150541370" name="account_setup_autodiscover_dlg_authfail_title">"Probleem konto seadistusega"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"E-posti aadress"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"Meilikonto"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"Seadista käsitsi"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"Parool"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"Konto seadistamine"</string>
+    <string msgid="2869198335297585862" name="account_setup_check_settings_check_incoming_msg">"Serveri seadete kontrollimine ..."</string>
+    <string msgid="4566131393776891419" name="account_setup_check_settings_check_outgoing_msg">"SMTP seadete kontrollimine …"</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"Kontoteabe saamine ..."</string>
+    <string msgid="6235569720466839946" name="account_setup_creating_account_msg">"Konto loomine ..."</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"Kliendisertifikaat"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"Mobiilseadme ID"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"Puudub"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"Eemalda"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"Vali"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"Kasuta kliendisertifikaati"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"Teil puudub luba selle serveriga sünkroonimiseks. Lisateabe saamiseks võtke ühendust oma serveri administraatoriga."</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"Server ei toeta autentimismeetodeid."</string>
+    <string msgid="3563840279690749547" name="account_setup_failed_certificate_inaccessible">"Sertifikaat on kehtetu või juurdepääsmatu."</string>
+    <string msgid="2689944595775206006" name="account_setup_failed_certificate_required">"Kliendi sertifikaat on nõutav. Kas soovite luua ühenduse serveriga kliendi sertifikaadi abil?"</string>
+    <string msgid="6531658092540248067" name="account_setup_failed_check_credentials_message">"Server saatis veateate. Kontrollige kasutajanime ja parooli ning proovige uuesti."</string>
+    <string msgid="426627755590431364" name="account_setup_failed_dlg_auth_message">"Kasutajanimi või parool on vale."</string>
+    <string msgid="2081384892947238930" name="account_setup_failed_dlg_auth_message_fmt">"Sisselogimine ebaõnnestus.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"Serveriga ei saa turvaliselt ühendust."</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"Serveriga ei saa turvaliselt ühendust.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"Muuda üksikasju"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"Serveriga ei saa ühendust."</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"Serveriga ei saa ühendust.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"Ei saanud lõpetada"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"Serveriga ei saanud luua ühendust."</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"Sisestasite vale serveri aadressi või nõuab server protokolli versiooni, mida e-post ei toeta."</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"Turvavea tõttu ei saanud serveriga ühendust luua."</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"See server nõuab turvafunktsioone, mida teie Android-seade ei toeta, sh: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"TLS on vajalik, kuid server ei toeta seda."</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"Kui kustutan postkastist"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"Kustuta meil serverist"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"Mitte kunagi"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"Sissetuleva serveri seaded"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"Valikuline"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"IMAP-i tee prefiks"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"Parool"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"Port"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"Turvalisuse tüüp"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"Puudub"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Nõustuge kõigi sertifikaatidega)"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (nõustu kõigi sertifikaatidega)"</string>
+    <string msgid="1480342966630002638" name="account_setup_incoming_server_label">"Server"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"Konto seadistamine"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"Kasutajanimi"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"Anna sellele kontole nimi (valikuline)"</string>
+    <string msgid="914858472109729140" name="account_setup_names_headline">"Teie konto on seadistatud ja meilid on tulekul."</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"Konto seadistamine"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"See väli ei tohi tühi olla."</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"Teie nimi (kuvatakse väljuvates sõnumites)"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"Manuste automaatne allalaadimine WiFi-ühenduse olemasolul"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"Konto valikud"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"Iga 10 minuti järel"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"Iga 15 minuti järel"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"Kord tunnis"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"Iga 30 minuti järel"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"Iga 5 minuti järel"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"Postkasti kontrollimise sagedus"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"Mitte kunagi"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"Automaatne (sundvalik)"</string>
+    <string msgid="7727436096227637646" name="account_setup_options_mail_window_1day">"Viimane päev"</string>
+    <string msgid="4289585173153789717" name="account_setup_options_mail_window_1month">"Eelmine kuu"</string>
+    <string msgid="5804121771990249346" name="account_setup_options_mail_window_1week">"Eelmine nädal"</string>
+    <string msgid="3583478100026382495" name="account_setup_options_mail_window_2weeks">"Viimased kaks nädalat"</string>
+    <string msgid="1841106793912850270" name="account_setup_options_mail_window_3days">"Viimased kolm päeva"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"Kõik"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"Automaatne"</string>
+    <string msgid="2540360826995543134" name="account_setup_options_mail_window_default">"Kasuta konto vaikeseadet"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"Päevi sünkroonimiseks"</string>
+    <string msgid="7046146571560728829" name="account_setup_options_notify_label">"Teavita mind meili saabumisest"</string>
+    <string msgid="3222151135467189411" name="account_setup_options_sync_calendar_label">"Sünkrooni selle konto kalender"</string>
+    <string msgid="276492345599531778" name="account_setup_options_sync_contacts_label">"Sünkrooni selle konto kontaktid"</string>
+    <string msgid="8585177128405004068" name="account_setup_options_sync_email_label">"Sünkrooni selle konto meilid"</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"Konto seaded"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"Väljuva serveri seaded"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"Parool"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"Port"</string>
+    <string msgid="7779484127897397562" name="account_setup_outgoing_require_login_label">"Sisselogimine on nõutav"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"Turvalisuse tüüp"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"SMTP-server"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"Konto seadistamine"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"Kasutajanimi"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"Server <ns1:g id="SERVER">%s</ns1:g> nõuab mõnede teie Android-seadme turvafunktsioonide kaugjuhtimise lubamist. Kas soovite lõpetada konto seadistamise?"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"Kaugturvalisuse haldamine"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Sisestage kehtiv e-posti aadress ja parool."</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Te ei saa muuta konto kasutajanime. Mõne muu kasutajanimega konto lisamiseks puudutage valikut Lisa konto."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5699548271856775808" name="account_sync_off">"Konto sünkroonimine on välja lülitatud."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"Kaustaloendi laadimine ..."</string>
+    <string msgid="8337750045270269649" name="accounts_welcome">"Seadistage oma konto vaid mõne sammuga."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ lugemata"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"Kausta valimine"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"Konto valimine"</string>
+    <string msgid="2162808366829269770" name="add_account">"Lisa konto"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Lisa pimekoopia"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"Lisa koopia/pimekoopia"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Manusta fail"</string>
+    <string msgid="6060201715848652940" name="add_label">"Lisa kaust"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"Manusta pilt"</string>
+    <string msgid="2866003744391266498" name="add_star">"Lisa tärn"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"Manusta video"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> dom. <ns1:g id="VIA_DOMAIN">%3$s</ns1:g> kaudu"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"Kõik kaustad"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"Näita alati selle saatja pilte"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"Selle saatja pilte näidatakse automaatselt."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="5815426892327290362" name="app_name">"E-post"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="847250094775910499" name="archive">"Arhiiv"</string>
+    <string msgid="7533995360704366325" name="archived">"Arhiveeritud"</string>
+    <string msgid="4267189489654642035" name="attached_message">"Lisatud sõnum"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"Dokument"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"Arvutustabel"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Esitlus"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"Heli"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"Kujutis"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="7155322700141145123" name="attachment_not_found">"Manuse allalaadimine ebaõnnestus."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5544874374971562759" name="attachment_text">"Tekst"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"Kahjuks ei saa te seda tüüpi manust salvestada ega avada."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>-fail"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"Video"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"Manused"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"Automaatse edasimineku eelistuse määramine\n(pärast kustutamist jne)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"Automaatne edasiminek"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"Valige, millist ekraani pärast sõnumi kustutamist kuvada"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"Automaatne sünkroonimine on välja lülitatud."</string>
+    <string msgid="3098643138241111579" name="bcc">"Pimekoopia"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"Pimekoopia: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"Koostage meil"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"Tühista"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="6967435583794021865" name="cancel_action">"Tühista"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="4651201258272223650" name="cancel_attachment">"Tühista"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Ei saa teisaldada, kuna valik sisaldab mitut kontot."</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"POP3-kontodel teisaldamist ei toetata."</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Kaustades Mustandid, Väljundkast ja Saadetud olevaid sõnumeid ei saa teisaldada."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Ei saa teisaldada, kuna valik sisaldab mitut kontot."</string>
+    <string msgid="7017720927911078193" name="cc">"Koopia"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"Koopia: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"Koopia: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"Kaustade muutmine"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"Muuda sünkroonimisseadeid"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"E-posti kontrollimine"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"Jagamine:"</string>
+    <string msgid="3184687982186479442" name="clear">"Tühjenda"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"Varasemalt lubatud saatjate tekstisiseste piltide kuvamise peatamine."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"Kas kustutada pildiload?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"Pildilubade kustutamine"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"Ahenda saaja üksikasjad"</string>
+    <string msgid="1473559896062432878" name="compose">"Koosta"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"Kas soovite sellest sõnumist loobuda?"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="9151965975158906286" name="confirm_response">"Vastuse saatmine ..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="3221546155385562874" name="confirm_send_message">"Kas soovite selle sõnumi saata?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"Sõnumi sisus pole teksti."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"Sõnumi teemas pole teksti."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"Kas soovite sõnumi saata?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"Kuva saatja <ns1:g id="NAME">%1$s</ns1:g> kontaktandmed"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"Kuva kontaktandmed"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> teemal <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> kuupäeval <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> teemal <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> kell <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"Lisa kontakt"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"Kopeeri"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"Kopeeri lingi URL"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"Vali ..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"Tagasiside saatmine"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"Abi"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"Kaart"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"Ava brauseris"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"Saada meil"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"Jaga linki"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS ..."</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"Teisaldati kausta <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Vestluse valimiseks puudutage saatja kujutist."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"Kopeeri e-posti aadress"</string>
+    <string msgid="530057841276106843" name="copy_number">"Kopeeri telefoninumber"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="3062715563215392251" name="create_action">"Loo uus"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"Saada meil kui:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"Kuupäev: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"Täna kell <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"Eile kell <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="5175710493691536719" name="debug_title">"Silumine"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="844871204175957681" name="delete">"Kustuta"</string>
+    <string msgid="2757349161107268029" name="deleted">"Kustutatud"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="426727923791430306" name="device_admin_description">"Võimaldab serveripõhiseid turvaeeskirju"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"E-post"</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"HOIATUS: meilirakenduse volituse inaktiveerimine seadme haldamiseks kustutab kõik meilikontod, mis seda nõuavad, sh nende meilid, kontaktid, kalendrisündmused ja muud andmed."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="1714960202994370243" name="discard">"Loobu"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"Kustuta mustandid"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Nõuandest loobumine"</string>
+    <string msgid="3079981801778027540" name="done">"Valmis"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="7497990549515580249" name="done_action">"Valmis"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="7418568915429156518" name="download_again">"Laadi uuesti alla"</string>
+    <string msgid="442019281547315527" name="download_failed">"Allal. nurjus. Puudutage."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"Sule navigeerimissahtel"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"Ava navigeerimissahtel"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="6479106007607928450" name="edit_quick_response_dialog">"Kiirvastus"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="6064497180615519589" name="empty_spam">"Tühjenda rämpspostikaust"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Kas tühjendada rämpspostikaust?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"Tühjenda prügikast"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Kas tühjendada prügikast?"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Lülitage sisse jaotises <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="1190783774800310346" name="exchange_name">"Korporatiivne"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"Saaja üksikasjade laiendamine"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"Kujutist ei õnnestunud laadida"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"Tagasiside saatmine"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"Manuse toomine"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>] <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"Kausta ikoon"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="860241987640527156" name="folder_picker_title">"Kausta valija"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="1047474677580149436" name="folder_removed">"Eemaldatud kaustast <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Meili kaust"</string>
+    <string msgid="6822914459902983767" name="forward">"Edasta"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- Edastatud sõnum ----------&lt;br>Saatja: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Kuupäev: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Teema: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Saaja: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Edastatud kiri ----------"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Ühe või mitme manuse edastamine ebaõnnestus."</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"Manust ei edastatud"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="2454519463223197231" name="from_heading">"Saatja: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"Kinnitamine enne kustutamist"</string>
+    <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"Sõnumid"</string>
+    <string msgid="4548277349553989930" name="general_preference_confirm_send_label">"Kinnitamine enne saatmist"</string>
+    <string msgid="2695471027185506093" name="general_preference_confirm_send_summary">"Sõnumid"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"Sõnumi teksti suurus"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"Väga suur"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"Sõnumi teksti suurus"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"Suur"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Tavaline"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Väike"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Pisike"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"Faili ei saanud manustada."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="8243724566056800991" name="header_label_general_preferences">"Üldseaded"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="7873089811705257882" name="help_and_info">"Abi"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ Peida osundatud tekst"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"Peida kaustad"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"Eira, usaldan seda sõnumit"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"Postkast"</string>
+    <string msgid="6009817562073541204" name="info">"Teave"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"Aadress <ns1:g id="WRONGEMAIL">%s</ns1:g> on kehtetu."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> kB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"Laadi rohkem"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"Laadimine …"</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"Laadimine …"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="2169365211566829350" name="login_failed_ticker">"Kontole <ns1:g id="ACCOUNT_NAME">%s</ns1:g> sisselogimine ebaõnnestus."</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"Sisselogimine ebaõnnestus"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"Puudutage ja hoidke all ühe vestluse valimiseks, seejärel puudutage teiste valimiseks."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Kombineeritud kuva"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Mustandid"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"Postkast"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"Rämpspost"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"Väljundkast"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"Saadetud"</string>
+    <string msgid="7788694947644186069" name="mailbox_name_display_starred">"Tärniga"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"Prügikast"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"Lugemata"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"Sünkroonimisvalikud"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"Sünkroonimisvalikud (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"Sünkroonitava e-posti päevade arv"</string>
+    <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"Sünkrooni see kaust"</string>
+    <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"Sõnumid laaditakse alla ühenduse loomisel"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="6743983544685622800" name="manual_sync">"Sünkr. kohe"</string>
+    <string msgid="6904096897104265870" name="mark_important">"Märgi oluliseks"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"Märgi ebaoluliseks"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"Teata, et pole rämpspost"</string>
+    <string msgid="8438349154394313195" name="mark_read">"Märgi loetuks"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"Märgi mitteloetuks"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"mina"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"mina"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"Muuda kaustu"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"Koosta"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="2871906096248843471" name="menu_folder_options">"Sünkroonimisvalikud"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"Kausta seaded"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"Teisalda asukohta"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"Teisalda postkasti"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"Salv. kõik"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"Jaga"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"Jaga kõike"</string>
+    <string msgid="5297197523031943248" name="menu_search">"Otsing ..."</string>
+    <string msgid="6007027046949837282" name="menu_settings">"Seaded"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"Ennista automaatne suurus"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Originaalsõnum --------\nTeema: <ns1:g id="SUBJECT">%1$s</ns1:g>\nSaatja: <ns1:g id="SENDER">%2$s</ns1:g>\nSaaja: <ns1:g id="TO">%3$s</ns1:g>\nKoopia: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Kiirvastuse sisestamine"</string>
+    <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"Sisesta kiirvastus"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"Sõnumi dekodeerimisel ilmnes viga."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="2183394728494962332" name="message_details_title">"Sõnumi üksikasjad"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"Sõnumist loobuti."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"Jah"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"Kuva kalendris"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"Ei"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"Kas osalete?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"Võib-olla"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"Kalendri kutse"</string>
+    <string msgid="7073947895562277576" name="message_saved">"Sõnum salvestati mustandina."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="7906875687519445185" name="message_view_attachment_background_load">"Vähemalt üks edastatava sõnumi manus laaditakse enne saatmist alla."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="717244337981816703" name="more_info_attachment">"Teave"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Teisalda:"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"Summuta"</string>
+    <string msgid="2125579009654728299" name="network_error">"Ühendus puudub"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"Uus sõnum saatjalt <ns1:g id="SENDER">%s</ns1:g>. Kuva."</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> uut sõnumit"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="3931301986364184415" name="next_action">"Järgmine"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="427548507197604096" name="no">"Ei"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"Ükski rakendus ei saa seda manust vaatamiseks avada."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="5559527390337162819" name="no_conversations">"Sõnumeid pole."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"Meilivestl. vaatamis. sünkr. kaust."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"Konto ei ole sünkroonitud"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"Arhiveeri"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"Kustuta"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"Eemalda silt"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"Vasta"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"Vasta kõigile"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"Arhiveeritud"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"Kustutatud"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Silt on eemaldatud"</string>
+    <string msgid="8339355733816891026" name="ok">"OK"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="8365197396795675617" name="okay_action">"OK"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Ekraaniluku parool on aegumas"</string>
+    <string msgid="4293446611405084436" name="password_expire_warning_dialog_content_fmt">"Teil tuleb varsti lukustuskuva PIN-koodi või parooli muuta, vastasel korral kustutatakse konto <ns1:g id="ACCOUNT">%s</ns1:g> andmed. Kas soovite kohe muuta?"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"Ekraaniluku parool on aegumas"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"„<ns1:g id="ACCOUNT">%s</ns1:g>” nõuab ekraaniluku PIN-koodi või parooli muutmist."</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"Ekraaniluku parool on aegunud"</string>
+    <string msgid="6538210092073931079" name="password_expired_dialog_content_fmt">"Konto <ns1:g id="ACCOUNT">%s</ns1:g> andmed kustutatakse teie seadmest. Taastamiseks muutke oma lukustuskuva PIN-koodi või parooli. Kas soovite kohe muuta?"</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"Ekraaniluku parool on aegunud"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"Teie ekraaniluku PIN-kood või parool on aegunud."</string>
+    <string msgid="6296566558584670348" name="permission_access_provider_desc">"Võimaldab rakendusel pääseda teie meiliandmebaasi, sealhulgas vastuvõetud ja saadetud sõnumite, kasutajanimede ning paroolide juurde."</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"Juurdepääs e-posti teenusepakkuja andmetele"</string>
+    <string msgid="3394721085306308972" name="permission_read_attachment_desc">"Võimaldab rakendusel lugeda teie meilisõnumite manuseid."</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"Loe meili manuseid"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5171715391553213328" name="phone">"telefon"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"Kujutist ei õnnestunud laadida"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g>/<ns1:g id="COUNT">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"Oodake …"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="627405158087482302" name="policy_calendar_age">"Piirab sünkroonitavate kalendrisündmuste arvu"</string>
+    <string msgid="5744573062306937302" name="policy_dont_allow_camera">"Keela seadme kaamera kasutamine"</string>
+    <string msgid="7144148367145424963" name="policy_email_age">"Piirab sünkroonitavate meilide arvu"</string>
+    <string msgid="1248123255253649199" name="policy_password_expiration">"Paroolide aegumise nõue"</string>
+    <string msgid="5743544498302303181" name="policy_password_history">"Piira hiljutiste paroolide taaskasutamist"</string>
+    <string msgid="7177274900480984702" name="policy_require_password">"Nõua seadme parooli"</string>
+    <string msgid="414869965358468080" name="policy_screen_timeout">"Nõua jõudeolekus seadme ekraanilukustust"</string>
+    <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
+    <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"Saatja pilt"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Arhiveerimise ja kustutamise toimingud"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"Arhiveerimise ja kustutamise toimingud"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"Kuvatakse vestluste loendis nime kõrval"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"Saatja pilt"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"Meilivestluste loendis"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"Arhiveerimine pühkides"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"Kustutamine pühkides"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"Kasuta vaikeseadena sõnumitele vastamisel"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"Vasta kõigile"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"Allkiri"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Määramata"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"Allkiri"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"Eelvaade"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181616311579820981" name="previous_action">"Eelmine"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"Ainult mõnel kontol „Plus” on POP-juurdepääs, mis lubab programmiga ühendust võtta. Kui te ei saa oma õige e-posti aadressi ja parooliga sisse logida, pole teil võib-olla tasulist kontot „Plus”. Neile meilikontodele juurdepääsuks käivitage veebibrauser."</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"Enne selle meilikonto loomist külastage T-Online\'i veebisaiti ja looge parool POP3-meilile juurdepääsuks."</string>
+    <string msgid="3426057697353380951" name="quick_1">"Aitäh!"</string>
+    <string msgid="4188036352885736617" name="quick_2">"Mulle sobib!"</string>
+    <string msgid="8061819976353395585" name="quick_3">"Loen seda hiljem ja võtan siis ühendust."</string>
+    <string msgid="3988974084396883051" name="quick_4">"Lepime kokku kohtumise, et seda arutada."</string>
+    <string msgid="3960050972306132367" name="quick_responses_empty_view">"Kiirvastuseid pole."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="7250749398672037355" name="quoted_text">"Osundatud teksti lisamine"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"Osundatud tekst"</string>
+    <string msgid="219566857950091332" name="read_string">"loetud vestlus"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"Hiljutised kaustad"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"Saaja viga"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"Lisage vähemalt üks saaja."</string>
+    <string msgid="490989798005710951" name="refresh">"Värskenda"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"Eemalda kaustast <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"Eemalda tärn"</string>
+    <string msgid="2032052598496088561" name="reply">"Vasta"</string>
+    <string msgid="7257248094625487557" name="reply_all">"Vasta kõigile"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="PERSON">%s</ns1:g> kirjutas kuupäeval <ns1:g id="DATE">%s</ns1:g>:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"Vasta: "</string>
+    <string msgid="5417082746232614958" name="report">"Teavitamine"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"Teata andmepüügist"</string>
+    <string msgid="6467567747975393907" name="report_spam">"Teata rämpspostist"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"Taustsünkroonimine on sellel kontol rändluse ajal keelatud."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="6797117334768201180" name="respond_inline">"Vasta teksti sees"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"Muuda"</string>
+    <string msgid="4515885444824418022" name="retry">"Proovi uuesti"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="1988862706623227093" name="save_action">"Salvesta"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5360128849867863132" name="save_attachment">"Salvesta"</string>
+    <string msgid="5555744208032445632" name="save_draft">"Salvesta mustand"</string>
+    <string msgid="6660844285730790469" name="saved">"Salvestatud, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"Salvestamine..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="2200412192574686497" name="search_hint">"Otsi meili"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="4669917471897026269" name="search_results_header">"Tulemused"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"Otsimine ..."</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"Sellel kontol ei toetata otsingut."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"Konto „<ns1:g id="ACCOUNT">%s</ns1:g>” muutis turvaseadeid. Kasutaja ei pea midagi tegema."</string>
+    <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"Konto „<ns1:g id="ACCOUNT">%s</ns1:g>” vajab turvaseadete värskendamist."</string>
+    <string msgid="443490921895642130" name="security_notification_content_change_title">"Turvaeeskirjad on muutunud"</string>
+    <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"Turbe-eeskirju ei saa täita"</string>
+    <string msgid="2429762903228690154" name="security_notification_content_update_title">"Nõutav turvavärskendus"</string>
+    <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"Kontot „<ns1:g id="ACCOUNT">%s</ns1:g>” ei saa turvanõuete tõttu sünkroonida."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="4711524151968942082" name="select_attachment_type">"Valige manuse tüüp"</string>
+    <string msgid="8242003661397555986" name="send">"Saada"</string>
+    <string msgid="750908595144529579" name="send_failed">"Sõnumit ei saadetud."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"Pilte ei kuvata automaatselt."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"Saatmine ..."</string>
+    <string msgid="1498583163419122128" name="sending_message">"Sõnumi saatmine ..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="2668629667423320684" name="sent_folder_selection_title">"Valige <ns1:g id="ACCOUNT">%s</ns1:g> jaoks serverikaust"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"Seaded"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"Kausta otseteele nime andmine"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ Kuva osundatud tekst"</string>
+    <string msgid="1875700481186331432" name="show_images">"Kuva pildid"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"Kuva veel <ns1:g id="NUMBER">%1$s</ns1:g> kausta"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"Logi sisse"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"Hääletu"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="2611654064403817391" name="status_network_error">"Ühendusprobleem."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="3262760336059073446" name="storage">"Salvestamine"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g>  –  <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Teema"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Värskendamiseks pühkige alla"</string>
+    <string msgid="7368819509040597851" name="sync_error">"Ei saanud sünkroonida."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"Seadmes pole sünkroonimiseks piisavalt mäluruumi."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"Konto loomine ebaõnnestus. Proovige uuesti."</string>
+    <string msgid="7071006714702094762" name="system_folders_sent_dlg">"Serverist saadetud üksuste kausta valimine"</string>
+    <string msgid="5529250353569545181" name="system_folders_sent_summary">"Serverist saadetud üksuste kausta valimine"</string>
+    <string msgid="4265722817877075367" name="system_folders_sent_title">"Saadetud üksuste kaust"</string>
+    <string msgid="2934406494244347991" name="system_folders_title">"Süsteemikaustad"</string>
+    <string msgid="4461220303400833402" name="system_folders_trash_dlg">"Serveri prügikastikausta valimine"</string>
+    <string msgid="1258919809198485244" name="system_folders_trash_summary">"Serveri prügikastikausta valimine"</string>
+    <string msgid="8470058000681188327" name="system_folders_trash_title">"Kaust Prügikast"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="7956969657216748522" name="tablet">"tahvelarvuti"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"Puudutage seadistamiseks"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"Sünkrooni kaust"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"Puudutage sisselülitamiseks."</string>
+    <string msgid="4392614766835725698" name="to">"Saaja"</string>
+    <string msgid="1142876841308812954" name="to_heading">"Saaja: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Faili ei lisatud. Saavutatud limiit <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Üht või mitut faili ei lisatud. Limiit <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"Ei saa lisada faile, mis ületavad mahu <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-et-rEE/strings.xml -->
+    <eat-comment/>
+    <string msgid="8052880079616386185" name="trash_folder_selection_title">"Valige <ns1:g id="ACCOUNT">%s</ns1:g> jaoks serveri prügikast"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-et-rEE/values.xml -->
+    <eat-comment/>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Kõikides rakendustes ja kontodel (mitte ainult Gmailis) tehtud muudatused sünkroonitakse veebi, teiste seadmete ja seadmega <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Lülita sisse"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"Kas lülitada automaatne sünkroonimine sisse?"</string>
+    <string msgid="6070869718469782251" name="undo">"Võta tagasi"</string>
+    <string msgid="588180203444398297" name="unread_string">"lugemata vestlus"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"Jaotises <ns1:g id="OUTBOX">%2$s</ns1:g> on <ns1:g id="NUMBER">%1$s</ns1:g> saatmata sõnumit"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"<ns1:g id="VIADOMAIN">%1$s</ns1:g> kaudu"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"Kuva rohkem meilivestlusi"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"See konto ei ole seadistatud automaatseks sünkroonimiseks.\nPuudutage käsku "<b>"Sünkrooni kohe"</b>", et meile üks kord sünkroonida, või käsku "<b>"Muuda sünkroonimisseadeid"</b>", et seadistada see konto meilide automaatseks sünkroonimiseks."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"Teie meil ilmub peagi."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"Sünkroonimise ootel"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"Jah"</string>
+</resources>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"Odpovědět"</item>
+    <item msgid="4085029907540221568">"Odpovědět všem"</item>
+    <item msgid="857480048798815437">"Přeposlat"</item>
+  </string-array>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"Systém"</item>
+    <item msgid="6593672292311851204">"Často používané"</item>
+    <item msgid="3584541772344786752">"Všechny složky"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"Novější"</item>
+    <item msgid="5562093094216840213">"Starší"</item>
+    <item msgid="3331655314944797957">"Seznam konverzací"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"Zobrazit pouze archivaci"</item>
+    <item msgid="5737880287951287278">"Zobrazit pouze smazání"</item>
+    <item msgid="4279948809971752573">"Zobrazit archivaci i smazání"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"Po smazání zobrazit novější konverzaci"</item>
+    <item msgid="732746454445519134">"Po smazání zobrazit starší konverzaci"</item>
+    <item msgid="2189929276292165301">"Po smazání zobrazit seznam konverzací"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"Zobrazit pouze archivaci"</item>
+    <item msgid="8350973578419775975">"Zobrazit pouze smazání"</item>
+    <item msgid="2967059853409454648">"Zobrazit archivaci i smazání"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"Podařilo se"</item>
+    <item msgid="7109065688039971961">"Žádné připojení."</item>
+    <item msgid="8437496123716232060">"Přihlášení se nezdařilo"</item>
+    <item msgid="1651266301325684887">"Chyba zabezpečení."</item>
+    <item msgid="1461520171154288533">"Chyba synchronizace."</item>
+    <item msgid="4779810016424303449">"Interní chyba"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"Nepřečteno: <ns1:g id="COUNT">%1$d</ns1:g>"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"Archivovat tuto konverzaci?"</item>
+    <item msgid="4713469868399246772" quantity="other">"Archivovat tyto konverzace (<ns1:g id="COUNT">%1$d</ns1:g>)?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"Smazat tuto konverzaci?"</item>
+    <item msgid="930334208937121234" quantity="other">"Smazat tyto konverzace (<ns1:g id="COUNT">%1$d</ns1:g>)?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"Zahodit z této konverzace koncepty?"</item>
+    <item msgid="4173815457177336569" quantity="other">"Zahodit z těchto <ns1:g id="COUNT">%1$d</ns1:g> konverzací koncepty?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"Archivované konverzace: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="3012054504370916482" quantity="other">"Archivované konverzace: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"Smazané konverzace: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="8630099095360065837" quantity="other">"Smazané konverzace: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"Složka změněna."</item>
+    <item msgid="8918589141287976985" quantity="other">"Složky změněny."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"Ignorované konverzace: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="1941193356069303587" quantity="other">"Ignorované konverzace: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"Počet konverzací označených jako nedůležité: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="6662213740575340397" quantity="other">"Počet konverzací označených jako nedůležité: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"Konverzace, které nebyly nahlášeny jako spam: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="2250720080221922267" quantity="other">"Konverzace, které nebyly nahlášeny jako spam: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"Konverzace nahlášené jako phishing: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="3678624994662639442" quantity="other">"Konverzace nahlášené jako phishing: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"Konverzace nahlášené jako spam: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+    <item msgid="5071459475389411227" quantity="other">"Konverzace nahlášené jako spam: &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>"</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Ruší se označení <ns1:g id="COUNT">%1$d</ns1:g> konverzace hvězdičkou."</item>
+    <item msgid="2222365088907519938" quantity="other">"Ruší se označení <ns1:g id="COUNT">%1$d</ns1:g> konverzací hvězdičkou."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"Koncept"</item>
+    <item msgid="6961049507579977505" quantity="other">"Koncepty"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"Tato <ns1:g id="COUNT">%1$d</ns1:g> zpráva bude trvale smazána."</item>
+    <item msgid="2182899395748020953" quantity="other">"Tyto zprávy (celkem <ns1:g id="COUNT">%1$d</ns1:g>) budou trvale smazány."</item>
+  </plurals>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"Přesunout konverzaci"</item>
+    <item msgid="1685896770174368261" quantity="other">"Přesunutí <ns1:g id="ID_1">%1$d</ns1:g> konverzací"</item>
+  </plurals>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"Nové zprávy: <ns1:g id="COUNT">%1$d</ns1:g>. Zobrazit."</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"Starší zprávy: <ns1:g id="COUNT">%1$d</ns1:g>"</item>
+  </plurals>
+    <string msgid="5277032997773498476" name="account_settings_param">"Nastavení účtu"</string>
+    <string msgid="5699548271856775808" name="account_sync_off">"Synchronizace účtu je vypnuta"</string>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"Nepřečteno: <ns1:g id="COUNT">%1$d</ns1:g>+"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"Výběr složky"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"Výběr účtu"</string>
+    <string msgid="2162808366829269770" name="add_account">"Přidat účet"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Přidat skrytou kopii"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"Přidat kopii/skrytou"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Přiložit soubor"</string>
+    <string msgid="6060201715848652940" name="add_label">"Přidat složku"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"Připojit obrázek"</string>
+    <string msgid="2866003744391266498" name="add_star">"Přidat hvězdičku"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"Připojit video"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> přes <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"Všechny složky"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"Obr. od tohoto odesílatele vždy zobrazit"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"Obrázky od tohoto odesílatele se zobrazí automaticky."</string>
+    <string msgid="847250094775910499" name="archive">"Archivovat"</string>
+    <string msgid="7533995360704366325" name="archived">"Archivováno"</string>
+    <string msgid="4267189489654642035" name="attached_message">"Přiložená zpráva"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"Dokument"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"Tabulka"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Prezentace"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"Zvuk"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"Obrázek"</string>
+    <string msgid="5544874374971562759" name="attachment_text">"Text"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"Tento typ přílohy bohužel nemůžete uložit ani otevřít."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"Soubor <ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"Video"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"Přílohy"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"Nastavit volbu automatického přechodu\n(po archivaci, smazání atd.)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"Automatický přechod"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"Vyberte, kterou obrazovku chcete zobrazit po smazání zprávy."</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"Automatická synchronizace je vypnuta."</string>
+    <string msgid="3098643138241111579" name="bcc">"Skrytá kopie"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"Skrytá: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"Napsat zprávu"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"Zrušit"</string>
+    <string msgid="4651201258272223650" name="cancel_attachment">"Zrušit"</string>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů."</string>
+    <string msgid="7017720927911078193" name="cc">"Kopie"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"Kopie: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"Kopie: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"Změnit složky"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"Změnit nastavení synchronizace"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"Kontrola pošty"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"Sdílet pomocí"</string>
+    <string msgid="3184687982186479442" name="clear">"Vymazat"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"Přestat zobrazovat vložené obrázky od odesílatelů, u kterých jste to dříve povolili."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"Zrušit schválení obrázků?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"Zrušit schválení obrázků"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"Sbalit podrobnosti o příjemci"</string>
+    <string msgid="1473559896062432878" name="compose">"Napsat"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"Zahodit tuto zprávu?"</string>
+    <string msgid="3221546155385562874" name="confirm_send_message">"Odeslat tuto zprávu?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"V těle zprávy není žádný text."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"V předmětu zprávy není žádný text."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"Odeslat zprávu?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"Zobrazit kontaktní údaje uživatele <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"Zobrazit kontaktní údaje"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> – <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g>, dne <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> – <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> v <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"Přidat kontakt"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"Kopírovat"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"Kopírovat adresu URL odkazu"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"Vytočit..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"Odeslat názor"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"Nápověda"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"Mapa"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"Otevřít v prohlížeči"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"Odeslat e-mail"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"Sdílet odkaz"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS..."</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"Přesunuto do složky <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Klepnutím na obrázek odesílatele vyberete příslušnou konverzaci."</string>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"Odeslat jako:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"Datum: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"Dnes v <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"Včera v <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="844871204175957681" name="delete">"Smazat"</string>
+    <string msgid="2757349161107268029" name="deleted">"Smazáno"</string>
+    <string msgid="1714960202994370243" name="discard">"Zahodit"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"Zahodit koncepty"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Zavřít tip"</string>
+    <string msgid="3079981801778027540" name="done">"Hotovo"</string>
+    <string msgid="7418568915429156518" name="download_again">"Stáhnout znovu"</string>
+    <string msgid="442019281547315527" name="download_failed">"Nelze stáhnout. Opakujte."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"Zavřít navigační složku"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"Otevřít navigační složku"</string>
+    <string msgid="6064497180615519589" name="empty_spam">"Vyprázdnit složku se spamem"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Chcete vyprázdnit složku se spamem?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"Vysypat koš"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Chcete vysypat koš?"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Zapněte ji v <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"Rozbalit podrobnosti o příjemci"</string>
+    <string msgid="79365993169715049" name="feedback">"Odeslat názor"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"Načítání přílohy"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"Ikona složky"</string>
+    <string msgid="1047474677580149436" name="folder_removed">"Odestraněno ze složky <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Složka aplikace E-mail"</string>
+    <string msgid="6822914459902983767" name="forward">"Přeposlat"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- Přeposlaná zpráva ----------&lt;br>Od: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Datum: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Předmět: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Komu: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Přeposlaná zpráva ----------"</string>
+    <string msgid="2454519463223197231" name="from_heading">"Od: "</string>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"Soubor se nepodařilo připojit jako přílohu."</string>
+    <string msgid="7873089811705257882" name="help_and_info">"Nápověda"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ Skrýt citovaný text"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"Skrýt složky"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"Ignorovat, zprávě důvěřuji"</string>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"Doručená pošta"</string>
+    <string msgid="6009817562073541204" name="info">"Informace"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"Adresa <ns1:g id="WRONGEMAIL">%s</ns1:g> je neplatná."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> kB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"Načíst další"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"Načítá se..."</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"Načítání…"</string>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"Jednu konverzaci vyberete přidržením, další konverzace vyberete klepnutím."</string>
+    <string msgid="6743983544685622800" name="manual_sync">"Synchronizovat"</string>
+    <string msgid="6904096897104265870" name="mark_important">"Označit jako důležité"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"Označit jako nedůležité"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"Nahlásit, že se nejedná o spam"</string>
+    <string msgid="8438349154394313195" name="mark_read">"Označit jako přečtené"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"Označit jako nepřečtené"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"mně"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"já"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"Změnit složky"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"Nová zpráva"</string>
+    <string msgid="8897520487430647932" name="menu_folder_options">"Nastavení složek"</string>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"Nastavení složek"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"Přesunout do"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"Přesunout do Doručené pošty"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"Uložit vše"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"Sdílet"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"Sdílet vše"</string>
+    <string msgid="5297197523031943248" name="menu_search">"Vyhledat"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"Nastavení"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"Původní velikost"</string>
+    <string msgid="2183394728494962332" name="message_details_title">"Podrobnosti zprávy"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"Zpráva byla zahozena."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"Ano"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"Zobrazit v Kalendáři"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"Ne"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"Přijdete?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"Možná"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"Pozvánka v kalendáři"</string>
+    <string msgid="7073947895562277576" name="message_saved">"Zpráva byla uložena jako koncept."</string>
+    <string msgid="717244337981816703" name="more_info_attachment">"Informace"</string>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Přesunout"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"Ignorovat"</string>
+    <string msgid="2125579009654728299" name="network_error">"Žádné připojení"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"Nová zpráva od <ns1:g id="SENDER">%s</ns1:g>. Zobrazit."</string>
+    <string msgid="4419173946074516420" name="new_messages">"Nové zprávy: <ns1:g id="COUNT">%1$d</ns1:g>"</string>
+    <string msgid="427548507197604096" name="no">"Ne"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"Tuto přílohu nelze zobrazit v žádné dostupné aplikaci."</string>
+    <string msgid="35400008890372241" name="no_conversations">"Žádné konverzace"</string>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"Chcete-li zobrazit konverzace, synchronizujte tuto složku."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"Účet není synchronizován"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"Archivovat"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"Smazat"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"Odebrat štítek"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"Odpovědět"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"Odpovědět všem"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"Archivováno"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"Smazáno"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Štítek odstraněn"</string>
+    <string msgid="8339355733816891026" name="ok">"OK"</string>
+    <string msgid="5171715391553213328" name="phone">"telefon"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"Fotografii nelze načíst"</string>
+    <string msgid="8797634225088247121" name="please_wait">"Čekejte prosím…"</string>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Akce archivace a smazání"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"Akce archivace a smazání"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"Zobrazit vedle jména v seznamu konverzací"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"Obrázek odesílatele"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"V seznamu konverzací"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"Archivace přejetím prstem"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"Mazat po přejetí prstem"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"Použít jako výchozí pro odpovědi na zprávy"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"Odpovědět všem"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"Podpis"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Nenastaveno"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"Podpis"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"Náhled"</string>
+    <string msgid="7250749398672037355" name="quoted_text">"Zahrnout citovaný text"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"Text citace"</string>
+    <string msgid="219566857950091332" name="read_string">"Konverzace byla přečtena."</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"Poslední složky"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"Chyba příjemce"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"Přidejte alespoň jednoho příjemce."</string>
+    <string msgid="490989798005710951" name="refresh">"Aktualizovat"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"Odstranit ze složky <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"Odebrat hvězdičku"</string>
+    <string msgid="2032052598496088561" name="reply">"Odpovědět"</string>
+    <string msgid="7257248094625487557" name="reply_all">"Odpovědět všem"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"Dne <ns1:g id="DATE">%s</ns1:g> <ns1:g id="PERSON">%s</ns1:g> napsal(a):"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"Odpovědět: "</string>
+    <string msgid="5417082746232614958" name="report">"Přehled"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"Oznámit phishing"</string>
+    <string msgid="6467567747975393907" name="report_spam">"Nahlásit spam"</string>
+    <string msgid="6797117334768201180" name="respond_inline">"Vložená odpověď"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"Upravit"</string>
+    <string msgid="4515885444824418022" name="retry">"Opakovat"</string>
+    <string msgid="5360128849867863132" name="save_attachment">"Uložit"</string>
+    <string msgid="5555744208032445632" name="save_draft">"Uložit koncept"</string>
+    <string msgid="6660844285730790469" name="saved">"Uloženo, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"Ukládání…"</string>
+    <string msgid="3625734263059221350" name="search_hint">"Vyhledat v poště"</string>
+    <string msgid="4669917471897026269" name="search_results_header">"Výsledky"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"Vyhledávání..."</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"Vyhledávání není v tomto účtu podporováno."</string>
+    <string msgid="4711524151968942082" name="select_attachment_type">"Vyberte typ přílohy"</string>
+    <string msgid="8242003661397555986" name="send">"Odeslat"</string>
+    <string msgid="750908595144529579" name="send_failed">"Zpráva nebyla odeslána."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"Obrázky se nebudou zobrazovat automaticky."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"Odesílání..."</string>
+    <string msgid="1498583163419122128" name="sending_message">"Odesílání zprávy…"</string>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"Zadejte název zkratky složky"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ Zobrazit citovaný text"</string>
+    <string msgid="1875700481186331432" name="show_images">"Zobrazit obrázky"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"Zobrazit další složky (<ns1:g id="NUMBER">%1$s</ns1:g>)"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"Přihlásit se"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"Tichý režim"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="3262760336059073446" name="storage">"Úložiště"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> – <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Předmět"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Seznam aktualizujete posunutím dolů."</string>
+    <string msgid="7368819509040597851" name="sync_error">"Chyba synchronizace."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"Ve vašem zařízení není pro synchronizaci dostatek místa."</string>
+    <string msgid="7956969657216748522" name="tablet">"tablet"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"Nastavte dotykem"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"Synchronizovat složku"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"Zapnete ji klepnutím."</string>
+    <string msgid="4392614766835725698" name="to">"Komu"</string>
+    <string msgid="1142876841308812954" name="to_heading">"Komu: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Soubor nebyl přiložen. Byl dosažen limit <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Jeden nebo více souborů nebylo připojeno. Limit je <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"Nelze připojit soubor vetší než <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Změny, které provedete ve všech aplikacích a účtech (nikoli jen v Gmailu), budou synchronizovány mezi webem, ostatními zařízeními a zařízením <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Zapnout"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"Zapnout automatickou synchronizaci?"</string>
+    <string msgid="6070869718469782251" name="undo">"Vrátit zpět"</string>
+    <string msgid="588180203444398297" name="unread_string">"Konverzace nebyla přečtena."</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"Neodeslané zprávy ve složce <ns1:g id="OUTBOX">%2$s</ns1:g>: <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"prostř. <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"Zobrazit další konverzace"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"Tento účet není nastaven na automatickou synchronizaci.\nChcete-li poštu jednou synchronizovat, dotkněte se položky "<b>"Synchronizovat"</b>". Chcete-li v účtu nastavit automatickou synchronizaci pošty, dotkněte se položky "<b>"Změnit nastavení synchronizace"</b>"."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"Vaše e-maily se zobrazí za chvíli."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"Čekání na synchronizaci"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">">%d"</string>
+    <string msgid="7474216525286833848" name="yes">"Ano"</string>
+</resources>

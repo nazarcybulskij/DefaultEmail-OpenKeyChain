@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-tl/strings.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"Tumugon"</item>
+    <item msgid="4085029907540221568">"Tumugon sa lahat"</item>
+    <item msgid="857480048798815437">"Ipasa"</item>
+  </string-array>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"System"</item>
+    <item msgid="6593672292311851204">"Madalas na Ginagamit"</item>
+    <item msgid="3584541772344786752">"Lahat ng Folder"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"Mas bago"</item>
+    <item msgid="5562093094216840213">"Mas luma"</item>
+    <item msgid="3331655314944797957">"Listahan ng pag-uusap"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"I-archive lang ang ipakita"</item>
+    <item msgid="5737880287951287278">"Tanggalin lang ang ipakita"</item>
+    <item msgid="4279948809971752573">"Ipakita ang i-archive at tanggalin"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"Magpakita ng mas bagong pag-uusap pagkatapos mong magtanggal"</item>
+    <item msgid="732746454445519134">"Magpakita ng mas lumang pag-uusap pagkatapos mong magtanggal"</item>
+    <item msgid="2189929276292165301">"Ipakita ang listahan ng pag-uusap pagkatapos mong magtanggal"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"Archive lang ang ipakita"</item>
+    <item msgid="8350973578419775975">"Tanggalin lang ang ipakita"</item>
+    <item msgid="2967059853409454648">"Ipakita ang i-archive at tanggalin"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"Tagumpay"</item>
+    <item msgid="7109065688039971961">"Walang koneksyon."</item>
+    <item msgid="8437496123716232060">"Hindi makapag-sign in."</item>
+    <item msgid="1651266301325684887">"Error sa seguridad."</item>
+    <item msgid="1461520171154288533">"Hindi makapag-sync."</item>
+    <item msgid="4779810016424303449">"Panloob na Error"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ang hindi pa nababasa"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"I-archive ang pag-uusap na ito?"</item>
+    <item msgid="4713469868399246772" quantity="other">"I-archive ang <ns1:g id="COUNT">%1$d</ns1:g> (na) pag-uusap na ito?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"Tanggalin ang pag-uusap na ito?"</item>
+    <item msgid="930334208937121234" quantity="other">"Tanggalin ang <ns1:g id="COUNT">%1$d</ns1:g> (na) pag-uusap na ito?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"I-discard ang mga draft mula sa pag-uusap na ito?"</item>
+    <item msgid="4173815457177336569" quantity="other">"I-discard ang draft mula sa <ns1:g id="COUNT">%1$d</ns1:g> pag-uusap na ito?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang na-archive."</item>
+    <item msgid="3012054504370916482" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang na-archive."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang tinanggal."</item>
+    <item msgid="8630099095360065837" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang tinanggal."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"Binagong folder."</item>
+    <item msgid="8918589141287976985" quantity="other">"Mga binagong folder."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang na-mute."</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang na-mute."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang minarkahang hindi mahalaga."</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang minarkahang hindi mahalaga."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang iniulat bilang hindi spam."</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang iniulat bilang hindi spam."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang iniulat bilang phishing."</item>
+    <item msgid="3678624994662639442" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang iniulat bilang phishing."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang iniulat bilang spam."</item>
+    <item msgid="5071459475389411227" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> ang iniulat bilang spam."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Inaalisan ng star ang <ns1:g id="COUNT">%1$d</ns1:g> (na) pag-uusap."</item>
+    <item msgid="2222365088907519938" quantity="other">"Inaalisan ng star ang <ns1:g id="COUNT">%1$d</ns1:g> (na) pag-uusap."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"Draft"</item>
+    <item msgid="6961049507579977505" quantity="other">"Mga Draft"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"Permanenteng tatanggalin ang <ns1:g id="COUNT">%1$d</ns1:g> (na) mensahe."</item>
+    <item msgid="2182899395748020953" quantity="other">"Permanenteng tatanggalin ang <ns1:g id="COUNT">%1$d</ns1:g> (na) mensahe."</item>
+  </plurals>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"Ilipat ang pag-uusap"</item>
+    <item msgid="1685896770174368261" quantity="other">"Ilipat ang <ns1:g id="ID_1">%1$d</ns1:g> (na) pag-uusap"</item>
+  </plurals>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> (na) bagong mensahe. Ipakita."</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> (na) mas lumang mensahe"</item>
+  </plurals>
+    <string msgid="5277032997773498476" name="account_settings_param">"Mga setting ng account"</string>
+    <string msgid="5699548271856775808" name="account_sync_off">"Naka-off ang pag-sync sa account."</string>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ na hindi pa nababasa"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"Pumili ng folder"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"Pumili ng account"</string>
+    <string msgid="2162808366829269770" name="add_account">"Magdagdag ng account"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Magdagdag ng Bcc"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"Magdagdag ng Cc/Bcc"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Mag-attach ng file"</string>
+    <string msgid="6060201715848652940" name="add_label">"Magdagdag ng folder"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"Mag-attach larawan"</string>
+    <string msgid="2866003744391266498" name="add_star">"Magdagdag ng star"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"Mag-attach ng Video"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> sa pamamagitan ng <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"Lahat ng folder"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"Lagi pakita larawan mula nagpadalang ito"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"Awtomatikong ipapakita ang mga larawan mula sa nagpadalang ito."</string>
+    <string msgid="847250094775910499" name="archive">"I-archive"</string>
+    <string msgid="7533995360704366325" name="archived">"Naka-archive"</string>
+    <string msgid="4267189489654642035" name="attached_message">"Naka-attach na mensahe"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"Document"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"Spreadsheet"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Presentation"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"Audio"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"Larawan"</string>
+    <string msgid="5544874374971562759" name="attachment_text">"Teksto"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"Sa kasamaang palad, hindi mo mase-save o mabubuksan ang ganitong uri ng attachment."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g> File"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"Video"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"Mga Attachment"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"Magtakda ng nais na auto-advance\n(pagkatapos mong magtanggal, atbp.)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"I-auto-advance"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"Piliin ang screen na ipapakita pagkatapos magtanggal ng mensahe"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"Naka-off ang auto-sync."</string>
+    <string msgid="3098643138241111579" name="bcc">"Bcc"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"Bcc: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"Bumuo ng email"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"Kanselahin"</string>
+    <string msgid="4651201258272223650" name="cancel_attachment">"Kanselahin"</string>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Hindi mailipat dahil naglalaman ng maraming account ang pinili."</string>
+    <string msgid="7017720927911078193" name="cc">"Cc"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"Cc: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"Cc: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"Baguhin ang mga folder"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"Baguhin mga setting ng sync"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"Tumitingin ng mail"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"Ibahagi sa pamamagitan ng"</string>
+    <string msgid="3184687982186479442" name="clear">"I-clear"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"Huminto sa pagpapakita ng mga inline na larawan mula sa mga nagpadalang dati mong pinayagan."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"I-clear ang mga pag-apruba sa larawan?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"I-clear pag-apruba sa lararawan"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"Tiklupin ang mga detalye ng recipient"</string>
+    <string msgid="1473559896062432878" name="compose">"Bumuo"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"I-discard ang mensaheng ito?"</string>
+    <string msgid="3221546155385562874" name="confirm_send_message">"Ipadala ang mensaheng ito?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"Walang teksto sa nilalaman ng mensahe."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"Walang teksto sa paksa ng mensahe."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"Ipadala ang mensahe?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"Ipakita ang impormasyon ng contact para kay <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"Ipakita ang impormasyon ng contact"</string>
+    <string msgid="5191020413686786341" name="content_description">"Si <ns1:g id="SENDER">%1$s</ns1:g> tungkol sa <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> noong <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"Si <ns1:g id="SENDER">%1$s</ns1:g> tungkol sa <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> ng <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"Magdagdag ng contact"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"Kopyahin"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"Kopyahin ang URL ng link"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"Mag-dial…"</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"Magpadala ng feedback"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"Tulong"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"Mapa"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"Buksan sa Browser"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"Ipadala ang email"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"Ibahagi ang link"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS…"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"Inilipat sa <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Pumidot ng larawan ng nagpadala upang piliin ang pag-uusap na iyon."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-tl/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"Kopyahin ang email address"</string>
+    <string msgid="530057841276106843" name="copy_number">"Kopyahin ang numero ng telepono"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-tl/strings.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"Dala mail blg:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"Petsa: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"Ngayon, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"Kahapon, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="844871204175957681" name="delete">"Tanggalin"</string>
+    <string msgid="2757349161107268029" name="deleted">"Tinanggal"</string>
+    <string msgid="1714960202994370243" name="discard">"i-discard"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"I-discard ang mga draft"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"I-dismiss ang tip"</string>
+    <string msgid="3079981801778027540" name="done">"Tapos na"</string>
+    <string msgid="7418568915429156518" name="download_again">"I-download muli"</string>
+    <string msgid="442019281547315527" name="download_failed">"Di ma-download. Touch para retry."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"Isara ang drawer ng nabigasyon"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"Buksan ang drawer ng nabigasyon"</string>
+    <string msgid="6064497180615519589" name="empty_spam">"Alisan ng Laman ang Spam"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Alisan ng Laman ang Spam?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"Alisan ng Laman ang Basurahan"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Alisan ng Laman ang Basurahan?"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"I-on sa <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"Palawakin ang mga detalye ng recipient"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-tl/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"Hindi ma-load ang larawan"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-tl/strings.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"Magpadala ng feedback"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"Pagkuha ng attachment"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"Icon ng folder"</string>
+    <string msgid="1047474677580149436" name="folder_removed">"Inalis sa <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Folder ng Email"</string>
+    <string msgid="6822914459902983767" name="forward">"Ipasa"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- Ipinasang mensahe ----------&lt;br>Mula kay: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Petsa: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Paksa: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Para kay: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Ipinasang mensahe ----------"</string>
+    <string msgid="2454519463223197231" name="from_heading">"Mula sa/kay: "</string>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"Hindi mai-attach ang file."</string>
+    <string msgid="7873089811705257882" name="help_and_info">"Tulong"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ Itago ang kasamang teksto"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"Itago ang mga folder"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"Balewalain, tiwala sa mensahe"</string>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"Inbox"</string>
+    <string msgid="6009817562073541204" name="info">"Impormasyon"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"Ang address na <ns1:g id="WRONGEMAIL">%s</ns1:g> ay di-wasto."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"Mag-load ng higit pa"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"Naglo-load…"</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"Naglo-load…"</string>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"Pumindot nang matagal upang pumili ng isang pag-uusap, pagkatapos ay pumindot upang pumili nang higit pa."</string>
+    <string msgid="6743983544685622800" name="manual_sync">"I-sync na"</string>
+    <string msgid="6904096897104265870" name="mark_important">"Markahang mahalaga"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"Markahang hindi mahalaga"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"Hindi spam ang ulat"</string>
+    <string msgid="8438349154394313195" name="mark_read">"Markahang nabasa na"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"Markahang hindi pa nababasa"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"ako"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"ako"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"Baguhin ang mga folder"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"Bumuo"</string>
+    <string msgid="8897520487430647932" name="menu_folder_options">"Mga setting ng folder"</string>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"Mga setting ng folder"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"Ilipat sa"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"Ilipat sa Inbox"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"I-sve lhat"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"Ibahagi"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"Ibhgi lhat"</string>
+    <string msgid="5297197523031943248" name="menu_search">"Maghanap"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"Mga Setting"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"I-revert ang auto-sizing"</string>
+    <string msgid="2183394728494962332" name="message_details_title">"Mga detalye ng mensahe"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"Itinapon ang mensahe."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"Oo"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"Tingnan sa Kalendaryo"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"Hindi"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"Pupunta?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"Siguro"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"Imbitasyon sa kalendaryo"</string>
+    <string msgid="7073947895562277576" name="message_saved">"Na-save ang mensahe bilang draft."</string>
+    <string msgid="717244337981816703" name="more_info_attachment">"Impormasyon"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-tl/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-tl/strings.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Ilipat sa"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"I-mute"</string>
+    <string msgid="2125579009654728299" name="network_error">"Walang koneksyon"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"Bagong mensahe mula <ns1:g id="SENDER">%s</ns1:g>. Ipakita."</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> (na) bagong mensahe"</string>
+    <string msgid="427548507197604096" name="no">"Hindi"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"Walang app na makakapagbukas sa attachment na ito para sa pagtingin."</string>
+    <string msgid="35400008890372241" name="no_conversations">"Walang mga pag-uusap."</string>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"Para tingin pag-uusap, sync folder."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"Hindi na-sync ang account"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"I-archive"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"Tanggalin"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"Alisin ang label"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"Tumugon"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"Tumugon sa lahat"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"Na-archive"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"Tinanggal"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Inalis ang Label"</string>
+    <string msgid="8339355733816891026" name="ok">"OK"</string>
+    <string msgid="5171715391553213328" name="phone">"telepono"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"Hindi mai-load ang larawan"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-tl/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g> ng <ns1:g id="COUNT">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-tl/strings.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"Mangyaring maghintay…"</string>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Mga pagkilos na i-archive at tanggalin"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"Mga pagkilos na i-archive at tanggalin"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"Ipakita sa tabi ng pangalan sa listahan ng pag-uusap"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"Larawan ng nagpadala"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"Sa listahan ng pag-uusap"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"Mag-swipe upang i-archive"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"I-swipe upang tanggalin"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"Gamitin bilang default para sa mga tugon sa mensahe"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"Tumugon sa lahat"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"Signature"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Hindi nakatakda"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"Signature"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"I-preview"</string>
+    <string msgid="7250749398672037355" name="quoted_text">"Ibilang ang kasamang teksto"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"I-quote ang teksto"</string>
+    <string msgid="219566857950091332" name="read_string">"pag-uusap na nabasa na"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"Mga kamakailang folder"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"Error ng recipient"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"Magdagdag ng hindi bababa sa isang recipient."</string>
+    <string msgid="490989798005710951" name="refresh">"I-refresh"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"Alisin sa <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"Alisin ang star"</string>
+    <string msgid="2032052598496088561" name="reply">"Tumugon"</string>
+    <string msgid="7257248094625487557" name="reply_all">"Tugon lahat"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"Noong <ns1:g id="DATE">%s</ns1:g>, isinulat ni <ns1:g id="PERSON">%s</ns1:g> ang:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"Tugon-sa/kay: "</string>
+    <string msgid="5417082746232614958" name="report">"Mag-ulat"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"Iulat na phishing"</string>
+    <string msgid="6467567747975393907" name="report_spam">"Mag-ulat ng spam"</string>
+    <string msgid="6797117334768201180" name="respond_inline">"Tumugon sa inline"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"I-edit"</string>
+    <string msgid="4515885444824418022" name="retry">"Subukang Muli"</string>
+    <string msgid="5360128849867863132" name="save_attachment">"I-save"</string>
+    <string msgid="5555744208032445632" name="save_draft">"I-save ang draft"</string>
+    <string msgid="6660844285730790469" name="saved">"Naka-save, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"Sine-save…"</string>
+    <string msgid="3625734263059221350" name="search_hint">"Maghanap sa mail"</string>
+    <string msgid="4669917471897026269" name="search_results_header">"Mga resulta"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"Naghahanap..."</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"Hindi sinusuportahan ang paghahanap sa account na ito."</string>
+    <string msgid="4711524151968942082" name="select_attachment_type">"Pumili ng uri ng attachment"</string>
+    <string msgid="8242003661397555986" name="send">"Ipadala"</string>
+    <string msgid="750908595144529579" name="send_failed">"Di pinadala mensahe."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"Hindi awtomatikong ipapakita ang mga larawan."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"Ipinapadala…"</string>
+    <string msgid="1498583163419122128" name="sending_message">"Ipinapadala ang mensahe…"</string>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"Shortcut sa pangalan ng folder"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ Ipakita ang kasamang teksto"</string>
+    <string msgid="1875700481186331432" name="show_images">"Ipakita ang mga larawan"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"Magpakita ng <ns1:g id="NUMBER">%1$s</ns1:g> pang folder"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"Mag-sign-in"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"Naka-silent"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="3262760336059073446" name="storage">"Storage"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Paksa"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Mag-swipe pababa upang mag-refresh"</string>
+    <string msgid="7368819509040597851" name="sync_error">"Hindi makapag-sync."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"Walang sapat na espasyo ng storage ang iyong device upang makapag-sync."</string>
+    <string msgid="7956969657216748522" name="tablet">"tablet"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"Pindutin upang i-set up"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"I-sync ang Folder"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"Pindutin upang i-on."</string>
+    <string msgid="4392614766835725698" name="to">"Para kay"</string>
+    <string msgid="1142876841308812954" name="to_heading">"Sa/Kay: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Hindi naka-attach ang file. Naabot ang limitasyong <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Hindi naka-attach ang isa o higit pang mga file. Limitasyon <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"Hindi ma-attach ang file na lagpas sa <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Ang mga pagbabagong iyong ginawa sa lahat ng apps at account, hindi lang sa Gmail, ay masi-synchronize sa web, iba mo pang mga device, at iyong <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g> ."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"I-on"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"I-on ang auto-sync?"</string>
+    <string msgid="6070869718469782251" name="undo">"I-undo"</string>
+    <string msgid="588180203444398297" name="unread_string">"hindi pa nababasang pag-uusap"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> ang hindi naipadala sa <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"gamit ang <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"Tumingin ng higit pang pag-uusap"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"Hindi naka-set up ang account na ito upang awtomatikong mag-sync.\nPindutin ang "<b>"I-sync Ngayon"</b>" upang i-sync ang mail nang isang beses, o "<b>"Baguhin ang Mga Setting ng Pag-sync"</b>" upang i-set up ang account na ito upang awtomatikong i-sync ang mail."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"Lilitaw na ang iyong email."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"Naghihintay ng pag-sync"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"Oo"</string>
+</resources>

@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"Απάντηση"</item>
+    <item msgid="4085029907540221568">"Απάντ. σε όλους"</item>
+    <item msgid="857480048798815437">"Προώθηση"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"Μικροσκοπικό κείμενο"</item>
+    <item msgid="4415205108584620118">"Μικρό κείμενο"</item>
+    <item msgid="4550219696381691112">"Κείμενο κανονικού μεγέθους"</item>
+    <item msgid="6227813549949219991">"Μεγάλο κείμενο"</item>
+    <item msgid="1197917420815786571">"Τεράστιο κείμενο"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"Σύστημα"</item>
+    <item msgid="6593672292311851204">"Συχνά χρησιμοπ."</item>
+    <item msgid="3584541772344786752">"Όλοι οι φάκελοι"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"Νεότερες"</item>
+    <item msgid="5562093094216840213">"Παλαιότερες"</item>
+    <item msgid="3331655314944797957">"Λίστα συνομιλιών"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"Εμφάνιση μόνο αρχειοθέτησης"</item>
+    <item msgid="5737880287951287278">"Εμφάνιση μόνο διαγραφής"</item>
+    <item msgid="4279948809971752573">"Εμφάνιση αρχειοθέτησης και διαγραφής"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"Εμφάνιση νεότερης συνομιλίας μετά τη διαγραφή"</item>
+    <item msgid="732746454445519134">"Εμφάνιση παλαιότερης συνομιλίας μετά τη διαγραφή"</item>
+    <item msgid="2189929276292165301">"Εμφάνιση λίστας συνομιλιών μετά τη διαγραφή"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"Εμφάνιση μόνο αρχειοθέτησης"</item>
+    <item msgid="8350973578419775975">"Εμφάνιση μόνο διαγραφής"</item>
+    <item msgid="2967059853409454648">"Εμφάνιση αρχειοθέτησης και διαγραφής"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"Επιτυχία"</item>
+    <item msgid="7109065688039971961">"Δεν υπάρχει σύνδεση."</item>
+    <item msgid="8437496123716232060">"Δεν ήταν δυνατή η σύνδεση."</item>
+    <item msgid="1651266301325684887">"Σφάλμα ασφαλείας."</item>
+    <item msgid="1461520171154288533">"Δεν ήταν δυνατός ο συγχρονισμός."</item>
+    <item msgid="4779810016424303449">"Εσωτερικό σφάλμα"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> μη αναγνωσμένα"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"Να αρχειοθετηθεί αυτή η συνομιλία;"</item>
+    <item msgid="4713469868399246772" quantity="other">"Να αρχειοθετηθούν αυτές οι <ns1:g id="COUNT">%1$d</ns1:g> συνομιλίες;"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"Να διαγραφεί αυτή η συνομιλία;"</item>
+    <item msgid="930334208937121234" quantity="other">"Να διαγραφούν αυτές οι <ns1:g id="COUNT">%1$d</ns1:g> συνομιλίες;"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"Απόρριψη πρόχειρων από αυτή τη συνομιλία;"</item>
+    <item msgid="4173815457177336569" quantity="other">"Απόρριψη πρόχειρων από αυτές τις <ns1:g id="COUNT">%1$d</ns1:g> συνομιλίες;"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αρχειοθετήθηκαν."</item>
+    <item msgid="3012054504370916482" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αρχειοθετήθηκαν."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> διαγράφηκαν."</item>
+    <item msgid="8630099095360065837" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> διαγράφηκαν."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"Αλλαγή φακέλου."</item>
+    <item msgid="8918589141287976985" quantity="other">"Αλλαγή φακέλων."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> τέθηκε σε σίγαση."</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> τέθηκαν σε σίγαση."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> επισημάνθηκαν ως μη σημαντικές."</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> επισημάνθηκε ως μη σημαντική."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αναφορές ως μη ανεπιθύμητες."</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αναφορές ως μη ανεπιθύμητες."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αναφορές ηλεκτρονικού ψαρέματος."</item>
+    <item msgid="3678624994662639442" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αναφορές ηλεκτρονικού ψαρέματος."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αναφέρθηκε ως ανεπιθύμητη."</item>
+    <item msgid="5071459475389411227" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> αναφέρθηκαν ως ανεπιθύμητες."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Κατάργηση αστεριού για <ns1:g id="COUNT">%1$d</ns1:g> συνομιλία."</item>
+    <item msgid="2222365088907519938" quantity="other">"Κατάργηση αστεριού για <ns1:g id="COUNT">%1$d</ns1:g> συνομιλίες."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"Πρόχειρο"</item>
+    <item msgid="6961049507579977505" quantity="other">"Πρόχειρα"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> μήνυμα θα διαγραφεί οριστικά."</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> μηνύματα θα διαγραφούν οριστικά."</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>B"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>B"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g>GB"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g>GB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g>KB"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g>KB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>MB"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>MB"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"Μετακίνηση συνομιλίας"</item>
+    <item msgid="1685896770174368261" quantity="other">"Μετακίνηση <ns1:g id="ID_1">%1$d</ns1:g> συνομιλιών"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"Μετακίνηση μηνύματος"</item>
+    <item msgid="371256717624461324" quantity="other">"Μετακίνηση μηνυμάτων"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> νέα μηνύματα. Εμφάνιση."</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> παλαιότερα μηνύματα"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη αυτό το όνομα χρήστη για τον λογαριασμό \"<ns1:g id="DUPLICATE">%s</ns1:g>\"."</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Διπλότυπος λογαριασμός"</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"Πρόχειρα"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"Εισερχόμενα"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"Εξερχόμενα"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"Με αστέρι"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"Αυτός κωδικός πρόσβασης ξεκινά ή καταλήγει σε έναν ή περισσότερους χαρακτήρες κενού διαστήματος. Πολλοί διακομιστές δεν υποστηρίζουν κωδικούς πρόσβασης με κενά διαστήματα."</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"Ο λογαριασμός <ns1:g id="ACCOUNT">%s</ns1:g> απαιτεί την ενημέρωση των ρυθμίσεων ασφαλείας."</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"Ενημέρωση ασφάλειας"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"Ο διακομιστής <ns1:g id="SERVER">%s</ns1:g> χρειάζεται την άδειά σας για να πραγματοποιήσει απομακρυσμένο έλεγχο ορισμένων λειτουργιών ασφαλείας της συσκευής σας Android."</string>
+    <string msgid="3511543138560418587" name="account_security_title">"Ασφάλεια συσκευής"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"Ρυθμίσεις λογαριασμού"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"Λήψη συνημμένων"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"Αυτόματη λήψη συνημμένων πρόσφατων μηνυμάτων μέσω Wi-Fi"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"Χρήση δεδομένων"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"Όνομα λογαριασμού"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"Γρήγορες απαντήσεις"</string>
+    <string msgid="8056686122888722591" name="account_settings_edit_quick_responses_summary">"Επεξ. κειμένου που εισάγετε συχνά κατά τη σύνταξη μην. ηλ. ταχ."</string>
+    <string msgid="7429582254433588882" name="account_settings_enforced_label">"Εφαρμογή πολιτικών"</string>
+    <string msgid="8140860420440447771" name="account_settings_enforced_summary">"Κ"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"Απόρριψη μη αποθηκευμένων αλλαγών;"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"Ρυθμίσεις εισερχομένων"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"Όνομα χρήστη, κωδ. πρόσβ. και άλλες ρυθμίσεις διακομιστή εισερχ."</string>
+    <string msgid="8849649646111167377" name="account_settings_login_dialog_content_fmt">"Το όνομα χρήστη ή ο κωδικός πρόσβασης του λογαριασμού <ns1:g id="ACCOUNT">%s</ns1:g> είναι λάθος. Θέλετε να τα ενημερώσετε τώρα;"</string>
+    <string msgid="4266359321648406752" name="account_settings_login_dialog_reason_fmt">"Η σύνδεση στο <ns1:g id="ACCOUNT">%s</ns1:g> απέτυχε. Ο διακομιστής ανέφερε την εξής αιτία: <ns1:g id="REASON">%s</ns1:g> Θέλετε να ενημερώσετε το όνομα χρήστη και τον κωδικό πρόσβασης;"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"Δεν ήταν δυνατή η σύνδεση"</string>
+    <string msgid="4322235101687302250" name="account_settings_mail_check_frequency_label">"Συχνότητα συγχρονισμού"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"Το όνομά σας"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"Ρυθμίσεις ειδοποιήσεων"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"Ειδοποιήσεις μηνυμάτων ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="8134339460923068254" name="account_settings_notify_summary">"Αποστολή ειδοποίησης κατά τη λήψη μηνύματος ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Ρυθμίσεις εξερχομένων"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Όνομα χρήστη, κωδ. πρόσβ. και άλλες ρυθμίσεις διακομιστή εξερχ."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5277032997773498476" name="account_settings_param">"Ρυθμίσεις λογαριασμού"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="6292833636418641840" name="account_settings_policies">"Πολιτικές ασφαλείας"</string>
+    <string msgid="1104680719299842829" name="account_settings_retry_label">"Προσπάθεια συγχρονισμού"</string>
+    <string msgid="2703599639846201913" name="account_settings_retry_summary">"Αγγίξτε εδώ για να συγχρονίσετε αυτόν τον λογαριασμό"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"Επιλέξτε ήχο κλήσης"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"Ρυθμίσεις διακομιστή"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"Συχνότητα συγχρονισμού, ειδοποιήσεις, κτλ."</string>
+    <string msgid="6855333393468628003" name="account_settings_sync_calendar_enable">"Συγχρονισμός ημερολογίου"</string>
+    <string msgid="7606340353079301703" name="account_settings_sync_calendar_summary">"Συγχρον. συμβ. ημερολ. λογαριασμού"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"Συγχρονισμός επαφών"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"Συγχρονισμός επαφών για αυτόν τον λογαριασμό"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"Συγχρονισμός ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"Συγχρονισμός μηνυμάτων ηλεκτρονικού ταχυδρομείου για αυτόν τον λογαριασμό"</string>
+    <string msgid="1954091071454235577" name="account_settings_unsupported_label">"Πολιτικές που δεν υποστηρίζονται"</string>
+    <string msgid="2107633813351863608" name="account_settings_unsupported_summary">"Κανένα"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"Δόνηση"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"Τύπος λογαριασμού"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"Τι τύπος λογαριασμού είναι αυτός;"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"Ρύθμιση λογαριασμού"</string>
+    <string msgid="8354874879956702097" name="account_setup_autodiscover_dlg_authfail_message">"Επιβεβαιώστε ότι το όνομα χρήστη, ο κωδικός πρόσβασης και οι ρυθμίσεις του λογαριασμού είναι σωστές."</string>
+    <string msgid="7365992662150541370" name="account_setup_autodiscover_dlg_authfail_title">"Πρόβλημα με τη ρύθμιση του λογαριασμού"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"Διεύθυνση ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"Λογαριασμός ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"Μη αυτόματη ρύθμιση"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"Κωδικός πρόσβασης"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"Ρύθμιση λογαριασμού"</string>
+    <string msgid="2869198335297585862" name="account_setup_check_settings_check_incoming_msg">"Επαλήθευση ρυθμίσεων διακομιστή…"</string>
+    <string msgid="4566131393776891419" name="account_setup_check_settings_check_outgoing_msg">"Επαλήθευση ρυθμίσεων smtp…"</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"Ανάκτηση στοιχείων λογαριασμού..."</string>
+    <string msgid="6235569720466839946" name="account_setup_creating_account_msg">"Δημιουργία λογαριασμού…"</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"Πιστοποιητικό πελάτη"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"Αναγνωριστικό κινητής συσκευής"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"Κανένα"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"Κατάργηση"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"Επιλογή"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"Χρήση του πιστοποιητικού πελάτη"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"Δεν έχετε άδεια συγχρονισμού με αυτόν τον διακομιστή. Επικοινωνήστε με τον διαχειριστή του διακομιστή σας για περισσότερες πληροφορίες."</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"Οι μέθοδοι ελέγχου ταυτότητας δεν υποστηρίζονται από τον διακομιστή."</string>
+    <string msgid="3563840279690749547" name="account_setup_failed_certificate_inaccessible">"Το πιστοποιητικό δεν είναι έγκυρο ή δεν είναι δυνατή η πρόσβαση σε αυτό."</string>
+    <string msgid="2689944595775206006" name="account_setup_failed_certificate_required">"Απαιτείται πιστοποιητικό προγράμματος-πελάτη. Θέλετε να συνδεθείτε στο διακομιστή με ένα πιστοποιητικό προγράμματος-πελάτη;"</string>
+    <string msgid="6531658092540248067" name="account_setup_failed_check_credentials_message">"Ο διακομιστής ανταποκρίθηκε με σφάλμα. Ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης και δοκιμάστε ξανά."</string>
+    <string msgid="426627755590431364" name="account_setup_failed_dlg_auth_message">"Λάθος όνομα χρήστη ή κωδικός πρόσβασης."</string>
+    <string msgid="2081384892947238930" name="account_setup_failed_dlg_auth_message_fmt">"Αποτυχία σύνδεσης.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"Δεν είναι δυνατή η ασφαλής σύνδεση με τον διακομιστή."</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"Δεν είναι δυνατή η ασφαλής σύνδεση με τον διακομιστή.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"Επεξεργασία λεπτομερειών"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"Δεν είναι δυνατή η σύνδεση με τον διακομιστή."</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"Δεν είναι δυνατή η σύνδεση με τον διακομιστή.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"Αδυναμία ολοκλήρωσης"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"Δεν ήταν δυνατό το άνοιγμα της σύνδεσης στον διακομιστή."</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"Έχετε πληκτρολογήσει λανθασμένη διεύθυνση διακομιστή ή ο διακομιστής απαιτεί μια έκδοση πρωτοκόλλου η οποία δεν υποστηρίζεται από το ηλεκτρονικό ταχυδρομείο."</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"Δεν ήταν δυνατό το άνοιγμα της σύνδεσης στον διακομιστή επειδή προέκυψε σφάλμα ασφάλειας."</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"Αυτός ο διακομιστής απαιτεί λειτουργίες ασφαλείας που η συσκευή σας Android δεν υποστηρίζει, όπως: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"Το TLS απαιτείται αλλά δεν υποστηρίζεται από τον διακομιστή."</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"Όταν διαγράφω από τα Εισερχόμενα"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"Διαγραφή μηνύματος ηλεκτρονικού ταχυδρομείου από διακομιστή"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"Ποτέ"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"Ρυθμίσεις διακομιστή εισερχομένων"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"Προαιρετικό"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"Πρόθεμα διαδρομής IMAP"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"Κωδικός πρόσβασης"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"Θύρα"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"Τύπος ασφάλειας"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"Καμία"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Αποδοχή όλων των πιστοποιητικών)"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (αποδοχή όλων των πιστοποιητικών)"</string>
+    <string msgid="1480342966630002638" name="account_setup_incoming_server_label">"Διακομιστής"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"Ρύθμιση λογαριασμού"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"Όνομα χρήστη"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"Δώστε σε αυτόν τον λογαριασμό ένα όνομα (προαιρετικό)"</string>
+    <string msgid="914858472109729140" name="account_setup_names_headline">"Ο λογαριασμός σας ρυθμίστηκε και γίνεται λήψη μηνυμάτων ηλεκτρονικού ταχυδρομείου!"</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"Ρύθμιση λογαριασμού"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"Αυτό το πεδίο δεν μπορεί να είναι κενό."</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"Το όνομά σας (προβάλλεται στα εξερχόμενα μηνύματα)"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"Αυτόματη λήψη συνημμένων κατά τη σύνδεση σε δίκτυο Wi-Fi"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"Επιλογές λογαριασμού"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"Κάθε 10 λεπτά"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"Κάθε 15 λεπτά"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"Κάθε ώρα"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"Κάθε 30 λεπτά"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"Κάθε 5 λεπτά"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"Συχνότητα ελέγχου εισερχομένων"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"Ποτέ"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"Αυτόματο (Ώθηση)"</string>
+    <string msgid="7727436096227637646" name="account_setup_options_mail_window_1day">"Τελευταία ημέρα"</string>
+    <string msgid="4289585173153789717" name="account_setup_options_mail_window_1month">"Προηγούμενος μήνας"</string>
+    <string msgid="5804121771990249346" name="account_setup_options_mail_window_1week">"Τελευταία εβδομάδα"</string>
+    <string msgid="3583478100026382495" name="account_setup_options_mail_window_2weeks">"Τελευταίες δύο εβδομάδες"</string>
+    <string msgid="1841106793912850270" name="account_setup_options_mail_window_3days">"Τελευταίες τρεις ημέρες"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"Όλες"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"Αυτόματη"</string>
+    <string msgid="2540360826995543134" name="account_setup_options_mail_window_default">"Χρήση προεπιλ.λογαριασμού"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"Ημέρες για συγχρονισμό"</string>
+    <string msgid="7046146571560728829" name="account_setup_options_notify_label">"Να ειδοποιούμαι κατά τη λήψη μηνύματος ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="3222151135467189411" name="account_setup_options_sync_calendar_label">"Συγχρονισμός ημερολογίου από αυτόν τον λογαριασμό"</string>
+    <string msgid="276492345599531778" name="account_setup_options_sync_contacts_label">"Συγχρονισμός επαφών από αυτόν τον λογαριασμό"</string>
+    <string msgid="8585177128405004068" name="account_setup_options_sync_email_label">"Συγχρονισμός ηλεκτρονικού ταχυδρομείου από αυτόν τον λογαριασμό"</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"Ρυθμίσεις λογαριασμού"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"Ρυθμίσεις διακομιστή εξερχομένων"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"Κωδικός πρόσβασης"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"Θύρα"</string>
+    <string msgid="7779484127897397562" name="account_setup_outgoing_require_login_label">"Να απαιτείται σύνδεση"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"Τύπος ασφάλειας"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"Διακομιστής SMTP"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"Ρύθμιση λογαριασμού"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"Όνομα χρήστη"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"Ο διακομιστής <ns1:g id="SERVER">%s</ns1:g> χρειάζεται την άδειά σας για να πραγματοποιήσει απομακρυσμένο έλεγχο ορισμένων λειτουργιών ασφαλείας της συσκευής σας Android. Θέλετε να ολοκληρωθεί η ρύθμιση αυτού του λογαριασμού;"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"Απομακρυσμένη διαχείριση ασφαλείας"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Πληκτρολογήστε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου και έναν έγκυρο κωδικό πρόσβασης."</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Δεν είναι δυνατό να αλλάξετε το όνομα χρήστη ενός λογαριασμού. Για να προσθέσετε έναν λογαριασμό με διαφορετικό όνομα χρήστη, αγγίξτε την επιλογή \"Προσθήκη λογαριασμού\"."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5699548271856775808" name="account_sync_off">"Ο συγχρονισμός του λογαριασμού είναι απενεργοποιημένος."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"Φόρτωση λίστας φακέλων…"</string>
+    <string msgid="8337750045270269649" name="accounts_welcome">"Μπορείτε να ρυθμίσετε τον λογαριασμό σας σε λίγα μόλις βήματα."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ μη αναγνωσμένα"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"Επιλογή φακέλου"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"Επιλογή λογαριασμού"</string>
+    <string msgid="2162808366829269770" name="add_account">"Προσθήκη λογαριασμού"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Προσθ. κρυφής κοιν."</string>
+    <string msgid="504861315425773180" name="add_cc_label">"Προσθήκη Κοιν./Κρ.κοιν."</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Επισύναψη αρχείου"</string>
+    <string msgid="6060201715848652940" name="add_label">"Προσθήκη φακέλου"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"Επισύναψη εικόνας"</string>
+    <string msgid="2866003744391266498" name="add_star">"Επισήμανση με αστέρι"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"Επισύναψη βίντεο"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> μέσω <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"Όλοι οι φάκελοι"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"Πάντα εμφ. εικ. από αυτόν τον αποστολέα"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"Αυτ. εμφ. εικ. από αυτόν τον αποστολέα."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="5815426892327290362" name="app_name">"Μήνυμα ηλεκτρονικού ταχυδρομείου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="847250094775910499" name="archive">"Αρχειοθέτηση"</string>
+    <string msgid="7533995360704366325" name="archived">"Αρχειοθετήθηκε"</string>
+    <string msgid="4267189489654642035" name="attached_message">"Συνημμένο μήνυμα"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"Έγγραφο"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"Υπολογιστικό φύλλο"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Παρουσίαση"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"Ήχος"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"Εικόνα"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="7155322700141145123" name="attachment_not_found">"Δεν ήταν δυνατή η λήψη αυτής της επισύναψης."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5544874374971562759" name="attachment_text">"Κείμενο"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"Δυστυχώς, δεν μπορείτε να αποθηκεύσετε ή να ανοίξετε αυτόν τον τύπο συνημμένου αρχείου."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"Αρχείο <ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"Βίντεο"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"Συνημμένα"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"Ορισμός προτίμησης αυτόματης προώθησης\n(μετά τη διαγραφή, κ.λπ.)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"Αυτόματη συνέχιση"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"Επιλογή οθόνης που εμφανίζεται μετά τη διαγραφή ενός μηνύματος"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"Ο αυτόματος συγχρονισμός είναι απενεργοποιημένος."</string>
+    <string msgid="3098643138241111579" name="bcc">"Κρυφ. κοιν."</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"Κρυφή κοιν.: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"Ακύρωση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="6967435583794021865" name="cancel_action">"Ακύρωση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="4651201258272223650" name="cancel_attachment">"Ακύρωση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Δεν είναι δυνατή η μετακίνηση επειδή η επιλογή περιλαμβάνει πολλούς λογαριασμούς."</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"Η μετακίνηση δεν υποστηρίζεται σε λογαριασμούς POP3."</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Τα μηνύματα στους φακέλους \"Πρόχειρα\", \"Προς αποστολή\" και \"Απεσταλμένα\" δεν είναι δυνατό να μετακινηθούν."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Δεν είναι δυνατή η μετακίνηση επειδή η επιλογή περιλαμβάνει πολλούς λογαριασμούς."</string>
+    <string msgid="7017720927911078193" name="cc">"Κοιν."</string>
+    <string msgid="374493748526504562" name="cc_attribution">"Κοιν.: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"Κοιν.: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"Αλλαγή φακέλων"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"Αλλαγή ρυθμίσεων συγχρονισμού"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"Γίνεται έλεγχος για αλληλογραφία"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"Κοινή χρήση μέσω"</string>
+    <string msgid="3184687982186479442" name="clear">"Διαγραφή"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"Διακόψτε την εμφάνιση ενσωματωμένων εικόνων από αποστολείς που έχετε προηγουμένως επιτρέψει."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"Να διαγραφούν οι εγκρίσεις εικόνας;"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"Διαγραφή εγκρίσεων εικόνας"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"Σύμπτυξη στοιχείων παραλήπτη"</string>
+    <string msgid="1473559896062432878" name="compose">"Σύνταξη"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"Να απορριφθεί αυτό το μήνυμα;"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="9151965975158906286" name="confirm_response">"Αποστολή απάντησης..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="3221546155385562874" name="confirm_send_message">"Αποστολή του μηνύματος;"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"Το κύριο μέρος του μηνύματος δεν περιέχει κείμενο."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"Το θέμα του μηνύματος δεν περιέχει κείμενο."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"Αποστολή μηνύματος;"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"Εμφάνιση στοιχείων επικοινωνίας για τον χρήστη <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"Εμφάνιση στοιχείων επικοινωνίας"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> σχετικά με <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> στις <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> σχετικά με <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> στις <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"Προσθήκη επαφής"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"Αντιγραφή"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"Αντιγραφή διεύθυνσης URL συνδέσμου"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"Κλήση..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"Αποστολή σχολίων"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"Βοήθεια"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"Χάρτης"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"Άνοιγμα στο πρόγραμμα περιήγησης"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"Κοινή χρήση συνδέσμου"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS…"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"Μεταφέρθηκε στο φάκελο <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Αγγίξτε την εικόνα ενός αποστολέα για να επιλέξετε αυτήν τη συνομιλία."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"Αντιγραφή διεύθυνσης ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="530057841276106843" name="copy_number">"Αντιγραφή αριθμού τηλεφώνου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="3062715563215392251" name="create_action">"Δημιουργία νέου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"Αποστ. μην. ως:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"Ημερομηνία: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"Σήμερα, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"Χθες, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="5175710493691536719" name="debug_title">"Εντοπισμός σφαλμάτων"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="844871204175957681" name="delete">"Διαγραφή"</string>
+    <string msgid="2757349161107268029" name="deleted">"Διαγράφηκε"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="426727923791430306" name="device_admin_description">"Ενεργοποιεί πολιτικές ασφαλείας καθορισμένες από διακομιστή"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"Διεύθυνση ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Η απενεργοποίηση της αρμοδιότητας της εφαρμογής ηλεκτρονικού ταχυδρομείου να διαχειρίζεται τη συσκευή σας, θα διαγράψει όλους τους λογαριασμούς ηλεκτρονικού ταχυδρομείου στους οποίους είναι απαραίτητη, καθώς και τα μηνύματα ηλεκτρονικού ταχυδρομείου, τις επαφές, τα συμβάντα ημερολογίου και άλλα δεδομένα."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="1714960202994370243" name="discard">"Απόρριψη"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"Απόρριψη πρόχειρων"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Παράβλεψη συμβουλής"</string>
+    <string msgid="3079981801778027540" name="done">"Τέλος"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="7497990549515580249" name="done_action">"Τέλος"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="7418568915429156518" name="download_again">"Λήψη ξανά"</string>
+    <string msgid="442019281547315527" name="download_failed">"Λήψη απέτυχε.Πατήστε ξανά"</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"Κλείσιμο συρταριού πλοήγησης"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"Άνοιγμα συρταριού πλοήγησης"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="6479106007607928450" name="edit_quick_response_dialog">"Γρήγορη απάντηση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="6064497180615519589" name="empty_spam">"Άδειασμα ανεπιθύμητων μηνυμάτων"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Άδειασμα ανεπιθύμητων μηνυμάτων;"</string>
+    <string msgid="652435297593538512" name="empty_trash">"Άδειασμα κάδου απορριμάτων"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Άδειασμα κάδου απορριμάτων;"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Ενεργοποιήστε τον στην ενότητα <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g> ."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="1190783774800310346" name="exchange_name">"Εταιρικός"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"Ανάπτυξη στοιχείων παραλήπτη"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"Αδύνατη η φόρτωση της εικόνας"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"Αποστολή σχολίων"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"Ανάκτηση συνημμένου"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"Εικονίδιο φακέλου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="860241987640527156" name="folder_picker_title">"Επιλογέας φακέλου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="1047474677580149436" name="folder_removed">"Καταργήθηκε από το <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"Φάκελος email"</string>
+    <string msgid="6822914459902983767" name="forward">"Προώθηση"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- Προωθημένο μήνυμα ----------&lt;br>Από: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Ημερομηνία: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Θέμα: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Προς: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Προωθημένο μήνυμα ----------"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Δεν ήταν δυνατή η προώθηση μίας ή περισσότερων επισυνάψεων."</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"Η επισύναψη δεν προωθήθηκε"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="2454519463223197231" name="from_heading">"Από: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"Επιβεβαίωση πριν από τη διαγραφή"</string>
+    <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"Μηνύματα"</string>
+    <string msgid="4548277349553989930" name="general_preference_confirm_send_label">"Επιβεβαίωση πριν την αποστολή"</string>
+    <string msgid="2695471027185506093" name="general_preference_confirm_send_summary">"Μηνύματα"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"Μέγεθος κειμένου μηνύματος"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"Πολύ μεγάλο"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"Μέγεθος κειμένου μηνύματος"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"Μεγάλο"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Κανονικό"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Μικρό"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Πολύ μικρό"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"Δεν ήταν δυνατή η επισύναψη του αρχείου."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="8243724566056800991" name="header_label_general_preferences">"Γενικές ρυθμίσεις"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="7873089811705257882" name="help_and_info">"Βοήθεια"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ Απόκρυψη αναφερόμενου κειμένου"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"Απόκρυψη φακέλων"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"Παράβλεψη, αξιόπιστο μήνυμα"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"Εισερχόμενα"</string>
+    <string msgid="6009817562073541204" name="info">"Πληροφορίες"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"Η διεύθυνση <ns1:g id="WRONGEMAIL">%s</ns1:g> δεν είναι έγκυρη."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"Φόρτωση περισσότερων"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"Φόρτωση..."</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"Γίνεται φόρτωση…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="2169365211566829350" name="login_failed_ticker">"Η σύνδεση στον λογαριασμό <ns1:g id="ACCOUNT_NAME">%s</ns1:g> δεν ήταν επιτυχής."</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"Δεν ήταν δυνατή η σύνδεση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"Αγγίξτε παρατεταμένα για να επιλέξετε μια συνομιλία και, στη συνέχεια αγγίξτε για να επιλέξετε περισσότερες."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Συνδυασμένη προβολή"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Πρόχειρα"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"Εισερχόμενα"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"Ανεπιθύμητα"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"Εξερχόμενα"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"Απεσταλμένα"</string>
+    <string msgid="7788694947644186069" name="mailbox_name_display_starred">"Με αστέρι"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"Κάδος απορριμμάτων"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"Μη αναγνωσμένα"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"Επιλογές συγχρονισμού"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"Επιλογές συγχρονισμού (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"Αριθμός ημερών μηνυμάτων ηλεκτρονικού ταχυδρομείου για συγχρονισμό"</string>
+    <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"Συγχρονισμός αυτού του φακέλου"</string>
+    <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"Θα γίνεται λήψη των μηνυμάτων κατά τη σύνδεση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="6743983544685622800" name="manual_sync">"Συγχρ. τώρα"</string>
+    <string msgid="6904096897104265870" name="mark_important">"Επισήμανση ως σημαντικής"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"Επισήμανση ως μη σημαντικής"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"Αναφορά μη ανεπιθύμητου"</string>
+    <string msgid="8438349154394313195" name="mark_read">"Επισήμανση ως αναγνωσμένης"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"Επισήμανση ως μη αναγνωσμένης"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"εγώ"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"εγώ"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"Αλλαγή φακέλων"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"Σύνταξη"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="2871906096248843471" name="menu_folder_options">"Επιλογές συγχρονισμού"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"Ρυθμίσεις φακέλων"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"Μετακίνηση σε"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"Μεταφορά στα Εισερχόμενα"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"Αποθ. όλων"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"Κοινή χρήση"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"Κ.χρ. όλων"</string>
+    <string msgid="5297197523031943248" name="menu_search">"Αναζήτηση"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"Ρυθμίσεις"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"Επαναφορά αυτόμ. μεγέθους"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Αρχικό μήνυμα --------\nΘέμα: <ns1:g id="SUBJECT">%1$s</ns1:g>\nΑπό: <ns1:g id="SENDER">%2$s</ns1:g>\nΠρος: <ns1:g id="TO">%3$s</ns1:g>\nΚοιν.: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Εισαγάγετε γρήγορη απάντηση"</string>
+    <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"Εισαγωγή γρήγορης απάντησης"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"Παρουσιάστηκε κάποιο σφάλμα κατά την αποκωδικοποίηση του μηνύματος."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="2183394728494962332" name="message_details_title">"Λεπτομέρειες μηνύματος"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"Το μήνυμα απορρίφθηκε."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"Ναι"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"Προβολή στο Ημερολόγιο"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"Όχι"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"Θα παρευρεθείτε;"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"Ίσως"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"Πρόσκληση ημερολογίου"</string>
+    <string msgid="7073947895562277576" name="message_saved">"Το μήνυμα αποθηκεύτηκε ως πρόχειρο."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="7906875687519445185" name="message_view_attachment_background_load">"Ένα ή περισσότερα συνημμένα στο προωθημένο μήνυμά σας θα ληφθούν πριν την αποστολή."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="717244337981816703" name="more_info_attachment">"Πληροφορίες"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Μετακίνηση σε"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"Σίγαση"</string>
+    <string msgid="2125579009654728299" name="network_error">"Δεν υπάρχει σύνδεση"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"Νέο μήνυμα από <ns1:g id="SENDER">%s</ns1:g>. Εμφάνιση."</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> νέα μηνύματα"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="3931301986364184415" name="next_action">"Επόμενο"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="427548507197604096" name="no">"Όχι"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"Δεν υπάρχει εφαρμογή για το άνοιγμα αυτού του συνημμένου για προβολή."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="5559527390337162819" name="no_conversations">"Δεν υπάρχουν μηνύματα."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"Συγχρ. τον φάκελο για προβ. συνομ."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"Ο λογαριασμός δεν συγχρονίστηκε"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"Αρχειοθέτηση"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"Διαγραφή"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"Κατάργηση ετικέτας"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"Απάντηση"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"Απάντηση σε όλους"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"Αρχειοθετημένο"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"Διαγραμμένο"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Η ετικέτα καταργήθηκε"</string>
+    <string msgid="8339355733816891026" name="ok">"OK"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="8365197396795675617" name="okay_action">"ΟΚ"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Λήγει ο κωδικός κλειδ. οθόνης"</string>
+    <string msgid="4293446611405084436" name="password_expire_warning_dialog_content_fmt">"Θα πρέπει να αλλάξετε σύντομα το PIN ή τον κωδικό πρόσβασης της οθνόνης κλειδώματος, διαφορετικά τα δεδομένα του λογαριασμού <ns1:g id="ACCOUNT">%s</ns1:g> θα διαγραφούν. Θέλετε να το αλλάξετε τώρα;"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"Λήγει ο κωδικός κλειδώματος οθόνης"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"Ο λογαριασμός \"<ns1:g id="ACCOUNT">%s</ns1:g>\" απαιτεί να αλλάξετε το PIN ή τον κωδικό κλειδώματος οθόνης."</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"Ο κωδ. κλειδ. οθόνης έληξε"</string>
+    <string msgid="6538210092073931079" name="password_expired_dialog_content_fmt">"Γίνεται διαγραφή των δεδομένων του λογαριασμού <ns1:g id="ACCOUNT">%s</ns1:g> από τη συσκευή σας. Μπορείτε να τα επαναφέρετε αλλάζοντας το PIN ή τον κωδικό πρόσβασης της οθόνης κλειδώματος. Θέλετε να το αλλάξετε τώρα;"</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"Ο κωδικός κλειδώματος οθόνης έληξε"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"Το PIN ή ο κωδικός πρόσβασης κλειδώματος οθόνης έχουν λήξει."</string>
+    <string msgid="6296566558584670348" name="permission_access_provider_desc">"Επιτρέπει στην εφαρμογή την πρόσβαση στη βάση δεδομένων του ηλεκτρονικού ταχυδρομείου σας, συμπεριλαμβανομένων των ληφθέντων μηνυμάτων, των απεσταλμένων, των ονομάτων χρηστών και των κωδικών πρόσβασης."</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"Πρόσβαση στα δεδομένα παρόχου ηλεκτρονικού ταχυδρομείου"</string>
+    <string msgid="3394721085306308972" name="permission_read_attachment_desc">"Επιτρέπει στην εφαρμογή την ανάγνωση των συνημμένων ηλεκτρονικού ταχυδρομείου."</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"Ανάγνωση επισυνάψεων μηνύματος ηλεκτρονικού ταχυδρομείου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5171715391553213328" name="phone">"τηλέφωνo"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"Αδύνατη η φόρτωση της εικόνας"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g> από <ns1:g id="COUNT">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"Παρακαλώ περιμένετε…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="627405158087482302" name="policy_calendar_age">"Περιορισμός αριθμού συγχρον. συμβάντων ημερολογίου"</string>
+    <string msgid="5744573062306937302" name="policy_dont_allow_camera">"Να μην επιτρ. η χρήση της κάμ. της συσκ."</string>
+    <string msgid="7144148367145424963" name="policy_email_age">"Περιορισμός αριθμού συγχρον. μηνυμ. ηλ. ταχυδρομ."</string>
+    <string msgid="1248123255253649199" name="policy_password_expiration">"Απαιτείται η λήξη των κωδικών πρόσβασης"</string>
+    <string msgid="5743544498302303181" name="policy_password_history">"Περιορισμός της χρήσης πρόσφατων κωδικών"</string>
+    <string msgid="7177274900480984702" name="policy_require_password">"Απαιτείται κρυπτογράφηση συσκευής"</string>
+    <string msgid="414869965358468080" name="policy_screen_timeout">"Απαιτείται αδρ. συσκ. για κλείδ. οθόνης."</string>
+    <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
+    <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"Εικόνα αποστολέα"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Ενέργειες αρχειοθέτησης και διαγραφής"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"Ενέργειες αρχειοθέτησης και διαγραφής"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"Εμφάνιση δίπλα στο όνομα στη λίστα συνομιλιών"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"Εικόνα αποστολέα"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"Στη λίστα συνομιλιών"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"Σύρετε για αρχειοθέτηση"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"Ολίσθηση για διαγραφή"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"Χρήση ως προεπιλογή για απαντήσεις μηνυμάτων"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"Απάντηση σε όλους"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"Υπογραφή"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Δεν ορίστηκε"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"Υπογραφή"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"Προεπισκ."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181616311579820981" name="previous_action">"Προηγούμενο"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"Μόνο ορισμένοι λογαριασμοί \"Plus\" περιλαμβάνουν πρόσβαση POP και επιτρέπουν στο πρόγραμμα αυτό να συνδεθεί. Εάν δεν μπορείτε να συνδεθείτε με τη σωστή διεύθυνση ηλεκτρονικού ταχυδρομείου και τον κωδικό πρόσβασης, ενδέχεται να μην έχετε πληρωμένο λογαριασμό \"Plus\". Εκκινήστε το πρόγραμμα περιήγησης ιστού, για να αποκτήσετε πρόσβαση σε αυτούς τους λογαριασμούς ηλεκτρονικού ταχυδρομείου."</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"Πριν ρυθμίσετε αυτόν τον λογαριασμό ηλεκτρονικού ταχυδρομείου, επισκεφτείτε τον ιστότοπο T-Online και δημιουργήστε έναν κωδικό πρόσβασης για πρόσβαση σε ηλεκτρονικό ταχυδρομείο POP3."</string>
+    <string msgid="3426057697353380951" name="quick_1">"Ευχαριστούμε!"</string>
+    <string msgid="4188036352885736617" name="quick_2">"Καλή ιδέα!"</string>
+    <string msgid="8061819976353395585" name="quick_3">"Θα το διαβάσω αργότερα και θα επικοινωνήσω μαζί σου."</string>
+    <string msgid="3988974084396883051" name="quick_4">"Ας κανονίσουμε μία συνάντηση για να συζητήσουμε αυτό το θέμα."</string>
+    <string msgid="3960050972306132367" name="quick_responses_empty_view">"Δεν υπάρχουν γρήγορες απαντήσεις."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="7250749398672037355" name="quoted_text">"Συμπερίληψη του αναφερόμενου κειμένου"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"Αναφερόμενο κείμενο"</string>
+    <string msgid="219566857950091332" name="read_string">"αναγνωσμένη συνομιλία"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"Πρόσφατοι φάκελοι"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"Σφάλμα παραλήπτη"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"Προσθέστε τουλάχιστον έναν παραλήπτη."</string>
+    <string msgid="490989798005710951" name="refresh">"Ανανέωση"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"Κατάργηση από το <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"Κατάργηση αστεριού"</string>
+    <string msgid="2032052598496088561" name="reply">"Απάντηση"</string>
+    <string msgid="7257248094625487557" name="reply_all">"Απάν. σε όλ."</string>
+    <string msgid="717207316577386788" name="reply_attribution">"Στις <ns1:g id="DATE">%s</ns1:g>, ο χρήστης <ns1:g id="PERSON">%s</ns1:g> έγραψε:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"Απάντ. σε: "</string>
+    <string msgid="5417082746232614958" name="report">"Αναφορά"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"Αναφορά ηλεκτρονικού ψαρέματος"</string>
+    <string msgid="6467567747975393907" name="report_spam">"Αναφορά ως ανεπιθύμητης"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"Ο συγχρονισμός στο παρασκήνιο για αυτόν το λογαριασμό είναι απενεργοποιημένος κατά την περιαγωγή."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="6797117334768201180" name="respond_inline">"Απάντηση επί τόπου"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"Επεξεργασία"</string>
+    <string msgid="4515885444824418022" name="retry">"Επανάληψη"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="1988862706623227093" name="save_action">"Αποθήκευση"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5360128849867863132" name="save_attachment">"Αποθήκευση"</string>
+    <string msgid="5555744208032445632" name="save_draft">"Αποθήκευση προχείρου"</string>
+    <string msgid="6660844285730790469" name="saved">"Αποθηκεύτηκε, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"Αποθήκευση…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="2200412192574686497" name="search_hint">"Αναζήτηση ηλεκτρονικού ταχυδρομείου"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="4669917471897026269" name="search_results_header">"Αποτελέσματα"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"Αναζήτηση…"</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"Η αναζήτηση δεν υποστηρίζεται σε αυτόν τον λογαριασμό."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"Άλλαξαν οι ρυθμίσεις ασφαλείας για τον Λογαριασμό \"<ns1:g id="ACCOUNT">%s</ns1:g>\". Δεν απαιτείται ενέργεια χρήστη."</string>
+    <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"Η ενημέρωση των ρυθμίσεων ασφαλείας είναι απαραίτητη για τον λογαριασμό \"<ns1:g id="ACCOUNT">%s</ns1:g>\"."</string>
+    <string msgid="443490921895642130" name="security_notification_content_change_title">"Οι πολιτικές ασφαλείας άλλαξαν"</string>
+    <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"Δεν είναι δυνατή η συμμόρφωση με τις πολιτικές ασφαλείας"</string>
+    <string msgid="2429762903228690154" name="security_notification_content_update_title">"Απαιτείται ενημέρωση ασφαλείας"</string>
+    <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"Δεν είναι δυνατός ο συγχρονισμός του Λογαριασμού \"<ns1:g id="ACCOUNT">%s</ns1:g>\" λόγω απαιτήσεων ασφαλείας."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="4711524151968942082" name="select_attachment_type">"Επιλογή τύπου συνημμένου"</string>
+    <string msgid="8242003661397555986" name="send">"Αποστολή"</string>
+    <string msgid="750908595144529579" name="send_failed">"Μήνυμα δεν εστάλη."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"Οι εικόνες δεν θα εμφανίζονται αυτόματα."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"Γίνεται αποστολή…"</string>
+    <string msgid="1498583163419122128" name="sending_message">"Αποστολή μηνύματος..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="2668629667423320684" name="sent_folder_selection_title">"Επιλογή φακέλου με απεσταλμένα στοιχεία από τον διακομιστή για τον λογαριασμό <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"Ρυθμίσεις"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"Όνομα συντόμευσης φακέλου"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ Εμφάνιση αναφερόμενου κειμένου"</string>
+    <string msgid="1875700481186331432" name="show_images">"Εμφάνιση εικόνων"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"Εμφάνιση <ns1:g id="NUMBER">%1$s</ns1:g> ακόμη φακέλων"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"Σύνδεση"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"Σίγαση"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="2611654064403817391" name="status_network_error">"Πρόβλημα σύνδεσης."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="3262760336059073446" name="storage">"Χώρος αποθήκευσης"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Θέμα"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Σύρετε προς τα κάτω για ανανέωση"</string>
+    <string msgid="7368819509040597851" name="sync_error">"Δεν ήταν δυνατός ο συγχρονισμός."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"Η συσκευή σας δεν διαθέτει επαρκή χώρο αποθήκευσης για συγχρονισμό."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"Δεν ήταν δυνατή η δημιουργία του λογαριασμού. Προσπαθήστε ξανά."</string>
+    <string msgid="7071006714702094762" name="system_folders_sent_dlg">"Επιλογή του φακέλου σας με τα απεσταλμένα στοιχεία από τον διακομιστή"</string>
+    <string msgid="5529250353569545181" name="system_folders_sent_summary">"Επιλογή του φακέλου σας με τα απεσταλμένα στοιχεία από τον διακομιστή"</string>
+    <string msgid="4265722817877075367" name="system_folders_sent_title">"Φάκελος απεσταλμένων στοιχείων"</string>
+    <string msgid="2934406494244347991" name="system_folders_title">"Φάκελοι συστήματος"</string>
+    <string msgid="4461220303400833402" name="system_folders_trash_dlg">"Επιλογή του φακέλου απορριμάτων του διακομιστή σας"</string>
+    <string msgid="1258919809198485244" name="system_folders_trash_summary">"Επιλογή του φακέλου απορριμάτων του διακομιστή σας"</string>
+    <string msgid="8470058000681188327" name="system_folders_trash_title">"Φάκελος απορριμμάτων"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="7956969657216748522" name="tablet">"tablet"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"Αγγίξτε για ρύθμιση"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"Συγχρονισμός φακέλου"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"Αγγίξτε για ενεργοποίηση."</string>
+    <string msgid="4392614766835725698" name="to">"Προς"</string>
+    <string msgid="1142876841308812954" name="to_heading">"Προς: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Δεν έγινε επισύναψη του αρχείου. Το όριο <ns1:g id="MAXSIZE">%1$s</ns1:g> εξαντλήθηκε."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Δεν έγινε επισύναψη ενός ή περισσότερων αρχείων. Όριο <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"Δεν είναι δυνατή η επισύναψη του αρχείου που υπερβαίνει το όριο <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string msgid="8052880079616386185" name="trash_folder_selection_title">"Επιλ.φακέλου απορ.διακομ.για <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-el/values.xml -->
+    <eat-comment/>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Θα γίνει συγχρονισμός όλων των αλλαγών που πραγματοποιείτε σε όλες τις εφαρμογές και τους λογαριασμούς, όχι μόνο στο Gmail, στον ιστό, σε άλλες συσκευές και στο <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g> σας."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Ενεργοποίηση"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"Ενεργοποίηση αυτόματου συγχρονισμού;"</string>
+    <string msgid="6070869718469782251" name="undo">"Αναίρεση"</string>
+    <string msgid="588180203444398297" name="unread_string">"μη αναγνωσμένη συνομιλία"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> μη απεσταλμένα σε <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"μέσω <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"Προβολή περισσότερων συνομιλιών"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"Ο λογαριασμός αυτός δεν έχει ρυθμιστεί για αυτόματο συγχρονισμό.\nΑγγίξτε "<b>"Συγχρ. τώρα"</b>" για συγχρονισμό της αλληλογραφίας μία φορά ή "<b>"Αλλαγή ρυθμίσεων συγχρονισμού"</b>" για να ρυθμίσετε το λογαριασμό για αυτόματο συγχρονισμό της αλληλογραφίας."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"Η αλληλογραφία θα εμφανιστεί σύντομα."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"Αναμονή για συγχρονισμό"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"Ναι"</string>
+</resources>

@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"رد"</item>
+    <item msgid="4085029907540221568">"رد على الكل"</item>
+    <item msgid="857480048798815437">"إعادة توجيه"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"نص صغير جدًا"</item>
+    <item msgid="4415205108584620118">"نص صغير"</item>
+    <item msgid="4550219696381691112">"الحجم العادي للنص"</item>
+    <item msgid="6227813549949219991">"نص كبير"</item>
+    <item msgid="1197917420815786571">"نص ضخم"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"النظام"</item>
+    <item msgid="6593672292311851204">"مستخدمة بشكل متكرر"</item>
+    <item msgid="3584541772344786752">"جميع المجلدات"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"أحدث"</item>
+    <item msgid="5562093094216840213">"أقدم"</item>
+    <item msgid="3331655314944797957">"قائمة المحادثات"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"عرض الأرشيف فقط"</item>
+    <item msgid="5737880287951287278">"عرض الحذف فقط"</item>
+    <item msgid="4279948809971752573">"عرض الأرشيف والحذف"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"عرض المحادثة الأحدث بعد الحذف"</item>
+    <item msgid="732746454445519134">"عرض المحادثة الأقدم بعد الحذف"</item>
+    <item msgid="2189929276292165301">"عرض قائمة المحادثات بعد الحذف"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"عرض الأرشيف فقط"</item>
+    <item msgid="8350973578419775975">"عرض الحذف فقط"</item>
+    <item msgid="2967059853409454648">"عرض الأرشيف والحذف"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"تم بنجاح"</item>
+    <item msgid="7109065688039971961">"لا يتوفر اتصال."</item>
+    <item msgid="8437496123716232060">"تعذر تسجيل الدخول."</item>
+    <item msgid="1651266301325684887">"خطأ أمنى."</item>
+    <item msgid="1461520171154288533">"تعذرت المزامنة"</item>
+    <item msgid="4779810016424303449">"خطأ داخلي"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> مقروءة"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"هل تريد وضع هذه المحادثة في الأرشيف؟"</item>
+    <item msgid="4713469868399246772" quantity="other">"هل تريد وضع هذه المحادثات البالغ عددها <ns1:g id="COUNT">%1$d</ns1:g> في الأرشيف؟"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"هل تريد حذف هذه المحادثة؟"</item>
+    <item msgid="930334208937121234" quantity="other">"هل تريد حذف هذه المحادثات البالغ عددها <ns1:g id="COUNT">%1$d</ns1:g>؟"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"هل تريد إلغاء المسودات من هذه المحادثة؟"</item>
+    <item msgid="4173815457177336569" quantity="other">"هل تريد إلغاء هذه المسودات البالغ عددها <ns1:g id="COUNT">%1$d</ns1:g>؟"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"تمت أرشفة &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+    <item msgid="3012054504370916482" quantity="other">"تمت أرشفة &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"تم حذف &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+    <item msgid="8630099095360065837" quantity="other">"تم حذف &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"تم تغيير المجلد."</item>
+    <item msgid="8918589141287976985" quantity="other">"تم تغيير المجلدات."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"تم تجاهل &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+    <item msgid="1941193356069303587" quantity="other">"تم تجاهل &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"تم وضع علامة على &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> تشير إلى عدم الأهمية."</item>
+    <item msgid="6662213740575340397" quantity="other">"تم وضع علامة على &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> تشير إلى عدم الأهمية."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"تم الإبلاغ عن &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> كمحادثة ليست ضمن المحادثات غير المرغوب فيها."</item>
+    <item msgid="2250720080221922267" quantity="other">"تم الإبلاغ عن &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> كمحادثات ليست ضمن المحادثات غير المرغوب فيها."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"تم الإبلاغ عن &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> كمحادثة تهدف إلى التصيّد."</item>
+    <item msgid="3678624994662639442" quantity="other">"تم الإبلاغ عن &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> كمحادثات تهدف إلى التصيّد."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"تم الإبلاغ عن &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> كغير مرغوب فيها."</item>
+    <item msgid="5071459475389411227" quantity="other">"تم الإبلاغ عن &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> كغير مرغوب فيها."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"جارٍ إلغاء تمييز محادثة <ns1:g id="COUNT">%1$d</ns1:g> بنجمة."</item>
+    <item msgid="2222365088907519938" quantity="other">"جارٍ إلغاء تمييز <ns1:g id="COUNT">%1$d</ns1:g> من المحادثات بنجمة."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"مسودة"</item>
+    <item msgid="6961049507579977505" quantity="other">"مسودات"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"سيتم حذف <ns1:g id="COUNT">%1$d</ns1:g> رسالة نهائيًا."</item>
+    <item msgid="2182899395748020953" quantity="other">"سيتم حذف هذه الرسائل البالغ عددها <ns1:g id="COUNT">%1$d</ns1:g> نهائيًا."</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> بايت"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> بايت"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> غيغابايت"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> غيغابايت"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> كيلوبايت"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> كيلوبايت"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> ميغابايت"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> ميغابايت"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"نقل المحادثة"</item>
+    <item msgid="1685896770174368261" quantity="other">"نقل <ns1:g id="ID_1">%1$d</ns1:g> من المحادثات"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"نقل رسالة"</item>
+    <item msgid="371256717624461324" quantity="other">"نقل رسائل"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> من الرسائل الجديدة. عرض."</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"الرسائل القديمة: <ns1:g id="COUNT">%1$d</ns1:g>"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"إنك تستخدم اسم المستخدم هذا للحساب \"<ns1:g id="DUPLICATE">%s</ns1:g>\" فعلاً."</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"حساب متكرر"</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"المسودات"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"صندوق البريد"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"البريد الصادر"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"مميّزة بنجمة"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"تبدأ كلمة المرور هذه وتنتهي بحرف مسافة واحد أو أكثر. لا تتوافق العديد من الخوادم مع كلمات المرور التي تحتوي على مسافات."</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"يتطلب \"<ns1:g id="ACCOUNT">%s</ns1:g>\" تحديث إعدادات الأمان."</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"تحديث أمني"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"‏يتطلب الخادم <ns1:g id="SERVER">%s</ns1:g> أن تسمح له بالتحكم في بعض ميزات الأمان في جهاز Android عن بعد."</string>
+    <string msgid="3511543138560418587" name="account_security_title">"أمان الجهاز"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"إعدادات الحساب"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"تنزيل المرفقات"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"‏تنزيل مرفقات الرسائل الأخيرة تلقائيًا عبر Wi-Fi"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"استخدام البيانات"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"اسم الحساب"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"الردود السريعة"</string>
+    <string msgid="8056686122888722591" name="account_settings_edit_quick_responses_summary">"تعديل النص الذي تدرجه بشكل متكرر عند إنشاء رسالة إلكترونية"</string>
+    <string msgid="7429582254433588882" name="account_settings_enforced_label">"السياسات المطبقة"</string>
+    <string msgid="8140860420440447771" name="account_settings_enforced_summary">"بلا"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"أتريد إلغاء أي تغييرات غير محفوظة؟"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"إعدادات البريد الوارد"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"اسم المستخدم وكلمة المرور وإعدادات خادم الوارد الأخرى"</string>
+    <string msgid="8849649646111167377" name="account_settings_login_dialog_content_fmt">"اسم المستخدم أو كلمة المرور للحساب <ns1:g id="ACCOUNT">%s</ns1:g> غير صحيح؟. هل تريد تحديثهما الآن؟"</string>
+    <string msgid="4266359321648406752" name="account_settings_login_dialog_reason_fmt">"أخفق تسجيل دخولك إلى <ns1:g id="ACCOUNT">%s</ns1:g> ؛ رسالة الخادم: <ns1:g id="REASON">%s</ns1:g> هل تريد تحديث اسم المستخدم وكلمة المرور؟"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"تعذر تسجيل الدخول"</string>
+    <string msgid="4322235101687302250" name="account_settings_mail_check_frequency_label">"تكرار المزامنة"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"الاسم"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"إعدادات التنبيه"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"إشعارات البريد إلكتروني"</string>
+    <string msgid="8134339460923068254" name="account_settings_notify_summary">"إرسال إشعار عند وصول بريد إلكتروني"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"إعدادات البريد الصادر"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"اسم المستخدم وكلمة المرور وإعدادات خادم الصادر الأخرى"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5277032997773498476" name="account_settings_param">"إعدادات الحساب"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="6292833636418641840" name="account_settings_policies">"سياسات الأمان"</string>
+    <string msgid="1104680719299842829" name="account_settings_retry_label">"محاولة المزامنة"</string>
+    <string msgid="2703599639846201913" name="account_settings_retry_summary">"المس هنا لمزامنة الحساب"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"اختيار نغمة الرنين"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"إعدادات الخادم"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"معدل المزامنة والتنبيهات وما إلى ذلك"</string>
+    <string msgid="6855333393468628003" name="account_settings_sync_calendar_enable">"مزامنة التقويم"</string>
+    <string msgid="7606340353079301703" name="account_settings_sync_calendar_summary">"مزامنة حدث التقويم لهذا الحساب"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"مزامنة جهات الاتصال"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"مزامنة جهات الاتصال لهذا الحساب"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"مزامنة البريد الإلكتروني"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"مزامنة البريد الإلكتروني لهذا الحساب"</string>
+    <string msgid="1954091071454235577" name="account_settings_unsupported_label">"سياسات غير معتمدة"</string>
+    <string msgid="2107633813351863608" name="account_settings_unsupported_summary">"بلا"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"اهتزاز"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"نوع الحساب"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"ما نوع هذا الحساب؟"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"إعداد الحساب"</string>
+    <string msgid="8354874879956702097" name="account_setup_autodiscover_dlg_authfail_message">"تأكد من مدى صحة اسم المستخدم وكلمة المرور وإعدادات الحساب."</string>
+    <string msgid="7365992662150541370" name="account_setup_autodiscover_dlg_authfail_title">"مشكلة في إعداد الحساب"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"عنوان البريد الإلكتروني"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"حساب بريد إلكتروني"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"إعداد يدوي"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"كلمة المرور"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"إعداد الحساب"</string>
+    <string msgid="2869198335297585862" name="account_setup_check_settings_check_incoming_msg">"جارٍ التحقق من إعدادات الخادم…"</string>
+    <string msgid="4566131393776891419" name="account_setup_check_settings_check_outgoing_msg">"‏جارٍ التحقق من إعدادات smtp…"</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"جارٍ استرداد معلومات الحساب…"</string>
+    <string msgid="6235569720466839946" name="account_setup_creating_account_msg">"جارٍ إنشاء الحساب..."</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"شهادة العميل"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"معرّف جهاز الجوال"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"بلا"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"إزالة"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"تحديد"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"استخدام شهادة العميل"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"ليس لديك إذن للمزامنة مع هذا الخادم. اتصل بمشرف الخادم للحصول على مزيد من المعلومات."</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"لا يتيح الخادم استخدام أساليب المصادقة."</string>
+    <string msgid="3563840279690749547" name="account_setup_failed_certificate_inaccessible">"الشهادة غير صالحة أو يتعذر الدخول إليها."</string>
+    <string msgid="2689944595775206006" name="account_setup_failed_certificate_required">"يستلزم الأمر شهادة عميل. هل تريد الاتصال بالخادم باستخدام شهادة عميل؟"</string>
+    <string msgid="6531658092540248067" name="account_setup_failed_check_credentials_message">"لقد استجاب الخادم بخطأ. تحقق من اسم المستخدم وكلمة المرور ثم أعد المحاولة."</string>
+    <string msgid="426627755590431364" name="account_setup_failed_dlg_auth_message">"اسم المستخدم غير صحيح أو كلمة مرور غير صحيحة."</string>
+    <string msgid="2081384892947238930" name="account_setup_failed_dlg_auth_message_fmt">"أخفق تسجيل الدخول.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"لا يمكن الاتصال بالخادم بأمان."</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"لا يمكن الاتصال بالخادم بأمان.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"تعديل التفاصيل"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"لا يمكن الاتصال بالخادم."</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"لا يمكن الاتصال بالخادم.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"تعذر الإنهاء"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"تعذر فتح الاتصال بالخادم."</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"لقد كتبت عنوان خادم غير صحيح أو أن الخادم يتطلب إصدار بروتوكول لا يتوافق مع البريد الإلكتروني."</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"تعذر الاتصال بالخادم نظرًا لحدوث خطأ بالأمان."</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"‏يتطلب هذا الخادم ميزات أمان غير معتمدة على جهاز Android، تتضمن: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"‏يلزم وجود TLS لكن لا يتيح الخادم استخدامه."</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"عند الحذف من بريد الوارد"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"حذف البريد إلكتروني من الخادم"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"مطلقًا"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"إعدادات خادم البريد الوارد"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"اختياري"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"‏بادئة مسار IMAP"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"كلمة المرور"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"المنفذ"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"نوع الأمان"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"لا شيء"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"طبقة المقابس الآمنة/طبقة النقل الآمنة"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"طبقة المقابس الآمنة/طبقة النقل الآمنة (قبول جميع الشهادات)"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"‏STARTTLS (قبول جميع الشهادات)"</string>
+    <string msgid="1480342966630002638" name="account_setup_incoming_server_label">"الخادم"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"إعداد الحساب"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"اسم المستخدم"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"تسمية هذا الحساب (اختياري)"</string>
+    <string msgid="914858472109729140" name="account_setup_names_headline">"تمّ إعداد حسابك، وستصلك رسالة إلكترونية بعد قليل."</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"إعداد الحساب"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"لا يمكن أن يكون هذا الحقل فارغًا."</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"الاسم (يظهر في الرسائل الصادرة)"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"‏تنزيل المرفقات تلقائيًا عند الاتصال بشبكة Wi-Fi"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"خيارات الحساب"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"كل 10 دقائق"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"كل 15 دقيقة"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"كل ساعة"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"كل 30 دقيقة"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"كل 5 دقائق"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"معدل الإطلاع على البريد الوارد"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"مطلقًا"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"تلقائي (ضغط)"</string>
+    <string msgid="7727436096227637646" name="account_setup_options_mail_window_1day">"اليوم الأخير"</string>
+    <string msgid="4289585173153789717" name="account_setup_options_mail_window_1month">"الشهر الماضي"</string>
+    <string msgid="5804121771990249346" name="account_setup_options_mail_window_1week">"الأسبوع الماضي"</string>
+    <string msgid="3583478100026382495" name="account_setup_options_mail_window_2weeks">"آخر أسبوعين"</string>
+    <string msgid="1841106793912850270" name="account_setup_options_mail_window_3days">"آخر ثلاثة أيام"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"الكل"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"تلقائي"</string>
+    <string msgid="2540360826995543134" name="account_setup_options_mail_window_default">"استخدام الإعداد ‏‫الافتراضي للحساب‬"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"الأيام المطلوب مزامنتها"</string>
+    <string msgid="7046146571560728829" name="account_setup_options_notify_label">"تنبيهي عند استلام رسالة إلكترونية"</string>
+    <string msgid="3222151135467189411" name="account_setup_options_sync_calendar_label">"مزامنة التقويم من هذا الحساب"</string>
+    <string msgid="276492345599531778" name="account_setup_options_sync_contacts_label">"مزامنة جهات الاتصال من هذا الحساب"</string>
+    <string msgid="8585177128405004068" name="account_setup_options_sync_email_label">"مزامنة البريد الإلكتروني من هذا الحساب"</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"إعدادات الحساب"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"إعدادات خادم البريد الصادر"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"كلمة المرور"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"المنفذ"</string>
+    <string msgid="7779484127897397562" name="account_setup_outgoing_require_login_label">"طلب تسجيل الدخول"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"نوع الأمان"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"‏خادم SMTP"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"إعداد الحساب"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"اسم المستخدم"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"‏يتطلب الخادم <ns1:g id="SERVER">%s</ns1:g> أن تسمح له بالتحكم في بعض ميزات الأمان بجهاز Android عن بعد. هل تريد إنهاء إعداد هذا الحساب؟"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"التحكم عن بعد في إدارة الأمان"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"اكتب عنوان بريد إلكتروني وكلمة مرور صالحين."</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"لا يمكنك تغيير اسم المستخدم لأحد الحسابات. لإضافة حساب باسم مستخدم مختلف، المس \"إضافة حساب\"."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5699548271856775808" name="account_sync_off">"مزامنة الحساب متوقفة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"تحميل قائمة المجلدات…"</string>
+    <string msgid="8337750045270269649" name="accounts_welcome">"يمكنك إعداد حسابك من خلال اتباع خطوات قليلة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"أكثر من <ns1:g id="COUNT">%1$d</ns1:g> غير مقروءة"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"اختيار مجلد"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"اختيار حساب"</string>
+    <string msgid="2162808366829269770" name="add_account">"إضافة حساب"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"إضافة نسخة مخفية الوجهة"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"إضافة نسخة/ مخفية"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"إرفاق ملف"</string>
+    <string msgid="6060201715848652940" name="add_label">"إضافة مجلد"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"إرفاق صورة"</string>
+    <string msgid="2866003744391266498" name="add_star">"إضافة نجمة"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"إرفاق فيديو"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> عبر <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"جميع المجلدات"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"عرض صور من هذا المرسل دومًا"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"سيتم عرض الصور من هذا المرسل تلقائيًا."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="5815426892327290362" name="app_name">"بريد"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="847250094775910499" name="archive">"وضع في الأرشيف"</string>
+    <string msgid="7533995360704366325" name="archived">"تم الوضع في الأرشيف"</string>
+    <string msgid="4267189489654642035" name="attached_message">"الرسالة المرفقة"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"مستند"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"جدول بيانات"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"عرض تقديمي"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"صوت"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"صورة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="7155322700141145123" name="attachment_not_found">"تعذر تنزيل المرفق."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5544874374971562759" name="attachment_text">"نص"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"عذرًا، لا يمكنك حفظ هذا النوع من المرفقات أو فتحه."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"ملف <ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"فيديو"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"المرفقات"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"تعيين تفضيل التقدم التلقائي\n(بعد الحذف وما إلى ذلك)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"التقدم التلقائي"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"اختيار الشاشة التي تظهر بعد حذف رسالة"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"المزامنة التلقائية متوقفة."</string>
+    <string msgid="3098643138241111579" name="bcc">"نسخة مخفية الوجهة"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"نسخة مخفية الوجهة: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"إنشاء رسالة إلكترونية"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> بايت"</string>
+    <string msgid="8762981157252199115" name="cancel">"إلغاء"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="6967435583794021865" name="cancel_action">"إلغاء"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="4651201258272223650" name="cancel_attachment">"إلغاء"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"تعذر النقل نظرًا لاحتواء التحديد على عدة حسابات."</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"‏النقل غير معتمد مع حسابات POP3."</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"لا يمكن نقل الرسائل الموجودة في المسودات والبريد الصادر والبريد المرسل."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"يتعذر النقل نظرًا لاحتواء التحديد على عدة حسابات."</string>
+    <string msgid="7017720927911078193" name="cc">"نسخة إلى"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"نسخة إلى: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"نسخة إلى: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"تغيير المجلدات"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"تغيير إعدادات المزامنة"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"التحقق من وجود بريد"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"مشاركة عبر"</string>
+    <string msgid="3184687982186479442" name="clear">"محو"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"إيقاف عرض الصور المضمنة من المرسلين الذين سبق أن سمحت لهم."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"هل تريد محو الموافقات على الصور؟"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"محو الموافقات على الصور"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"تصغير تفاصيل المستلم"</string>
+    <string msgid="1473559896062432878" name="compose">"إنشاء"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"هل تريد إلغاء هذه الرسالة؟"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="9151965975158906286" name="confirm_response">"جارٍ إرسال الرد..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="3221546155385562874" name="confirm_send_message">"هل تريد إرسال هذه الرسالة؟"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"لا تحتوي الرسالة على نص."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"لا يحتوي موضوع الرسالة على نص."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"هل تريد إرسال الرسالة؟"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"عرض معلومات جهة الاتصال لـ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"عرض معلومات جهة الاتصال"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> حول <ns1:g id="SUBJECT">%2$s</ns1:g>، <ns1:g id="SNIPPET">%3$s</ns1:g> بتاريخ <ns1:g id="DATE">%4$s</ns1:g>، <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> حول <ns1:g id="SUBJECT">%2$s</ns1:g>، <ns1:g id="SNIPPET">%3$s</ns1:g> في <ns1:g id="TIME">%4$s</ns1:g>، <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"إضافة جهة اتصال"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"نسخ"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"نسخ عنوان URL لرابط"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"طلب..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"إرسال تعليقات"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"مساعدة"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"خريطة"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"فتح في المتصفح"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"إرسال رسالة إلكترونية"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"مشاركة الرابط"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"رسائل قصيرة SMS…"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"تم النقل إلى <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"المس صورة أحد المرسلين لتحديد تلك المحادثة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"نسخ عنوان البريد الإلكتروني"</string>
+    <string msgid="530057841276106843" name="copy_number">"نسخ رقم الهاتف"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="3062715563215392251" name="create_action">"إنشاء رد جديد"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"إرسال بريد كـ:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"التاريخ: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>، <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"اليوم، <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"أمس، <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="5175710493691536719" name="debug_title">"تصحيح الأخطاء"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="844871204175957681" name="delete">"حذف"</string>
+    <string msgid="2757349161107268029" name="deleted">"تم الحذف"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="426727923791430306" name="device_admin_description">"لتمكين سياسات الأمان الخاصة بالخادم"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"بريد إلكتروني"</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"تحذير: سيؤدي إلغاء تنشيط صلاحية تطبيق البريد الإلكتروني لإدارة الجهاز إلى حذف جميع حسابات البريد الإلكتروني التي تتطلب الصلاحية، وأيضًا حذف البريد الإلكتروني وجهات الاتصال وأحداث التقويم وغيرها من البيانات."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="1714960202994370243" name="discard">"إلغاء"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"إلغاء المسودات"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"تجاهل النصيحة"</string>
+    <string msgid="3079981801778027540" name="done">"تم"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="7497990549515580249" name="done_action">"تم"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="7418568915429156518" name="download_again">"تنزيل مرة أخرى"</string>
+    <string msgid="442019281547315527" name="download_failed">"تعذر التحميل، المس لإعادة المحاولة."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"إغلاق ساحب التنقل"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"فتح ساحب التنقل"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="6479106007607928450" name="edit_quick_response_dialog">"الرد السريع"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="6064497180615519589" name="empty_spam">"إفراغ مجلد الرسائل غير المرغوب فيها"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"هل تريد إفراغ مجلد الرسائل غير المرغوب فيها؟"</string>
+    <string msgid="652435297593538512" name="empty_trash">"إفراغ المهملات"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"هل تريد إفراغ المهملات؟"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"تشغيل في <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">"، "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="1190783774800310346" name="exchange_name">"الشركة"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"توسيع تفاصيل المستلم"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"تعذر تحميل الصورة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"إرسال تعليقات"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"جلب المرفق"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"رمز المجلد"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="860241987640527156" name="folder_picker_title">"منتقي المجلد"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="1047474677580149436" name="folder_removed">"تمت الإزالة من <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"مجلد البريد الإلكتروني"</string>
+    <string msgid="6822914459902983767" name="forward">"إعادة توجيه"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- الرسالة المعاد توجيهها ----------&lt;br>من: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>التاريخ: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>الموضوع: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>إلى: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- رسالة مُعاد توجيهها ----------"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"تتعذر إعادة توجيه واحد أو أكثر من المرفقات."</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"لم تتم إعادة توجيه المرفق"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="2454519463223197231" name="from_heading">"من: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"تأكيد قبل الحذف"</string>
+    <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"الرسائل"</string>
+    <string msgid="4548277349553989930" name="general_preference_confirm_send_label">"تأكيد قبل الإرسال"</string>
+    <string msgid="2695471027185506093" name="general_preference_confirm_send_summary">"الرسائل"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"حجم نص الرسالة"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"ضخم"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"حجم نص الرسالة"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"كبير"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"عادي"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"صغير"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"صغير جدًا"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"تعذر إرفاق الملف."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="8243724566056800991" name="header_label_general_preferences">"الإعدادات العامة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="7873089811705257882" name="help_and_info">"مساعدة"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ إخفاء النص المقتبس"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"إخفاء المجلدات"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"تجاهل، أثق بهذه الرسالة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"البريد الوارد"</string>
+    <string msgid="6009817562073541204" name="info">"معلومات"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"العنوان <ns1:g id="WRONGEMAIL">%s</ns1:g> غير صالح."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> ك ب"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"تحميل المزيد"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"جارٍ التحميل…"</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"جارٍ التحميل…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="2169365211566829350" name="login_failed_ticker">"لم يتم تسجيل <ns1:g id="ACCOUNT_NAME">%s</ns1:g> بنجاح."</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"تعذر تسجيل الدخول"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"المس مع الاستمرار لتحديد إحدى المحادثات، ثم المس لتحديد المزيد."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"عرض مجمّع"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"المسودات"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"البريد الوارد"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"البريد غير المهم"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"البريد الصادر"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"البريد المرسَل"</string>
+    <string msgid="7788694947644186069" name="mailbox_name_display_starred">"مميّزة بنجمة"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"المهـملات"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"غير مقروءة"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"خيارات المزامنة"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"خيارات المزامنة (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="851180833264474141" name="mailbox_settings_mailbox_sync_window_label">"أيام مزامنة البريد"</string>
+    <string msgid="1180866791599296994" name="mailbox_settings_sync_enabled_label">"مزامنة هذا المجلد"</string>
+    <string msgid="345878979425044320" name="mailbox_settings_sync_enabled_summary">"تنزيل الرسائل عند الاتصال"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="6743983544685622800" name="manual_sync">"مزامنة الآن"</string>
+    <string msgid="6904096897104265870" name="mark_important">"وضع علامة كمهمة"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"وضع علامة كغير مهمة"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"إبلاغ أنها ليست رسالة غير مرغوب فيها"</string>
+    <string msgid="8438349154394313195" name="mark_read">"وضع علامة كمقروء"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"وضع علامة كـ \"غير مقروءة\""</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"أنا"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"أنا"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> م ب"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"تغيير المجلدات"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"إنشاء"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="2871906096248843471" name="menu_folder_options">"خيارات المزامنة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"إعدادات المجلدات"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"نقل إلى"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"نقل إلى البريد الوارد"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"حفظ الكل"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"مشاركة"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"مشاركة الكل"</string>
+    <string msgid="5297197523031943248" name="menu_search">"بحث"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"إعدادات"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"عودة إلى الحجم التلقائي"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- الرسالة الأصلية --------\nالموضوع: <ns1:g id="SUBJECT">%1$s</ns1:g>\nمن: <ns1:g id="SENDER">%2$s</ns1:g>\nإلى: <ns1:g id="TO">%3$s</ns1:g>\nنسخة إلى: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"إدراج رد سريع"</string>
+    <string msgid="5817075097532919955" name="message_compose_insert_quick_response_menu_title">"إدراج رد سريع"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"حدث خطأ أثناء فك ترميز الرسالة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="2183394728494962332" name="message_details_title">"تفاصيل الرسالة"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"تمّ إلغاء الرسالة."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"نعم"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"عرض في التقويم"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"لا"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"هل لديك نية للذهاب؟"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"ربما"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"دعوة تقويم"</string>
+    <string msgid="7073947895562277576" name="message_saved">"تمّ حفظ الرسالة كمسودة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="7906875687519445185" name="message_view_attachment_background_load">"سيتم تنزيل مرفق أو أكثر في الرسالة التي تمت إعادة توجيهها قبل الإرسال."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="717244337981816703" name="more_info_attachment">"معلومات"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"<ns1:g id="COUNT">%1$s</ns1:g>+"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="8704425397397918798" name="more_than_999">"+999"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"نقل إلى"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"تجاهل"</string>
+    <string msgid="2125579009654728299" name="network_error">"ليس هناك اتصال"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"رسالة جديدة من <ns1:g id="SENDER">%s</ns1:g>. عرض."</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> من الرسائل الجديدة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="3931301986364184415" name="next_action">"التالي"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="427548507197604096" name="no">"لا"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"ليس هناك تطبيق يمكنه فتح هذا المرفق لمشاهدته"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="5559527390337162819" name="no_conversations">"ليست هناك أية رسائل."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"لعرض المحادثات، عليك مزامنة هذا المجلد."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"لم تتم مزامنة الحساب"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"وضع في الأرشيف"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"حذف"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"إزالة التصنيف"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"رد"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"الرد على الكل"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"تمت الأرشفة"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"تم الحذف"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"تمت إزالة التصنيف"</string>
+    <string msgid="8339355733816891026" name="ok">"موافق"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="8365197396795675617" name="okay_action">"موافق"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"ستنتهي صلاحية كلمة مرور تأمين الشاشة"</string>
+    <string msgid="4293446611405084436" name="password_expire_warning_dialog_content_fmt">"يلزمك تغيير رقم التعريف الشخصي لشاشة التأمين أو كلمة المرور قريبًا، وإلا فسيتم محو بيانات <ns1:g id="ACCOUNT">%s</ns1:g>. هل تريد تغييره الآن؟"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"ستنتهي صلاحية كلمة مرور تأمين الشاشة"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"يتطلب \"<ns1:g id="ACCOUNT">%s</ns1:g>\" تغيير رقم التعريف الشخصي أو كلمة المرور الخاصة بتأمين الشاشة."</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"انتهت كلمة مرور تأمين الشاشة"</string>
+    <string msgid="6538210092073931079" name="password_expired_dialog_content_fmt">"تتم الآن إزالة بيانات <ns1:g id="ACCOUNT">%s</ns1:g> من جهازك. يمكنك استعادتها من خلال تغيير رقم التعريف الشخصي لشاشة التأمين أو كلمة المرور. هل تريد تغييره الآن؟"</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"انتهت كلمة مرور تأمين الشاشة"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"‏لقد انتهت صلاحية رقم التعريف الشخصي (PIN) أو كلمة مرور لتأمين الشاشة."</string>
+    <string msgid="6296566558584670348" name="permission_access_provider_desc">"للسماح للتطبيق بالدخول إلى قاعدة بيانات بريدك الإلكتروني، بما في ذلك الرسائل المستلمة والرسائل المرسلة وأسماء المستخدمين وكلمات المرور."</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"الدخول إلى بيانات موفر البريد الإلكتروني"</string>
+    <string msgid="3394721085306308972" name="permission_read_attachment_desc">"للسماح للتطبيق بقراءة مرفقات البريد الإلكتروني."</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"قراءة مرفقات البريد الإلكتروني"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5171715391553213328" name="phone">"هاتف"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"تعذر تحميل الصورة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"<ns1:g id="CURRENT_POS">%d</ns1:g> من <ns1:g id="COUNT">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"الرجاء الانتظار…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="627405158087482302" name="policy_calendar_age">"تقييد عدد أحداث التقويم المتزامنة"</string>
+    <string msgid="5744573062306937302" name="policy_dont_allow_camera">"عدم السماح لاستخدام كاميرا الجهاز"</string>
+    <string msgid="7144148367145424963" name="policy_email_age">"تقييد عدد الرسائل الإلكترونية المتزامنة"</string>
+    <string msgid="1248123255253649199" name="policy_password_expiration">"يلزم انتهاء صلاحية كلمات المرور"</string>
+    <string msgid="5743544498302303181" name="policy_password_history">"تقييد إعادة استخدام كلمات المرور الأخيرة"</string>
+    <string msgid="7177274900480984702" name="policy_require_password">"يلزم كلمة مرور الجهاز"</string>
+    <string msgid="414869965358468080" name="policy_screen_timeout">"يلزم جهاز بوضع الخمول لتأمين شاشته"</string>
+    <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
+    <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"صورة المرسل"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"إجراءات الأرشيف والحذف"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"إجراءات الأرشيف والحذف"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"عرض بجوار الاسم في قائمة الدردشات"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"صورة المرسل"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"في قائمة المحادثات"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"مرر بسرعة لإجراء أرشفة"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"مرر بسرعة لإجراء حذف"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"الاستخدام كافتراضي مع ردود الرسائل"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"الرد على الكل"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"التوقيع"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"لم يتم الضبط"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"التوقيع"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"معاينة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181616311579820981" name="previous_action">"السابق"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"‏تتضمن بعض حسابات \"Plus\" الوصول عبر بروتوكول POP والذي يسمح لهذا البرنامج بالاتصال. إذا تعذر عليك تسجيل الدخول باستخدام عنوان البريد الإلكتروني وكلمة المرور الصحيحين، فقد تكون غير ممتلك لحساب \"Plus\" مدفوع. يمكنك تشغيل متصفح الويب لتتمكن من الدخول إلى حسابات البريد هذه."</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"‏قبل إعداد حساب البريد الإلكتروني هذا، انتقل إلى موقع ويب T-Online وأنشئ كلمة مرور للدخول إلى البريد الإلكتروني عبر بروتوكول POP3."</string>
+    <string msgid="3426057697353380951" name="quick_1">"شكرًا!"</string>
+    <string msgid="4188036352885736617" name="quick_2">"يبدو جيدًا بالنسبة إليّ!"</string>
+    <string msgid="8061819976353395585" name="quick_3">"سأقرأ هذا لاحقًا، وسأرد عليك."</string>
+    <string msgid="3988974084396883051" name="quick_4">"دعونا نعد اجتماعًا لمناقشة هذا الأمر."</string>
+    <string msgid="3960050972306132367" name="quick_responses_empty_view">"ليست هناك ردود سريعة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="7250749398672037355" name="quoted_text">"إدراج النص المقتبس"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"نص مقتبس"</string>
+    <string msgid="219566857950091332" name="read_string">"تمت قراءة المحادثة"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"المجلدات الحديثة"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"خطأ في المستلم"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"أضف مستلمًا واحدًا على الأقل."</string>
+    <string msgid="490989798005710951" name="refresh">"تحديث"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"إزالة من <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"إزالة النجمة"</string>
+    <string msgid="2032052598496088561" name="reply">"رد"</string>
+    <string msgid="7257248094625487557" name="reply_all">"رد على الكل"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"بتاريخ <ns1:g id="DATE">%s</ns1:g>، جاء من <ns1:g id="PERSON">%s</ns1:g>:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"جهة الرد: "</string>
+    <string msgid="5417082746232614958" name="report">"الإبلاغ"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"الإبلاغ عن تصيّد احتيالي"</string>
+    <string msgid="6467567747975393907" name="report_spam">"الإبلاغ عن رسائل غير مرغوب فيها"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"تم تعطيل المزامنة في الخلفية لهذا الحساب أثناء التجوال."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="6797117334768201180" name="respond_inline">"الرد مضمّن"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"تعديل"</string>
+    <string msgid="4515885444824418022" name="retry">"إعادة المحاولة"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="1988862706623227093" name="save_action">"حفظ"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5360128849867863132" name="save_attachment">"حفظ"</string>
+    <string msgid="5555744208032445632" name="save_draft">"حفظ كمسودة"</string>
+    <string msgid="6660844285730790469" name="saved">"محفوظ، <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"جارٍ الحفظ..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="2200412192574686497" name="search_hint">"البحث في البريد الإلكتروني"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="4669917471897026269" name="search_results_header">"النتائج"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"جارٍ البحث…"</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"لا يمكن استخدام البحث على هذا الحساب."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"غير الحساب \"<ns1:g id="ACCOUNT">%s</ns1:g>\" إعدادات الأمان له؛ ولا يلزم اتخاذ أي إجراء من قبل المستخدم."</string>
+    <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"يتطلب الحساب \"<ns1:g id="ACCOUNT">%s</ns1:g>\" تحديث إعدادات الأمان."</string>
+    <string msgid="443490921895642130" name="security_notification_content_change_title">"لقد تغيرت سياسات الأمان"</string>
+    <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"لا يمكن تلبية سياسات الأمان"</string>
+    <string msgid="2429762903228690154" name="security_notification_content_update_title">"يلزم تحديث الأمان"</string>
+    <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"تتعذر مزامنة الحساب \"<ns1:g id="ACCOUNT">%s</ns1:g>\" بسبب متطلبات الأمان."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="4711524151968942082" name="select_attachment_type">"اختيار نوع المرفق"</string>
+    <string msgid="8242003661397555986" name="send">"إرسال"</string>
+    <string msgid="750908595144529579" name="send_failed">"لم يتم إرسال الرسالة."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"لن يتم عرض الصور تلقائيًا."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">"، "</string>
+    <string msgid="8214361929125649771" name="sending">"جارٍ الإرسال…"</string>
+    <string msgid="1498583163419122128" name="sending_message">"جارٍ إرسال الرسالة…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="2668629667423320684" name="sent_folder_selection_title">"حدد مجلد العناصر المرسلة من الخادم لـ <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"الإعدادات"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"اختصار اسم المجلد"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ عرض النص المقتبس"</string>
+    <string msgid="1875700481186331432" name="show_images">"إظهار الصور"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"عرض <ns1:g id="NUMBER">%1$s</ns1:g> من المجلدات الأخرى"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"تسجيل الدخول"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"صامت"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="2611654064403817391" name="status_network_error">"مشكلة في الاتصال."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="3262760336059073446" name="storage">"وحدة التخزين"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"الموضوع"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"التمرير لأسفل للتحديث"</string>
+    <string msgid="7368819509040597851" name="sync_error">"تعذرت المزامنة."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"ليست هناك مساحة تخزينية كافية على الجهاز لإجراء المزامنة."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"تعذر إنشاء الحساب. أعد المحاولة."</string>
+    <string msgid="7071006714702094762" name="system_folders_sent_dlg">"حدد مجلد العناصر المرسلة التابع للخادم"</string>
+    <string msgid="5529250353569545181" name="system_folders_sent_summary">"حدد مجلد العناصر المرسلة التابع للخادم"</string>
+    <string msgid="4265722817877075367" name="system_folders_sent_title">"مجلد العناصر المرسلة"</string>
+    <string msgid="2934406494244347991" name="system_folders_title">"مجلدات النظام"</string>
+    <string msgid="4461220303400833402" name="system_folders_trash_dlg">"حدد مجلد المهملات التابع للخادم"</string>
+    <string msgid="1258919809198485244" name="system_folders_trash_summary">"حدد مجلد المهملات التابع للخادم"</string>
+    <string msgid="8470058000681188327" name="system_folders_trash_title">"مجلد المهملات"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="7956969657216748522" name="tablet">"جهاز لوحي"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"المس للإعداد"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"مزامنة المجلد"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"المس للتشغيل."</string>
+    <string msgid="4392614766835725698" name="to">"إلى"</string>
+    <string msgid="1142876841308812954" name="to_heading">"إلى: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"لم يتم إرفاق الملف. تم بلوغ حد الحجم الأقصى <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"لم يتم إرفاق ملف أو أكثر. الحد الأقصى هو <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"لا يمكن إرفاق ملف يزيد حجمه عن <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string msgid="8052880079616386185" name="trash_folder_selection_title">"حدد مجلد المهملات التابع للخادم لـ <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ar/values.xml -->
+    <eat-comment/>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"ستتم مزامنة التغييرات التي تجريها على جميع التطبيقات والحسابات، وليس Gmail فقط، بين الويب والأجهزة الأخرى و<ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"تشغيل"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"تشغيل المزامنة التلقائية؟"</string>
+    <string msgid="6070869718469782251" name="undo">"تراجع"</string>
+    <string msgid="588180203444398297" name="unread_string">"لم تتم قراءة المحادثة"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> من الرسائل التي لم يتم إرسالها في <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"عبر <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"عرض المزيد من المحادثات"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"لم يتم تعيين هذا الحساب على المزامنة تلقائيًا.\nيمكنك لمس "<b>"المزامنة الآن"</b>" لمزامنة البريد مرة واحدة أو "<b>"تغيير إعدادات المزامنة"</b>" لإعداد هذا الحساب على مزامنة البريد تلقائيًا."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"سيظهر بريدك الإلكتروني بعد قليل."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"في انتظار المزامنة"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"نعم"</string>
+</resources>

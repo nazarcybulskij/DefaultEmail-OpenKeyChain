@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"Atbildēt"</item>
+    <item msgid="4085029907540221568">"Atbildēt visiem"</item>
+    <item msgid="857480048798815437">"Pārsūtīt"</item>
+  </string-array>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"Sistēma"</item>
+    <item msgid="6593672292311851204">"Visbiežāk izmantotās"</item>
+    <item msgid="3584541772344786752">"Visas mapes"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"Jaunākas"</item>
+    <item msgid="5562093094216840213">"Vecākas"</item>
+    <item msgid="3331655314944797957">"Sarunu saraksts"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"Rādīt tikai arhivēšanas darbību"</item>
+    <item msgid="5737880287951287278">"Rādīt tikai dzēšanas darbību"</item>
+    <item msgid="4279948809971752573">"Rādīt arhivēšanas un dzēšanas darbību"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"Rādīt jaunāku sarunu pēc dzēšanas"</item>
+    <item msgid="732746454445519134">"Rādīt vecāku sarunu pēc dzēšanas"</item>
+    <item msgid="2189929276292165301">"Rādīt sarunu sarakstu pēc dzēšanas"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"Rādīt tikai arhivēšanas darbību"</item>
+    <item msgid="8350973578419775975">"Rādīt tikai dzēšanas darbību"</item>
+    <item msgid="2967059853409454648">"Rādīt arhivēšanas un dzēšanas darbību"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"Izpildīta veiksmīgi"</item>
+    <item msgid="7109065688039971961">"Nav savienojuma."</item>
+    <item msgid="8437496123716232060">"Neizdevās pierakstīties."</item>
+    <item msgid="1651266301325684887">"Drošības kļūda."</item>
+    <item msgid="1461520171154288533">"Neizdevās sinhronizēt."</item>
+    <item msgid="4779810016424303449">"Iekšējā kļūda"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> nelasīti"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"Vai arhivēt šo sarunu?"</item>
+    <item msgid="4713469868399246772" quantity="other">"Vai arhivēt šīs sarunas (<ns1:g id="COUNT">%1$d</ns1:g>)?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"Vai dzēst šo sarunu?"</item>
+    <item msgid="930334208937121234" quantity="other">"Vai dzēst šīs sarunas (<ns1:g id="COUNT">%1$d</ns1:g>)?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"Vai atmest melnrakstus no šīs sarunas?"</item>
+    <item msgid="4173815457177336569" quantity="other">"Vai atmest melnrakstus no šīm <ns1:g id="COUNT">%1$d</ns1:g> sarunām?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"Tika arhivēta &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna."</item>
+    <item msgid="3012054504370916482" quantity="other">"Tika arhivēta(-as) &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna(-as)."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"Tika dzēsta &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna."</item>
+    <item msgid="8630099095360065837" quantity="other">"Tika dzēsta(-as) &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna(-as)."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"Mape ir mainīta."</item>
+    <item msgid="8918589141287976985" quantity="other">"Mapes ir mainītas."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna ar izslēgtu skaņu."</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna(-as) ar izslēgtu skaņu."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna atzīmēta kā nesvarīga."</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna(-as) atzīmēta(-as) kā nesvarīga(-as)."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna atzīmēta kā “nav mēstule”."</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> saruna(-as) atzīmēta(-as) kā “nav mēstule”."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"Par &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> sarunu ziņots kā par pikšķerēšanu."</item>
+    <item msgid="3678624994662639442" quantity="other">"Par &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> sarunu(-ām) ziņots kā par pikšķerēšanu."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"Par &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> sarunu ziņots kā par mēstuli."</item>
+    <item msgid="5071459475389411227" quantity="other">"Par &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> sarunu(-ām) ziņots kā par mēstuli(-ēm)."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"Notiek zvaigznītes noņemšana no <ns1:g id="COUNT">%1$d</ns1:g> sarunas."</item>
+    <item msgid="2222365088907519938" quantity="other">"Notiek zvaigznītes noņemšana no <ns1:g id="COUNT">%1$d</ns1:g> sarunas(-ām)."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"Melnraksts"</item>
+    <item msgid="6961049507579977505" quantity="other">"Melnraksti"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> ziņojums tiks neatgriezeniski dzēsts."</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ziņojumi tiks neatgriezeniski dzēsti."</item>
+  </plurals>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"Pārvietot sarunu"</item>
+    <item msgid="1685896770174368261" quantity="other">"Pārvietot <ns1:g id="ID_1">%1$d</ns1:g> sarunu(-as)"</item>
+  </plurals>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> jauni ziņojumi. Rādīt!"</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> vecāki ziņojumi"</item>
+  </plurals>
+    <string msgid="5277032997773498476" name="account_settings_param">"Konta iestatījumi"</string>
+    <string msgid="5699548271856775808" name="account_sync_off">"Konta sinhronizācija ir izslēgta."</string>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"Vairāk nekā <ns1:g id="COUNT">%1$d</ns1:g> nelasīti"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"Izvēlēties mapi"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"Izvēlēties kontu"</string>
+    <string msgid="2162808366829269770" name="add_account">"Pievienot kontu"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"Pievienot diskrēto kopiju"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"Pievienot kopiju/diskrēto kopiju"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Pievienot failu"</string>
+    <string msgid="6060201715848652940" name="add_label">"Pievienot mapi"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"Pievienot attēlu"</string>
+    <string msgid="2866003744391266498" name="add_star">"Atzīmēt ar zvaigznīti"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"Pievienot videoklipu"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="EMAIL">%2$s</ns1:g>, izmantojot <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"Visas mapes"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"Vienmēr rādīt attēlus no šī sūtītāja"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"Attēli no šī sūtītāja tiks rādīti automātiski."</string>
+    <string msgid="847250094775910499" name="archive">"Arhīvs"</string>
+    <string msgid="7533995360704366325" name="archived">"Arhivēta"</string>
+    <string msgid="4267189489654642035" name="attached_message">"Pievienots ziņojums"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"Dokuments"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"Izklājlapa"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"Prezentācija"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"Audio"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"Attēls"</string>
+    <string msgid="5544874374971562759" name="attachment_text">"Teksts"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"Diemžēl jūs nevarat saglabāt vai atvērt šāda veida pielikumu."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g> fails"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"Video"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"Pielikumi"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"Automātiskas pāriešanas preferences\niestatīšana (pēc dzēšanas utt.)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"Automātiska pāriešana"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"Izvēlieties pēc ziņojuma dzēšanas parādāmo ekrānu."</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"Automātiskā sinhronizācija ir izslēgta."</string>
+    <string msgid="3098643138241111579" name="bcc">"D. kopija"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"D. kop.: "</string>
+    <string msgid="4279864165439577668" name="body_hint">"Rakstiet e-pasta ziņojumu"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"Atcelt"</string>
+    <string msgid="4651201258272223650" name="cancel_attachment">"Atcelt"</string>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"Nevar pārvietot, jo ir atlasīti ziņojumi no vairākiem kontiem."</string>
+    <string msgid="7017720927911078193" name="cc">"Kopija"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"Kopija: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"Kopija: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"Mapju mainīšana"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"Mainīt sinhronizācijas iestat."</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"Notiek e-pasta pārbaude"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"Kopīgošanas veids"</string>
+    <string msgid="3184687982186479442" name="clear">"Notīrīt"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"Vairs nerādīt iekļautos attēlus no sūtītājiem, kuriem iepriekš tas bija atļauts"</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"Vai atcelt attēlu rādīšanas apstiprinājumus?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"Attēlu rādīšanas apstiprinājumu atcelšana"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"Sakļaut informāciju par adresātu"</string>
+    <string msgid="1473559896062432878" name="compose">"Rakstīt"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"Vai atmest šo ziņojumu?"</string>
+    <string msgid="3221546155385562874" name="confirm_send_message">"Vai sūtīt šo ziņojumu?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"Nav ziņojuma pamatteksta."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"Nav ziņojuma temata."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"Vai sūtīt ziņojumu?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"Rādīt sūtītāja <ns1:g id="NAME">%1$s</ns1:g> kontaktinformāciju"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"Rādīt kontaktinformāciju"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> par šādu tematu: <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> (<ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>)"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> par šādu tematu: <ns1:g id="SUBJECT">%2$s</ns1:g>, <ns1:g id="SNIPPET">%3$s</ns1:g> (plkst. <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>)"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"Pievienot kontaktpersonu"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"Kopēt"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"Kopēt saites URL"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"Ievadīt numuru..."</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"Sūtīt atsauksmes"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"Palīdzība"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"Karte"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"Atvērt pārlūkprogrammā"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"Sūtīt e-pasta ziņojumu"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"Kopīgot saiti"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"Sūtīt īsziņu…"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"Pārvietota uz: <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"Pieskarieties sūtītāja attēlam, lai atlasītu šo sarunu."</string>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"Sūtīt vēst. kā:"</string>
+    <string msgid="2086174555097691910" name="date_heading">"Datums: "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, plkst. <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"Šodien plkst. <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"Vakar plkst. <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="844871204175957681" name="delete">"Dzēst"</string>
+    <string msgid="2757349161107268029" name="deleted">"Dzēsta"</string>
+    <string msgid="1714960202994370243" name="discard">"Atmest"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"Atmest melnrakstus"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"Noraidīt padomu"</string>
+    <string msgid="3079981801778027540" name="done">"Gatavs"</string>
+    <string msgid="7418568915429156518" name="download_again">"Lejupielādēt vēlreiz"</string>
+    <string msgid="442019281547315527" name="download_failed">"Nevarēja lejupiel. Piesk., lai mēģ. vēlr."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"Aizvērt navigācijas paneli"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"Atvērt navigācijas paneli"</string>
+    <string msgid="6064497180615519589" name="empty_spam">"Iztukšot mēstuļu mapi"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"Vai iztukšot mēstuļu mapi?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"Iztukšot atkritni"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"Vai iztukšot atkritni?"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"Ieslēdziet to sadaļā <ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>."</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"Izvērst informāciju par adresātu"</string>
+    <string msgid="79365993169715049" name="feedback">"Sūtīt atsauksmes"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"Pielikuma ienese"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"Mapes ikona"</string>
+    <string msgid="1047474677580149436" name="folder_removed">"Noņemta no mapes <ns1:g id="FOLDERNAME">%1$s</ns1:g>."</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"mape “E-pasts”"</string>
+    <string msgid="6822914459902983767" name="forward">"Pārsūtīt"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- Pārsūtīts ziņojums ----------&lt;br>No: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Datums: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Temats: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Kam: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- Pārsūtīts ziņojums ----------"</string>
+    <string msgid="2454519463223197231" name="from_heading">"No: "</string>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"Nevarēja pievienot failu."</string>
+    <string msgid="7873089811705257882" name="help_and_info">"Palīdzība"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ Paslēpt citēto tekstu"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"Paslēpt mapes"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"Ignorēt, šis ziņojums ir drošs"</string>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"Iesūtne"</string>
+    <string msgid="6009817562073541204" name="info">"Informācija"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"Adrese <ns1:g id="WRONGEMAIL">%s</ns1:g> nav derīga."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"Ielādēt vēl"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"Notiek ielāde..."</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"Notiek ielāde…"</string>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"Pieskarieties un turiet, lai atlasītu vienu sarunu, pēc tam pieskarieties vēlreiz, lai atlasītu vairāk."</string>
+    <string msgid="6743983544685622800" name="manual_sync">"Sinhr. tūlīt"</string>
+    <string msgid="6904096897104265870" name="mark_important">"Atzīmēt kā svarīgu"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"Atzīmēt kā nesvarīgu"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"Ziņot, ka tā nav mēstule"</string>
+    <string msgid="8438349154394313195" name="mark_read">"Atzīmēt kā izlasītu"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"Atzīmēt kā nelasītu"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"es"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"es"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"Mainīt mapes"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"Rakstīt"</string>
+    <string msgid="8897520487430647932" name="menu_folder_options">"Mapes iestatījumi"</string>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"Mapju iestatījumi"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"Pārvietot uz:"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"Pārvietot uz iesūtni"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"Sagl. visu"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"Kopīgot"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"Kopīg.visu"</string>
+    <string msgid="5297197523031943248" name="menu_search">"Meklēt"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"Iestatījumi"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"Atj. aut. liel. noteikš."</string>
+    <string msgid="2183394728494962332" name="message_details_title">"Informācija par ziņojumu"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"Ziņojums ir atmests."</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"Jā"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"Skatīt kalendārā"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"Nē"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"Vai apmeklēsiet?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"Varbūt"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"Kalendāra ielūgums"</string>
+    <string msgid="7073947895562277576" name="message_saved">"Ziņojums ir saglabāts kā melnraksts."</string>
+    <string msgid="717244337981816703" name="more_info_attachment">"Informācija"</string>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"Pārvietošana"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"Izslēgt skaņu"</string>
+    <string msgid="2125579009654728299" name="network_error">"Nav savienojuma"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"Jauns ziņojums no: <ns1:g id="SENDER">%s</ns1:g>. Rādīt."</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> jauni ziņojumi"</string>
+    <string msgid="427548507197604096" name="no">"Nē"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"Nevienā lietotnē nevar atvērt šo pielikumu, lai to skatītu."</string>
+    <string msgid="35400008890372241" name="no_conversations">"Nav nevienas sarunas."</string>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"Lai skat. sarunas, sinhr. šo mapi."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"Konts nav sinhronizēts"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"Arhivēt"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"Dzēst"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"Noņemt iezīmi"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"Atbildēt"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"Atbildēt visiem"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"Arhivēts"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"Dzēsts"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"Iezīme noņemta"</string>
+    <string msgid="8339355733816891026" name="ok">"Labi"</string>
+    <string msgid="5171715391553213328" name="phone">"tālrunis"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"Nevarēja ielādēt attēlu."</string>
+    <string msgid="8797634225088247121" name="please_wait">"Lūdzu, uzgaidiet"</string>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"Arhivēšanas un dzēšanas darbības"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"Arhivēšanas un dzēšanas darbības"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"Rādīt blakus vārdam sarunu sarakstā"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"Sūtītāja attēls"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"Sarunu sarakstā"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"Vilkt, lai arhivētu"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"Vilkt, lai dzēstu"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"Izmantot kā noklusējumu, atbildot uz ziņojumiem"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"Atbildēt visiem"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"Paraksts"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"Nav iestatīts"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"Paraksts"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"Priekšsk."</string>
+    <string msgid="7250749398672037355" name="quoted_text">"Iekļaut citēto tekstu"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"Citēts teksts"</string>
+    <string msgid="219566857950091332" name="read_string">"saruna ir izlasīta"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"Jaunākās mapes"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"Adresāta kļūda"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"Pievienojiet vismaz vienu adresātu."</string>
+    <string msgid="490989798005710951" name="refresh">"Atsvaidzināt"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"Noņemt no mapes <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"Noņemt zvaigznīti"</string>
+    <string msgid="2032052598496088561" name="reply">"Atbildēt"</string>
+    <string msgid="7257248094625487557" name="reply_all">"Atbildēt visiem"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="DATE">%s</ns1:g>, <ns1:g id="PERSON">%s</ns1:g> rakstīja:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"Atbildēt: "</string>
+    <string msgid="5417082746232614958" name="report">"Ziņot"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"Ziņot par pikšķerēšanu"</string>
+    <string msgid="6467567747975393907" name="report_spam">"Ziņot par mēstuli"</string>
+    <string msgid="6797117334768201180" name="respond_inline">"Atbildēt iekļāvumā"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"Rediģēt"</string>
+    <string msgid="4515885444824418022" name="retry">"Mēģināt vēlreiz"</string>
+    <string msgid="5360128849867863132" name="save_attachment">"Saglabāt"</string>
+    <string msgid="5555744208032445632" name="save_draft">"Saglabāt melnrakstu"</string>
+    <string msgid="6660844285730790469" name="saved">"Saglabāta, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"Notiek saglabāšana…"</string>
+    <string msgid="3625734263059221350" name="search_hint">"Meklēt vēstulēs"</string>
+    <string msgid="4669917471897026269" name="search_results_header">"Rezultāti"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"Notiek meklēšana..."</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"Šajā kontā netiek atbalstīta meklēšana."</string>
+    <string msgid="4711524151968942082" name="select_attachment_type">"Izvēlieties pielikuma veidu."</string>
+    <string msgid="8242003661397555986" name="send">"Sūtīt"</string>
+    <string msgid="750908595144529579" name="send_failed">"Ziņoj. nav nosūtīts."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"Attēli netiks automātiski rādīti."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"Notiek sūtīšana…"</string>
+    <string msgid="1498583163419122128" name="sending_message">"Notiek ziņojuma sūtīšana…"</string>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"Nosaukuma piešķiršana mapes saīsnei"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ Rādīt citēto tekstu"</string>
+    <string msgid="1875700481186331432" name="show_images">"Rādīt attēlus"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"Rādīt vēl <ns1:g id="NUMBER">%1$s</ns1:g> mapes"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"Pierakstīties"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"Klusums"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="3262760336059073446" name="storage">"Krātuve"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Temats"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"Lai atsvaidzinātu, velciet uz leju."</string>
+    <string msgid="7368819509040597851" name="sync_error">"Neizdevās sinhronizēt."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"Ierīcē nav pietiekami daudz atmiņas, lai sinhronizētu."</string>
+    <string msgid="7956969657216748522" name="tablet">"planšetdators"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"Pieskarieties, lai iestatītu"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"Sinhronizēt mapi"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"Pieskarieties, lai ieslēgtu."</string>
+    <string msgid="4392614766835725698" name="to">"Kam:"</string>
+    <string msgid="1142876841308812954" name="to_heading">"Kam: "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"Fails nav pievienots. Ir sasniegts ierobežojums (<ns1:g id="MAXSIZE">%1$s</ns1:g>)."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"Viens vai vairāki faili nav pievienoti. Maksimālais lielums ir <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"Nevar pievienot failu, kas ir lielāks par <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"Izmaiņas, ko veicāt visām lietotnēm un kontiem (ne tikai Gmail), tiks sinhronizētas tīmeklī, citās jūsu ierīcēs un šādā jūsu ierīcē: <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"Ieslēgt"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"Vai ieslēgt automātisko sinhronizāciju?"</string>
+    <string msgid="6070869718469782251" name="undo">"Atsaukt"</string>
+    <string msgid="588180203444398297" name="unread_string">"saruna nav izlasīta"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> nenosūtīti ziņojumi sadaļā <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"caur <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"Skatīt citas sarunas"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"Šajā kontā nav iestatīta automātiskā sinhronizācija.\nPieskarieties vienumam "<b>"Sinhronizēt tūlīt"</b>", lai vienreiz sinhronizētu pastu, vai vienumam "<b>"Mainīt sinhronizācijas iestatījumus"</b>", lai šajā kontā iestatītu automātisku pasta sinhronizāciju."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"E-pasta saturs drīz tiks parādīts."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"Gaida sinhronizāciju"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"Jā"</string>
+</resources>

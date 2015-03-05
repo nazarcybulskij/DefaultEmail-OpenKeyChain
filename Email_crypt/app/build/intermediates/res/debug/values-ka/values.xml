@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"პასუხი"</item>
+    <item msgid="4085029907540221568">"პასუხი ყველას"</item>
+    <item msgid="857480048798815437">"გადაგზავნა"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"ძალიან პატარა შრიფტი"</item>
+    <item msgid="4415205108584620118">"პატარა შრიფტი"</item>
+    <item msgid="4550219696381691112">"ნორმალური ზომის შრიფტი"</item>
+    <item msgid="6227813549949219991">"დიდი შრიფტი"</item>
+    <item msgid="1197917420815786571">"უზარმაზარი ტექსტი"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"სისტემა"</item>
+    <item msgid="6593672292311851204">"ხშირად გამოყენებული"</item>
+    <item msgid="3584541772344786752">"ყველა საქაღალდე"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"უფრო ახალი"</item>
+    <item msgid="5562093094216840213">"უფრო ძველი"</item>
+    <item msgid="3331655314944797957">"მიმოწერათა სია"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string-array name="prefEntries_conversationListIconName">
+    <item msgid="228585958140385749">"სურათის ჩვენება"</item>
+    <item msgid="2226691218102223696">"არ აჩვენო არაფერი"</item>
+  </string-array>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"მხოლოდ არქივის ჩვენება"</item>
+    <item msgid="5737880287951287278">"მხოლოდ წაშლის ჩვენება"</item>
+    <item msgid="4279948809971752573">"დაარქივების და წაშლის ჩვენება"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"წაშლის შემდეგ უფრო ახალი მიმოწერის ჩვენება"</item>
+    <item msgid="732746454445519134">"წაშლის შემდეგ უფრო ძველი მიმოწერის ჩვენება"</item>
+    <item msgid="2189929276292165301">"წაშლის შემდეგ მიმოწერების სიის ჩვენება"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"მხოლოდ არქივის ჩვენება"</item>
+    <item msgid="8350973578419775975">"მხოლოდ წაშლის ჩვენება"</item>
+    <item msgid="2967059853409454648">"დაარქივების და წაშლის ჩვენება"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"წარმატებით შესრულდა"</item>
+    <item msgid="7109065688039971961">"კავშირი არ არის"</item>
+    <item msgid="8437496123716232060">"შესვლა ვერ მოხერხდა."</item>
+    <item msgid="1651266301325684887">"უსაფრთხოების შეცდომა."</item>
+    <item msgid="1461520171154288533">"სინქრონიზაცია ვერ მოხერხდა."</item>
+    <item msgid="4779810016424303449">"შიდა შეცდომა"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> წაუკითხავი"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"დავაარქივო ეს მიმოწერა?"</item>
+    <item msgid="4713469868399246772" quantity="other">"დაარქივდეს ეს <ns1:g id="COUNT">%1$d</ns1:g> მიმოწერა?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"წავშალო ეს მიმოწერა?"</item>
+    <item msgid="930334208937121234" quantity="other">"წავშალო ეს <ns1:g id="COUNT">%1$d</ns1:g> მიმოწერა?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"გაუქმდეს ამ მიმოწერის მონახაზები?"</item>
+    <item msgid="4173815457177336569" quantity="other">"გაუქმდეს ამ <ns1:g id="COUNT">%1$d</ns1:g> მიმოწერის მონახაზები?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> დაარქივებულია."</item>
+    <item msgid="3012054504370916482" quantity="other">"დაარქივებულია &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> წაშლილია."</item>
+    <item msgid="8630099095360065837" quantity="other">"წაშლილია &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b>."</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"საქაღალდე შეცვლილია."</item>
+    <item msgid="8918589141287976985" quantity="other">"საქაღალდეები შეცვლილია."</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> დადუმებულია."</item>
+    <item msgid="1941193356069303587" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> დადუმებულია."</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მონიშნა უმნიშვნელოდ."</item>
+    <item msgid="6662213740575340397" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მოინიშნა უმნიშვნელოდ."</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მოეხსნა სპამად მონიშვნა."</item>
+    <item msgid="2250720080221922267" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მოეხსნება სპამის მონიშვნა."</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მოინიშნა ფიშინგად."</item>
+    <item msgid="3678624994662639442" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მოინიშნა ფიშინგად."</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მოინიშნება სპამად."</item>
+    <item msgid="5071459475389411227" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> მონიშნულია სპამად."</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> მიმოწერას მოეხსნა ვარსკვლავით მონიშვნა."</item>
+    <item msgid="2222365088907519938" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> მიმოწერას მოეხსნება ვარსკვლავით მონიშვნა."</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"მონახაზი"</item>
+    <item msgid="6961049507579977505" quantity="other">"მონახაზები"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> შეტყობინება წაიშლება სამუდამოდ."</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> შეტყობინება წაიშლება სამუდამოდ."</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <plurals name="gal_completed_fmt">
+    <item msgid="7496785524617037642" quantity="one">"<ns1:g id="RESULTS">%1$d</ns1:g> შედეგი <ns1:g id="DOMAIN">%2$s</ns1:g>-დან"</item>
+    <item msgid="7816121892960632123" quantity="other">"<ns1:g id="RESULTS">%1$d</ns1:g> შედეგი <ns1:g id="DOMAIN">%2$s</ns1:g>-დან"</item>
+  </plurals>
+    <plurals name="message_delete_confirm">
+    <item msgid="3799616435056423256" quantity="one">"წავშალო ეს შეტყობინება?"</item>
+    <item msgid="4437637377522896262" quantity="other">"წავშალო ეს შეტყობინება?"</item>
+  </plurals>
+    <plurals name="message_deleted_toast">
+    <item msgid="710742672464447084" quantity="one">"შეტყობინება წაშლილია."</item>
+    <item msgid="6574961322865652255" quantity="other">"შეტყობინებები წაშლილია."</item>
+  </plurals>
+    <plurals name="message_moved_toast">
+    <item msgid="3098493230185412871" quantity="one">"<ns1:g id="NUM_MESSAGE">%1$d</ns1:g> შეტყობინება გადატანილია <ns1:g id="MAILBOX_NAME">%2$s</ns1:g>-ში"</item>
+    <item msgid="2286739630865943494" quantity="other">"<ns1:g id="NUM_MESSAGE">%1$d</ns1:g> შეტყობინებები გადატანილია <ns1:g id="MAILBOX_NAME">%2$s</ns1:g>-ში"</item>
+  </plurals>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>ბაიტი"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g>ბაიტი"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g>გბაიტი"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g>გბაიტი"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g>კბაიტი"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g>კბაიტი"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>მბაიტი"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g>მბაიტი"</item>
+  </plurals>
+    <plurals name="message_view_selected_message_count">
+    <item msgid="5064657358375178519" quantity="one">"მონიშნულია <ns1:g id="MESSAGE_COUNT">%d</ns1:g>"</item>
+    <item msgid="7901361399231876038" quantity="other">"მონიშნულია <ns1:g id="MESSAGE_COUNT">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="message_view_show_attachments_action">
+    <item msgid="7594476368958824007" quantity="one">"<ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g> დანართი"</item>
+    <item msgid="974463163535515223" quantity="other">"<ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g> დანართი"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"მიმოწერის გადატანა"</item>
+    <item msgid="1685896770174368261" quantity="other">"<ns1:g id="ID_1">%1$d</ns1:g> მიმოწერის გადატანა"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"შეტყობინების გადატანა"</item>
+    <item msgid="371256717624461324" quantity="other">"შეტყობინებების გადატანა"</item>
+  </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+    <item msgid="1991747245324120305" quantity="few">"<ns1:g id="NUMBER_ACCOUNTS">%d</ns1:g> ანგარიშში"</item>
+    <item msgid="2723797835410343458" quantity="other">"<ns1:g id="NUMBER_ACCOUNTS">%d</ns1:g> ანგარიშში"</item>
+  </plurals>
+    <plurals name="notification_new_one_account_fmt">
+    <item msgid="3422945912787702191" quantity="one">"<ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g> წაუკითხავი (<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+    <item msgid="6543078667692990869" quantity="few">"<ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g> წაუკითხავი (<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+    <item msgid="6937673814351448076" quantity="other">"<ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g> წაუკითხავი (<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+  </plurals>
+    <plurals name="number_of_accounts">
+    <item msgid="6343953132237244947" quantity="one">"<ns1:g id="NUM_ACCOUNTS">%1$d</ns1:g> ანგარიში"</item>
+    <item msgid="8548760449976444566" quantity="other">"<ns1:g id="NUM_ACCOUNTS">%1$d</ns1:g> ანგარიში"</item>
+  </plurals>
+    <plurals name="picker_combined_view_account_count">
+    <item msgid="380235084337895804" quantity="one">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> ანგარიში"</item>
+    <item msgid="4145163147488719025" quantity="other">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> ანგარიში"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ძველი შეტყობინება"</item>
+  </plurals>
+    <plurals name="sync_recent">
+    <item msgid="137489911893192702" quantity="one">"სინქრონიზაცია: ბოლო <ns1:g id="COUNT">%1$d</ns1:g> დღე"</item>
+    <item msgid="6856940335775567991" quantity="other">"სინქრონიზაცია: ბოლო <ns1:g id="COUNT">%1$d</ns1:g> დღე"</item>
+  </plurals>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8236846322040271280" name="account_delete_dlg_instructions_fmt">"ანგარიში „<ns1:g id="ACCOUNT">%s</ns1:g>“ ამოიშლება ელფოსტიდან."</string>
+    <string msgid="6806087520856396608" name="account_delete_dlg_title">"ანგარიშის წაშლა"</string>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"თქვენ უკვე იყენებთ მომხმარებლის სახელს ანგარიშისთვის \"<ns1:g id="DUPLICATE">%s</ns1:g>\"."</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"დუბლირებული ანგარიში"</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"მონახაზები"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"შემოსულები"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"გასაგზავნი"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"ვარსკვლავიანი"</string>
+    <string msgid="837218861494831989" name="account_name_display_all">"ყველა ანგარიში"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"ეს პაროლი იწყება ან მთავრდება შორისის სიმბოლოთი. ბევრ სერვერს არ აქვს მსგავსი პაროლის გამოყენების მხარდაჭერა."</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> ითხოვს, რომ შეცვალოთ თქვენი უსაფრთხოების პარამეტრები."</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"უსაფრთხოების განახლება"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"სერვერს <ns1:g id="SERVER">%s</ns1:g> ესაჭიროება თქვენი Android მოწყობილობის უსაფრთხოების ზოგიერთი პარამეტრის დისტანციური მართვის ნებართვა."</string>
+    <string msgid="3511543138560418587" name="account_security_title">"მოწყობილობის უსაფრთხოება"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"ანგარიშის პარამეტრები"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"დანართების ჩამოტვირთვა"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"ნანახი წერილების დანართების ავტომატური გადმოწერა Wi-Fi-ის გამოყენებით"</string>
+    <string msgid="5128545184407925226" name="account_settings_category_delete_account">"ანგარიშის წაშლა"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"მონაცემთა გადაცემის მოხმარება"</string>
+    <string msgid="4889158717472601718" name="account_settings_delete_account_label">"ანგარიშის წაშლა"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"ანგარიშის სახელი"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"სწრაფი პასუხი"</string>
+    <string msgid="8056686122888722591" name="account_settings_edit_quick_responses_summary">"წერილების შედგენისას ხშირად გამოყენებული ტექსტის რედაქტირება"</string>
+    <string msgid="7429582254433588882" name="account_settings_enforced_label">"პოლიტიკა გამოყენებულია"</string>
+    <string msgid="8140860420440447771" name="account_settings_enforced_summary">"არცერთი"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"გაუქმდეს შესანახი ცვლილებები?"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"შემომავალის პარამეტრები"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"მომხმარებლის სახელი, პაროლი და შემომავალი სერვერის სხვა მონაცემები"</string>
+    <string msgid="8849649646111167377" name="account_settings_login_dialog_content_fmt">"მომხმარებლის სახელი ან პაროლი ანგარიშისთვის <ns1:g id="ACCOUNT">%s</ns1:g> არასწორია. ახლავე გსურთ მათი განახლება?"</string>
+    <string msgid="4266359321648406752" name="account_settings_login_dialog_reason_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g>-ში შესვლა ვერ მოხერხდა; სერვერის პასუხია: <ns1:g id="REASON">%s</ns1:g> გსურთ თქვენი მომხმარებლის სახელისა და პაროლის განახლება?"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"შესვლა ვერ მოხერხდა"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"თქვენი სახელი"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"შეტყობინების პარამეტრები"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"ელფოსტის შეტყობინებები"</string>
+    <string msgid="8134339460923068254" name="account_settings_notify_summary">"შეტყობინების გაგზავნა ახალი ელფოსტის მიღებისას"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"გამავალი სერვერის პარამეტრები"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"მომხმარებლის სახელი, პაროლი და გამავალი სერვერის სხვა მონაცემები."</string>
+    <string msgid="6292833636418641840" name="account_settings_policies">"უსაფრთხოების პოლიტიკა"</string>
+    <string msgid="1104680719299842829" name="account_settings_retry_label">"სინქრონიზაციის მცდელობა"</string>
+    <string msgid="2703599639846201913" name="account_settings_retry_summary">"ანგარიშის სინქრონიზაციისთვის შეეხეთ აქ"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"ზარის მელოდიის არჩევა"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"სერვერის პარამეტრები"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"სინქრონიზაციის სიხშირე, შეტყობინებები და ა.შ."</string>
+    <string msgid="6855333393468628003" name="account_settings_sync_calendar_enable">"კალენდრის სინქრონიზაცია"</string>
+    <string msgid="7606340353079301703" name="account_settings_sync_calendar_summary">"ამ ანგარიშისთვის კალენდრის ღონისძიების სინქრონიზაცია"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"კონტაქტების სინქრონიზაცია"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"ანგარიშის კონტაქტების სინქრონიზაცია"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"ელფოსტის სინქრონიზაცია"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"ანგარიშის ელფოსტის სინქრონიზაცია"</string>
+    <string msgid="1954091071454235577" name="account_settings_unsupported_label">"მხარდაუჭერელი პოლიტიკა"</string>
+    <string msgid="2107633813351863608" name="account_settings_unsupported_summary">"არცერთი"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"ვიბრაცია"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"ანგარიშის ტიპი"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"ეს რა ტიპის ანგარიშია?"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"ანგარიშის დაყენება"</string>
+    <string msgid="8896222991837026736" name="account_setup_basics_default_label">"ელფოსტის ნაგულისხმევად ამ ანგარიშიდან გაგზავნა"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"ელფოსტის მისამართი"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"ელფოსტის ანგარიში"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"ხელით დაყენება"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"პაროლი"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"ანგარიშის დაყენება"</string>
+    <string msgid="2869198335297585862" name="account_setup_check_settings_check_incoming_msg">"სერვერის პარამეტრების გადამოწმება…"</string>
+    <string msgid="4566131393776891419" name="account_setup_check_settings_check_outgoing_msg">"smtp პარამეტრების გადამოწმება…"</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"ანგარიშის შესახებ ინფორმაციის ამოღება…"</string>
+    <string msgid="6235569720466839946" name="account_setup_creating_account_msg">"ანგარიშის შექმნა…"</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"კლიენტის სერტიფიკატი"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"მობილური მოწყობილობის ID"</string>
+    <string msgid="6099049671599242131" name="account_setup_exchange_headline">"სერვერის პარამეტრები"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"არცერთი"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"ამოშლა"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"არჩევა"</string>
+    <string msgid="795137797983360826" name="account_setup_exchange_server_label">"სერვერი"</string>
+    <string msgid="6704105469083211236" name="account_setup_exchange_ssl_label">"უსაფრთხო კავშირის გამოყენება (SSL)"</string>
+    <string msgid="396004732514751781" name="account_setup_exchange_title">"ანგარიშის დაყენება"</string>
+    <string msgid="6232880757633882678" name="account_setup_exchange_trust_certificates_label">"ყველა SSL სერტიფიკატის დაშვება"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"კლიენტის სერტიფიკატის გამოყენება"</string>
+    <string msgid="6517176180828983060" name="account_setup_exchange_username_label">"დომენი\\მომხმარებლის სახელი"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"თქვენ არ გაქვთ ამ სერვერთან სინქრონიზაციის უფლება. დამატებითი ინფორმაციისთვის დაუკავშირდეთ თქვენი სერვერის ადმინისტრატორს."</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"ავტორიზაციის მეთოდები მხარდაუჭერელია სერვერის მიერ."</string>
+    <string msgid="3563840279690749547" name="account_setup_failed_certificate_inaccessible">"სერტიფიკატი არასწორია, ან მიუწვდომელია."</string>
+    <string msgid="2689944595775206006" name="account_setup_failed_certificate_required">"აუცილებელია კლიენტის სერტიფიკატი. გსურთ დაუკავშირდეთ სერვერს კლიენტის სერტიფიკატით?"</string>
+    <string msgid="6531658092540248067" name="account_setup_failed_check_credentials_message">"სერვერის პასუხი შეიცავს შეცდომას. შეამოწმეთ თქვენი მომხმარებლის სახელი და პაროლი და სცადეთ ხელახლა."</string>
+    <string msgid="426627755590431364" name="account_setup_failed_dlg_auth_message">"მომხმარებლის სახელი ან პაროლი არასწორია."</string>
+    <string msgid="2081384892947238930" name="account_setup_failed_dlg_auth_message_fmt">"შესვლა ვერ მოხერხდა.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"სერვერთან უსაფრთხო კავშირის დამყარება ვერ ხერხდება."</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"სერვერთან უსაფრთხო კავშირის დამყარება ვერ ხერხდება.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"დეტალების რედაქტირება"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"სერვერთან დაკავშირება ვერ მოხერხდა."</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"სერვერთან დაკავშირება ვერ ხერხდება.\n(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"დასრულება ვერ მოხერხდა"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"სერვერთან კავშირის დამყარება ვერ ხერხდება."</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"თქვენ აკრიფეთ სერვერის არასწორი მისამართი, ან სერვერი ითხოვს პროტოკოლის ისეთ ვერსიას, რომლის მხარდაჭერაც ელფოსტას არ აქვს."</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"უსაფრთხოების შეცდომის გამო სერვერთან კავშირი ვერ დამყარდება."</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"სერვერი მოითხოვს უსაფრთხოების ისეთ პარამეტრებს, რომელიც არ არის მხარდაჭერილი თქვენი Android მოწყობილობის მიერ. მათ შორის: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"აუცილებელია TLS, მაგრამ ის მხარდაუჭერელია სერვერის მიერ."</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"შემომავალში წაშლისას"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"შეტყობინებების წაშლა სერვერიდან"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"არასოდეს"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"შემომავალი სერვერის პარამეტრები"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"სურვილისამებრ"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"IMAP გზის პრეფიქსი"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"პაროლი"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"პორტი"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"უსაფრთხოების ტიპი"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"არცერთი"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (ყველა სერტიფიკატის დაშვება)"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (ყველა სერტიფიკატის დაშვება)"</string>
+    <string msgid="1480342966630002638" name="account_setup_incoming_server_label">"სერვერი"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"ანგარიშის დაყენება"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"მომხმარებლის სახელი"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"ანგარიშისთვის სახელის დარქმევა (არასავალდებულო)"</string>
+    <string msgid="914858472109729140" name="account_setup_names_headline">"თქვენი ანგარიში დაყენებულია და მალე ელფოსტაც გექნებათ!"</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"ანგარიშის დაყენება"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"ეს ველი არ შეიძლება ცარიელი იყოს."</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"თქვენი სახელი (ჩანს გამავალ წერილებში)"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"დანართების ავტომატური გადმოწერა Wi-Fi-სთან დაკავშირებისას"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"ანგარიშის პარამეტრები"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"10 წუთში ერთხელ"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"ყოველ 15 წუთში"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"ყოველ საათს"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"30  წუთში ერთხელ"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"5 წუთში ერთხელ"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"შემოსულების შემოწმების სიხშირე"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"არასოდეს"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"ავტომატურად (Push)"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"ყველა"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"ავტომატური"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"სინქრონიზაციის დღეები"</string>
+    <string msgid="7046146571560728829" name="account_setup_options_notify_label">"შემატყობინე, როცა წერილი მიუვა ადრესატს"</string>
+    <string msgid="3222151135467189411" name="account_setup_options_sync_calendar_label">"ანგარიშის კალენდრის სინქრონიზაცია"</string>
+    <string msgid="276492345599531778" name="account_setup_options_sync_contacts_label">"ანგარიშის კონტაქტების სინქრონიზაცია"</string>
+    <string msgid="8585177128405004068" name="account_setup_options_sync_email_label">"ანგარიშის ელფოსტის სინქრონიზაცია"</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"ანგარიშის პარამეტრები"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"გამავალი სერვერის პარამეტრები"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"პაროლი"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"პორტი"</string>
+    <string msgid="7779484127897397562" name="account_setup_outgoing_require_login_label">"მოითხოვე სისტემაში შესვლა"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"უსაფრთხოების ტიპი"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"SMTP სერვერი"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"ანგარიშის დაყენება"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"მომხმარებლის სახელი"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"<ns1:g id="SERVER">%s</ns1:g> სერვერს ესაჭიროება თქვენი Android მოწყობილობის უსაფრთხოების ზოგიერთი პარამეტრის დისტანციური მართვის ნებართვა. გსურთ ამ ანგარიშის დაყენების დასრულება?"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"უსაფრთხოების დისტანციური ადმინისტრირება"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"აკრიფეთ ნამდვილი ელფოსტის მისამართი და პაროლი."</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"თქვენ არ შეგიძლიათ ანგარიშის მომხმარებლის სახელის შეცვლა. სხვა სახელის ანგარიშის დასამატებლად შეეხეთ „ანგარიშის დამატებას“."</string>
+    <string msgid="1994861845225243190" name="account_shortcut_picker_name">"ელფოსტის ანგარიში"</string>
+    <string msgid="1039929224016048015" name="account_shortcut_picker_title">"ანგარიშის არჩევა"</string>
+    <string msgid="6504836014579036923" name="account_waiting_for_folders_msg">"საქაღალდეების სიის ჩამოტვირთვა…"</string>
+    <string msgid="8337750045270269649" name="accounts_welcome">"თქვენ შეგიძლიათ ანგარიშის დაყენება რამდენიმე სვლაში"</string>
+    <string msgid="7484457755531286333" name="action_bar_mailbox_list_title">"საქაღალდეები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"<ns1:g id="COUNT">%1$d</ns1:g>+ წაუკითხავი"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"საქაღლდის არჩევა"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"ანგარიშის არჩევა"</string>
+    <string msgid="2162808366829269770" name="add_account">"ანგარიშის დამატება"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"უხილავი ასლის დამატება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4757145078498200242" name="add_cc_bcc_menu">"ასლისა და უხილავი ასლის დამატება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="504861315425773180" name="add_cc_label">"ასლისა და უხილავი ასლის დამატება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2203398371671979481" name="add_file_attachment">"ფაილის მიმაგრება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1638508840481944248" name="add_label">"ლეიბლის დამატება"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"სურათის მიმაგრება"</string>
+    <string msgid="2866003744391266498" name="add_star">"ვარსკვლავის დამატება"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"ვიდეოს მიმაგრება"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>-ის მეშვეობით"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"ყველა საქაღალდე"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"ყოველთვის აჩვენე სურათები ამ გამომგზავნისგან"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"ამ გამომგზავნის სურათები ავტომატურად იქნება ნაჩვენები."</string>
+    <string msgid="2285438422049030145" name="ap_overflow_format">"+<ns1:g id="ID_1">%d</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="5815426892327290362" name="app_name">"ელფოსტა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="847250094775910499" name="archive">"დაარქივება"</string>
+    <string msgid="7533995360704366325" name="archived">"დაარქივებული"</string>
+    <string msgid="4267189489654642035" name="attached_message">"დართული შეტყობინება"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"დოკუმენტი"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"ელცხრილი"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"პრეზენტაცია"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"აუდიო"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"სურათი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2817790592227462682" name="attachment_info_apk_install_disabled">"აპლიკაციის დაყენება პირდაპირ ელფოსტიდან შეუძლებელია. უპირველეს ყოვლისა გადაწერეთ ის და შემდეგ დააყენეთ „ჩამოტვირთვების“ აპის გამოყენებით."</string>
+    <string msgid="4124655487276125596" name="attachment_info_application_settings">"აპების პარამეტრები"</string>
+    <string msgid="4995755709689009622" name="attachment_info_dialog_default_title">"დანართის მონაცემები"</string>
+    <string msgid="3174350153882915382" name="attachment_info_dialog_wifi_title">"საჭიროა Wi-Fi კავშირი"</string>
+    <string msgid="6576029010855055528" name="attachment_info_malware">"თქვენ არ შეგიძლიათ ამ ფაილის გახსნა ან შენახვა, რადგან ამ ტიპის დანართები შესაძლოა შეიცავდნენ ვირუსებს."</string>
+    <string msgid="8139209405745777924" name="attachment_info_no_intent">"არ არის დაყენებული არცერთი აპი, რომელსაც ამ დანართის გახსნა შეუძლია. სცადეთ სათანადო აპლიკაციის Android Market-იდან გადმოწერა."</string>
+    <string msgid="3560422300127587508" name="attachment_info_policy">"დანართის გახსნა, ან შენახვა შეუძლებელია, ანგარიშის უსაფრთხოების წესების გამო."</string>
+    <string msgid="3270731101769840006" name="attachment_info_sideload_disabled">"ეს დანართი არის აპი. მის ინსტალაციამდე თქვენ უნდა მონიშნოთ „უცნობი წყაროები“ პარამეტრების აპების სექციაში."</string>
+    <string msgid="8342655396805943320" name="attachment_info_unknown">"დანართის გახსნა ვერ მოხერხდა."</string>
+    <string msgid="1481120960014563617" name="attachment_info_wifi_only">"ეს დანართი ძალიან დიდია მობილური ქსელის გამოყენებით გადმოწერისთვის. თქვენ შეგიძლიათ გადმოიწეროთ ის მოგვიანებით Wi-Fi ქსელთან დაკავშირებისას."</string>
+    <string msgid="96432970927503597" name="attachment_info_wifi_settings">"Wi-Fi პარამეტრები"</string>
+    <string msgid="7155322700141145123" name="attachment_not_found">"დანართის ჩამოტვირთვა ვერ მოხერხდა."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="5544874374971562759" name="attachment_text">"ტექსტი"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"სამწუხაროდ თქვენ არ შეგიძლიათ ამ ტიპის დანართის შენახვა ან გახსნა."</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g> ფაილი"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"ვიდეო"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"დანართები"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"ავტომატური გადასცლის პარამეტრების დაყენება\n(მას შემდეგ რაც წაშლით და ა.შ.)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"ავტომატური გადასვლა"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"აირჩიეთ, რომელი ეკრანი გამოჩნდეს შეტყობინების წაშლის შემდეგ"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="3098643138241111579" name="bcc">"ფარული ასლი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="4698055226318660420" name="bcc_heading">"უხილავი ასლი: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4279864165439577668" name="body_hint">"წერილის დაწერა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> ბაიტი"</string>
+    <string msgid="8762981157252199115" name="cancel">"გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6967435583794021865" name="cancel_action">"გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="4651201258272223650" name="cancel_attachment">"გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"გადაადგილება შეუძლებელია, რადგან მონიშვნა შეიცავს რამდენიმე ანგარიშს."</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"გადაადგილება მხარდაუჭერელია POP3 ანგარიშებისთვის."</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"მონახაზებში, გასაგზავნში და გაგზავნილებში მოთავსებული შეტყობინებების გადაადგილება შეუძლებელია."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"გადაადგილება შეუძლებელია, რადგან მონიშნულია რამდენიმე ანგარიში."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2742423840964045801" name="category_general_preferences">"აპლიკაცია"</string>
+    <string msgid="7017720927911078193" name="cc">"ასლი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="374493748526504562" name="cc_attribution">"ასლი: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"ასლი: "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"საქაღალდეების შეცვლა"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"სინქრონიზაციის პარამეტრების შეცვლა"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"ელფოსტის შემოწმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="81937507117528954" name="choose_attachment_dialog_title">"დანართის არჩევა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"გაზიარება"</string>
+    <string msgid="3184687982186479442" name="clear">"გასუფთავება"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"ადრე ნებადართული გამომგზავნებისგან ჩართული სურათების ჩვენების შეჩერება."</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"გაუქმდეს ადრეული ნებართვები?"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"სურათის ნებართვების გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="533058985745238100" name="close_action">"დახურვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"გამომგზავნის მონაცემების აკეცვა"</string>
+    <string msgid="1473559896062432878" name="compose">"შექმნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4045702519637388045" name="compose_action">"წერილის დაწერა"</string>
+    <string msgid="427986915662706899" name="compose_title">"შექმნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"გაუქმდეს ეს შეტყობინება?"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="9151965975158906286" name="confirm_response">"პასუხის გაგზავნა..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="3221546155385562874" name="confirm_send_message">"გაიგზავნოს ეს შეტყობინება?"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"შეტყობინების ტექსტი ცარიელია."</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"შეტყობინების თემა ცარიელია."</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"გავგზავნო წერილი?"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"<ns1:g id="NAME">%1$s</ns1:g>-ის საკონტაქტო ინფორმაციის ნახვა"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"კონტაქტის ინფორმაციის ჩვენება"</string>
+    <string msgid="5191020413686786341" name="content_description">"<ns1:g id="SENDER">%1$s</ns1:g> <ns1:g id="SUBJECT">%2$s</ns1:g>-ის შესახებ, <ns1:g id="SNIPPET">%3$s</ns1:g> თარიღი: <ns1:g id="DATE">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"<ns1:g id="SENDER">%1$s</ns1:g> <ns1:g id="SUBJECT">%2$s</ns1:g>-ის შესახებ, <ns1:g id="SNIPPET">%3$s</ns1:g> თარიღი: <ns1:g id="TIME">%4$s</ns1:g>, <ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"კონტაქტის დამატება"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"კოპირება"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"ბმულის URL-ის კოპირება"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"აკრეფა…"</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"უკუკავშირი"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"დახმარება"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"რუკა"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"ბრაუზერში გახსნა"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"ელფოსტის გაგზავნა"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"ბმულის გაზიარება"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"SMS…"</string>
+    <string msgid="4459776616201694172" name="conversation_count">"<ns1:g id="COUNT">%1$s</ns1:g> - <ns1:g id="TOTAL">%2$s</ns1:g>-დან"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"გადატანილია <ns1:g id="FOLDERNAME">%1$s</ns1:g>-ში"</string>
+    <string msgid="7381341099165809801" name="conversation_newer">"უფრო ახალი"</string>
+    <string msgid="6384287019562069353" name="conversation_older">"უფრო ძველი"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"მიმოწერის მოსანიშნად შეეხეთ გამომგზავნის სურათს."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="3062715563215392251" name="create_action">"ახლის შექმნა"</string>
+    <string msgid="2726544180243210741" name="create_new_folder">"საქაღალდის შექმნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"გააგზავნეთ წერილი როგორც:"</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"დღეს, <ns1:g id="TIME">%1$s</ns1:g>-ზე"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"გუშინ, <ns1:g id="TIME">%1$s</ns1:g>-ზე"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="5175710493691536719" name="debug_title">"გამართვა"</string>
+    <string msgid="6160213145745376955" name="debug_version_fmt">"ვერსია: <ns1:g id="VERSION">%s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="844871204175957681" name="delete">"წაშლა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8421026208288857155" name="delete_action">"წაშლა"</string>
+    <string msgid="3076922270182841978" name="delete_quick_response_action">"წაშლა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="2757349161107268029" name="deleted">"წაშლილი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="426727923791430306" name="device_admin_description">"სერვერის უსაფრთხოების პოლიტიკის ჩართვა"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"ელფოსტა"</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"გაფრთხილება: თქვენს მოწყობილობაზე ადმინისტრირების უფლების გამორთვა ელფოსტის აპისთვის გამოიწვევს ყველა იმ ელფოსტის ანგარიშის წაშლას, რომელიც იყენებს ამ ფუნქციას. მათ შორის წაიშლება ყველა კონტაქტი, შეტყობინება, კალენდრის ღონისძიებები და სხვა მონაცემები."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1714960202994370243" name="discard">"გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6532206074859505968" name="discard_action">"გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6862272443470085375" name="discard_drafts">"მონახაზების წაშლა"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"რჩევის დახურვა"</string>
+    <string msgid="3079981801778027540" name="done">"დასრულება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="7497990549515580249" name="done_action">"დასრულება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7418568915429156518" name="download_again">"ხელახლა ჩამოტვირთვა"</string>
+    <string msgid="442019281547315527" name="download_failed">"ჩამოტვირთვა ვერ მოხერხდა, შეეხეთ განმეორებითი მცდელობისთვის."</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"ნავიგაციის უჯრის დახურვა"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"ნავიგაციის უჯრის გახსნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4322494050816995390" name="edit_quick_response_dialog">"სწრაფი პასუხის რედაქტირება"</string>
+    <string msgid="8827210108543430336" name="eml_view_title">"<ns1:g id="FILENAME">%s</ns1:g>-ის ნახვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6064497180615519589" name="empty_spam">"სპამის გასუფთავება"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"გასუფთავდეს სპამი?"</string>
+    <string msgid="652435297593538512" name="empty_trash">"წაშლილების გასუფთავება"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"გასუფთავდეს წაშლილები?"</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">", "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6775234299515596760" name="error_loading_message_body">"შეტყობინების ტექსტის ჩამოტვირთვა ვერ მოხერხდა. შესაძლოა ის ძალიან დიდია."</string>
+    <string msgid="1190783774800310346" name="exchange_name">"კორპორატიული"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"მიმღების ინფორმაციის გაშლა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4664259801498253756" name="favorite_action">"ვარსკვლავით მონიშვნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"უკუკავშირი"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"დანართის მოძიება"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"საქაღალდის ხატულა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="860241987640527156" name="folder_picker_title">"საქაღალდის ასარჩევი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1047474677580149436" name="folder_removed">"წაშლილია <ns1:g id="FOLDERNAME">%1$s</ns1:g>-დან"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"ელფოსტის საქაღალდე"</string>
+    <string msgid="6822914459902983767" name="forward">"გადაგზავნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="669174181042344116" name="forward_action">"გადაგზავნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- გადაგზავნილი შეტყობინება ----------&lt;br>გამგზავნი: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>თარიღი: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>თემა: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>მიმღები: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"ერთი ან რამდენიმე დანართის გადაგზავნა ვერ მოხერხდა."</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"დანართი ვერ გადაიგზავნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="2454519463223197231" name="from_heading">"გამგზავნი: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6140450617663543464" name="gal_searching_fmt">"<ns1:g id="DOMAIN">%s</ns1:g>-ის ძიება…"</string>
+    <string msgid="1863245465244241907" name="general_preference_confirm_delete_label">"დაადასტურეთ წაშლამდე"</string>
+    <string msgid="6710240861010766643" name="general_preference_confirm_delete_summary">"შეტყობინებები"</string>
+    <string msgid="4548277349553989930" name="general_preference_confirm_send_label">"დაადასტურეთ გაგზავნამდე"</string>
+    <string msgid="2695471027185506093" name="general_preference_confirm_send_summary">"შეტყობინებები"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"შეტყობინების ტექსტის ზომა"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"უზარმაზარი"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"შეტყობინების ტექსტის ზომა"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"დიდი"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"ჩვეულებრივი"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"პატარა"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"პაწაწინა"</string>
+    <string msgid="2648501128162793879" name="general_preferences_clear_trusted_senders_summary">"სურათები შეტყობინებებში არ გამოჩნდება ავტომატურად"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"ფაილის მიბმა ვერ მოხერხდა."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8243724566056800991" name="header_label_general_preferences">"ძირითადი პარამეტრები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7873089811705257882" name="help_and_info">"დახმარება"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ ციტირებული ტექსტის დამალვა"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"უგულებელყავი, მე ვენდობი ამ შეტყობინებას"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="5030473997603483793" name="imap_name">"IMAP"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"შემოსულები"</string>
+    <string msgid="6009817562073541204" name="info">"ინფო"</string>
+    <string msgid="607849900865956536" name="info_attachment">"ინფო"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"მისამართი <ns1:g id="WRONGEMAIL">%s</ns1:g> არასწორია."</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> კბაიტი"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"მეტის ჩატვირთვა"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"იტვირთება..."</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"იტვირთება..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2169365211566829350" name="login_failed_ticker">"<ns1:g id="ACCOUNT_NAME">%s</ns1:g> შესვლა წარუმატებლად დასრულდა."</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"შესვლა ვერ მოხერხდა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"შეეხეთ &amp; არ აუშვათ ერთი მიმოწერის ასარჩევად. შემდეგ, შეეხეთ მეტი ასარჩევად."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4261295503836387876" name="mailbox_list_account_selector_account_header">"ანგარიშები"</string>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"კომბინირებული ხედი"</string>
+    <string msgid="3320144348694625092" name="mailbox_list_account_selector_mailbox_header_fmt">"წინა საქაღალდეები (<ns1:g id="EMAIL_ADDRESS">%s</ns1:g>)"</string>
+    <string msgid="4185052839366909439" name="mailbox_list_account_selector_show_all_folders">"ყველა საქაღალდის ჩვენება"</string>
+    <string msgid="8922653040520361032" name="mailbox_list_recent_mailboxes">"ახლახანს ნანახი საქაღალდეები"</string>
+    <string msgid="484260487104726379" name="mailbox_list_user_mailboxes">"ყველა საქაღლდე"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"მონახაზები"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"შემოსულები"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"არასასურველი"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"გასაგზავნი"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"გაგზავნილი"</string>
+    <string msgid="7788694947644186069" name="mailbox_name_display_starred">"ვარსკვლავიანი"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"წაშლილები"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"წაუკითხავი"</string>
+    <string msgid="9077316556563252246" name="mailbox_preferences_header">"სინქრონიზაციის პარამეტრები"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"სინქრონიზაციის პარამეტრები"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"სინქრონიზაციის პარამეტრები (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="4152973927804882131" name="mailbox_shortcut_picker_title">"აირჩიეთ საქაღალდე"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6743983544685622800" name="manual_sync">"სინქრონიზაცია"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="3766298115778767554" name="mark_as_unread_action">"წასაკითხად მონიშვნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6904096897104265870" name="mark_important">"მნიშვნელოვნად მონიშვნა"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"უმნიშვნელოდ მონიშვნა"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"განაცხადე, რომ არ არის სპამი"</string>
+    <string msgid="8438349154394313195" name="mark_read">"წაკითხულად მონიშვნა"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"მოინიშნოს წასაკითხად"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"მე"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"მე"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> მბაიტი"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"საქაღალდეების შეცვლა"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"წერილის შედგენა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2871906096248843471" name="menu_folder_options">"სინქრონიზაციის პარამეტრები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"საქაღალდის პარამეტრები"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"გადაადგილება:"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"შემოსულებში გადატანა"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"ყველაფრის შენახვა"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"გაზიარება"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"ყველაფრის გაზიარება"</string>
+    <string msgid="5297197523031943248" name="menu_search">"ძიება"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"პარამეტრები"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"ავტომატური მასშტაბირების გაუქმება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4401081828287333647" name="message_compose_attachment_size">"ამ ზომის ფაილის მიმაგრება შეუძლებელია."</string>
+    <string msgid="9177337492358841680" name="message_compose_bcc_hint">"ფარული ასლი"</string>
+    <string msgid="8481884461031434144" name="message_compose_cc_hint">"ასლი"</string>
+    <string msgid="6415258924917140704" name="message_compose_display_name">"<ns1:g id="NAME">%1$s</ns1:g> და <ns1:g id="NUMBER">%2$d</ns1:g> სხვა"</string>
+    <string msgid="1817633338629885643" name="message_compose_error_invalid_email">"ელფოსტის ზოგიერთი მისამართი არასწორია."</string>
+    <string msgid="140299472517968199" name="message_compose_error_no_recipients">"დაამატეთ სულ მცირე ერთი მიმღები."</string>
+    <string msgid="4084843296548498041" name="message_compose_from_label">"გამგზავნი:"</string>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- შეტყობინების ორიგინალი --------\nთემა: <ns1:g id="SUBJECT">%1$s</ns1:g>\nგამგზავნი: <ns1:g id="SENDER">%2$s</ns1:g>\nმიმღები: <ns1:g id="TO">%3$s</ns1:g>\nასლი: <ns1:g id="CC_0">%4$s</ns1:g>\n\n"</string>
+    <string msgid="8165567368956050390" name="message_compose_include_quoted_text_checkbox_label">"ტექსტის ჩასმა"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"სწრაფი პასუხის ჩასმა"</string>
+    <string msgid="6950097435198536165" name="message_compose_quoted_text_label">"ციტირებული ტექსტის ჩასმა"</string>
+    <string msgid="8815624773273454573" name="message_compose_reply_header_fmt">\n\n"<ns1:g id="SENDER">%s</ns1:g> დაწერა:\n\n"</string>
+    <string msgid="6993487234024160782" name="message_compose_subject_hint">"თემა"</string>
+    <string msgid="2891895306418177013" name="message_compose_to_hint">"მიმღები"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"შეტყობინების გაშიფრვისას წარმოიშვა შეცდომა."</string>
+    <string msgid="6603370107217227252" name="message_delete_dialog_title"/>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="2183394728494962332" name="message_details_title">"შეტყობინების მონაცემები"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"შეტყობინება გაუქმებულია."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="3891461729325584026" name="message_discarded_toast">"შეტყობინება გაუქმებულია."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="869753811259793266" name="message_invite_accept">"დიახ"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"კალენდარში ნახვა"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"არა"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"მიდიხართ?"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"ალბათ"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"კალენდრის მოსაწვევი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4004644319382041459" name="message_is_empty_description">"თემის გარეშე"</string>
+    <string msgid="7428302707908825692" name="message_list_load_more_messages_action">"მეტი შეტყობინების ჩამოტვირთვა"</string>
+    <string msgid="7846910091922523867" name="message_list_no_messages">"შეტყობინებები არ არის."</string>
+    <string msgid="8502942186631824114" name="message_list_send_pending_messages_action">"ყველა შეტყობინების გაგზავნა"</string>
+    <string msgid="1783589062530679520" name="message_list_subject_snippet_divider">" — "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7073947895562277576" name="message_saved">"შეტყობინება შენახულია, როგორც მონახაზი."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8443125659172627665" name="message_saved_toast">"შეტყობინება შენახულია, როგორც მონახაზი."</string>
+    <string msgid="3597047441062021199" name="message_subject_description">"თემა"</string>
+    <string msgid="6523810929103546865" name="message_view_always_show_pictures_button">"ყოველთვის ჩვენება"</string>
+    <string msgid="6838463134312859448" name="message_view_always_show_pictures_confirmation">"ამ გამგზავნის ფოტოები ავტომატურად გამოჩნდება."</string>
+    <string msgid="7685500276479967959" name="message_view_always_show_pictures_prompt">"ყოველთვის აჩვენე სურათები ამ გამომგზავნისგან"</string>
+    <string msgid="7906875687519445185" name="message_view_attachment_background_load">"თქვენს გადაგზავნილ შეტყობინების ერთი, ან რამდენიმე დანართი გაგზავნამდე ჩამოიტვირთება."</string>
+    <string msgid="316700885943712101" name="message_view_attachment_cancel_action">"შეწყვეტა"</string>
+    <string msgid="3908148393469626740" name="message_view_attachment_info_action">"ინფო"</string>
+    <string msgid="381211378884166381" name="message_view_attachment_install_action">"ინსტალაცია"</string>
+    <string msgid="8645178445048233745" name="message_view_attachment_load_action">"ჩატვირთვა"</string>
+    <string msgid="5214215414665114061" name="message_view_attachment_play_action">"დაკვრა"</string>
+    <string msgid="4704436274670997903" name="message_view_attachment_save_action">"შენახვა"</string>
+    <string msgid="3432810414785232025" name="message_view_attachment_saved">"დამახსოვრებულია"</string>
+    <string msgid="4408093860407096078" name="message_view_attachment_view_action">"ნახვა"</string>
+    <string msgid="7577479221285310198" name="message_view_bcc_label">"უხილავი ასლი:"</string>
+    <string msgid="6322992216371163122" name="message_view_cc_label">"ასლი:"</string>
+    <string msgid="7033814961837313339" name="message_view_date_label">"თარიღი:"</string>
+    <string msgid="7714482237896346836" name="message_view_display_attachment_toast">"დანართის ჩვენება შეუძლებელია."</string>
+    <string msgid="6055076379282772675" name="message_view_from_label">"გამგზავნი:"</string>
+    <string msgid="744546668021679819" name="message_view_invite_accept">" დიახ"</string>
+    <string msgid="6119797303297149463" name="message_view_invite_decline">" არა"</string>
+    <string msgid="7555189462441562318" name="message_view_invite_maybe">" შესაძლოა"</string>
+    <string msgid="1212799906603873708" name="message_view_invite_text">"მიდიხართ?"</string>
+    <string msgid="3418949733434713805" name="message_view_invite_title">"კალენდრის მოსაწვევი"</string>
+    <string msgid="8547454326090527202" name="message_view_invite_toast_maybe">"ამ მოწვევაზე თქვენ უპასუხეთ „ალბათ“."</string>
+    <string msgid="1842341256942784143" name="message_view_invite_toast_no">"თქვენ უარყავით ეს მოსაწვევი."</string>
+    <string msgid="6802274503171644414" name="message_view_invite_toast_yes">"თქვენ დაადასტურეთ მოსაწვევი."</string>
+    <string msgid="5521032519960111675" name="message_view_invite_view">"კალენდარში ნახვა"</string>
+    <string msgid="8605967295095023587" name="message_view_load_attachment_failed_toast">"დანართის ჩატვირთვა ვერ მოხერხდა „ <ns1:g id="FILENAME">%s</ns1:g>“."</string>
+    <string msgid="9042008615386883449" name="message_view_message_details_dialog_title">"შეტყობინების მონაცემები"</string>
+    <string msgid="2190862552581773765" name="message_view_move_to_newer">"უფრო ახალი"</string>
+    <string msgid="4993043091356700890" name="message_view_move_to_older">"უფრო ძველი"</string>
+    <string msgid="8830378966553031281" name="message_view_parse_message_toast">"შეტყობინების გახსნა…"</string>
+    <string msgid="6287415596441037095" name="message_view_show_details">"დეტალების ჩვენება"</string>
+    <string msgid="8862797393776226777" name="message_view_show_invite_action">"მოწვევა"</string>
+    <string msgid="5134222901019191436" name="message_view_show_message_action">"შეტყობინება"</string>
+    <string msgid="5059936981743072545" name="message_view_show_pictures_action">"სურათების ჩვენება"</string>
+    <string msgid="4013475734255421939" name="message_view_status_attachment_not_saved">"დანართის შენაცვა ვერ მოხერხდა."</string>
+    <string msgid="8878790392556284868" name="message_view_status_attachment_saved">"დანართი შენახულია, როგორც <ns1:g id="FILENAME">%s</ns1:g>."</string>
+    <string msgid="3731022187530000852" name="message_view_subject_label">"თემა:"</string>
+    <string msgid="6485191743265527381" name="message_view_to_label">"მიმღები:"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="717244337981816703" name="more_info_attachment">"ინფო"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
+    <string msgid="3059189775933985898" name="move_action">"გადაადგილება:"</string>
+    <string msgid="2614318192482193898" name="move_to_folder_dialog_title">"გადაადგილება:"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"გადაადგილება"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"დადუმება"</string>
+    <string msgid="2125579009654728299" name="network_error">"კავშირი არ არის"</string>
+    <string msgid="1071412616544342913" name="new_incoming_messages_many">"<ns1:g id="COUNT">%1$d</ns1:g> ახალი შეტყობინება"</string>
+    <string msgid="3200934730744395520" name="new_incoming_messages_one">"ახალი შეტყობინება <ns1:g id="SENDER">%s</ns1:g>-ისგან"</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> ახალი შეტყობინება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="3931301986364184415" name="next_action">"შემდეგი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="427548507197604096" name="no">"არა"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"ამ დანართის გახსნა არ შეუძლია არცერთ აპს."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="5559527390337162819" name="no_conversations">"წერილები არ არის."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"მიმოწერების სანახავად დაასინქრონეთ საქაღალდე."</string>
+    <string msgid="794279749170198599" name="not_synced_title">"ანგარიში არ დასინქრონებულა"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"დაარქივება"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"წაშლა"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"ლეიბლის მოშორება"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"პასუხი"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"პასუხი ყველას"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"დაარქივებული"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"წაშლილი"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"ლეიბლი წაშლილია"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2606649762841566104" name="notification_multiple_new_messages_fmt">"<ns1:g id="ID_1">%1$d</ns1:g> ახალი შეტყობინება"</string>
+    <string msgid="2078557719010667913" name="notification_to_account">"ვის: <ns1:g id="RECEIVER_NAME">%1$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="8339355733816891026" name="ok">"კარგი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8365197396795675617" name="okay_action">"კარგი"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"ეკრანის დაბლოკვის პაროლს გასდის ვადა"</string>
+    <string msgid="4293446611405084436" name="password_expire_warning_dialog_content_fmt">"თქვენ სასაწრაფოდ უნდა შეცვალოთ ეკრანის განბლოკვის PIN კოდი ან პაროლი. წინააღმდეგ შემთხვევაში <ns1:g id="ACCOUNT">%s</ns1:g>-ის ყველა მონაცემი წაიშლება. გსურთ მისი ახლავე შეცვლა?"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"ეკრანის დაბლოკვის პაროლს გასდის ვადა"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"„<ns1:g id="ACCOUNT">%s</ns1:g>“ საჭიროებს, რომ შეცვალოთ ეკრანის განბლოკვის PIN კოდი ან პაროლი."</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"განბლოკვის პაროლი ამოიწურა"</string>
+    <string msgid="6538210092073931079" name="password_expired_dialog_content_fmt">"<ns1:g id="ACCOUNT">%s</ns1:g> ანგარიშის მონაცემები წაიშლება თქვენი მოწყობილობიდან. თქვენ შეგიძიათ აღდგინოთ ისინი თქვენი ეკრანის დამბლოკველის PIN კოდის ან პაროლის შეცვლით. შევცვალო ახლავე?"</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"განბლოკვის პაროლი ამოიწურა"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"თქვენი ეკრანის დამბლოკველის PIN კოდს, ან პაროლს ვადა გაუვიდა."</string>
+    <string msgid="6296566558584670348" name="permission_access_provider_desc">"აპს უფლება ექნება მიწვდეს თქვენი ელფოსტის მონაცემთა ბაზას. მათ შორის მიღებულ და გაგზავნილ შეტყობინებებს, ასევე მომხმარებლის სახელებსა და პაროლებს."</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"წვდომა ელფოსტის პროვაიდერის მონაცემებზე"</string>
+    <string msgid="3394721085306308972" name="permission_read_attachment_desc">"აპს ეძლევა ელფოსტაზე მიმაგრებული დანართების წაკითხვის უფლება."</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"ელფოსტის დანართების წაკითხვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="8811324070219403896" name="photo_load_failed">"სურათის ჩატვირთვა ვერ მოხერხდა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6276294768978512737" name="picker_combined_view_fmt">"კომბინირებული ხედი (<ns1:g id="COUNT">%s</ns1:g>)"</string>
+    <string msgid="2277030979530376085" name="picker_mailbox_name_all_inbox">"შემოსულები (ყველა)"</string>
+    <string msgid="6392491216581687644" name="picker_mailbox_name_all_unread">"შემოსულები (წასაკითხი)"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"გთხოვთ, მოითმინოთ..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="627405158087482302" name="policy_calendar_age">"კალენდრის სინქრ. ღონისძიებების რაოდენობის შეზღუდვა"</string>
+    <string msgid="5744573062306937302" name="policy_dont_allow_camera">"აიკრძალოს მოწყობკობის კამერის გამოყენება"</string>
+    <string msgid="7144148367145424963" name="policy_email_age">"ელფოსტის სინქრ. შეტყობინებების რაოდენობის შეზღუდვა"</string>
+    <string msgid="1248123255253649199" name="policy_password_expiration">"პაროლის მოქმედების ვადის შეზღუდვა"</string>
+    <string msgid="5743544498302303181" name="policy_password_history">"გამოყენებული პაროლების ხელმეორედ გამოყენების აკრძალვა"</string>
+    <string msgid="7177274900480984702" name="policy_require_password">"მოითხოვე მოწყობილობის პაროლი"</string>
+    <string msgid="414869965358468080" name="policy_screen_timeout">"ეკრანის ჩაკეტვა უქმ რეჟიმში"</string>
+    <string msgid="4037602724794932807" name="pop3_name">"POP3"</string>
+    <string msgid="7989353140376877792" name="position_of_count">"<ns1:g id="ID_1">%1$d</ns1:g> - <ns1:g id="ID_2">%2$s</ns1:g>-დან"</string>
+    <string msgid="4601797400885989153" name="prefDialogTitle_conversationListIcon">"გამგზავნის სურათი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"დაარქივების და წაშლის მოქმედებები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4654821690566370979" name="preference_conversation_list_icon_summary">"აირჩიეთ გამოჩნდეს თუ არა მიმოწერის ხედში გამგზავნის სურათები"</string>
+    <string msgid="2691641598368725077" name="preference_conversation_list_icon_title">"გამგზავნის სურათი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"დაარქივების და წაშლის მოქმედებები"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"მიმოწერების სიაში სახელის გვერდით ჩვენება"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"გამგზავნის სურათი"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"მიმოწერის სიაში"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"გადაფურცვლა დასაარქივებლად"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"გადაფურცლეთ წასაშლელად"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"გამოიყენე ნაგულისხმევად შეტყობინებების პასუხში"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"პასუხი ყველას"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"ხელმოწერა"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"არ არის დაყენებული"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"ხელმოწერა"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"გადახედვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="5181616311579820981" name="previous_action">"წინა"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"მხოლოდ ზოგ „Plus“ ანგარიშს აქვს წვდომა POP პროტოკოლზე, რომელიც პროგრამას დაკავშირების საშუალებას აძლევს. თუ თქვენ არ შეგიძლიათ თქვენი პაროლითა და ელფოსტის მისამართით ავტორიზაცია, ე.ი. არ იყენებთ „Plus“ ფასიან ანგარიშს. ელფოსტის ანგარიშებში შესასვლელად, გამოიყენოთ ვებ ბრაუზერი."</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"ელფოსტის ანგარიშის დაყენებამდე ეწვიეთ T-Online-ს ვებ-გვერდს და შექმენით პაროლი POP3 ელფოსტაზე წვდომისთვის."</string>
+    <string msgid="3426057697353380951" name="quick_1">"მადლობა!"</string>
+    <string msgid="4188036352885736617" name="quick_2">"კარგად ჟღერს!"</string>
+    <string msgid="8061819976353395585" name="quick_3">"მოგვიანებით წავიკითხავ და დაგიბრუნდებით."</string>
+    <string msgid="3988974084396883051" name="quick_4">"ამის განსახილველად დავგეგმოთ პირისპირ შეხვედრა."</string>
+    <string msgid="3960050972306132367" name="quick_responses_empty_view">"სწრაფი პასუხები არ არის.."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7250749398672037355" name="quoted_text">"ციტირებული ტექსტის ჩასმა"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"ტექსტის ციტირება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4701484794504781686" name="read_action">"წაკითხულად მონიშვნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="219566857950091332" name="read_string">"მიმოწერა წაკითხულია"</string>
+    <string msgid="8240081561436891330" name="recent_folders">"უახლესი"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"ახლახანს ნანახი საქაღალდეები"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"მიმღების შეცდომა"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"დაამატეთ ერთი ადრესატი მაინც."</string>
+    <string msgid="490989798005710951" name="refresh">"განახლება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="5951383001436708175" name="refresh_action">"განახლება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="4906542720439865413" name="remove_folder">"წაშლა საქაღალდიდან <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="4372327933122106128" name="remove_star">"ვარსკვლავის წაშლა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6689770999647007163" name="remove_star_action">"ვარსკვლავის წაშლა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="2032052598496088561" name="reply">"პასუხი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4262472229221507619" name="reply_action">"პასუხი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7257248094625487557" name="reply_all">"პასუხი ყველას"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6192179825726332152" name="reply_all_action">"პასუხი ყველას"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="DATE">%s</ns1:g>, <ns1:g id="PERSON">%s</ns1:g> დაწერა:"</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"საპასუხო მისამართი: "</string>
+    <string msgid="5417082746232614958" name="report">"შეტყობინება"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"შეტყობინება ფიშინგის შესახებ"</string>
+    <string msgid="6467567747975393907" name="report_spam">"შეტყობინება სპამის შესახებ"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"ამ ანგარიშისთვის როუმინგისას ფონური სინქრონიზაცია გამორთულია"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6797117334768201180" name="respond_inline">"პასუხი წერილშივე"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"რედაქტირება"</string>
+    <string msgid="4515885444824418022" name="retry">"ხელახალი მცდელობა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="1988862706623227093" name="save_action">"შენახვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="5360128849867863132" name="save_attachment">"შენახვა"</string>
+    <string msgid="5555744208032445632" name="save_draft">"მონახაზის შენახვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6413714270991417223" name="save_draft_action">"მონახაზის შენახვა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6660844285730790469" name="saved">"შენახულია, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="925514721138014677" name="saving">"ინახება..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6325101454876682308" name="search_action">"ძიება"</string>
+    <string msgid="3857004638127418247" name="search_header_text_fmt">"ძიების შედეგები „<ns1:g id="ID_1">%1$s</ns1:g>“-ისთვის"</string>
+    <string msgid="2200412192574686497" name="search_hint">"ელფოსტის ძიება"</string>
+    <string msgid="7854987729678942790" name="search_mailbox_hint">"ძიება <ns1:g id="ID_1">%1$s</ns1:g>-ში"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="4669917471897026269" name="search_results_header">"შედეგები"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"ძიება…"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8494483410797387903" name="search_slow_warning_message">"ზოგ სერვერს შესაძლოა დასჭირდეს დიდი დრო."</string>
+    <string msgid="2826118321880530239" name="search_slow_warning_title">"შედეგების მოლოდინი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="4654227193354052607" name="search_unsupported">"ძიება ამ ანგარიშში არ არის მხარდაჭერილი."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2609435447352755285" name="security_changed_ticker_fmt">"„<ns1:g id="ACCOUNT">%s</ns1:g>“ ანგარიშმა შეცვალა უსაფრთხოების პარამეტრები; მომხმარებლის მოქმედება საჭირო არ არის."</string>
+    <string msgid="2120499087897133665" name="security_needed_ticker_fmt">"ანგარიში „<ns1:g id="ACCOUNT">%s</ns1:g>“ საჭიროებს უსაფრთხოების პარამეტრების განახლებას."</string>
+    <string msgid="443490921895642130" name="security_notification_content_change_title">"უსაფრთხოების წესები შეიცვალა"</string>
+    <string msgid="7315219208043169233" name="security_notification_content_unsupported_title">"უსაფრთხოების პარამეტრები არ არის დაცული"</string>
+    <string msgid="2429762903228690154" name="security_notification_content_update_title">"აუცილებელია უსაფრთხოების განახლება"</string>
+    <string msgid="5166579214529283975" name="security_unsupported_ticker_fmt">"ანგარიშის „<ns1:g id="ACCOUNT">%s</ns1:g>“ სინქრონიზაცია ვერ ხერხდება უსაფრთხოების მოთხოვნათა გამო."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="4711524151968942082" name="select_attachment_type">"აირჩიეთ დანართის ტიპი"</string>
+    <string msgid="8242003661397555986" name="send">"გაგზავნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="1729766205562446418" name="send_action">"გაგზავნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="750908595144529579" name="send_failed">"შეტყობინება ვერ გაიგზავნა."</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"სურათები ავტომატურად არ გამოჩნდება."</string>
+    <string msgid="5895854795157860258" name="senders_split_token">", "</string>
+    <string msgid="8214361929125649771" name="sending">"იგზავნება..."</string>
+    <string msgid="1498583163419122128" name="sending_message">"შეტყობინების გაგზავნა..."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2668629667423320684" name="sent_folder_selection_title">"აირჩიეთ სერვერის გაგზავნილების საქაღალდე ანგარიშისთვის: <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="4660317166196258160" name="set_star_action">"ვარსკვლავის დამატება"</string>
+    <string msgid="6334807007967459412" name="settings_action">"პარამეტრები"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"პარამეტრები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"საქათალდის მალმძახისთვის სახელის დარქმევა"</string>
+    <string msgid="7114006150083237343" name="show">"ჩვენება"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ ციტირებული ტექსტის ჩვენება"</string>
+    <string msgid="1875700481186331432" name="show_images">"სურათების ჩვენება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4136018559611145202" name="show_quick_text_list_dialog_action">"სწრაფი პასუხის ჩასმა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"შესვლა"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"ჩუმი"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6552307237621292344" name="status_loading_messages">"შეტყობინებების ჩატვირთვა..."</string>
+    <string msgid="2611654064403817391" name="status_network_error">"კავშირის პრობლემა."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="3262760336059073446" name="storage">"საცავი"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="7253964583324677128" name="subject_hint">"თემა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"განახლებისთვის გადაფურცლეთ ქვევით"</string>
+    <string msgid="1057043212338233359" name="sync_all">"სინქრონიზაცია: ყველაფერი"</string>
+    <string msgid="7368819509040597851" name="sync_error">"სინქრონიზაცია ვერ მოხერხდა."</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"თქვენ მოწყობილობის მეხსიერების საცავში არ არის სინქრონიზაციისთვის საჭირო თავისუფალი ადგილი."</string>
+    <string msgid="3581727068747471804" name="sync_none">"სინქრონიზაცია: არაფერი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"ანგარიშის შექმნა ვერ მოხერხდა. სცადეთ ხელახლა."</string>
+    <string msgid="7071006714702094762" name="system_folders_sent_dlg">"აირჩიეთ თქვენი სერვერის საქაღალდე გაგზავნილებისთვის"</string>
+    <string msgid="5529250353569545181" name="system_folders_sent_summary">"აირჩიეთ თქვენი სერვერის გაგზავნილების საქაღალდე"</string>
+    <string msgid="4265722817877075367" name="system_folders_sent_title">"გაგზავნილების საქაღალდე"</string>
+    <string msgid="2934406494244347991" name="system_folders_title">"სისტემური საქაღალდეები"</string>
+    <string msgid="4461220303400833402" name="system_folders_trash_dlg">"აირჩიეთ თქვენი სერვერის საქაღალდე წაშლილებისთვის"</string>
+    <string msgid="1258919809198485244" name="system_folders_trash_summary">"აირჩიეთ თქვენი სერვერის წაშლილების საქაღალდე"</string>
+    <string msgid="8470058000681188327" name="system_folders_trash_title">"წაშლილების საქაღლდე"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1181356242354390930" name="tap_to_configure">"შეეხეთ დასაყენებლად"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"საქაღალდის სინქრონიზაცია"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="4392614766835725698" name="to">"მიმღები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="1142876841308812954" name="to_heading">"მიმღები: "</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8144242451730692816" name="toast_account_not_found">"ანგარიშის მოძიება ვერ მოხერხდა. შესაძლოა ის წაშლილია."</string>
+    <string msgid="4960014581292378895" name="toast_mailbox_not_found">"საქაღალდის მოძიება ვერ მოხერხდა. შესაძლოა ის წაშლილია."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"ფაილის მიმაგრება ვერ მოხერხდა. ამოწურულია <ns1:g id="MAXSIZE">%1$s</ns1:g> ზომის ლიმიტი."</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"ვერ მოხერხდა ერთი ან რამდენიმე ფაილის მიმაგრება. ლიმიტი <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"<ns1:g id="MAXSIZE">%1$s</ns1:g>-ზე დიდი ფაილის მიბმა შეუძლებელია."</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="8052880079616386185" name="trash_folder_selection_title">"სერვერზე წაშლილების საქაღალდის არჩევა <ns1:g id="ACCOUNT">%s</ns1:g>-ისთვის"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="6070869718469782251" name="undo">"დაბრუნება"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="6280399049357552826" name="unread_action">"წასაკითხად მონიშვნა"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="588180203444398297" name="unread_string">"წასაკითხი მიმოწერა"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"<ns1:g id="VIADOMAIN">%1$s</ns1:g>-ის მეშვეობით"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"მეტი მიმოწერის ნახვა"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"ამ ანგარიშს არ აქვს დაყენებული ავტომატური სინქრონიზაცია.\nშეეხეთ "<b>"სინქრონიზაციას"</b>" ელფოსტის ერთხელ სინქრონიზაციისთვის, ან "<b>"შეცვალეთ სინქრონიზაციის პარამეტრები"</b>" რათა დააყენოთ ელფოსტის ავტომატური სინქრონიზაცია."</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"თქვენი ელფოსტა გამოჩნდება ცოტა ხანში."</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"სინქრონიზაციის მოლოდინი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="1393719303955128036" name="waitinf_for_sync_message_1">"სინქრონიზაციის მოლოდინი"</string>
+    <string msgid="5656175205790694016" name="waitinf_for_sync_message_2">"თქვენი ელფოსტა მალე გამოჩნდება."</string>
+    <string msgid="4352573990283094963" name="widget_all_mail">"კომბინირებული შემოსულები"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/src/main/res/values-ka/strings.xml -->
+    <eat-comment/>
+    <string msgid="2340962056927255554" name="widget_loading">"იტვირთება..."</string>
+    <string msgid="2412482205591224408" name="widget_no_accounts">"თქვენ ჯერ არ გაქვთ დაყენებული ელფოსტის არცერთი ანგარიში."</string>
+    <string msgid="4988574907386539499" name="widget_other_views">"შესაცვლელად შეეხეთ ხატულას."</string>
+    <string msgid="8290352707134011791" name="widget_starred">"ვარსკვლავიანი"</string>
+    <string msgid="7062039013915225323" name="widget_touch_to_configure">"შეეხეთ დასაყენებლად"</string>
+    <string msgid="4404711399009077833" name="widget_unread">"წაუკითხავი"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values-ka/values.xml -->
+    <eat-comment/>
+    <string msgid="7474216525286833848" name="yes">"დიახ"</string>
+</resources>

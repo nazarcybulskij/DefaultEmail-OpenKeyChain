@@ -1,0 +1,5 @@
+include ':app',  ':common'
+include ':unifiedEmail'
+include ':chips'
+include ':photoviewer'
+

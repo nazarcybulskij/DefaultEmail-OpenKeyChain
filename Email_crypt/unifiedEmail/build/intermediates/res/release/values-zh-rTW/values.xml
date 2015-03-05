@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="8631190144210933782">"回覆"</item>
+    <item msgid="4085029907540221568">"回覆所有人"</item>
+    <item msgid="857480048798815437">"轉寄"</item>
+  </string-array>
+    <string-array name="moveto_folder_sections">
+    <item msgid="6984976603137892898">"系統"</item>
+    <item msgid="6593672292311851204">"經常使用"</item>
+    <item msgid="3584541772344786752">"所有資料夾"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="3400401085256526376">"較新"</item>
+    <item msgid="5562093094216840213">"較舊"</item>
+    <item msgid="3331655314944797957">"會話群組清單"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="1938422987822134657">"僅顯示封存郵件的按鈕"</item>
+    <item msgid="5737880287951287278">"僅顯示刪除郵件的按鈕"</item>
+    <item msgid="4279948809971752573">"顯示封存和刪除郵件的按鈕"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="6389534341359835440">"在刪除動作完成後顯示較新的會話群組"</item>
+    <item msgid="732746454445519134">"在刪除動作完成後顯示較舊的會話群組"</item>
+    <item msgid="2189929276292165301">"在刪除動作完成後顯示會話群組清單"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="492039800376391677">"僅顯示封存郵件的按鈕"</item>
+    <item msgid="8350973578419775975">"僅顯示刪除郵件的按鈕"</item>
+    <item msgid="2967059853409454648">"顯示封存和刪除郵件的按鈕"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="2446076619901049026">"成功"</item>
+    <item msgid="7109065688039971961">"沒有網路連線。"</item>
+    <item msgid="8437496123716232060">"無法登入。"</item>
+    <item msgid="1651266301325684887">"安全性錯誤。"</item>
+    <item msgid="1461520171154288533">"無法同步處理。"</item>
+    <item msgid="4779810016424303449">"發生內部錯誤"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="6210217540181960613" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> 封未讀郵件"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="2990537295519552069" quantity="one">"封存這個會話群組？"</item>
+    <item msgid="4713469868399246772" quantity="other">"封存這 <ns1:g id="COUNT">%1$d</ns1:g> 個會話群組？"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="3731948757247905508" quantity="one">"刪除這個會話群組？"</item>
+    <item msgid="930334208937121234" quantity="other">"刪除這 <ns1:g id="COUNT">%1$d</ns1:g> 個會話群組？"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="5974090449454432874" quantity="one">"要捨棄這個會話群組的草稿嗎？"</item>
+    <item msgid="4173815457177336569" quantity="other">"要捨棄這 <ns1:g id="COUNT">%1$d</ns1:g> 個會話群組的草稿嗎？"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="5457612502965117672" quantity="one">"已封存 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組。"</item>
+    <item msgid="3012054504370916482" quantity="other">"已封存 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組。"</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4398693029405479323" quantity="one">"已刪除 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組。"</item>
+    <item msgid="8630099095360065837" quantity="other">"已刪除 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組。"</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="4930161390461457462" quantity="one">"已變更資料夾。"</item>
+    <item msgid="8918589141287976985" quantity="other">"已變更資料夾。"</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3197365771487542615" quantity="one">"已略過 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組。"</item>
+    <item msgid="1941193356069303587" quantity="other">"已略過 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組。"</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="788387259924027833" quantity="one">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組標示為不重要。"</item>
+    <item msgid="6662213740575340397" quantity="other">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組標示為不重要。"</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="7361303622131552596" quantity="one">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組回報為非垃圾郵件。"</item>
+    <item msgid="2250720080221922267" quantity="other">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組回報為非垃圾郵件。"</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="5386916574432049235" quantity="one">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組回報為詐騙郵件。"</item>
+    <item msgid="3678624994662639442" quantity="other">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組回報為詐騙郵件。"</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="3060864972122279220" quantity="one">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組回報為垃圾郵件。"</item>
+    <item msgid="5071459475389411227" quantity="other">"已將 &lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> 個會話群組回報為垃圾郵件。"</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="8315328190288744398" quantity="one">"正在移除 <ns1:g id="COUNT">%1$d</ns1:g> 個會話群組的星號。"</item>
+    <item msgid="2222365088907519938" quantity="other">"正在移除 <ns1:g id="COUNT">%1$d</ns1:g> 個會話群組的星號。"</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="333591132893648383" quantity="one">"草稿"</item>
+    <item msgid="6961049507579977505" quantity="other">"草稿"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="7530191630810420066" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> 封郵件將遭到永久刪除。"</item>
+    <item msgid="2182899395748020953" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> 封郵件將遭到永久刪除。"</item>
+  </plurals>
+    <plurals name="move_conversation">
+    <item msgid="3657821200245019288" quantity="one">"移動會話群組"</item>
+    <item msgid="1685896770174368261" quantity="other">"移動 <ns1:g id="ID_1">%1$d</ns1:g> 個會話群組"</item>
+  </plurals>
+    <plurals name="new_incoming_messages_many">
+    <item msgid="6028908826781946980" quantity="other">"有 <ns1:g id="COUNT">%1$d</ns1:g> 封新郵件。顯示。"</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="7439716291751085801" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> 封較舊的郵件"</item>
+  </plurals>
+    <string msgid="5277032997773498476" name="account_settings_param">"帳戶設定"</string>
+    <string msgid="5699548271856775808" name="account_sync_off">"帳戶同步處理功能已關閉。"</string>
+    <string msgid="2780005218279965391" name="actionbar_large_unread_count">"超過 <ns1:g id="COUNT">%1$d</ns1:g> 封未讀郵件"</string>
+    <string msgid="5161845867397316052" name="activity_folder_selection">"選擇資料夾"</string>
+    <string msgid="6876105223659297603" name="activity_mailbox_selection">"選擇帳戶"</string>
+    <string msgid="2162808366829269770" name="add_account">"新增帳戶"</string>
+    <string msgid="7432027645493843336" name="add_bcc_label">"新增密件副本"</string>
+    <string msgid="504861315425773180" name="add_cc_label">"新增副本/密件副本"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"附加檔案"</string>
+    <string msgid="6060201715848652940" name="add_label">"新增資料夾"</string>
+    <string msgid="3738882100645552858" name="add_photo_attachment">"附加圖片"</string>
+    <string msgid="2866003744391266498" name="add_star">"加上星號"</string>
+    <string msgid="8916625983712820173" name="add_video_attachment">"附加影片"</string>
+    <string msgid="3581303608028992576" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g>，<ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="2316262813990842490" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g>，<ns1:g id="EMAIL">%2$s</ns1:g> (來源網域：<ns1:g id="VIA_DOMAIN">%3$s</ns1:g>)"</string>
+    <string msgid="2506843494725730618" name="all_folders_heading">"所有資料夾"</string>
+    <string msgid="5966408990164581801" name="always_show_images">"一律顯示這位寄件者所傳送的圖片"</string>
+    <string msgid="6218061921546973716" name="always_show_images_toast">"系統會自動顯示這位寄件者所傳送的圖片。"</string>
+    <string msgid="847250094775910499" name="archive">"封存"</string>
+    <string msgid="7533995360704366325" name="archived">"已封存"</string>
+    <string msgid="4267189489654642035" name="attached_message">"附加的郵件"</string>
+    <string msgid="2326909450865637910" name="attachment_application_msword">"文件"</string>
+    <string msgid="6922990425001131901" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5861224590731578901" name="attachment_application_vnd_ms_excel">"試算表"</string>
+    <string msgid="861348289167216897" name="attachment_application_vnd_ms_powerpoint">"簡報"</string>
+    <string msgid="135527133955622936" name="attachment_audio">"音訊"</string>
+    <string msgid="3832985223906528449" name="attachment_image">"圖片"</string>
+    <string msgid="5544874374971562759" name="attachment_text">"文字"</string>
+    <string msgid="7878184764428642891" name="attachment_type_blocked">"很抱歉，您無法儲存或開啟這類附件。"</string>
+    <string msgid="6005445955982153931" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g> 檔案"</string>
+    <string msgid="7526134752988603154" name="attachment_video">"影片"</string>
+    <string msgid="6459475590011460229" name="attachments_header">"附件"</string>
+    <string msgid="8091541690538426090" name="auto_advance_help_title">"自動推進偏好設定\n(在刪除等動作完成後執行)"</string>
+    <string msgid="3192951873988392119" name="auto_advance_label">"自動推進"</string>
+    <string msgid="573927628806250719" name="auto_advance_summary">"選擇刪除郵件後所要顯示的畫面"</string>
+    <string msgid="7185342309138211107" name="auto_sync_off">"自動同步處理功能已關閉。"</string>
+    <string msgid="3098643138241111579" name="bcc">"密件副本"</string>
+    <string msgid="4698055226318660420" name="bcc_heading">"密件副本： "</string>
+    <string msgid="4279864165439577668" name="body_hint">"撰寫電子郵件"</string>
+    <string msgid="874874279846496468" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="8762981157252199115" name="cancel">"取消"</string>
+    <string msgid="4651201258272223650" name="cancel_attachment">"取消"</string>
+    <string msgid="7997792014816166601" name="cant_move_or_change_labels">"您已選取多個帳戶，因此無法移動。"</string>
+    <string msgid="7017720927911078193" name="cc">"副本"</string>
+    <string msgid="374493748526504562" name="cc_attribution">"副本：<ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="52678613787360092" name="cc_heading">"副本： "</string>
+    <string msgid="8640832109613405534" name="change_folders_selection_dialog_title">"變更資料夾"</string>
+    <string msgid="5514293926214426577" name="change_sync_settings">"變更同步處理設定"</string>
+    <string msgid="2301797903350897130" name="checking_for_mail">"正在檢查郵件"</string>
+    <string msgid="6142681649048665134" name="choosertitle_sharevia">"分享方式"</string>
+    <string msgid="3184687982186479442" name="clear">"清除"</string>
+    <string msgid="1169152185612117654" name="clear_display_images_whitelist_dialog_message">"對於您之前允許顯示其郵件內置圖片的寄件者，停止顯示其郵件內的圖片。"</string>
+    <string msgid="3190704164490442683" name="clear_display_images_whitelist_dialog_title">"要清除圖片顯示許可？"</string>
+    <string msgid="7120575487854245735" name="clear_display_images_whitelist_title">"清除圖片顯示許可"</string>
+    <string msgid="3608892454869745927" name="collapse_recipient_details">"收合收件者詳細資料"</string>
+    <string msgid="1473559896062432878" name="compose">"撰寫"</string>
+    <string msgid="1149834186404614612" name="confirm_discard_text">"要捨棄這封郵件嗎？"</string>
+    <string msgid="3221546155385562874" name="confirm_send_message">"傳送這封郵件？"</string>
+    <string msgid="4606328514693368953" name="confirm_send_message_with_no_body">"這封郵件沒有內文。"</string>
+    <string msgid="8900379985826988281" name="confirm_send_message_with_no_subject">"這封郵件沒有主旨。"</string>
+    <string msgid="5663602035452564062" name="confirm_send_title">"傳送郵件？"</string>
+    <string msgid="6911322458329265644" name="contact_info_string">"顯示 <ns1:g id="NAME">%1$s</ns1:g> 的聯絡人資訊"</string>
+    <string msgid="596531738469809159" name="contact_info_string_default">"顯示聯絡人資訊"</string>
+    <string msgid="5191020413686786341" name="content_description">"寄件者：<ns1:g id="SENDER">%1$s</ns1:g>，主旨：<ns1:g id="SUBJECT">%2$s</ns1:g>，摘要：<ns1:g id="SNIPPET">%3$s</ns1:g>，日期：<ns1:g id="DATE">%4$s</ns1:g>，閱讀狀態：<ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="2303358176694038320" name="content_description_today">"寄件者：<ns1:g id="SENDER">%1$s</ns1:g>，主旨：<ns1:g id="SUBJECT">%2$s</ns1:g>，摘要：<ns1:g id="SNIPPET">%3$s</ns1:g>，時間：<ns1:g id="TIME">%4$s</ns1:g>，閱讀狀態：<ns1:g id="READSTATE">%5$s</ns1:g>"</string>
+    <string msgid="8395100913366045250" name="contextmenu_add_contact">"新增聯絡人"</string>
+    <string msgid="4604170699444153037" name="contextmenu_copy">"複製"</string>
+    <string msgid="3580131515400610839" name="contextmenu_copylink">"複製連結網址"</string>
+    <string msgid="9104426720103729453" name="contextmenu_dial_dot">"撥號…"</string>
+    <string msgid="4429118420169571473" name="contextmenu_feedback">"提供意見"</string>
+    <string msgid="4651718679842414097" name="contextmenu_help">"說明"</string>
+    <string msgid="7721544518698532954" name="contextmenu_map">"地圖"</string>
+    <string msgid="2176176524824953775" name="contextmenu_openlink">"在瀏覽器中開啟"</string>
+    <string msgid="8301941130009797208" name="contextmenu_send_mail">"傳送電子郵件"</string>
+    <string msgid="6213520416250245200" name="contextmenu_sharelink">"分享連結"</string>
+    <string msgid="6481040539501081547" name="contextmenu_sms_dot">"傳送簡訊…"</string>
+    <string msgid="297469098857964678" name="conversation_folder_moved">"已移至「<ns1:g id="FOLDERNAME">%1$s</ns1:g>」"</string>
+    <string msgid="4274875219447670662" name="conversation_photo_welcome_text">"輕觸寄件者圖片即可選取該會話群組。"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rTW/values.xml -->
+    <eat-comment/>
+    <string msgid="7869435992461603532" name="copy_email">"複製電子郵件地址"</string>
+    <string msgid="530057841276106843" name="copy_number">"複製電話號碼"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string msgid="5069652141632649722" name="custom_from_account_label">"選擇寄件地址："</string>
+    <string msgid="2086174555097691910" name="date_heading">"日期： "</string>
+    <string msgid="6302308934790266050" name="date_message_received">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g><ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="7923108495669251362" name="date_message_received_today">"今天<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2240669381396206434" name="date_message_received_yesterday">"昨天<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="844871204175957681" name="delete">"刪除"</string>
+    <string msgid="2757349161107268029" name="deleted">"已刪除"</string>
+    <string msgid="1714960202994370243" name="discard">"捨棄"</string>
+    <string msgid="6862272443470085375" name="discard_drafts">"捨棄草稿"</string>
+    <string msgid="1930345936314578166" name="dismiss_tip_hover_text">"關閉提示"</string>
+    <string msgid="3079981801778027540" name="done">"完成"</string>
+    <string msgid="7418568915429156518" name="download_again">"重新下載"</string>
+    <string msgid="442019281547315527" name="download_failed">"無法下載，請輕觸重試。"</string>
+    <string msgid="4869620346730961822" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="2764774620737876943" name="drawer_close">"關閉導覽匣"</string>
+    <string msgid="6074646853178471940" name="drawer_open">"開啟導覽匣"</string>
+    <string msgid="6064497180615519589" name="empty_spam">"清空垃圾郵件"</string>
+    <string msgid="8091014690336479280" name="empty_spam_dialog_title">"清空垃圾郵件？"</string>
+    <string msgid="652435297593538512" name="empty_trash">"清空垃圾筒"</string>
+    <string msgid="3248644791068595150" name="empty_trash_dialog_title">"清空垃圾筒？"</string>
+    <string msgid="7707227409018294927" name="enable_sync_in_account_settings">"在 [<ns1:g id="ACCOUNT_SETTINGS">%1$s</ns1:g>] 中開啟。"</string>
+    <string msgid="5191660524342286026" name="enumeration_comma">"、 "</string>
+    <string msgid="2266544827446346880" name="expand_recipient_details">"展開收件者詳細資料"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rTW/values.xml -->
+    <eat-comment/>
+    <string msgid="1458877219699376279" name="failed">"無法載入圖片"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string msgid="79365993169715049" name="feedback">"提供意見"</string>
+    <string msgid="2599763030649526179" name="fetching_attachment">"擷取附件"</string>
+    <string msgid="6470627954465675488" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1500547397347480618" name="folder_icon_desc">"資料夾圖示"</string>
+    <string msgid="1047474677580149436" name="folder_removed">"已從「<ns1:g id="FOLDERNAME">%1$s</ns1:g>」中移除"</string>
+    <string msgid="6700454062559797794" name="folder_shortcut_widget_label">"電子郵件資料夾"</string>
+    <string msgid="6822914459902983767" name="forward">"轉寄"</string>
+    <string msgid="1498936339458535158" name="forward_attribution">"---------- 轉寄的郵件 ----------&lt;br>寄件者：<ns1:g id="FROM">%1$s</ns1:g>&lt;br>日期：<ns1:g id="DATE">%2$s</ns1:g>&lt;br>主旨：<ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>收件者：<ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="3239825787227110752" name="forward_attribution_no_headers">"---------- 轉寄郵件 ----------"</string>
+    <string msgid="2454519463223197231" name="from_heading">"寄件者： "</string>
+    <string msgid="8775959340559458709" name="generic_attachment_problem">"無法附加檔案。"</string>
+    <string msgid="7873089811705257882" name="help_and_info">"說明"</string>
+    <string msgid="8907305605854960737" name="hide_elided">"▼ 隱藏引用文字"</string>
+    <string msgid="7473552966537131652" name="hide_folders">"隱藏資料夾"</string>
+    <string msgid="1554651881128904262" name="ignore_spam_warning">"略過，我信任這封郵件"</string>
+    <string msgid="3960094746248976565" name="inbox_folders_heading">"收件匣"</string>
+    <string msgid="6009817562073541204" name="info">"資訊"</string>
+    <string msgid="2161317422860961623" name="invalid_recipient">"地址 <ns1:g id="WRONGEMAIL">%s</ns1:g> 無效。"</string>
+    <string msgid="9191949758901349712" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> KB"</string>
+    <string msgid="1684732605316462621" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>：<ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="420892447103014683" name="load_more">"載入更多"</string>
+    <string msgid="489160038366067983" name="loading_conversation">"載入中…"</string>
+    <string msgid="2649440958602369555" name="loading_conversations">"載入中..."</string>
+    <string msgid="9205666839837250150" name="long_press_to_select_tip">"輕觸並按住即可選取其中一個會話群組，接著可再輕觸選取其他會話群組。"</string>
+    <string msgid="6743983544685622800" name="manual_sync">"立即同步處理"</string>
+    <string msgid="6904096897104265870" name="mark_important">"標示為重要"</string>
+    <string msgid="4550967327747977068" name="mark_not_important">"標示為不重要"</string>
+    <string msgid="694891665407228160" name="mark_not_spam">"回報非垃圾郵件"</string>
+    <string msgid="8438349154394313195" name="mark_read">"標示為已讀取"</string>
+    <string msgid="6231373939351125713" name="mark_unread">"標示為未讀取"</string>
+    <string msgid="7668994569594901571" name="me_object_pronun">"我"</string>
+    <string msgid="1088657349831581116" name="me_subject_pronun">"我"</string>
+    <string msgid="130431176022837380" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="1542713666608888717" name="menu_change_folders">"變更資料夾"</string>
+    <string msgid="6274193058224230645" name="menu_compose">"撰寫"</string>
+    <string msgid="8897520487430647932" name="menu_folder_options">"資料夾設定"</string>
+    <string msgid="6755623004628177492" name="menu_manage_folders">"資料夾設定"</string>
+    <string msgid="9138296669516358542" name="menu_move_to">"移至"</string>
+    <string msgid="3201472943201077389" name="menu_move_to_inbox">"移至收件匣"</string>
+    <string msgid="4295226099481995348" name="menu_photo_save_all">"全部儲存"</string>
+    <string msgid="2214772815165829079" name="menu_photo_share">"分享"</string>
+    <string msgid="4577299400844129078" name="menu_photo_share_all">"全部分享"</string>
+    <string msgid="5297197523031943248" name="menu_search">"搜尋"</string>
+    <string msgid="6007027046949837282" name="menu_settings">"設定"</string>
+    <string msgid="4227060689700765828" name="menu_show_original">"不要自動調整郵件顯示比例"</string>
+    <string msgid="2183394728494962332" name="message_details_title">"郵件詳細資料"</string>
+    <string msgid="5079975378884765445" name="message_discarded">"已捨棄郵件。"</string>
+    <string msgid="869753811259793266" name="message_invite_accept">"是"</string>
+    <string msgid="1898326841767645665" name="message_invite_calendar_view">"查看日曆"</string>
+    <string msgid="4524135969656266758" name="message_invite_decline">"否"</string>
+    <string msgid="7378806613557157546" name="message_invite_label_attending">"是否參加？"</string>
+    <string msgid="3898050756490962079" name="message_invite_tentative">"或許"</string>
+    <string msgid="6757287288611722175" name="message_invite_title">"日曆邀請"</string>
+    <string msgid="7073947895562277576" name="message_saved">"已儲存郵件草稿。"</string>
+    <string msgid="717244337981816703" name="more_info_attachment">"資訊"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/chips/unspecified/res/values-zh-rTW/values.xml -->
+    <eat-comment/>
+    <string msgid="8495478259330621990" name="more_string">"+<ns1:g id="COUNT">%1$s</ns1:g> 人"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string msgid="1230762892675507608" name="move_to_selection_dialog_title">"移至"</string>
+    <string msgid="9125239830562919898" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>" - <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="1995954983688603977" name="mute">"略過"</string>
+    <string msgid="2125579009654728299" name="network_error">"沒有網路連線"</string>
+    <string msgid="164529476439626369" name="new_incoming_messages_one">"來自 <ns1:g id="SENDER">%s</ns1:g> 的新郵件。顯示"</string>
+    <string msgid="4419173946074516420" name="new_messages">"<ns1:g id="COUNT">%1$d</ns1:g> 封新郵件"</string>
+    <string msgid="427548507197604096" name="no">"否"</string>
+    <string msgid="1945184804521392093" name="no_application_found">"沒有應用程式可開啟這個附件供您檢視。"</string>
+    <string msgid="35400008890372241" name="no_conversations">"無會話群組。"</string>
+    <string msgid="6059194125558004080" name="non_synced_folder_description">"如要查看會話群組，請同步處理這個資料夾。"</string>
+    <string msgid="794279749170198599" name="not_synced_title">"帳戶尚未同步處理"</string>
+    <string msgid="81978513898440040" name="notification_action_archive">"封存"</string>
+    <string msgid="327773454111551791" name="notification_action_delete">"刪除"</string>
+    <string msgid="5852730267411032291" name="notification_action_remove_label">"移除標籤"</string>
+    <string msgid="6015299134424685297" name="notification_action_reply">"回覆"</string>
+    <string msgid="20020468410400912" name="notification_action_reply_all">"回覆所有人"</string>
+    <string msgid="7280710366587361219" name="notification_action_undo_archive">"已封存"</string>
+    <string msgid="3105611327110905438" name="notification_action_undo_delete">"已刪除"</string>
+    <string msgid="1425192858683932457" name="notification_action_undo_remove_label">"已移除標籤"</string>
+    <string msgid="8339355733816891026" name="ok">"確定"</string>
+    <string msgid="5171715391553213328" name="phone">"手機"</string>
+    <string msgid="8811324070219403896" name="photo_load_failed">"無法載入圖片"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/build/intermediates/exploded-aar/Email_crypt/photoviewer/unspecified/res/values-zh-rTW/values.xml -->
+    <eat-comment/>
+    <string msgid="3466690572899800275" name="photo_view_count">"第 <ns1:g id="CURRENT_POS">%d</ns1:g> 張 (共 <ns1:g id="COUNT">%d</ns1:g> 張)"</string>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string msgid="8797634225088247121" name="please_wait">"請稍候…"</string>
+    <string msgid="6225642737241938453" name="prefDialogTitle_removal_action">"封存及刪除動作"</string>
+    <string msgid="6585232628422090835" name="preference_removal_action_title">"封存及刪除動作"</string>
+    <string msgid="7126493917536558232" name="preference_sender_image_description">"在會話群組清單中的名稱旁邊顯示"</string>
+    <string msgid="2441320893522058724" name="preference_sender_image_title">"寄件者圖片"</string>
+    <string msgid="5132683510510041028" name="preference_swipe_description">"在會話群組清單中"</string>
+    <string msgid="1178014339238995814" name="preference_swipe_title_archive">"滑動即可封存"</string>
+    <string msgid="8611320022727435597" name="preference_swipe_title_delete">"滑動即可刪除"</string>
+    <string msgid="7389395579918128940" name="preferences_default_reply_all_summary">"設為預設回信方式"</string>
+    <string msgid="7088691949152598569" name="preferences_default_reply_all_title">"回覆所有人"</string>
+    <string msgid="5112192919923401319" name="preferences_signature_dialog_title">"簽名檔"</string>
+    <string msgid="2830886980620445857" name="preferences_signature_summary_not_set">"未設定"</string>
+    <string msgid="888167074398030574" name="preferences_signature_title">"簽名檔"</string>
+    <string msgid="6934911143603455393" name="preview_attachment">"預覽"</string>
+    <string msgid="7250749398672037355" name="quoted_text">"包含引用文字"</string>
+    <string msgid="541007446961960617" name="quoted_text_label">"引用文字"</string>
+    <string msgid="219566857950091332" name="read_string">"已閱讀的會話群組"</string>
+    <string msgid="8613621794529777406" name="recent_folders_heading">"最近使用的資料夾"</string>
+    <string msgid="6051694305498669180" name="recipient_error_dialog_title">"收件者錯誤"</string>
+    <string msgid="999037027358925655" name="recipient_needed">"請至少新增一位收件者。"</string>
+    <string msgid="490989798005710951" name="refresh">"重新整理"</string>
+    <string msgid="4906542720439865413" name="remove_folder">"從「<ns1:g id="FOLDERNAME">%1$s</ns1:g>」中移除"</string>
+    <string msgid="4372327933122106128" name="remove_star">"移除星號"</string>
+    <string msgid="2032052598496088561" name="reply">"回覆"</string>
+    <string msgid="7257248094625487557" name="reply_all">"回覆所有人"</string>
+    <string msgid="717207316577386788" name="reply_attribution">"<ns1:g id="PERSON">%s</ns1:g> 於 <ns1:g id="DATE">%s</ns1:g> 寫道："</string>
+    <string msgid="8563992423173220512" name="replyto_heading">"回覆： "</string>
+    <string msgid="5417082746232614958" name="report">"回報"</string>
+    <string msgid="5714205737453138338" name="report_phishing">"回報為詐騙郵件"</string>
+    <string msgid="6467567747975393907" name="report_spam">"回報為垃圾郵件"</string>
+    <string msgid="6797117334768201180" name="respond_inline">"在內文中回覆"</string>
+    <string msgid="6450150180834092146" name="resume_draft">"編輯"</string>
+    <string msgid="4515885444824418022" name="retry">"重試"</string>
+    <string msgid="5360128849867863132" name="save_attachment">"儲存"</string>
+    <string msgid="5555744208032445632" name="save_draft">"儲存草稿"</string>
+    <string msgid="6660844285730790469" name="saved">"已儲存 (<ns1:g id="SIZE">%s</ns1:g>)"</string>
+    <string msgid="925514721138014677" name="saving">"儲存中…"</string>
+    <string msgid="3625734263059221350" name="search_hint">"搜尋郵件"</string>
+    <string msgid="4669917471897026269" name="search_results_header">"搜尋結果"</string>
+    <string msgid="3821361153909466819" name="search_results_searching_header">"搜尋中…"</string>
+    <string msgid="4654227193354052607" name="search_unsupported">"這個帳戶不支援搜尋功能。"</string>
+    <string msgid="4711524151968942082" name="select_attachment_type">"選擇附件類型"</string>
+    <string msgid="8242003661397555986" name="send">"傳送"</string>
+    <string msgid="750908595144529579" name="send_failed">"郵件未傳送。"</string>
+    <string msgid="917434007919176024" name="sender_whitelist_cleared">"系統不會自動顯示圖片。"</string>
+    <string msgid="5895854795157860258" name="senders_split_token">","</string>
+    <string msgid="8214361929125649771" name="sending">"傳送中…"</string>
+    <string msgid="1498583163419122128" name="sending_message">"正在傳送郵件…"</string>
+    <string msgid="8220482314700618391" name="shortcut_name_title">"名稱資料夾捷徑"</string>
+    <string msgid="5255917904110437886" name="show_elided">"▶ 顯示引用文字"</string>
+    <string msgid="1875700481186331432" name="show_images">"顯示圖片"</string>
+    <string msgid="337747297817699776" name="show_n_more_folders">"顯示另外 <ns1:g id="NUMBER">%1$s</ns1:g> 個資料夾"</string>
+    <string msgid="7882698047321710252" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="8958889809095796177" name="signin">"登入"</string>
+    <string msgid="5856834572357761687" name="silent_ringtone">"靜音"</string>
+    <string msgid="291800374285445488" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="4138237430881084155" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>：<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="3262760336059073446" name="storage">"儲存空間"</string>
+    <string msgid="7884124651812798896" name="subject_and_snippet">"<ns1:g id="ID_1">%s</ns1:g> — <ns1:g id="ID_2">%s</ns1:g>"</string>
+    <string msgid="7253964583324677128" name="subject_hint">"主旨"</string>
+    <string msgid="6401908905820786227" name="swipe_down_to_refresh">"向下滑動即可重新整理"</string>
+    <string msgid="7368819509040597851" name="sync_error">"無法同步處理。"</string>
+    <string msgid="5367907194753034375" name="sync_error_message">"裝置的儲存空間不足，無法進行同步處理。"</string>
+    <string msgid="7956969657216748522" name="tablet">"平板電腦"</string>
+    <string msgid="1181356242354390930" name="tap_to_configure">"輕觸即可設定"</string>
+    <string msgid="3846898229180591661" name="tap_to_configure_folder_sync">"同步處理資料夾"</string>
+    <string msgid="3334767826332383085" name="tap_to_enable_sync">"輕觸即可開啟。"</string>
+    <string msgid="4392614766835725698" name="to">"收件者"</string>
+    <string msgid="1142876841308812954" name="to_heading">"收件者： "</string>
+    <string msgid="3366607594339390249" name="too_large_to_attach_additional">"無法附加檔案。檔案大小已達上限 <ns1:g id="MAXSIZE">%1$s</ns1:g>。"</string>
+    <string msgid="5452547998184881210" name="too_large_to_attach_multiple">"無法附加一或多個檔案 (大小上限：<ns1:g id="MAXSIZE">%1$s</ns1:g>)。"</string>
+    <string msgid="2996733972478212136" name="too_large_to_attach_single">"無法附加大小超過 <ns1:g id="MAXSIZE">%1$s</ns1:g> 的檔案。"</string>
+    <string msgid="5070811094706347971" name="turn_auto_sync_on_dialog_body">"您對所有應用程式和帳戶 (不限於 Gmail) 所做的變更一律會在網路、您的其他裝置和您的<ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>之間保持同步。"</string>
+    <string msgid="1445158420197688714" name="turn_auto_sync_on_dialog_confirm_btn">"開啟"</string>
+    <string msgid="8981949974921704813" name="turn_auto_sync_on_dialog_title">"開啟自動同步功能？"</string>
+    <string msgid="6070869718469782251" name="undo">"復原"</string>
+    <string msgid="588180203444398297" name="unread_string">"未閱讀的會話群組"</string>
+    <string msgid="8754987959475577698" name="unsent_messages_in_outbox">"<ns1:g id="OUTBOX">%2$s</ns1:g>內有 <ns1:g id="NUMBER">%1$s</ns1:g> 封未傳送的郵件"</string>
+    <string msgid="1209670815434513191" name="veiled_address"/>
+    <string msgid="7370933826442034211" name="veiled_alternate_text"/>
+    <string msgid="5132515097905273819" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="4030928895738205054" name="veiled_summary_unknown_person"/>
+    <string msgid="380109230928079350" name="via_domain">"來源網域：<ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3151067626309674344" name="view_more_conversations">"查看更多會話群組"</string>
+    <string msgid="2003192935254244968" name="wait_for_manual_sync_body">"這個帳戶尚未設成自動同步處理。\n請輕觸 [立即同步處理]"<b/>"，將您的郵件同步處理一次，或者輕觸 [變更同步處理設定]"<b/>"，將帳戶設定成自動同步處理郵件。"</string>
+    <string msgid="7718316938173643688" name="wait_for_sync_body">"即將顯示您的電子郵件。"</string>
+    <string msgid="2767841242539238015" name="wait_for_sync_title">"正在等待同步處理"</string>
+    <string msgid="5668393672379294516" name="widget_large_unread_count">"%d+"</string>
+    <string msgid="7474216525286833848" name="yes">"是"</string>
+</resources>

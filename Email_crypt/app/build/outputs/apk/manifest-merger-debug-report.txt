@@ -1,0 +1,941 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:17:1
+	package
+		ADDED from AndroidManifest.xml:18:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		ADDED from AndroidManifest.xml:19:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:17:11
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:21:5
+	android:name
+		ADDED from AndroidManifest.xml:21:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:22:5
+	android:name
+		ADDED from AndroidManifest.xml:22:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:23:5
+	android:name
+		ADDED from AndroidManifest.xml:23:22
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:24:5
+	android:name
+		ADDED from AndroidManifest.xml:24:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:25:5
+	android:name
+		ADDED from AndroidManifest.xml:25:22
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:26:5
+MERGED from Email_crypt:unifiedEmail:unspecified:25:5
+	android:name
+		ADDED from AndroidManifest.xml:26:22
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from AndroidManifest.xml:27:5
+	android:name
+		ADDED from AndroidManifest.xml:27:22
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from AndroidManifest.xml:28:5
+	android:name
+		ADDED from AndroidManifest.xml:28:22
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from AndroidManifest.xml:29:5
+	android:name
+		ADDED from AndroidManifest.xml:29:22
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from AndroidManifest.xml:30:5
+	android:name
+		ADDED from AndroidManifest.xml:30:22
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from AndroidManifest.xml:31:5
+	android:name
+		ADDED from AndroidManifest.xml:31:22
+uses-permission#android.permission.READ_CONTACTS
+ADDED from AndroidManifest.xml:32:5
+MERGED from Email_crypt:unifiedEmail:unspecified:27:5
+	android:name
+		ADDED from AndroidManifest.xml:32:22
+uses-permission#android.permission.READ_CALENDAR
+ADDED from AndroidManifest.xml:34:5
+	android:name
+		ADDED from AndroidManifest.xml:34:22
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from AndroidManifest.xml:35:5
+	android:name
+		ADDED from AndroidManifest.xml:35:22
+uses-permission#android.permission.READ_PROFILE
+ADDED from AndroidManifest.xml:36:5
+	android:name
+		ADDED from AndroidManifest.xml:36:22
+uses-permission#android.permission.NFC
+ADDED from AndroidManifest.xml:37:5
+MERGED from Email_crypt:unifiedEmail:unspecified:31:5
+	android:name
+		ADDED from AndroidManifest.xml:37:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:38:5
+	android:name
+		ADDED from AndroidManifest.xml:38:22
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:39:5
+	android:name
+		ADDED from AndroidManifest.xml:39:22
+uses-sdk
+ADDED from AndroidManifest.xml:42:5
+MERGED from Email_crypt:unifiedEmail:unspecified:21:5
+MERGED from Email_crypt:chips:unspecified:21:5
+MERGED from Email_crypt:photoviewer:unspecified:22:5
+MERGED from Email_crypt:common:unspecified:6:5
+MERGED from com.android.support:gridlayout-v7:19.0.0:18:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:42:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:42:45
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+original-package
+ADDED from AndroidManifest.xml:46:5
+	android:name
+		ADDED from AndroidManifest.xml:46:23
+permission#com.android.email.permission.READ_ATTACHMENT
+ADDED from AndroidManifest.xml:50:5
+	android:label
+		ADDED from AndroidManifest.xml:54:9
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:53:9
+	android:permissionGroup
+		ADDED from AndroidManifest.xml:52:9
+	android:description
+		ADDED from AndroidManifest.xml:55:9
+	android:name
+		ADDED from AndroidManifest.xml:51:9
+uses-permission#com.android.email.permission.READ_ATTACHMENT
+ADDED from AndroidManifest.xml:56:5
+MERGED from Email_crypt:unifiedEmail:unspecified:30:5
+	android:name
+		ADDED from AndroidManifest.xml:57:9
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from AndroidManifest.xml:59:5
+	android:name
+		ADDED from AndroidManifest.xml:60:9
+permission#com.android.email.permission.ACCESS_PROVIDER
+ADDED from AndroidManifest.xml:63:5
+	android:label
+		ADDED from AndroidManifest.xml:66:9
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:65:9
+	android:description
+		ADDED from AndroidManifest.xml:67:9
+	android:name
+		ADDED from AndroidManifest.xml:64:9
+uses-permission#com.android.email.permission.ACCESS_PROVIDER
+ADDED from AndroidManifest.xml:68:5
+MERGED from Email_crypt:unifiedEmail:unspecified:29:5
+	android:name
+		ADDED from AndroidManifest.xml:69:9
+application
+ADDED from AndroidManifest.xml:71:5
+MERGED from Email_crypt:unifiedEmail:unspecified:33:5
+MERGED from com.android.support:gridlayout-v7:19.0.0:19:5
+	android:requiredAccountType
+		ADDED from AndroidManifest.xml:75:9
+	android:label
+		ADDED from AndroidManifest.xml:74:9
+	android:supportsRtl
+		ADDED from AndroidManifest.xml:78:9
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:77:9
+	android:icon
+		ADDED from AndroidManifest.xml:73:9
+	android:theme
+		ADDED from AndroidManifest.xml:76:9
+	android:name
+		ADDED from AndroidManifest.xml:72:9
+activity#com.android.email.activity.ComposeActivityEmail
+ADDED from AndroidManifest.xml:84:9
+	android:label
+		ADDED from AndroidManifest.xml:86:13
+	android:theme
+		ADDED from AndroidManifest.xml:87:13
+	android:name
+		ADDED from AndroidManifest.xml:85:13
+intent-filter#android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:88:13
+action#android.intent.action.VIEW
+ADDED from AndroidManifest.xml:89:17
+	android:name
+		ADDED from AndroidManifest.xml:90:21
+action#android.intent.action.SENDTO
+ADDED from AndroidManifest.xml:91:17
+	android:name
+		ADDED from AndroidManifest.xml:92:21
+data
+ADDED from AndroidManifest.xml:93:17
+	android:scheme
+		ADDED from AndroidManifest.xml:94:21
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:95:17
+	android:name
+		ADDED from AndroidManifest.xml:96:21
+category#android.intent.category.BROWSABLE
+ADDED from AndroidManifest.xml:97:17
+	android:name
+		ADDED from AndroidManifest.xml:98:21
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:100:13
+	android:label
+		ADDED from AndroidManifest.xml:101:17
+action#android.intent.action.SEND
+ADDED from AndroidManifest.xml:102:17
+	android:name
+		ADDED from AndroidManifest.xml:103:21
+intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:109:13
+	android:label
+		ADDED from AndroidManifest.xml:110:17
+action#android.intent.action.SEND_MULTIPLE
+ADDED from AndroidManifest.xml:111:17
+	android:name
+		ADDED from AndroidManifest.xml:112:21
+intent-filter#com.android.email.intent.action.REPLY
+ADDED from AndroidManifest.xml:118:13
+action#com.android.email.intent.action.REPLY
+ADDED from AndroidManifest.xml:119:17
+	android:name
+		ADDED from AndroidManifest.xml:120:21
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from AndroidManifest.xml:132:13
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from AndroidManifest.xml:133:17
+	android:name
+		ADDED from AndroidManifest.xml:133:25
+activity-alias#com.android.mail.compose.ComposeActivity
+ADDED from AndroidManifest.xml:139:9
+	android:targetActivity
+		ADDED from AndroidManifest.xml:140:13
+	android:name
+		ADDED from AndroidManifest.xml:139:25
+activity#com.android.email.activity.EventViewer
+ADDED from AndroidManifest.xml:142:9
+	android:label
+		ADDED from AndroidManifest.xml:144:13
+	android:name
+		ADDED from AndroidManifest.xml:143:13
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:146:13
+activity#com.android.mail.ui.FolderSelectionActivity
+ADDED from AndroidManifest.xml:158:9
+MERGED from Email_crypt:unifiedEmail:unspecified:110:9
+	android:label
+		ADDED from AndroidManifest.xml:159:13
+	android:theme
+		ADDED from Email_crypt:unifiedEmail:unspecified:113:13
+	android:name
+		ADDED from AndroidManifest.xml:158:19
+activity#com.android.email2.ui.MailboxSelectionActivityEmail
+ADDED from AndroidManifest.xml:161:9
+	android:label
+		ADDED from AndroidManifest.xml:162:13
+	android:name
+		ADDED from AndroidManifest.xml:161:19
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from AndroidManifest.xml:163:13
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from AndroidManifest.xml:164:17
+	android:name
+		ADDED from AndroidManifest.xml:164:25
+activity#com.android.mail.ui.ShortcutNameActivity
+ADDED from AndroidManifest.xml:168:9
+	android:label
+		ADDED from AndroidManifest.xml:169:13
+	android:theme
+		ADDED from AndroidManifest.xml:170:13
+	android:name
+		ADDED from AndroidManifest.xml:168:19
+activity#com.android.mail.ui.MailboxSelectionActivity
+ADDED from AndroidManifest.xml:173:9
+MERGED from Email_crypt:unifiedEmail:unspecified:114:9
+	android:label
+		ADDED from AndroidManifest.xml:174:13
+	android:theme
+		ADDED from Email_crypt:unifiedEmail:unspecified:117:13
+	android:name
+		ADDED from AndroidManifest.xml:173:19
+activity#com.android.email2.ui.CreateShortcutActivityEmail
+ADDED from AndroidManifest.xml:180:9
+	android:label
+		ADDED from AndroidManifest.xml:182:13
+	android:theme
+		ADDED from AndroidManifest.xml:181:13
+	android:name
+		ADDED from AndroidManifest.xml:180:19
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:184:13
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from AndroidManifest.xml:185:17
+	android:name
+		ADDED from AndroidManifest.xml:185:25
+activity#com.android.email2.ui.MailActivityEmail
+ADDED from AndroidManifest.xml:191:9
+	android:label
+		ADDED from AndroidManifest.xml:192:13
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:195:13
+	android:theme
+		ADDED from AndroidManifest.xml:194:13
+	android:name
+		ADDED from AndroidManifest.xml:193:13
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:202:13
+action#android.intent.action.SEARCH
+ADDED from AndroidManifest.xml:203:17
+	android:name
+		ADDED from AndroidManifest.xml:203:25
+meta-data#android.app.searchable
+ADDED from AndroidManifest.xml:206:13
+	android:resource
+		ADDED from AndroidManifest.xml:206:62
+	android:name
+		ADDED from AndroidManifest.xml:206:24
+activity-alias#com.android.email.activity.Welcome
+ADDED from AndroidManifest.xml:209:9
+	android:label
+		ADDED from AndroidManifest.xml:211:13
+	android:targetActivity
+		ADDED from AndroidManifest.xml:210:13
+	android:name
+		ADDED from AndroidManifest.xml:209:25
+intent-filter#android.intent.action.MAIN+android.intent.category.APP_EMAIL+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:212:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:213:17
+	android:name
+		ADDED from AndroidManifest.xml:213:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:215:17
+	android:name
+		ADDED from AndroidManifest.xml:215:27
+category#android.intent.category.APP_EMAIL
+ADDED from AndroidManifest.xml:216:17
+	android:name
+		ADDED from AndroidManifest.xml:216:27
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:218:13
+activity#com.android.email.activity.setup.AccountSetupBasics
+ADDED from AndroidManifest.xml:233:9
+	android:label
+		ADDED from AndroidManifest.xml:235:13
+	android:exported
+		ADDED from AndroidManifest.xml:236:13
+	android:name
+		ADDED from AndroidManifest.xml:234:13
+intent-filter#android.intent.category.DEFAULT+com.android.email.CREATE_ACCOUNT
+ADDED from AndroidManifest.xml:238:13
+action#com.android.email.CREATE_ACCOUNT
+ADDED from AndroidManifest.xml:239:17
+	android:name
+		ADDED from AndroidManifest.xml:240:21
+activity#com.android.email.activity.setup.AccountSetupType
+ADDED from AndroidManifest.xml:245:9
+	android:label
+		ADDED from AndroidManifest.xml:247:13
+	android:name
+		ADDED from AndroidManifest.xml:246:13
+activity#com.android.email.activity.setup.AccountSetupIncoming
+ADDED from AndroidManifest.xml:250:9
+	android:label
+		ADDED from AndroidManifest.xml:252:13
+	android:name
+		ADDED from AndroidManifest.xml:251:13
+activity#com.android.email.activity.setup.AccountSetupOutgoing
+ADDED from AndroidManifest.xml:255:9
+	android:label
+		ADDED from AndroidManifest.xml:257:13
+	android:name
+		ADDED from AndroidManifest.xml:256:13
+activity#com.android.email.activity.setup.AccountSetupOptions
+ADDED from AndroidManifest.xml:260:9
+	android:label
+		ADDED from AndroidManifest.xml:262:13
+	android:name
+		ADDED from AndroidManifest.xml:261:13
+activity#com.android.email.activity.setup.AccountSetupNames
+ADDED from AndroidManifest.xml:265:9
+	android:label
+		ADDED from AndroidManifest.xml:267:13
+	android:name
+		ADDED from AndroidManifest.xml:266:13
+activity#com.android.email.activity.setup.AccountSettings
+ADDED from AndroidManifest.xml:271:9
+	android:label
+		ADDED from AndroidManifest.xml:273:13
+	android:exported
+		ADDED from AndroidManifest.xml:274:13
+	android:name
+		ADDED from AndroidManifest.xml:272:13
+intent-filter#android.intent.category.DEFAULT+com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY
+ADDED from AndroidManifest.xml:276:13
+action#com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY
+ADDED from AndroidManifest.xml:277:17
+	android:name
+		ADDED from AndroidManifest.xml:278:21
+intent-filter#android.intent.action.EDIT+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:282:13
+action#android.intent.action.EDIT
+ADDED from AndroidManifest.xml:283:17
+	android:name
+		ADDED from AndroidManifest.xml:283:25
+intent-filter#android.intent.action.MANAGE_NETWORK_USAGE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:291:13
+action#android.intent.action.MANAGE_NETWORK_USAGE
+ADDED from AndroidManifest.xml:292:17
+	android:name
+		ADDED from AndroidManifest.xml:292:25
+activity#com.android.email.provider.FolderPickerActivity
+ADDED from AndroidManifest.xml:296:9
+	android:label
+		ADDED from AndroidManifest.xml:298:13
+	android:name
+		ADDED from AndroidManifest.xml:297:13
+activity#com.android.email.activity.setup.AccountSecurity
+ADDED from AndroidManifest.xml:310:9
+	android:label
+		ADDED from AndroidManifest.xml:312:13
+	android:name
+		ADDED from AndroidManifest.xml:311:13
+activity#com.android.email.activity.setup.MailboxSettings
+ADDED from AndroidManifest.xml:316:9
+	android:label
+		ADDED from AndroidManifest.xml:318:13
+	android:name
+		ADDED from AndroidManifest.xml:317:13
+activity#com.android.mail.photo.MailPhotoViewActivity
+ADDED from AndroidManifest.xml:322:9
+MERGED from Email_crypt:unifiedEmail:unspecified:122:9
+	android:label
+		ADDED from AndroidManifest.xml:324:13
+	android:theme
+		ADDED from AndroidManifest.xml:325:13
+	android:name
+		ADDED from AndroidManifest.xml:323:13
+activity#com.android.mail.browse.EmlViewerActivity
+ADDED from AndroidManifest.xml:328:9
+MERGED from Email_crypt:unifiedEmail:unspecified:127:9
+	android:label
+		ADDED from AndroidManifest.xml:330:17
+	android:theme
+		ADDED from AndroidManifest.xml:331:17
+	android:name
+		ADDED from AndroidManifest.xml:329:17
+provider#com.android.mail.browse.EmailConversationProvider
+ADDED from AndroidManifest.xml:342:9
+	android:authorities
+		ADDED from AndroidManifest.xml:343:13
+	android:label
+		ADDED from AndroidManifest.xml:344:13
+	android:exported
+		ADDED from AndroidManifest.xml:345:13
+	android:name
+		ADDED from AndroidManifest.xml:346:13
+grant-uri-permission
+ADDED from AndroidManifest.xml:347:13
+MERGED from Email_crypt:unifiedEmail:unspecified:167:13
+	android:pathPattern
+		ADDED from AndroidManifest.xml:347:35
+provider#com.android.mail.providers.EmailAccountCacheProvider
+ADDED from AndroidManifest.xml:350:9
+	android:authorities
+		ADDED from AndroidManifest.xml:351:13
+	android:label
+		ADDED from AndroidManifest.xml:352:13
+	android:exported
+		ADDED from AndroidManifest.xml:353:13
+	android:name
+		ADDED from AndroidManifest.xml:354:13
+provider#com.android.mail.providers.EmlAttachmentProvider
+ADDED from AndroidManifest.xml:358:9
+MERGED from Email_crypt:unifiedEmail:unspecified:162:9
+	android:authorities
+		ADDED from AndroidManifest.xml:359:17
+	android:multiprocess
+		ADDED from Email_crypt:unifiedEmail:unspecified:166:13
+	android:exported
+		ADDED from AndroidManifest.xml:360:17
+	android:name
+		ADDED from AndroidManifest.xml:361:17
+service#com.android.mail.compose.EmptyService
+ADDED from AndroidManifest.xml:373:9
+MERGED from Email_crypt:unifiedEmail:unspecified:180:9
+	android:name
+		ADDED from AndroidManifest.xml:373:18
+receiver#com.android.email.provider.WidgetProvider
+ADDED from AndroidManifest.xml:375:9
+	android:label
+		ADDED from AndroidManifest.xml:375:59
+	android:name
+		ADDED from AndroidManifest.xml:375:19
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from AndroidManifest.xml:376:13
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from AndroidManifest.xml:377:17
+	android:name
+		ADDED from AndroidManifest.xml:377:25
+intent-filter#com.android.mail.ACTION_NOTIFY_DATASET_CHANGED
+ADDED from AndroidManifest.xml:379:13
+action#com.android.mail.ACTION_NOTIFY_DATASET_CHANGED
+ADDED from AndroidManifest.xml:380:17
+	android:name
+		ADDED from AndroidManifest.xml:380:25
+intent-filter#com.android.mail.ACTION_UPDATE_WIDGET
+ADDED from AndroidManifest.xml:383:13
+action#com.android.mail.ACTION_UPDATE_WIDGET
+ADDED from AndroidManifest.xml:384:17
+	android:name
+		ADDED from AndroidManifest.xml:384:25
+intent-filter#com.android.mail.ACTION_VALIDATE_ALL_WIDGETS
+ADDED from AndroidManifest.xml:387:13
+action#com.android.mail.ACTION_VALIDATE_ALL_WIDGETS
+ADDED from AndroidManifest.xml:388:17
+	android:name
+		ADDED from AndroidManifest.xml:388:25
+meta-data#android.appwidget.provider
+ADDED from AndroidManifest.xml:391:13
+	android:resource
+		ADDED from AndroidManifest.xml:392:24
+	android:name
+		ADDED from AndroidManifest.xml:391:24
+service#com.android.mail.widget.WidgetService
+ADDED from AndroidManifest.xml:394:9
+MERGED from Email_crypt:unifiedEmail:unspecified:198:9
+	android:exported
+		ADDED from AndroidManifest.xml:396:18
+	android:permission
+		ADDED from AndroidManifest.xml:395:18
+	android:name
+		ADDED from AndroidManifest.xml:394:18
+receiver#com.android.email.service.AttachmentDownloadService$Watchdog
+ADDED from AndroidManifest.xml:400:9
+	android:enabled
+		ADDED from AndroidManifest.xml:402:13
+	android:name
+		ADDED from AndroidManifest.xml:401:13
+receiver#com.android.email.service.EmailUpgradeBroadcastReceiver
+ADDED from AndroidManifest.xml:405:9
+	android:enabled
+		ADDED from AndroidManifest.xml:407:13
+	android:name
+		ADDED from AndroidManifest.xml:406:13
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED
+ADDED from AndroidManifest.xml:408:13
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:409:17
+	android:name
+		ADDED from AndroidManifest.xml:409:25
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from AndroidManifest.xml:410:17
+	android:name
+		ADDED from AndroidManifest.xml:410:25
+receiver#com.android.email.service.EmailBroadcastReceiver
+ADDED from AndroidManifest.xml:414:9
+	android:enabled
+		ADDED from AndroidManifest.xml:416:13
+	android:name
+		ADDED from AndroidManifest.xml:415:13
+intent-filter#android.accounts.LOGIN_ACCOUNTS_CHANGED+android.intent.action.BOOT_COMPLETED+android.intent.action.DEVICE_STORAGE_LOW+android.intent.action.DEVICE_STORAGE_OK
+ADDED from AndroidManifest.xml:417:13
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from AndroidManifest.xml:419:17
+	android:name
+		ADDED from AndroidManifest.xml:419:25
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from AndroidManifest.xml:420:17
+	android:name
+		ADDED from AndroidManifest.xml:420:25
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from AndroidManifest.xml:421:17
+	android:name
+		ADDED from AndroidManifest.xml:421:25
+intent-filter#com.android.mail.action.update_notification
+ADDED from AndroidManifest.xml:424:13
+action#com.android.mail.action.update_notification
+ADDED from AndroidManifest.xml:425:17
+	android:priority
+		ADDED from AndroidManifest.xml:426:25
+	android:name
+		ADDED from AndroidManifest.xml:425:25
+intent-filter#android.provider.Telephony.SECRET_CODE
+ADDED from AndroidManifest.xml:430:13
+action#android.provider.Telephony.SECRET_CODE
+ADDED from AndroidManifest.xml:431:17
+	android:name
+		ADDED from AndroidManifest.xml:432:21
+service#com.android.email.service.EmailBroadcastProcessorService
+ADDED from AndroidManifest.xml:439:9
+	android:name
+		ADDED from AndroidManifest.xml:440:13
+receiver#com.android.email.SecurityPolicy$PolicyAdmin
+ADDED from AndroidManifest.xml:443:9
+	android:label
+		ADDED from AndroidManifest.xml:445:13
+	android:permission
+		ADDED from AndroidManifest.xml:447:13
+	android:description
+		ADDED from AndroidManifest.xml:446:13
+	android:name
+		ADDED from AndroidManifest.xml:444:13
+meta-data#android.app.device_admin
+ADDED from AndroidManifest.xml:448:13
+	android:resource
+		ADDED from AndroidManifest.xml:450:17
+	android:name
+		ADDED from AndroidManifest.xml:449:17
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from AndroidManifest.xml:451:13
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from AndroidManifest.xml:452:17
+	android:name
+		ADDED from AndroidManifest.xml:453:21
+service#com.android.email.service.AttachmentDownloadService
+ADDED from AndroidManifest.xml:457:9
+	android:enabled
+		ADDED from AndroidManifest.xml:459:13
+	android:name
+		ADDED from AndroidManifest.xml:458:13
+service#com.android.email.service.Pop3AuthenticatorService
+ADDED from AndroidManifest.xml:464:9
+	android:enabled
+		ADDED from AndroidManifest.xml:467:13
+	android:exported
+		ADDED from AndroidManifest.xml:466:13
+	android:name
+		ADDED from AndroidManifest.xml:465:13
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from AndroidManifest.xml:469:13
+action#android.accounts.AccountAuthenticator
+ADDED from AndroidManifest.xml:470:17
+	android:name
+		ADDED from AndroidManifest.xml:471:21
+meta-data#android.accounts.AccountAuthenticator
+ADDED from AndroidManifest.xml:473:13
+	android:resource
+		ADDED from AndroidManifest.xml:475:17
+	android:name
+		ADDED from AndroidManifest.xml:474:17
+service#com.android.email.service.ImapAuthenticatorService
+ADDED from AndroidManifest.xml:479:9
+	android:enabled
+		ADDED from AndroidManifest.xml:482:13
+	android:exported
+		ADDED from AndroidManifest.xml:481:13
+	android:name
+		ADDED from AndroidManifest.xml:480:13
+service#com.android.email.service.Pop3SyncAdapterService
+ADDED from AndroidManifest.xml:495:9
+	android:exported
+		ADDED from AndroidManifest.xml:497:13
+	android:name
+		ADDED from AndroidManifest.xml:496:13
+intent-filter#android.content.SyncAdapter
+ADDED from AndroidManifest.xml:498:13
+action#android.content.SyncAdapter
+ADDED from AndroidManifest.xml:499:17
+	android:name
+		ADDED from AndroidManifest.xml:500:21
+meta-data#android.content.SyncAdapter
+ADDED from AndroidManifest.xml:502:13
+	android:resource
+		ADDED from AndroidManifest.xml:503:24
+	android:name
+		ADDED from AndroidManifest.xml:502:24
+service#com.android.email.service.LegacyImapSyncAdapterService
+ADDED from AndroidManifest.xml:506:9
+	android:exported
+		ADDED from AndroidManifest.xml:508:13
+	android:name
+		ADDED from AndroidManifest.xml:507:13
+service#com.android.email.service.PolicyService
+ADDED from AndroidManifest.xml:518:9
+	android:enabled
+		ADDED from AndroidManifest.xml:520:13
+	android:permission
+		ADDED from AndroidManifest.xml:521:13
+	android:name
+		ADDED from AndroidManifest.xml:519:13
+intent-filter#com.android.email.POLICY_INTENT
+ADDED from AndroidManifest.xml:523:13
+action#com.android.email.POLICY_INTENT
+ADDED from AndroidManifest.xml:524:17
+	android:name
+		ADDED from AndroidManifest.xml:525:21
+service#com.android.email.service.AccountService
+ADDED from AndroidManifest.xml:529:9
+	android:enabled
+		ADDED from AndroidManifest.xml:531:13
+	android:permission
+		ADDED from AndroidManifest.xml:532:13
+	android:name
+		ADDED from AndroidManifest.xml:530:13
+intent-filter#com.android.email.ACCOUNT_INTENT
+ADDED from AndroidManifest.xml:534:13
+action#com.android.email.ACCOUNT_INTENT
+ADDED from AndroidManifest.xml:535:17
+	android:name
+		ADDED from AndroidManifest.xml:536:21
+service#com.android.email.service.ImapService
+ADDED from AndroidManifest.xml:540:9
+	android:enabled
+		ADDED from AndroidManifest.xml:542:13
+	android:permission
+		ADDED from AndroidManifest.xml:543:13
+	android:name
+		ADDED from AndroidManifest.xml:541:13
+intent-filter#com.android.email.IMAP_INTENT
+ADDED from AndroidManifest.xml:545:13
+action#com.android.email.IMAP_INTENT
+ADDED from AndroidManifest.xml:546:17
+	android:name
+		ADDED from AndroidManifest.xml:547:21
+service#com.android.email.service.Pop3Service
+ADDED from AndroidManifest.xml:551:9
+	android:enabled
+		ADDED from AndroidManifest.xml:553:13
+	android:permission
+		ADDED from AndroidManifest.xml:554:13
+	android:name
+		ADDED from AndroidManifest.xml:552:13
+intent-filter#com.android.email.POP3_INTENT
+ADDED from AndroidManifest.xml:556:13
+action#com.android.email.POP3_INTENT
+ADDED from AndroidManifest.xml:557:17
+	android:name
+		ADDED from AndroidManifest.xml:558:21
+service#com.android.email.service.EasAuthenticatorService
+ADDED from AndroidManifest.xml:563:9
+	android:enabled
+		ADDED from AndroidManifest.xml:566:13
+	android:exported
+		ADDED from AndroidManifest.xml:565:13
+	android:name
+		ADDED from AndroidManifest.xml:564:13
+service#com.android.email.service.EasTestAuthenticatorService
+ADDED from AndroidManifest.xml:578:9
+	android:enabled
+		ADDED from AndroidManifest.xml:581:13
+	android:exported
+		ADDED from AndroidManifest.xml:580:13
+	android:name
+		ADDED from AndroidManifest.xml:579:13
+service#com.android.email.service.EasAuthenticatorServiceAlternate
+ADDED from AndroidManifest.xml:596:9
+	android:enabled
+		ADDED from AndroidManifest.xml:599:13
+	android:exported
+		ADDED from AndroidManifest.xml:598:13
+	android:name
+		ADDED from AndroidManifest.xml:597:13
+service#com.android.email.service.LegacyImapAuthenticatorService
+ADDED from AndroidManifest.xml:611:9
+	android:enabled
+		ADDED from AndroidManifest.xml:614:13
+	android:exported
+		ADDED from AndroidManifest.xml:613:13
+	android:name
+		ADDED from AndroidManifest.xml:612:13
+provider#com.android.email.provider.AttachmentProvider
+ADDED from AndroidManifest.xml:626:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:631:13
+	android:authorities
+		ADDED from AndroidManifest.xml:628:13
+	android:grantUriPermissions
+		ADDED from AndroidManifest.xml:629:13
+	android:exported
+		ADDED from AndroidManifest.xml:630:13
+	android:name
+		ADDED from AndroidManifest.xml:627:13
+provider#com.android.email.provider.EmailProvider
+ADDED from AndroidManifest.xml:636:9
+	android:authorities
+		ADDED from AndroidManifest.xml:638:13
+	android:label
+		ADDED from AndroidManifest.xml:641:13
+	android:exported
+		ADDED from AndroidManifest.xml:639:13
+	android:permission
+		ADDED from AndroidManifest.xml:640:13
+	android:name
+		ADDED from AndroidManifest.xml:637:13
+service#com.android.email.service.LegacyEmailAuthenticatorService
+ADDED from AndroidManifest.xml:646:9
+	android:enabled
+		ADDED from AndroidManifest.xml:649:13
+	android:exported
+		ADDED from AndroidManifest.xml:648:13
+	android:name
+		ADDED from AndroidManifest.xml:647:13
+service#com.android.email.service.LegacyEasAuthenticatorService
+ADDED from AndroidManifest.xml:661:9
+	android:enabled
+		ADDED from AndroidManifest.xml:664:13
+	android:exported
+		ADDED from AndroidManifest.xml:663:13
+	android:name
+		ADDED from AndroidManifest.xml:662:13
+service#com.android.email.EmailIntentService
+ADDED from AndroidManifest.xml:676:9
+	android:exported
+		ADDED from AndroidManifest.xml:677:18
+	android:name
+		ADDED from AndroidManifest.xml:676:18
+intent-filter#android.intent.action.LOCALE_CHANGED+com.android.mail.action.RESEND_NOTIFICATIONS
+ADDED from AndroidManifest.xml:678:13
+action#android.intent.action.LOCALE_CHANGED
+ADDED from AndroidManifest.xml:679:17
+	android:name
+		ADDED from AndroidManifest.xml:679:25
+action#com.android.mail.action.RESEND_NOTIFICATIONS
+ADDED from AndroidManifest.xml:680:17
+	android:name
+		ADDED from AndroidManifest.xml:680:25
+intent-filter#com.android.mail.action.CLEAR_NEW_MAIL_NOTIFICATIONS
+ADDED from AndroidManifest.xml:682:13
+action#com.android.mail.action.CLEAR_NEW_MAIL_NOTIFICATIONS
+ADDED from AndroidManifest.xml:683:17
+	android:name
+		ADDED from AndroidManifest.xml:683:25
+service#com.android.mail.NotificationActionIntentService
+ADDED from AndroidManifest.xml:688:9
+	android:exported
+		ADDED from AndroidManifest.xml:689:19
+	android:name
+		ADDED from AndroidManifest.xml:688:18
+intent-filter#com.android.mail.action.notification.ARCHIVE+com.android.mail.action.notification.DELETE+com.android.mail.action.notification.DESTRUCT+com.android.mail.action.notification.FORWARD+com.android.mail.action.notification.MARK_READ+com.android.mail.action.notification.REPLY+com.android.mail.action.notification.REPLY_ALL+com.android.mail.action.notification.UNDO+com.android.mail.action.notification.UNDO_TIMEOUT
+ADDED from AndroidManifest.xml:690:13
+action#com.android.mail.action.notification.MARK_READ
+ADDED from AndroidManifest.xml:691:17
+	android:name
+		ADDED from AndroidManifest.xml:691:25
+action#com.android.mail.action.notification.ARCHIVE
+ADDED from AndroidManifest.xml:692:17
+	android:name
+		ADDED from AndroidManifest.xml:692:25
+action#com.android.mail.action.notification.DELETE
+ADDED from AndroidManifest.xml:693:17
+	android:name
+		ADDED from AndroidManifest.xml:693:25
+action#com.android.mail.action.notification.UNDO
+ADDED from AndroidManifest.xml:694:17
+	android:name
+		ADDED from AndroidManifest.xml:694:25
+action#com.android.mail.action.notification.DESTRUCT
+ADDED from AndroidManifest.xml:695:17
+	android:name
+		ADDED from AndroidManifest.xml:695:25
+action#com.android.mail.action.notification.UNDO_TIMEOUT
+ADDED from AndroidManifest.xml:696:17
+	android:name
+		ADDED from AndroidManifest.xml:696:25
+action#com.android.mail.action.notification.REPLY
+ADDED from AndroidManifest.xml:697:17
+	android:name
+		ADDED from AndroidManifest.xml:697:25
+action#com.android.mail.action.notification.REPLY_ALL
+ADDED from AndroidManifest.xml:698:17
+	android:name
+		ADDED from AndroidManifest.xml:698:25
+action#com.android.mail.action.notification.FORWARD
+ADDED from AndroidManifest.xml:699:17
+	android:name
+		ADDED from AndroidManifest.xml:699:25
+service#com.android.mail.MailLogService
+ADDED from AndroidManifest.xml:702:9
+MERGED from Email_crypt:unifiedEmail:unspecified:202:9
+	android:name
+		ADDED from AndroidManifest.xml:702:18
+service#com.android.mail.browse.EmlTempFileDeletionService
+ADDED from AndroidManifest.xml:704:9
+MERGED from Email_crypt:unifiedEmail:unspecified:203:9
+	android:name
+		ADDED from AndroidManifest.xml:704:18
+meta-data#android.app.default_searchable
+ADDED from Email_crypt:unifiedEmail:unspecified:40:9
+	android:value
+		ADDED from Email_crypt:unifiedEmail:unspecified:42:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:41:13
+activity#com.android.mail.ui.MailActivity
+ADDED from Email_crypt:unifiedEmail:unspecified:44:9
+	android:label
+		ADDED from Email_crypt:unifiedEmail:unspecified:46:13
+	android:launchMode
+		ADDED from Email_crypt:unifiedEmail:unspecified:47:13
+	android:theme
+		ADDED from Email_crypt:unifiedEmail:unspecified:48:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:45:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from Email_crypt:unifiedEmail:unspecified:49:13
+activity#com.android.mail.compose.ComposeActivity
+ADDED from Email_crypt:unifiedEmail:unspecified:72:9
+	android:theme
+		ADDED from Email_crypt:unifiedEmail:unspecified:74:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:73:13
+activity#com.android.mail.ui.CreateShortcutActivity
+ADDED from Email_crypt:unifiedEmail:unspecified:106:9
+	android:label
+		ADDED from Email_crypt:unifiedEmail:unspecified:108:13
+	android:theme
+		ADDED from Email_crypt:unifiedEmail:unspecified:109:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:107:13
+provider#com.android.mail.providers.UnifiedAccountCacheProvider
+ADDED from Email_crypt:unifiedEmail:unspecified:141:9
+	android:authorities
+		ADDED from Email_crypt:unifiedEmail:unspecified:143:13
+	android:label
+		ADDED from Email_crypt:unifiedEmail:unspecified:144:13
+	android:multiprocess
+		ADDED from Email_crypt:unifiedEmail:unspecified:145:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:142:13
+provider#com.android.mail.providers.protos.mock.MockUiProvider
+ADDED from Email_crypt:unifiedEmail:unspecified:148:9
+	android:authorities
+		ADDED from Email_crypt:unifiedEmail:unspecified:150:13
+	android:label
+		ADDED from Email_crypt:unifiedEmail:unspecified:151:13
+	android:multiprocess
+		ADDED from Email_crypt:unifiedEmail:unspecified:152:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:149:13
+provider#com.android.mail.browse.UnifiedConversationProvider
+ADDED from Email_crypt:unifiedEmail:unspecified:155:9
+	android:authorities
+		ADDED from Email_crypt:unifiedEmail:unspecified:157:13
+	android:label
+		ADDED from Email_crypt:unifiedEmail:unspecified:158:13
+	android:multiprocess
+		ADDED from Email_crypt:unifiedEmail:unspecified:159:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:156:13
+provider#com.android.mail.providers.SuggestionsProvider
+ADDED from Email_crypt:unifiedEmail:unspecified:176:9
+	android:authorities
+		ADDED from Email_crypt:unifiedEmail:unspecified:178:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:177:13
+receiver#com.android.mail.widget.WidgetProvider
+ADDED from Email_crypt:unifiedEmail:unspecified:183:9
+	android:label
+		ADDED from Email_crypt:unifiedEmail:unspecified:185:13
+	android:name
+		ADDED from Email_crypt:unifiedEmail:unspecified:184:13

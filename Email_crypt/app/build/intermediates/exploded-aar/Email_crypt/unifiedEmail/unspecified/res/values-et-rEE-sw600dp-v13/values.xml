@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/nazar/okc/okc/Email_crypt/unifiedEmail/src/main/res/values-et-rEE-sw600dp/strings.xml -->
+    <eat-comment/>
+    <string msgid="7648769906379235693" name="add_bcc_label">"+ pimekoopia"</string>
+    <string msgid="6156834609108442458" name="add_cc_label">"+ koopia/pimekoopia"</string>
+    <string msgid="7574962882483466700" name="menu_manage_folders">"Halda kaustu"</string>
+    <string msgid="5318418012992612729" name="preferences_default_reply_all_summary">"Kasuta vaikeseadena sõnumi märguannetele vastamisel"</string>
+</resources>
