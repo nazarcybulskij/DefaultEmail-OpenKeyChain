@@ -25,7 +25,7 @@ import com.indeema.emailcommon.provider.Policy;
 
 public class SetupData implements Parcelable {
     // The "extra" name for the Bundle saved with SetupData
-    public static final String EXTRA_SETUP_DATA = "com.android.email.setupdata";
+    public static final String EXTRA_SETUP_DATA = "com.indeema.email.setupdata";
 
     // NORMAL is the standard entry from the Email app; EAS and POP_IMAP are used when entering via
     // Settings -> Accounts

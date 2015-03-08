@@ -25,7 +25,7 @@ import android.os.Bundle;
  * Definitions of service status codes returned to IEmailServiceCallback's status method.
  *
  * Now that all sync requests are sent through the system SyncManager, there's no way to specify the
- * {@link com.android.emailcommon.service.IEmailServiceCallback} to {@link android.content.ContentResolver#requestSync} since all we have is a
+ * {@link com.indeema.emailcommon.service.IEmailServiceCallback} to {@link android.content.ContentResolver#requestSync} since all we have is a
  * {@link android.os.Bundle}. Instead, the caller requesting the sync specifies values with which to call
  * {@link android.content.ContentResolver#call} in order to receive a callback, and the
  * {@link android.content.ContentProvider} must handle this call.

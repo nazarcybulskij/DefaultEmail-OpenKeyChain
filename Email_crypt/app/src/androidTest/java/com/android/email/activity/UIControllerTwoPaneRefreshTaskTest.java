@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.android.email.activity;
+package com.indeema.email.activity;
 
 import com.indeema.mail.utils.Clock;
-import com.android.email.Controller;
-import com.android.email.MockClock;
-import com.android.email.RefreshManager;
+import com.indeema.email.Controller;
+import com.indeema.email.MockClock;
+import com.indeema.email.RefreshManager;
 
 import android.content.Context;
 import android.os.Handler;

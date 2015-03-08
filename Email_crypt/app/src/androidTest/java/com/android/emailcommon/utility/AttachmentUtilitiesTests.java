@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.utility;
+package com.indeema.emailcommon.utility;
 
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.utility.AttachmentUtilities;

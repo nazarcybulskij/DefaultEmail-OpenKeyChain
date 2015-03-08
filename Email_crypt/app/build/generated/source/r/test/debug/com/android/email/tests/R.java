@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.android.email.tests;
+package com.indeema.email.tests;
 
 public final class R {
     public static final class attr {

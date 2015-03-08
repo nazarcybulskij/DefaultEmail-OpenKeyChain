@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.provider;
+package com.indeema.email.provider;
 
 import android.accounts.AccountManager;
 import android.accounts.AuthenticatorException;
@@ -40,7 +40,7 @@ import com.indeema.email.provider.AccountReconciler;
 import com.indeema.email.provider.ContentCache;
 import com.indeema.email.provider.EmailProvider;
 import com.indeema.email.provider.EmailProvider.AttachmentService;
-import com.android.emailcommon.AccountManagerTypes;
+import com.indeema.emailcommon.AccountManagerTypes;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.provider.EmailContent.AccountColumns;
@@ -66,7 +66,7 @@ import java.util.ArrayList;
  * Tests of the Email provider.
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.provider.ProviderTests email
+ *   runtest -c com.indeema.email.provider.ProviderTests email
  *
  * TODO: Add tests for cursor notification mechanism.  (setNotificationUri and notifyChange)
  * We can't test the entire notification mechanism with a mock content resolver, because which URI

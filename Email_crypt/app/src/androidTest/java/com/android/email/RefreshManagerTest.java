@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.email.MessagingExceptionStrings;
 import com.indeema.emailcommon.Logging;
 import com.indeema.emailcommon.mail.MessagingException;

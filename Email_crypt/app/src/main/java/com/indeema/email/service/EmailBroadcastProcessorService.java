@@ -77,7 +77,7 @@ public class EmailBroadcastProcessorService extends IntentService {
     private static final String SECRET_CODE_HOST_DEBUG_SCREEN = "36245";
 
     // This is a helper used to process DeviceAdminReceiver messages
-    private static final String ACTION_DEVICE_POLICY_ADMIN = "com.android.email.devicepolicy";
+    private static final String ACTION_DEVICE_POLICY_ADMIN = "com.indeema.email.devicepolicy";
     private static final String EXTRA_DEVICE_POLICY_ADMIN = "message_code";
 
     // Action used for EmailUpgradeBroadcastReceiver.
@@ -263,7 +263,7 @@ public class EmailBroadcastProcessorService extends IntentService {
         if (!protocolMap.isEmpty()) {
             protocolMap.put("imap_type", getString(R.string.account_manager_type_legacy_imap));
             protocolMap.put("pop3_type", getString(R.string.account_manager_type_pop3));
-            updateAccountManagerAccountsOfType("com.android.email", protocolMap);
+            updateAccountManagerAccountsOfType("com.indeema.email", protocolMap);
         }
 
         protocolMap.clear();

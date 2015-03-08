@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
 import com.indeema.email.LegacyConversions;
 import com.indeema.email.Preferences;
 import com.indeema.email.provider.EmailProvider;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.internet.MimeBodyPart;
 import com.indeema.emailcommon.internet.MimeHeader;
 import com.indeema.emailcommon.internet.MimeMessage;
@@ -30,9 +30,9 @@ import com.indeema.emailcommon.mail.BodyPart;
 import com.indeema.emailcommon.mail.Flag;
 import com.indeema.emailcommon.mail.Message;
 import com.indeema.emailcommon.mail.Message.RecipientType;
-import com.android.emailcommon.mail.MessageTestUtils;
-import com.android.emailcommon.mail.MessageTestUtils.MessageBuilder;
-import com.android.emailcommon.mail.MessageTestUtils.MultipartBuilder;
+import com.indeema.emailcommon.mail.MessageTestUtils;
+import com.indeema.emailcommon.mail.MessageTestUtils.MessageBuilder;
+import com.indeema.emailcommon.mail.MessageTestUtils.MultipartBuilder;
 import com.indeema.emailcommon.mail.MessagingException;
 import com.indeema.emailcommon.mail.Part;
 import com.indeema.emailcommon.provider.EmailContent;
@@ -57,7 +57,7 @@ import java.util.Date;
  * a true "unit test".
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.LegacyConversionsTests email
+ *   runtest -c com.indeema.email.LegacyConversionsTests email
  */
 public class LegacyConversionsTests extends ProviderTestCase2<EmailProvider> {
 

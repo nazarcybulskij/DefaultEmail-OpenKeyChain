@@ -19,7 +19,7 @@
     and read from resources -->
     <!-- Name of the search suggestions authority that looks up recent suggestions. This
          needs to be modified in AndroidManifest.xml and res/xml/searchable.xml as well.  -->
-    <string name="suggestions_authority" translatable="false">com.android.email.suggestionsprovider</string>
+    <string name="suggestions_authority" translatable="false">com.indeema.email.suggestionsprovider</string>
 
     <!-- Permissions label for reading attachments -->
     <string name="permission_read_attachment_label">Read email attachments</string>
@@ -802,16 +802,16 @@
     <string name="email_feedback_uri" translatable="false"></string>
 
     <string name="account_manager_type_exchange" translatable="false">com.android.exchange</string>
-    <string name="account_manager_type_pop3" translatable="false">com.android.email</string>
-    <string name="account_manager_type_imap" translatable="false">com.android.email</string>
-    <string name="account_manager_type_legacy_imap" translatable="false">com.android.email</string>
-    <string name="intent_exchange_action" translatable="false">com.android.email.EXCHANGE_INTENT</string>
+    <string name="account_manager_type_pop3" translatable="false">com.indeema.email</string>
+    <string name="account_manager_type_imap" translatable="false">com.indeema.email</string>
+    <string name="account_manager_type_legacy_imap" translatable="false">com.indeema.email</string>
+    <string name="intent_exchange_action" translatable="false">com.indeema.email.EXCHANGE_INTENT</string>
     <string name="intent_exchange_package" translatable="false">com.android.exchange</string>
-    <string name="intent_account_manager_entry" translatable="false">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-    <string name="authority_email_provider" translatable="false">com.android.email.provider</string>
-    <string name="authority_conversation_provider" translatable="false">com.android.email.conversation.provider</string>
-    <string name="authority_account_cache_provider" translatable="false">com.android.email.accountcache</string>
-    <string name="authority_suggestions_provider" translatable="false">com.android.email.suggestionsprovider</string>
+    <string name="intent_account_manager_entry" translatable="false">com.indeema.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+    <string name="authority_email_provider" translatable="false">com.indeema.email.provider</string>
+    <string name="authority_conversation_provider" translatable="false">com.indeema.email.conversation.provider</string>
+    <string name="authority_account_cache_provider" translatable="false">com.indeema.email.accountcache</string>
+    <string name="authority_suggestions_provider" translatable="false">com.indeema.email.suggestionsprovider</string>
     <string name="protocol_legacy_imap" translatable="false">imap</string>
     <string name="protocol_imap" translatable="false">imap</string>
     <string name="protocol_pop3" translatable="false">pop3</string>
@@ -822,5 +822,5 @@
     <string name="eml_attachment_provider" translatable="false">com.indeema.email.provider.eml.attachment</string>
 
     <!-- Provider name for widgets -->
-    <string name="widget_provider" translatable="false">com.android.email.provider.WidgetProvider</string>
+    <string name="widget_provider" translatable="false">com.indeema.email.provider.WidgetProvider</string>
 </resources>

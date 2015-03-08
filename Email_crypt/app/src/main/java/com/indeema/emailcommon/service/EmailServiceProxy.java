@@ -109,7 +109,7 @@ public class EmailServiceProxy extends ServiceProxy implements IEmailService {
      * loading has started and stopped and SHOULD send callbacks with progress information if
      * possible.
      *
-     * @param cb The {@link com.android.emailcommon.service.IEmailServiceCallback} to use for this operation.
+     * @param cb The {@link com.indeema.emailcommon.service.IEmailServiceCallback} to use for this operation.
      * @param accountId the id of the account in question
      * @param attachmentId the id of the attachment record
      * @param background whether or not this request corresponds to a background action (i.e.

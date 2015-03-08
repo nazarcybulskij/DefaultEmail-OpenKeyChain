@@ -64,9 +64,9 @@ public abstract class ServiceProxy {
 
     /**
      * Create Intent action based on the Email package name
-     * Package com.android.email + ACTION -> com.android.email.ACTION
+     * Package com.indeema.email + ACTION -> com.indeema.email.ACTION
      * Package com.google.android.email + ACTION -> com.google.android.email.ACTION
-     * Package com.android.exchange + ACTION -> com.android.email.ACTION
+     * Package com.android.exchange + ACTION -> com.indeema.email.ACTION
      * Package com.google.exchange + ACTION -> com.google.android.email.ACTION
      *
      * @param context the caller's context

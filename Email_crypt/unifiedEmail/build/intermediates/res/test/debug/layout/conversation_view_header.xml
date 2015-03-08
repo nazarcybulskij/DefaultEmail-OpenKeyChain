@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.mail.browse.ConversationViewHeader
+<com.indeema.mail.browse.ConversationViewHeader
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/conversation_header"
     android:layout_width="match_parent"
@@ -32,7 +32,7 @@
         android:includeFontPadding="false"
         style="@style/ConversationSubjectStyle" />
 
-    <com.android.mail.browse.FolderSpanTextView
+    <com.indeema.mail.browse.FolderSpanTextView
         android:id="@+id/folders"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,5 +44,5 @@
         android:textSize="@dimen/conversation_folder_font_size"
         style="@style/ConversationHeaderFolderStyle"/>
 
-</com.android.mail.browse.ConversationViewHeader>
+</com.indeema.mail.browse.ConversationViewHeader>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_view_header.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_view_header.xml -->

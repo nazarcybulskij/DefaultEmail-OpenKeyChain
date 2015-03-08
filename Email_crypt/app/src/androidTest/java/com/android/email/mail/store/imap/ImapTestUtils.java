@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.mail.store.imap;
+package com.indeema.email.mail.store.imap;
 
 import com.indeema.email.FixedLengthInputStream;
 import com.indeema.email.mail.store.imap.ImapElement;

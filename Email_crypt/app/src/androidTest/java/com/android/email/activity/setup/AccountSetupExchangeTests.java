@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.activity.setup;
+package com.indeema.email.activity.setup;
 
 import android.content.Context;
 import android.content.Intent;
@@ -26,7 +26,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 
 import com.indeema.email.R;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.email.activity.setup.SetupData;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.HostAuth;
@@ -36,7 +36,7 @@ import java.net.URISyntaxException;
 /**
  * Tests of the basic UI logic in the Account Setup Incoming (IMAP / POP3) screen.
  * You can run this entire test case with:
- *   runtest -c com.android.email.activity.setup.AccountSetupExchangeTests email
+ *   runtest -c com.indeema.email.activity.setup.AccountSetupExchangeTests email
  */
 @MediumTest
 public class AccountSetupExchangeTests extends

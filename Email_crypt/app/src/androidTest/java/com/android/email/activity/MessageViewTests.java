@@ -17,10 +17,10 @@
 // Disabled for now, as these tests will probably not make sense with the upcoming UI change.
 // TODO Revive them in some way.
 
-//package com.android.email.activity;
+//package com.indeema.email.activity;
 //
-//import com.android.email.Email;
-//import com.android.email.MessagingController;
+//import com.indeema.email.Email;
+//import com.indeema.email.MessagingController;
 //import com.indeema.email.R;
 //
 //import android.app.Application;
@@ -44,8 +44,8 @@
 //        extends ActivityInstrumentationTestCase2<MessageView> {
 //
 //    // copied from MessageView (could be package class)
-//    private static final String EXTRA_MESSAGE_ID = "com.android.email.MessageView_message_id";
-//    private static final String EXTRA_MAILBOX_ID = "com.android.email.MessageView_mailbox_id";
+//    private static final String EXTRA_MESSAGE_ID = "com.indeema.email.MessageView_message_id";
+//    private static final String EXTRA_MAILBOX_ID = "com.indeema.email.MessageView_mailbox_id";
 //
 //    private TextView mToView;
 //    private TextView mSubjectView;

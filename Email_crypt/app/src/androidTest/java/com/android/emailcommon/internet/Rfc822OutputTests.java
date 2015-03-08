@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.internet;
+package com.indeema.emailcommon.internet;
 
 import com.indeema.email.R;
 import com.indeema.email.provider.EmailProvider;
@@ -45,7 +45,7 @@ import java.util.List;
  * Tests of the Rfc822Output (used for sending mail)
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.mail.transport.Rfc822OutputTests email
+ *   runtest -c com.indeema.email.mail.transport.Rfc822OutputTests email
  */
 public class Rfc822OutputTests extends ProviderTestCase2<EmailProvider> {
     private static final String SENDER = "sender@android.com";

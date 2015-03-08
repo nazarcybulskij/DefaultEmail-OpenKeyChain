@@ -98,7 +98,7 @@ public class AttachmentDownloadService extends Service implements Runnable {
     private static final int MAX_ATTACHMENTS_TO_CHECK = 25;
 
     private static final String EXTRA_ATTACHMENT =
-        "com.android.email.AttachmentDownloadService.attachment";
+        "com.indeema.email.AttachmentDownloadService.attachment";
 
     // sRunningService is only set in the UI thread; it's visibility elsewhere is guaranteed
     // by the use of "volatile"

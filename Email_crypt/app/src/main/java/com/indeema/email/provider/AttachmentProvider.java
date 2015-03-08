@@ -60,8 +60,8 @@ import java.util.List;
  * Thumbnails are stored at:   <cache-path>/thmb_account#_item#
  *
  * Using the standard application context, account #10 and attachment # 20, this would be:
- *      /data/data/com.android.email/databases/10.db_att/20
- *      /data/data/com.android.email/cache/thmb_10_20
+ *      /data/data/com.indeema.email/databases/10.db_att/20
+ *      /data/data/com.indeema.email/cache/thmb_10_20
  */
 public class AttachmentProvider extends ContentProvider {
 

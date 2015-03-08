@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.android.email.service;
+package com.indeema.email.service;
 
 import android.content.Context;
 import android.content.Intent;
 
-import com.android.email.AccountTestCase;
+import com.indeema.email.AccountTestCase;
 import com.indeema.email.EmailConnectivityManager;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.email.service.AttachmentDownloadService;
 import com.indeema.email.service.AttachmentDownloadService.DownloadRequest;
 import com.indeema.email.service.AttachmentDownloadService.DownloadSet;
@@ -39,7 +39,7 @@ import java.util.Iterator;
  * Tests of the AttachmentDownloadService
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.service.AttachmentDownloadServiceTests email
+ *   runtest -c com.indeema.email.service.AttachmentDownloadServiceTests email
  */
 public class AttachmentDownloadServiceTests extends AccountTestCase {
     private AttachmentDownloadService mService;

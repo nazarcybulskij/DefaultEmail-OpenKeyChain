@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.email.mail.store.imap;
+package com.indeema.email.mail.store.imap;
 
-import static com.android.email.mail.store.imap.ImapTestUtils.*;
+import static com.indeema.email.mail.store.imap.ImapTestUtils.*;
 
 import com.indeema.email.mail.store.imap.ImapElement;
 import com.indeema.email.mail.store.imap.ImapList;

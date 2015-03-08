@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.activity;
+package com.indeema.email.activity;
 
 import com.indeema.email.activity.ContactStatusLoader;
 import com.indeema.email.activity.ContactStatusLoader.Result;

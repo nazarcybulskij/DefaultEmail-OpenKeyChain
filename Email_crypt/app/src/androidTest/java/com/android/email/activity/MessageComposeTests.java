@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.activity;
+package com.indeema.email.activity;
 
 import android.content.ContentUris;
 import android.content.Context;
@@ -28,10 +28,10 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.MultiAutoCompleteTextView;
 
-import com.android.email.Email;
+import com.indeema.email.Email;
 import com.indeema.email.EmailAddressValidator;
 import com.indeema.email.R;
-import com.android.email.TestUtils;
+import com.indeema.email.TestUtils;
 import com.indeema.emailcommon.mail.Address;
 import com.indeema.emailcommon.mail.MessagingException;
 import com.indeema.emailcommon.provider.Account;
@@ -48,7 +48,7 @@ import java.util.ArrayList;
  * It might be possible to convert these to ActivityUnitTest, which would be faster.
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.activity.MessageComposeTests email
+ *   runtest -c com.indeema.email.activity.MessageComposeTests email
  */
 @LargeTest
 public class MessageComposeTests
@@ -115,10 +115,10 @@ public class MessageComposeTests
      * be done consciously to think about existing shortcuts and clients.
      */
 
-    private static final String ACTION_REPLY = "com.android.email.intent.action.REPLY";
-    private static final String ACTION_REPLY_ALL = "com.android.email.intent.action.REPLY_ALL";
-    private static final String ACTION_FORWARD = "com.android.email.intent.action.FORWARD";
-    private static final String ACTION_EDIT_DRAFT = "com.android.email.intent.action.EDIT_DRAFT";
+    private static final String ACTION_REPLY = "com.indeema.email.intent.action.REPLY";
+    private static final String ACTION_REPLY_ALL = "com.indeema.email.intent.action.REPLY_ALL";
+    private static final String ACTION_FORWARD = "com.indeema.email.intent.action.FORWARD";
+    private static final String ACTION_EDIT_DRAFT = "com.indeema.email.intent.action.EDIT_DRAFT";
 
     public MessageComposeTests() {
         super(MessageCompose.class);

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.activity.setup;
+package com.indeema.email.activity.setup;
 
 import com.indeema.email.R;
 import com.indeema.email.activity.setup.AccountSetupOutgoing;
@@ -35,7 +35,7 @@ import java.net.URISyntaxException;
 /**
  * Tests of the basic UI logic in the Account Setup Outgoing (SMTP) screen.
  * You can run this entire test case with:
- *   runtest -c com.android.email.activity.setup.AccountSetupOutgoingTests email
+ *   runtest -c com.indeema.email.activity.setup.AccountSetupOutgoingTests email
  */
 @MediumTest
 public class AccountSetupOutgoingTests extends

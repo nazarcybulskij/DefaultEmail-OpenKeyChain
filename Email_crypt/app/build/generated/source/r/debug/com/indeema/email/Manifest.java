@@ -9,12 +9,20 @@ package com.indeema.email;
 
 public final class Manifest {
     public static final class permission {
-        /**  Grant permission to system apps to access provider (see provider below) 
+        /**  &lt;!&ndash; Grant permission to system apps to access provider (see provider below) &ndash;&gt; 
+ <permission 
+ android:name="com.indeema.email.permission.ACCESS_PROVIDER" 
+ android:protectionLevel="signature" 
+ android:label="@string/permission_access_provider_label" 
+ android:description="@string/permission_access_provider_desc"/> 
+ <uses-permission 
+ android:name="com.indeema.email.permission.ACCESS_PROVIDER"/> 
+ Grant permission to system apps to access provider (see provider below) 
          */
-        public static final String ACCESS_PROVIDER="com.android.email.permission.ACCESS_PROVIDER";
+        public static final String ACCESS_PROVIDER="com.indeema.email.permission.ACCESS_PROVIDER";
         /**  Grant permission to other apps to view attachments 
  STOPSHIP: protectionLevel should not be dangerous 
          */
-        public static final String READ_ATTACHMENT="com.android.email.permission.READ_ATTACHMENT";
+        public static final String READ_ATTACHMENT="com.indeema.email.permission.READ_ATTACHMENT";
     }
 }

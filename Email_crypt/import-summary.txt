@@ -17,14 +17,14 @@ Eclipse projects. Here's how the projects were restructured:
 * AndroidManifest.xml => emailcommon/src/main/AndroidManifest.xml
 * res/ => emailcommon/src/main/res/
 * src/ => emailcommon/src/main/java/
-* src/com/android/emailcommon/provider/Account.aidl => emailcommon/src/main/aidl/com/android/emailcommon/provider/Account.aidl
-* src/com/android/emailcommon/provider/HostAuth.aidl => emailcommon/src/main/aidl/com/android/emailcommon/provider/HostAuth.aidl
-* src/com/android/emailcommon/provider/Policy.aidl => emailcommon/src/main/aidl/com/android/emailcommon/provider/Policy.aidl
-* src/com/android/emailcommon/service/IAccountService.aidl => emailcommon/src/main/aidl/com/android/emailcommon/service/IAccountService.aidl
-* src/com/android/emailcommon/service/IEmailService.aidl => emailcommon/src/main/aidl/com/android/emailcommon/service/IEmailService.aidl
-* src/com/android/emailcommon/service/IEmailServiceCallback.aidl => emailcommon/src/main/aidl/com/android/emailcommon/service/IEmailServiceCallback.aidl
-* src/com/android/emailcommon/service/IPolicyService.aidl => emailcommon/src/main/aidl/com/android/emailcommon/service/IPolicyService.aidl
-* src/com/android/emailcommon/service/SearchParams.aidl => emailcommon/src/main/aidl/com/android/emailcommon/service/SearchParams.aidl
+* src/com.indeema.emailcommon/provider/Account.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/provider/Account.aidl
+* src/com.indeema.emailcommon/provider/HostAuth.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/provider/HostAuth.aidl
+* src/com.indeema.emailcommon/provider/Policy.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/provider/Policy.aidl
+* src/com.indeema.emailcommon/service/IAccountService.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/service/IAccountService.aidl
+* src/com.indeema.emailcommon/service/IEmailService.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/service/IEmailService.aidl
+* src/com.indeema.emailcommon/service/IEmailServiceCallback.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/service/IEmailServiceCallback.aidl
+* src/com.indeema.emailcommon/service/IPolicyService.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/service/IPolicyService.aidl
+* src/com.indeema.emailcommon/service/SearchParams.aidl => emailcommon/src/main/aidl/com.indeema.emailcommon/service/SearchParams.aidl
 
 Next Steps:
 -----------

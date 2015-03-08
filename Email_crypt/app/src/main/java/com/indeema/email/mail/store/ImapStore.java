@@ -240,7 +240,7 @@ public class ImapStore extends Store {
         vendor = p.matcher(vendor).replaceAll("");
         networkOperator = p.matcher(networkOperator).replaceAll("");
 
-        // "name" "com.android.email"
+        // "name" "com.indeema.email"
         StringBuffer sb = new StringBuffer("\"name\" \"");
         sb.append(packageName);
         sb.append("\"");

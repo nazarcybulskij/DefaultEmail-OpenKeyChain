@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.mail.browse.MessageFooterView
+<com.indeema.mail.browse.MessageFooterView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/attachments"
     android:layout_width="match_parent"
@@ -31,7 +31,7 @@
         android:visibility="gone"
         style="@style/MessageAttachmentsHeaderStyle" />
 
-    <com.android.mail.ui.AttachmentTileGrid
+    <com.indeema.mail.ui.AttachmentTileGrid
         android:id="@+id/attachment_tile_grid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -45,5 +45,5 @@
         android:orientation="vertical"
         style="@style/AttachmentMarginStyle" />
 
-</com.android.mail.browse.MessageFooterView>
+</com.indeema.mail.browse.MessageFooterView>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_message_footer.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_message_footer.xml -->

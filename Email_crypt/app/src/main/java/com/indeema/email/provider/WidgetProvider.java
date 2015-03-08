@@ -32,7 +32,7 @@ import com.indeema.mail.widget.BaseWidgetProvider;
 import com.indeema.mail.widget.WidgetService;
 
 public class WidgetProvider extends BaseWidgetProvider {
-    private static final String LEGACY_PREFS_NAME = "com.android.email.widget.WidgetManager";
+    private static final String LEGACY_PREFS_NAME = "com.indeema.email.widget.WidgetManager";
     private static final String LEGACY_ACCOUNT_ID_PREFIX = "accountId_";
     private static final String LEGACY_MAILBOX_ID_PREFIX = "mailboxId_";
 

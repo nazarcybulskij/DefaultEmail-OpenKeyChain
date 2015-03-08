@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.provider;
+package com.indeema.emailcommon.provider;
 
 import com.indeema.email.provider.ContentCache;
 import com.indeema.email.provider.EmailProvider;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.provider.EmailContent.MailboxColumns;

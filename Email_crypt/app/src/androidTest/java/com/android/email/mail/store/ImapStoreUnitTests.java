@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.mail.store;
+package com.indeema.email.mail.store;
 
 import android.content.Context;
 import android.content.ContextWrapper;
@@ -26,18 +26,18 @@ import android.test.InstrumentationTestCase;
 import android.test.MoreAsserts;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.email.DBTestHelper;
-import com.android.email.MockSharedPreferences;
-import com.android.email.MockVendorPolicy;
-import com.android.email.VendorPolicyLoader;
-import com.android.email.mail.Transport;
+import com.indeema.email.DBTestHelper;
+import com.indeema.email.MockSharedPreferences;
+import com.indeema.email.MockVendorPolicy;
+import com.indeema.email.VendorPolicyLoader;
+import com.indeema.email.mail.Transport;
 import com.indeema.email.mail.store.ImapConnection;
 import com.indeema.email.mail.store.ImapFolder;
 import com.indeema.email.mail.store.ImapStore;
 import com.indeema.email.mail.store.ImapStore.ImapMessage;
 import com.indeema.email.mail.store.imap.ImapResponse;
-import com.android.email.mail.store.imap.ImapTestUtils;
-import com.android.email.mail.transport.MockTransport;
+import com.indeema.email.mail.store.imap.ImapTestUtils;
+import com.indeema.email.mail.transport.MockTransport;
 import com.indeema.emailcommon.TempDirectory;
 import com.indeema.emailcommon.internet.MimeBodyPart;
 import com.indeema.emailcommon.internet.MimeMultipart;
@@ -71,7 +71,7 @@ import java.util.regex.Pattern;
  * complete - no server(s) required.
  *
  * To run these tests alone, use:
- *   $ runtest -c com.android.email.mail.store.ImapStoreUnitTests email
+ *   $ runtest -c com.indeema.email.mail.store.ImapStoreUnitTests email
  *
  * TODO Check if callback is really called
  * TODO test for BAD response in various places?

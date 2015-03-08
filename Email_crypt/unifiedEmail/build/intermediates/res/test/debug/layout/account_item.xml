@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 
-<com.android.mail.ui.AccountItemView
+<com.indeema.mail.ui.AccountItemView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="wrap_content"
     android:layout_width="match_parent"
@@ -60,5 +60,5 @@
         android:textColor="@color/account_item_text_color"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
-</com.android.mail.ui.AccountItemView>
+</com.indeema.mail.ui.AccountItemView>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/account_item.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/account_item.xml -->

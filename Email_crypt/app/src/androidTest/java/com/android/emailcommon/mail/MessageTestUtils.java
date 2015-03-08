@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.mail;
+package com.indeema.emailcommon.mail;
 
 import com.indeema.emailcommon.internet.MimeBodyPart;
 import com.indeema.emailcommon.internet.MimeHeader;

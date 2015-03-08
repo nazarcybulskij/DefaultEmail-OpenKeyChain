@@ -4,7 +4,7 @@
     <eat-comment/>
     <string-array name="account_providers" translatable="false">
         <!-- email account list -->
-        <item>content://com.android.email.provider/uiaccts</item>
+        <item>content://com.indeema.email.provider/uiaccts</item>
     </string-array>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/arrays.xml -->
     <eat-comment/>
@@ -688,9 +688,9 @@
     <string name="account_folder_list_summary_outbox">Outbox</string>
     <string name="account_folder_list_summary_starred">Starred</string>
     <string name="account_manager_type_exchange" translatable="false">com.android.exchange</string>
-    <string name="account_manager_type_imap" translatable="false">com.android.email</string>
-    <string name="account_manager_type_legacy_imap" translatable="false">com.android.email</string>
-    <string name="account_manager_type_pop3" translatable="false">com.android.email</string>
+    <string name="account_manager_type_imap" translatable="false">com.indeema.email</string>
+    <string name="account_manager_type_legacy_imap" translatable="false">com.indeema.email</string>
+    <string name="account_manager_type_pop3" translatable="false">com.indeema.email</string>
     <string name="account_password_spaces_error">This password starts or ends with one or more
         space characters. Many servers don\'t support passwords with spaces.</string>
     <string name="account_security_dialog_content_fmt">
@@ -924,10 +924,10 @@
     <string name="attachments_header">Attachments</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="authority_account_cache_provider" translatable="false">com.android.email.accountcache</string>
-    <string name="authority_conversation_provider" translatable="false">com.android.email.conversation.provider</string>
-    <string name="authority_email_provider" translatable="false">com.android.email.provider</string>
-    <string name="authority_suggestions_provider" translatable="false">com.android.email.suggestionsprovider</string>
+    <string name="authority_account_cache_provider" translatable="false">com.indeema.email.accountcache</string>
+    <string name="authority_conversation_provider" translatable="false">com.indeema.email.conversation.provider</string>
+    <string name="authority_email_provider" translatable="false">com.indeema.email.provider</string>
+    <string name="authority_suggestions_provider" translatable="false">com.indeema.email.suggestionsprovider</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="auto_advance_help_title">Set auto-advance preference\n(after you delete, etc.)</string>
@@ -1070,7 +1070,7 @@
     <string name="email_feedback_uri" translatable="false"/>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/emailcommon_res/values/strings.xml -->
     <eat-comment/>
-    <string name="email_package_name" translatable="false">com.android.email</string>
+    <string name="email_package_name" translatable="false">com.indeema.email</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="eml_attachment_provider" translatable="false">com.indeema.email.provider.eml.attachment</string>
@@ -1155,8 +1155,8 @@
     <string name="info">Info</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="intent_account_manager_entry" translatable="false">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-    <string name="intent_exchange_action" translatable="false">com.android.email.EXCHANGE_INTENT</string>
+    <string name="intent_account_manager_entry" translatable="false">com.indeema.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+    <string name="intent_exchange_action" translatable="false">com.indeema.email.EXCHANGE_INTENT</string>
     <string name="intent_exchange_package" translatable="false">com.android.exchange</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values/values.xml -->
     <eat-comment/>
@@ -1493,7 +1493,7 @@
     <string name="subject_hint">Subject</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="suggestions_authority" translatable="false">com.android.email.suggestionsprovider</string>
+    <string name="suggestions_authority" translatable="false">com.indeema.email.suggestionsprovider</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="swipe_down_to_refresh">Swipe down to refresh</string>
@@ -1551,7 +1551,7 @@
     <string name="widget_large_unread_count">%d+</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="widget_provider" translatable="false">com.android.email.provider.WidgetProvider</string>
+    <string name="widget_provider" translatable="false">com.indeema.email.provider.WidgetProvider</string>
     <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/app/build/intermediates/exploded-aar/Email_crypt/unifiedEmail/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="yes">Yes</string>

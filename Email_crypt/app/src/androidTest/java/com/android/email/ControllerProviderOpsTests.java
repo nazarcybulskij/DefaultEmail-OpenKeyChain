@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
 import android.content.Context;
 import android.net.Uri;
@@ -22,7 +22,7 @@ import android.test.ProviderTestCase2;
 
 import com.indeema.email.provider.ContentCache;
 import com.indeema.email.provider.EmailProvider;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.provider.EmailContent.Body;
@@ -41,7 +41,7 @@ import java.util.concurrent.ExecutionException;
  * a true "unit test".
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.ControllerProviderOpsTests email
+ *   runtest -c com.indeema.email.ControllerProviderOpsTests email
  */
 public class ControllerProviderOpsTests extends ProviderTestCase2<EmailProvider> {
 

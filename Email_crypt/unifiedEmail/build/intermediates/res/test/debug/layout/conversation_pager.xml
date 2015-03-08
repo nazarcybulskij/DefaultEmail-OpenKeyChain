@@ -15,11 +15,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.mail.browse.ConversationPager
+<com.indeema.mail.browse.ConversationPager
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/conversation_pane"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:visibility="gone">
 
-</com.android.mail.browse.ConversationPager><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_pager.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_pager.xml -->
+</com.indeema.mail.browse.ConversationPager><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_pager.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_pager.xml -->

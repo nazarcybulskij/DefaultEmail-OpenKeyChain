@@ -18,9 +18,9 @@
  * This is a series of unit tests for snippet creation and highlighting
  *
  * You can run this entire test case with:
- *   runtest -c com.android.emailcommon.utility.TextUtilitiesTests email
+ *   runtest -c com.indeema.emailcommon.utility.TextUtilitiesTests email
  */
-package com.android.emailcommon.utility;
+package com.indeema.emailcommon.utility;
 
 import android.test.AndroidTestCase;
 import android.text.SpannableStringBuilder;

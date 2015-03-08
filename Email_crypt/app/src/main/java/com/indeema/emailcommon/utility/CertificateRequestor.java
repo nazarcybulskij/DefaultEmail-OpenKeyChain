@@ -29,7 +29,7 @@ import android.security.KeyChainAliasCallback;
  */
 public class CertificateRequestor extends Activity implements KeyChainAliasCallback {
 
-    public static final String ACTION_REQUEST_CERT = "com.android.emailcommon.REQUEST_CERT";
+    public static final String ACTION_REQUEST_CERT = "com.indeema.emailcommon.REQUEST_CERT";
 
     public static final String EXTRA_HOST = "CertificateRequestor.host";
     public static final String EXTRA_PORT = "CertificateRequestor.port";

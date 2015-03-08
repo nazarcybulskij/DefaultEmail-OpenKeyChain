@@ -388,7 +388,7 @@ public class Rfc822Output {
      */
     /*package*/ static String getNextBoundary() {
         StringBuilder boundary = new StringBuilder();
-        boundary.append("--_com.android.email_").append(System.nanoTime());
+        boundary.append("--_com.indeema.email_").append(System.nanoTime());
         synchronized (Rfc822Output.class) {
             boundary = boundary.append(sBoundaryDigit);
             sBoundaryDigit = (byte)((sBoundaryDigit + 1) % 10);

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.activity.setup;
+package com.indeema.email.activity.setup;
 
 import android.content.Context;
 import android.test.InstrumentationTestCase;
@@ -22,13 +22,13 @@ import android.test.suitebuilder.annotation.SmallTest;
 
 import com.indeema.email.activity.setup.AccountSettingsUtils;
 import com.indeema.email.activity.setup.AccountSettingsUtils.Provider;
-import com.android.email.tests.R;
+import com.indeema.email.tests.R;
 
 /**
  * This is a series of unit tests for the AccountSettingsUtils class.
  *
  * To run these tests,
- *  runtest -c com.android.email.activity.setup.AccountSettingsUtilsTests email
+ *  runtest -c com.indeema.email.activity.setup.AccountSettingsUtilsTests email
  */
 @SmallTest
 public class AccountSettingsUtilsTests extends InstrumentationTestCase {

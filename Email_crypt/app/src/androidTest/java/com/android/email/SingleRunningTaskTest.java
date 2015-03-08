@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
-import com.android.email.TestUtils.Condition;
+import com.indeema.email.TestUtils.Condition;
 import com.indeema.emailcommon.utility.Utility;
 
 import java.util.concurrent.atomic.AtomicInteger;

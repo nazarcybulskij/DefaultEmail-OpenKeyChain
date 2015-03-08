@@ -973,7 +973,7 @@ public abstract class EmailContent {
          * Override this so that we can store the Body first and link it to the Message
          * Also, attachments when we get there...
          * (non-Javadoc)
-         * @see com.android.email.provider.EmailContent#save(android.content.Context)
+         * @see com.indeema.email.provider.EmailContent#save(android.content.Context)
          */
         @Override
         public Uri save(Context context) {
@@ -1235,7 +1235,7 @@ public abstract class EmailContent {
             implements AttachmentColumns, Parcelable {
         public static final String TABLE_NAME = "Attachment";
         public static final String ATTACHMENT_PROVIDER_LEGACY_URI_PREFIX =
-                "content://com.android.email.attachmentprovider";
+                "content://com.indeema.email.attachmentprovider";
 
         public static final String CACHED_FILE_QUERY_PARAM = "filePath";
 

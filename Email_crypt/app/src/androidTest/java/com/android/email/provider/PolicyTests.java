@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.provider;
+package com.indeema.email.provider;
 
 import com.indeema.email.provider.ContentCache;
 import com.indeema.email.provider.EmailProvider;
@@ -37,7 +37,7 @@ import java.util.ArrayList;
  * This is a series of unit tests for the Policy class
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.provider.PolicyTests email
+ *   runtest -c com.indeema.email.provider.PolicyTests email
  */
 
 @MediumTest

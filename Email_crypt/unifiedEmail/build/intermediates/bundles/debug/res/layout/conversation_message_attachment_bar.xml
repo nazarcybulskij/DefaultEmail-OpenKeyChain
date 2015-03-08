@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<com.android.mail.browse.MessageAttachmentBar xmlns:android="http://schemas.android.com/apk/res/android"
+<com.indeema.mail.browse.MessageAttachmentBar xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginBottom="8dip"
@@ -98,4 +98,4 @@
         android:background="?android:attr/selectableItemBackground"
         android:focusable="true" />
 
-</com.android.mail.browse.MessageAttachmentBar><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_message_attachment_bar.xml -->
+</com.indeema.mail.browse.MessageAttachmentBar><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_message_attachment_bar.xml -->

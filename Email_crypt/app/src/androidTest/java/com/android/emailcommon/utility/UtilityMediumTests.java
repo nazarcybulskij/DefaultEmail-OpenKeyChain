@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.utility;
+package com.indeema.emailcommon.utility;
 
 import com.indeema.email.provider.EmailProvider;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.provider.EmailContent.Attachment;
@@ -39,7 +39,7 @@ import java.io.IOException;
  * complete - no server(s) required.
  *
  * You can run this entire test case with:
- *   runtest -c com.android.emailcommon.utility.UtilityMediumTests email
+ *   runtest -c com.indeema.emailcommon.utility.UtilityMediumTests email
  */
 @MediumTest
 public class UtilityMediumTests extends ProviderTestCase2<EmailProvider> {

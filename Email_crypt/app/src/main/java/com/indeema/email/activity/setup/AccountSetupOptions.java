@@ -55,7 +55,7 @@ import com.indeema.mail.utils.LogUtils;
 import java.io.IOException;
 
 public class AccountSetupOptions extends AccountSetupActivity implements OnClickListener {
-    private static final String EXTRA_IS_PROCESSING_KEY = "com.android.email.is_processing";
+    private static final String EXTRA_IS_PROCESSING_KEY = "com.indeema.email.is_processing";
 
     private Spinner mCheckFrequencyView;
     private Spinner mSyncWindowView;

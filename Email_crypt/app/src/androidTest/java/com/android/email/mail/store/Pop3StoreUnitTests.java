@@ -14,17 +14,17 @@
  * limitations under the License.
  */
 
-package com.android.email.mail.store;
+package com.indeema.email.mail.store;
 
 import android.content.Context;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.email.Controller;
-import com.android.email.DBTestHelper;
-import com.android.email.mail.Transport;
-import com.android.email.mail.transport.MockTransport;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.Controller;
+import com.indeema.email.DBTestHelper;
+import com.indeema.email.mail.Transport;
+import com.indeema.email.mail.transport.MockTransport;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.email.mail.store.Pop3Store;
 import com.indeema.emailcommon.TempDirectory;
 import com.indeema.emailcommon.internet.MimeMessage;

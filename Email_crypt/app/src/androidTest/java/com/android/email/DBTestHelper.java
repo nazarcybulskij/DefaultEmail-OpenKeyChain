@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
 import com.indeema.email.provider.AttachmentProvider;
 import com.indeema.email.provider.ContentCache;

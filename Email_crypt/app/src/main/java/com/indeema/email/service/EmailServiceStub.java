@@ -240,7 +240,7 @@ public abstract class EmailServiceStub extends IEmailService.Stub implements IEm
 
     /**
      * Bridge to intercept {@link com.indeema.emailcommon.mail.Folder.MessageRetrievalListener#loadAttachmentProgress} and
-     * pass down to {@link com.android.emailcommon.service.IEmailServiceCallback}.
+     * pass down to {@link com.indeema.emailcommon.service.IEmailServiceCallback}.
      */
     public class MessageRetrievalListenerBridge implements MessageRetrievalListener {
         private final long mMessageId;

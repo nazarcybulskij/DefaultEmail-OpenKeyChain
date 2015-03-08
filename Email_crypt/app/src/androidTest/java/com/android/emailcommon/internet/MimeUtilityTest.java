@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.internet;
+package com.indeema.emailcommon.internet;
 
 import com.indeema.emailcommon.internet.MimeBodyPart;
 import com.indeema.emailcommon.internet.MimeHeader;
@@ -22,11 +22,11 @@ import com.indeema.emailcommon.internet.MimeUtility;
 import com.indeema.emailcommon.internet.TextBody;
 import com.indeema.emailcommon.mail.BodyPart;
 import com.indeema.emailcommon.mail.Message;
-import com.android.emailcommon.mail.MessageTestUtils;
+import com.indeema.emailcommon.mail.MessageTestUtils;
 import com.indeema.emailcommon.mail.MessagingException;
 import com.indeema.emailcommon.mail.Part;
-import com.android.emailcommon.mail.MessageTestUtils.MessageBuilder;
-import com.android.emailcommon.mail.MessageTestUtils.MultipartBuilder;
+import com.indeema.emailcommon.mail.MessageTestUtils.MessageBuilder;
+import com.indeema.emailcommon.mail.MessageTestUtils.MultipartBuilder;
 
 import android.test.suitebuilder.annotation.SmallTest;
 

@@ -148,7 +148,7 @@ public class EmailProvider extends ContentProvider {
      * is NOT the preferred way of getting notification.
      */
     private static final String ACTION_NOTIFY_MESSAGE_LIST_DATASET_CHANGED =
-        "com.android.email.MESSAGE_LIST_DATASET_CHANGED";
+        "com.indeema.email.MESSAGE_LIST_DATASET_CHANGED";
 
     private static final String EMAIL_MESSAGE_MIME_TYPE =
         "vnd.android.cursor.item/email-message";

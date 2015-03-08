@@ -346,7 +346,7 @@ public class EmailServiceUtils {
                     if (!email) {
                         // Try our old provider name
                         email = ContentResolver.getSyncAutomatically(amAccount,
-                                "com.android.email.provider");
+                                "com.indeema.email.provider");
                     }
                     final boolean contacts = ContentResolver.getSyncAutomatically(amAccount,
                             ContactsContract.AUTHORITY);

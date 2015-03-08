@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.provider;
+package com.indeema.emailcommon.provider;
 
 import android.content.Context;
 import android.os.Parcel;

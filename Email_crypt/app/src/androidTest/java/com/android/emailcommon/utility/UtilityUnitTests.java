@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.emailcommon.utility;
+package com.indeema.emailcommon.utility;
 
-import com.android.email.DBTestHelper;
-import com.android.email.TestUtils;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.DBTestHelper;
+import com.indeema.email.TestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent.Attachment;
 import com.indeema.emailcommon.provider.EmailContent.MailboxColumns;
@@ -55,7 +55,7 @@ import java.util.Set;
  * complete - no server(s) required.
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.UtilityUnitTests email
+ *   runtest -c com.indeema.email.UtilityUnitTests email
  */
 @SmallTest
 public class UtilityUnitTests extends AndroidTestCase {

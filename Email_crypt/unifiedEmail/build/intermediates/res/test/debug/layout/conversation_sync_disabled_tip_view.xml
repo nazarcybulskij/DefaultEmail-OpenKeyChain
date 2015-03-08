@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (c) 2013 Google Inc. -->
-<com.android.mail.ui.ConversationSyncDisabledTipView
+<com.indeema.mail.ui.ConversationSyncDisabledTipView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -64,5 +64,5 @@
         <include layout="@layout/teaser_right_edge" />
     </LinearLayout>
 
-</com.android.mail.ui.ConversationSyncDisabledTipView>
+</com.indeema.mail.ui.ConversationSyncDisabledTipView>
 <!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/src/main/res/layout/conversation_sync_disabled_tip_view.xml --><!-- From: file:/home/nazar/Androidproject/krypto_email/Email_crypt/unifiedEmail/build/intermediates/bundles/debug/res/layout/conversation_sync_disabled_tip_view.xml -->

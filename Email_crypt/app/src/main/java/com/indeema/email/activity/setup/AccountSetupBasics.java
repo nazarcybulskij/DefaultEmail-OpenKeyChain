@@ -78,7 +78,7 @@ import java.util.concurrent.FutureTask;
  * checking is done, so the account may or may not actually work.  Here is a sample command, for a
  * gmail account "test_account" with a password of "test_password".
  *
- *      $ adb shell am start -a com.android.email.CREATE_ACCOUNT \
+ *      $ adb shell am start -a com.indeema.email.CREATE_ACCOUNT \
  *          -e EMAIL test_account@gmail.com \
  *          -e USER "Test Account Name" \
  *          -e INCOMING imap+ssl+://test_account:test_password@imap.gmail.com \
@@ -97,7 +97,7 @@ public class AccountSetupBasics extends AccountSetupActivity
      * Direct access for forcing account creation
      * For use by continuous automated test system (e.g. in conjunction with monkey tests)
      */
-    private static final String ACTION_CREATE_ACCOUNT = "com.android.email.CREATE_ACCOUNT";
+    private static final String ACTION_CREATE_ACCOUNT = "com.indeema.email.CREATE_ACCOUNT";
     private static final String EXTRA_FLOW_MODE = "FLOW_MODE";
     private static final String EXTRA_FLOW_ACCOUNT_TYPE = "FLOW_ACCOUNT_TYPE";
     private static final String EXTRA_CREATE_ACCOUNT_EMAIL = "EMAIL";

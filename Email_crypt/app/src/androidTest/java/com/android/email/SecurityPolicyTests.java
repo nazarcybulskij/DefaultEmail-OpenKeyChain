@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
 import android.app.admin.DevicePolicyManager;
 import android.content.Context;
@@ -26,7 +26,7 @@ import android.test.suitebuilder.annotation.SmallTest;
 import com.indeema.email.SecurityPolicy;
 import com.indeema.email.provider.ContentCache;
 import com.indeema.email.provider.EmailProvider;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 import com.indeema.emailcommon.provider.EmailContent.Message;
@@ -38,7 +38,7 @@ import com.indeema.emailcommon.service.LegacyPolicySet;
  * This is a series of unit tests for backup/restore of the SecurityPolicy class.
  *
  * You can run this entire test case with:
- *   runtest -c com.android.email.SecurityPolicyTests email
+ *   runtest -c com.indeema.email.SecurityPolicyTests email
  */
 
 @MediumTest

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.mail.internet;
+package com.indeema.email.mail.internet;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
@@ -25,7 +25,7 @@ import com.indeema.email.mail.internet.EmailHtmlUtil;
  * Tests of the Email HTML utils.
  * 
  * You can run this entire test case with:
- *   runtest -c com.android.email.mail.internet.EmailHtmlUtilTest email
+ *   runtest -c com.indeema.email.mail.internet.EmailHtmlUtilTest email
  */
 @SmallTest
 public class EmailHtmlUtilTest extends AndroidTestCase {

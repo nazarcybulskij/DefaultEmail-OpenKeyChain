@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.android.email.activity;
+package com.indeema.email.activity;
 
 import android.content.Context;
 import android.test.LoaderTestCase;
 
-import com.android.email.DBTestHelper;
-import com.android.email.MessageListContext;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.DBTestHelper;
+import com.indeema.email.MessageListContext;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.Mailbox;
 

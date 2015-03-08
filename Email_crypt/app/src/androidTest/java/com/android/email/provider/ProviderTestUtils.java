@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email.provider;
+package com.indeema.email.provider;
 
 import com.indeema.emailcommon.internet.Rfc822Output;
 import com.indeema.emailcommon.provider.Account;

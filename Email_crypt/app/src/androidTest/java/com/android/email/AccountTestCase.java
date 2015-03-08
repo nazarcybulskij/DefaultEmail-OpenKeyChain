@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.email;
+package com.indeema.email;
 
 import android.accounts.AccountManager;
 import android.accounts.AccountManagerFuture;
@@ -24,7 +24,7 @@ import android.database.Cursor;
 import android.test.ProviderTestCase2;
 
 import com.indeema.email.provider.EmailProvider;
-import com.android.email.provider.ProviderTestUtils;
+import com.indeema.email.provider.ProviderTestUtils;
 import com.indeema.emailcommon.provider.Account;
 import com.indeema.emailcommon.provider.EmailContent;
 
